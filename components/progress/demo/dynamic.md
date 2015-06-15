@@ -27,7 +27,7 @@ var MyProgress = React.createClass({
     }, 100);
   },
   render() {
-    return <Progress percent={this.state.percent} width="300" strokeWidth="3" />;
+    return <Progress percent={this.state.percent} />;
   }
 });
 
