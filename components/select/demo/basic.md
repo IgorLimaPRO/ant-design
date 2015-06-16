@@ -2,10 +2,9 @@
 
 - order: 0
 
-基本使用
+基本使用。
 
 ---
-
 
 ````jsx
 var Select = antd.Select;
@@ -16,7 +15,7 @@ function handleChange(value) {
 }
 
 React.render(
-  <Select value="lucy" style={{width:250}} onChange={handleChange}>
+  <Select value="lucy" style={{width:200}} onChange={handleChange}>
     <Option value="jack">jack</Option>
     <Option value="lucy">lucy</Option>
     <Option value="disabled" disabled>disabled</Option>
