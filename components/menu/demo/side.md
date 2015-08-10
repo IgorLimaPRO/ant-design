@@ -11,11 +11,11 @@ var Menu = antd.Menu;
 var MenuItem = Menu.Item;
 var SubMenu = Menu.SubMenu;
 
-function handleClick(key) {
-  console.log('selected ' + key);
+function handleClick(info) {
+  console.log('selected ',info);
 }
 
-React.render(<Menu onClick={handleClick} style={{width:200}} vertical>
+React.render(<Menu onClick={handleClick} style={{width:200}} mode="vertical">
   <SubMenu title={<span><i className="anticon anticon-apple"></i><span>导航一</span></span>}>
     <MenuItem key="1">选项1</MenuItem>
     <MenuItem key="2">选项2</MenuItem>
