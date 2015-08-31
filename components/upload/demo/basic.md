@@ -12,8 +12,10 @@ var Upload = antd.Upload;
 var props = {
   action: '/upload.do',
   onChange(info) {
-    console.log(info.file);
-    console.log(info.fileList);
+    if (info.file.status !== 'uploading') {
+      console.log(info.file);
+      console.log(info.fileList);
+    }
   }
 };
 
@@ -22,7 +24,6 @@ React.render(
     <button className="ant-btn ant-btn-ghost">
       <i className="anticon anticon-upload"></i> 点击上传
     </button>
-  </Upload>,
-  document.getElementById('components-upload-demo-basic')
-);
+  </Upload>
+, document.getElementById('components-upload-demo-basic'));
 ````
