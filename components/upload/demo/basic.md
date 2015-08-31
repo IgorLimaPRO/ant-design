@@ -1,6 +1,6 @@
 # 点击上传
 
-- order: 1
+- order: 0
 
 经典款式，用户点击按钮弹出文件选择框。
 
@@ -15,12 +15,9 @@ var props = {
   data: {},
   accept: '',
   uploadTip: '',
-  start: function(file){
-    console.log(file.name)
-  },
-  error: function() {},
-  success: function() {},
-  progress: function() {}
+  onStart(file){
+    console.log(file.uid);
+  }
 };
 
 React.render(
