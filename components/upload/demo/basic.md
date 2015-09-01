@@ -10,13 +10,12 @@
 var Upload = antd.Upload;
 
 var props = {
-  description: '支持扩展名为: .rar .zip ...',
   action: '/upload.do',
-  data: {},
-  accept: '',
-  uploadTip: '',
-  onStart(file){
-    console.log(file.uid);
+  onChange(info) {
+    if (info.file.status !== 'uploading') {
+      console.log(info.file);
+      console.log(info.fileList);
+    }
   }
 };
 
@@ -25,7 +24,6 @@ React.render(
     <button className="ant-btn ant-btn-ghost">
       <i className="anticon anticon-upload"></i> 点击上传
     </button>
-  </Upload>,
-  document.getElementById('components-upload-demo-basic')
-);
+  </Upload>
+, document.getElementById('components-upload-demo-basic'));
 ````
