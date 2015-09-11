@@ -13,27 +13,12 @@ var EnterAnimation = antd.EnterAnimation;
 var Test = React.createClass({
   getInitialState() {
     return {
-      enter:{
-        type: 'right',
-        interval: 0.3,
-        callback:()=>{
-          console.log('enter');
-        }
-      },
-      leave:{
-        type: 'left',
-        interval: .1,
-        callback:()=>{
-          console.log('leave');
-        }
-      },
       bool:true,
     }
   },
   onClick() {
     this.setState({
       bool:!this.state.bool,
-
     })
   },
   render() {
@@ -42,7 +27,7 @@ var Test = React.createClass({
         <div style={{marginBottom: 20}}>
           <button className="ant-btn ant-btn-primary" onClick={this.onClick}>切换</button>
         </div>
-        <EnterAnimation enter={this.state.enter} leave={this.state.leave}>
+        <EnterAnimation>
           {this.state.bool ? <div key='a'>
             <div className="demo-header">
               <div className="logo">
