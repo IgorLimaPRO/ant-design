@@ -24,10 +24,8 @@ var steps = [{
   title: '待运行',
   description: '这里是多信息的描述啊'
 }].map(function(s, i) {
-  return (<Step
-    key={i}
-    title={s.title}
-    description={s.description}></Step>
+  return (
+    <Step key={i} title={s.title} description={s.description} />
   );
 });
 
