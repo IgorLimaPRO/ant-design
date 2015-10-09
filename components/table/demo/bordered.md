@@ -1,6 +1,6 @@
 # 边框
 
-- order: 7
+- order: 10
 
 添加表格边框线，`bordered={true}`。
 
