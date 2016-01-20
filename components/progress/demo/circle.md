@@ -12,8 +12,8 @@ const ProgressCircle = Progress.Circle;
 
 ReactDOM.render(
   <div>
-    <ProgressCircle percent={30} />
-    <ProgressCircle percent={70} status="exception" format={<Icon type="exclamation" />} />
+    <ProgressCircle percent={75} />
+    <ProgressCircle percent={70} status="exception" format={() => <Icon type="exclamation" />} />
     <ProgressCircle percent={100} />
   </div>
   , mountNode);
