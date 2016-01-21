@@ -16,7 +16,7 @@ function onChange(e) {
 }
 
 ReactDOM.render(<div>
-  <div style={{ marginTop: 16 }}>
+  <div>
     <RadioGroup onChange={onChange} defaultValue="a">
       <RadioButton value="a">杭州</RadioButton>
       <RadioButton value="b">上海</RadioButton>
