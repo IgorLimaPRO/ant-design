@@ -14,15 +14,13 @@ title:
 The simplest usage.
 
 ```jsx
-
-const { Anchor } = antd;
-
-const { AnchorLink }  = Anchor;
+import { Anchor } from 'antd';
+const { AnchorLink } = Anchor;
 
 ReactDOM.render(
   <Anchor>
-    <AnchorLink href="#components-anchor-demo-basic">基本</AnchorLink>
-    <AnchorLink href="#components-anchor-demo-independ">独立使用</AnchorLink>
+    <AnchorLink href="#components-anchor-demo-basic" title="基本" />
+    <AnchorLink href="#components-anchor-demo-independ" title="独立使用" />
   </Anchor>
 , mountNode);
 ```
