@@ -19,8 +19,11 @@ const { Link } = Anchor;
 
 ReactDOM.render(
   <Anchor>
-    <Link href="#components-anchor-demo-basic" title="Basic" />
-    <Link href="#components-anchor-demo-independ" title="Independent AnchorLink" />
+    <Link href="#components-anchor-demo-basic" title="Basic demo" />
+    <Link href="#components-anchor-demo-independ" title="Independ demo" />
+    <Link href="#API" title="API" />
+    <Link href="#Anchor-Props" title="Anchor Props" />
+    <Link href="#Link-Props" title="Link Props" />
   </Anchor>
 , mountNode);
 ```
