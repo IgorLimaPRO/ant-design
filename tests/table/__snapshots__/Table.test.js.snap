@@ -1,4 +1,4 @@
-exports[`Table JSX style API renders correctly 1`] = `
+exports[`Table renders JSX correctly 1`] = `
 <div
   class=" clearfix">
   <div
