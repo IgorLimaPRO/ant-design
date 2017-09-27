@@ -938,7 +938,6 @@ exports[`Locale Provider should display the text as locale changed 1`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -5520,7 +5519,6 @@ exports[`Locale Provider should display the text as locale changed 1`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Cancel
             </Button>,
@@ -5530,7 +5528,6 @@ exports[`Locale Provider should display the text as locale changed 1`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -6486,7 +6483,6 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -11068,7 +11064,6 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Cancelar
             </Button>,
@@ -11078,7 +11073,6 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -12037,7 +12031,6 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -16631,7 +16624,6 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Cancelar
             </Button>,
@@ -16641,7 +16633,6 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -17597,7 +17588,6 @@ exports[`Locale Provider should display the text as locale changed 4`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -22179,7 +22169,6 @@ exports[`Locale Provider should display the text as locale changed 4`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Отмена
             </Button>,
@@ -22189,7 +22178,6 @@ exports[`Locale Provider should display the text as locale changed 4`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -23145,7 +23133,6 @@ exports[`Locale Provider should display the text as locale changed 5`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -27727,7 +27714,6 @@ exports[`Locale Provider should display the text as locale changed 5`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Cancelar
             </Button>,
@@ -27737,7 +27723,6 @@ exports[`Locale Provider should display the text as locale changed 5`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 Aceptar
@@ -28685,7 +28670,6 @@ exports[`Locale Provider should display the text as locale changed 6`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -33267,7 +33251,6 @@ exports[`Locale Provider should display the text as locale changed 6`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Avbryt
             </Button>,
@@ -33277,7 +33260,6 @@ exports[`Locale Provider should display the text as locale changed 6`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -34225,7 +34207,6 @@ exports[`Locale Provider should display the text as locale changed 7`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -38807,7 +38788,6 @@ exports[`Locale Provider should display the text as locale changed 7`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Annuler
             </Button>,
@@ -38817,7 +38797,6 @@ exports[`Locale Provider should display the text as locale changed 7`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -39767,7 +39746,6 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -44349,7 +44327,6 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Abbrechen
             </Button>,
@@ -44359,7 +44336,6 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -45315,7 +45291,6 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -49897,7 +49872,6 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Annuleren
             </Button>,
@@ -49907,7 +49881,6 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -50855,7 +50828,6 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -55437,7 +55409,6 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Cancel·lar
             </Button>,
@@ -55447,7 +55418,6 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -56401,7 +56371,6 @@ exports[`Locale Provider should display the text as locale changed 11`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -60983,7 +60952,6 @@ exports[`Locale Provider should display the text as locale changed 11`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Storno
             </Button>,
@@ -60993,7 +60961,6 @@ exports[`Locale Provider should display the text as locale changed 11`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 Ok
@@ -61947,7 +61914,6 @@ exports[`Locale Provider should display the text as locale changed 12`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -66529,7 +66495,6 @@ exports[`Locale Provider should display the text as locale changed 12`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 취소
             </Button>,
@@ -66539,7 +66504,6 @@ exports[`Locale Provider should display the text as locale changed 12`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 확인
@@ -67495,7 +67459,6 @@ exports[`Locale Provider should display the text as locale changed 13`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -72077,7 +72040,6 @@ exports[`Locale Provider should display the text as locale changed 13`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Tühista
             </Button>,
@@ -72087,7 +72049,6 @@ exports[`Locale Provider should display the text as locale changed 13`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -73043,7 +73004,6 @@ exports[`Locale Provider should display the text as locale changed 14`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -77625,7 +77585,6 @@ exports[`Locale Provider should display the text as locale changed 14`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Zrušiť
             </Button>,
@@ -77635,7 +77594,6 @@ exports[`Locale Provider should display the text as locale changed 14`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -78588,7 +78546,6 @@ exports[`Locale Provider should display the text as locale changed 15`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -83158,7 +83115,6 @@ exports[`Locale Provider should display the text as locale changed 15`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 キャンセル
             </Button>,
@@ -83168,7 +83124,6 @@ exports[`Locale Provider should display the text as locale changed 15`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -84124,7 +84079,6 @@ exports[`Locale Provider should display the text as locale changed 16`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -88706,7 +88660,6 @@ exports[`Locale Provider should display the text as locale changed 16`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 İptal
             </Button>,
@@ -88716,7 +88669,6 @@ exports[`Locale Provider should display the text as locale changed 16`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 Tamam
@@ -89669,7 +89621,6 @@ exports[`Locale Provider should display the text as locale changed 17`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -94239,7 +94190,6 @@ exports[`Locale Provider should display the text as locale changed 17`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 取 消
             </Button>,
@@ -94249,7 +94199,6 @@ exports[`Locale Provider should display the text as locale changed 17`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 確 定
@@ -95205,7 +95154,6 @@ exports[`Locale Provider should display the text as locale changed 18`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -99787,7 +99735,6 @@ exports[`Locale Provider should display the text as locale changed 18`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Peruuta
             </Button>,
@@ -99797,7 +99744,6 @@ exports[`Locale Provider should display the text as locale changed 18`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -100753,7 +100699,6 @@ exports[`Locale Provider should display the text as locale changed 19`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -105335,7 +105280,6 @@ exports[`Locale Provider should display the text as locale changed 19`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Anuluj
             </Button>,
@@ -105345,7 +105289,6 @@ exports[`Locale Provider should display the text as locale changed 19`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -106301,7 +106244,6 @@ exports[`Locale Provider should display the text as locale changed 20`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -110883,7 +110825,6 @@ exports[`Locale Provider should display the text as locale changed 20`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Отказ
             </Button>,
@@ -110893,7 +110834,6 @@ exports[`Locale Provider should display the text as locale changed 20`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 Добре
@@ -111849,7 +111789,6 @@ exports[`Locale Provider should display the text as locale changed 21`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -116431,7 +116370,6 @@ exports[`Locale Provider should display the text as locale changed 21`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Cancel
             </Button>,
@@ -116441,7 +116379,6 @@ exports[`Locale Provider should display the text as locale changed 21`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -117389,7 +117326,6 @@ exports[`Locale Provider should display the text as locale changed 22`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -121971,7 +121907,6 @@ exports[`Locale Provider should display the text as locale changed 22`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Annuler
             </Button>,
@@ -121981,7 +121916,6 @@ exports[`Locale Provider should display the text as locale changed 22`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -122937,7 +122871,6 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -127519,7 +127452,6 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Annuleer
             </Button>,
@@ -127529,7 +127461,6 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -128485,7 +128416,6 @@ exports[`Locale Provider should display the text as locale changed 24`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -133067,7 +132997,6 @@ exports[`Locale Provider should display the text as locale changed 24`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Annulla
             </Button>,
@@ -133077,7 +133006,6 @@ exports[`Locale Provider should display the text as locale changed 24`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -134033,7 +133961,6 @@ exports[`Locale Provider should display the text as locale changed 25`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -138615,7 +138542,6 @@ exports[`Locale Provider should display the text as locale changed 25`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Huỷ
             </Button>,
@@ -138625,7 +138551,6 @@ exports[`Locale Provider should display the text as locale changed 25`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -139581,7 +139506,6 @@ exports[`Locale Provider should display the text as locale changed 26`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -144163,7 +144087,6 @@ exports[`Locale Provider should display the text as locale changed 26`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 ยกเลิก
             </Button>,
@@ -144173,7 +144096,6 @@ exports[`Locale Provider should display the text as locale changed 26`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 ตกลง
@@ -145129,7 +145051,6 @@ exports[`Locale Provider should display the text as locale changed 27`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -149709,7 +149630,6 @@ exports[`Locale Provider should display the text as locale changed 27`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 لغو
             </Button>,
@@ -149719,7 +149639,6 @@ exports[`Locale Provider should display the text as locale changed 27`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 تایید
@@ -150675,7 +150594,6 @@ exports[`Locale Provider should display the text as locale changed 28`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -155257,7 +155175,6 @@ exports[`Locale Provider should display the text as locale changed 28`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Άκυρο
             </Button>,
@@ -155267,7 +155184,6 @@ exports[`Locale Provider should display the text as locale changed 28`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 ΟΚ
@@ -156222,7 +156138,6 @@ exports[`Locale Provider should display the text as locale changed 29`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -160804,7 +160719,6 @@ exports[`Locale Provider should display the text as locale changed 29`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Avbryt
             </Button>,
@@ -160814,7 +160728,6 @@ exports[`Locale Provider should display the text as locale changed 29`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 OK
@@ -161769,7 +161682,6 @@ exports[`Locale Provider should display the text as locale changed 30`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -166351,7 +166263,6 @@ exports[`Locale Provider should display the text as locale changed 30`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Otkaži
             </Button>,
@@ -166361,7 +166272,6 @@ exports[`Locale Provider should display the text as locale changed 30`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 U redu
@@ -167317,7 +167227,6 @@ exports[`Locale Provider should display the text as locale changed 31`] = `
         >
           <span
             className="ant-calendar-picker"
-            style={Object {}}
           >
             <Picker
               align={Object {}}
@@ -171899,7 +171808,6 @@ exports[`Locale Provider should display the text as locale changed 31`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
             >
                 Hætta við
             </Button>,
@@ -171909,7 +171817,6 @@ exports[`Locale Provider should display the text as locale changed 31`] = `
                 loading={false}
                 onClick={[Function]}
                 prefixCls="ant-btn"
-                size="large"
                 type="primary"
             >
                 Áfram
