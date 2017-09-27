@@ -947,6 +947,7 @@ exports[`Locale Provider should display the text as locale changed 1`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Select date"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -1157,6 +1158,7 @@ exports[`Locale Provider should display the text as locale changed 1`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Select date"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -1547,6 +1549,7 @@ exports[`Locale Provider should display the text as locale changed 1`] = `
                       "End date",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -1770,6 +1773,7 @@ exports[`Locale Provider should display the text as locale changed 1`] = `
                         "End date",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -6491,6 +6495,7 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Selecionar data"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -6701,6 +6706,7 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Selecionar data"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -7091,6 +7097,7 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                       "Data de fim",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -7314,6 +7321,7 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                         "Data de fim",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -12038,6 +12046,7 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Data"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -12250,6 +12259,7 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Data"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -12642,6 +12652,7 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                       "Data final",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -12867,6 +12878,7 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                         "Data final",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -17594,6 +17606,7 @@ exports[`Locale Provider should display the text as locale changed 4`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Выберите дату"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -17804,6 +17817,7 @@ exports[`Locale Provider should display the text as locale changed 4`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Выберите дату"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -18194,6 +18208,7 @@ exports[`Locale Provider should display the text as locale changed 4`] = `
                       "Конечная дата",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -18417,6 +18432,7 @@ exports[`Locale Provider should display the text as locale changed 4`] = `
                         "Конечная дата",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -23138,6 +23154,7 @@ exports[`Locale Provider should display the text as locale changed 5`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Seleccionar fecha"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -23348,6 +23365,7 @@ exports[`Locale Provider should display the text as locale changed 5`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Seleccionar fecha"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -23738,6 +23756,7 @@ exports[`Locale Provider should display the text as locale changed 5`] = `
                       "Fecha final",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -23961,6 +23980,7 @@ exports[`Locale Provider should display the text as locale changed 5`] = `
                         "Fecha final",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -28674,6 +28694,7 @@ exports[`Locale Provider should display the text as locale changed 6`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Välj datum"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -28884,6 +28905,7 @@ exports[`Locale Provider should display the text as locale changed 6`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Välj datum"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -29274,6 +29296,7 @@ exports[`Locale Provider should display the text as locale changed 6`] = `
                       "Slutdatum",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -29497,6 +29520,7 @@ exports[`Locale Provider should display the text as locale changed 6`] = `
                         "Slutdatum",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -34210,6 +34234,7 @@ exports[`Locale Provider should display the text as locale changed 7`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Sélectionner une date"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -34420,6 +34445,7 @@ exports[`Locale Provider should display the text as locale changed 7`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Sélectionner une date"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -34810,6 +34836,7 @@ exports[`Locale Provider should display the text as locale changed 7`] = `
                       "Date de fin",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -35033,6 +35060,7 @@ exports[`Locale Provider should display the text as locale changed 7`] = `
                         "Date de fin",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -39748,6 +39776,7 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Datum auswählen"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -39958,6 +39987,7 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Datum auswählen"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -40348,6 +40378,7 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                       "Enddatum",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -40571,6 +40602,7 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                         "Enddatum",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -45292,6 +45324,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Selecteer datum"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -45502,6 +45535,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Selecteer datum"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -45892,6 +45926,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                       "Eind datum",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -46115,6 +46150,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                         "Eind datum",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -50828,6 +50864,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Seleccionar data"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -51038,6 +51075,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Seleccionar data"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -51428,6 +51466,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                       "Data final",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -51651,6 +51690,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                         "Data final",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -56370,6 +56410,7 @@ exports[`Locale Provider should display the text as locale changed 11`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Vybrat datum"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -56580,6 +56621,7 @@ exports[`Locale Provider should display the text as locale changed 11`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Vybrat datum"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -56970,6 +57012,7 @@ exports[`Locale Provider should display the text as locale changed 11`] = `
                       "Do",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -57193,6 +57236,7 @@ exports[`Locale Provider should display the text as locale changed 11`] = `
                         "Do",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -61912,6 +61956,7 @@ exports[`Locale Provider should display the text as locale changed 12`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="날짜 선택"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -62122,6 +62167,7 @@ exports[`Locale Provider should display the text as locale changed 12`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="날짜 선택"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -62512,6 +62558,7 @@ exports[`Locale Provider should display the text as locale changed 12`] = `
                       "종료일",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -62735,6 +62782,7 @@ exports[`Locale Provider should display the text as locale changed 12`] = `
                         "종료일",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -67456,6 +67504,7 @@ exports[`Locale Provider should display the text as locale changed 13`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Vali kuupäev"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -67666,6 +67715,7 @@ exports[`Locale Provider should display the text as locale changed 13`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Vali kuupäev"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -68056,6 +68106,7 @@ exports[`Locale Provider should display the text as locale changed 13`] = `
                       "Lõpu kuupäev",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -68279,6 +68330,7 @@ exports[`Locale Provider should display the text as locale changed 13`] = `
                         "Lõpu kuupäev",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -73000,6 +73052,7 @@ exports[`Locale Provider should display the text as locale changed 14`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Vybrať dátum"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -73210,6 +73263,7 @@ exports[`Locale Provider should display the text as locale changed 14`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Vybrať dátum"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -73600,6 +73654,7 @@ exports[`Locale Provider should display the text as locale changed 14`] = `
                       "Do",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -73823,6 +73878,7 @@ exports[`Locale Provider should display the text as locale changed 14`] = `
                         "Do",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -78541,6 +78597,7 @@ exports[`Locale Provider should display the text as locale changed 15`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="日付を選択"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -78749,6 +78806,7 @@ exports[`Locale Provider should display the text as locale changed 15`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="日付を選択"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -79137,6 +79195,7 @@ exports[`Locale Provider should display the text as locale changed 15`] = `
                       "終了日付",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -79358,6 +79417,7 @@ exports[`Locale Provider should display the text as locale changed 15`] = `
                         "終了日付",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -84073,6 +84133,7 @@ exports[`Locale Provider should display the text as locale changed 16`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Tarih Seç"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -84283,6 +84344,7 @@ exports[`Locale Provider should display the text as locale changed 16`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Tarih Seç"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -84673,6 +84735,7 @@ exports[`Locale Provider should display the text as locale changed 16`] = `
                       "Bitiş Tarihi",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -84896,6 +84959,7 @@ exports[`Locale Provider should display the text as locale changed 16`] = `
                         "Bitiş Tarihi",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -89614,6 +89678,7 @@ exports[`Locale Provider should display the text as locale changed 17`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="請選擇日期"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -89822,6 +89887,7 @@ exports[`Locale Provider should display the text as locale changed 17`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="請選擇日期"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -90210,6 +90276,7 @@ exports[`Locale Provider should display the text as locale changed 17`] = `
                       "結束日期",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -90431,6 +90498,7 @@ exports[`Locale Provider should display the text as locale changed 17`] = `
                         "結束日期",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -95146,6 +95214,7 @@ exports[`Locale Provider should display the text as locale changed 18`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Valitse päivä"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -95356,6 +95425,7 @@ exports[`Locale Provider should display the text as locale changed 18`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Valitse päivä"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -95746,6 +95816,7 @@ exports[`Locale Provider should display the text as locale changed 18`] = `
                       "Loppu päivä",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -95969,6 +96040,7 @@ exports[`Locale Provider should display the text as locale changed 18`] = `
                         "Loppu päivä",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -100690,6 +100762,7 @@ exports[`Locale Provider should display the text as locale changed 19`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Wybierz datę"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -100900,6 +100973,7 @@ exports[`Locale Provider should display the text as locale changed 19`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Wybierz datę"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -101290,6 +101364,7 @@ exports[`Locale Provider should display the text as locale changed 19`] = `
                       "Data końcowa",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -101513,6 +101588,7 @@ exports[`Locale Provider should display the text as locale changed 19`] = `
                         "Data końcowa",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -106234,6 +106310,7 @@ exports[`Locale Provider should display the text as locale changed 20`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Избор на дата"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -106444,6 +106521,7 @@ exports[`Locale Provider should display the text as locale changed 20`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Избор на дата"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -106834,6 +106912,7 @@ exports[`Locale Provider should display the text as locale changed 20`] = `
                       "Крайна",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -107057,6 +107136,7 @@ exports[`Locale Provider should display the text as locale changed 20`] = `
                         "Крайна",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -111778,6 +111858,7 @@ exports[`Locale Provider should display the text as locale changed 21`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Select date"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -111988,6 +112069,7 @@ exports[`Locale Provider should display the text as locale changed 21`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Select date"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -112378,6 +112460,7 @@ exports[`Locale Provider should display the text as locale changed 21`] = `
                       "End date",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -112601,6 +112684,7 @@ exports[`Locale Provider should display the text as locale changed 21`] = `
                         "End date",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -117314,6 +117398,7 @@ exports[`Locale Provider should display the text as locale changed 22`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Sélectionner une date"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -117524,6 +117609,7 @@ exports[`Locale Provider should display the text as locale changed 22`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Sélectionner une date"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -117914,6 +118000,7 @@ exports[`Locale Provider should display the text as locale changed 22`] = `
                       "Date de fin",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -118137,6 +118224,7 @@ exports[`Locale Provider should display the text as locale changed 22`] = `
                         "Date de fin",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -122858,6 +122946,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Selecteer datum"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -123068,6 +123157,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Selecteer datum"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -123458,6 +123548,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                       "Eind datum",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -123681,6 +123772,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                         "Eind datum",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -128402,6 +128494,7 @@ exports[`Locale Provider should display the text as locale changed 24`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Selezionare la data"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -128612,6 +128705,7 @@ exports[`Locale Provider should display the text as locale changed 24`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Selezionare la data"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -129002,6 +129096,7 @@ exports[`Locale Provider should display the text as locale changed 24`] = `
                       "Data di fine",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -129225,6 +129320,7 @@ exports[`Locale Provider should display the text as locale changed 24`] = `
                         "Data di fine",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -133946,6 +134042,7 @@ exports[`Locale Provider should display the text as locale changed 25`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Chọn thời điểm"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -134156,6 +134253,7 @@ exports[`Locale Provider should display the text as locale changed 25`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Chọn thời điểm"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -134546,6 +134644,7 @@ exports[`Locale Provider should display the text as locale changed 25`] = `
                       "Ngày kết thúc",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -134769,6 +134868,7 @@ exports[`Locale Provider should display the text as locale changed 25`] = `
                         "Ngày kết thúc",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -139490,6 +139590,7 @@ exports[`Locale Provider should display the text as locale changed 26`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="เลือกวันที่"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -139700,6 +139801,7 @@ exports[`Locale Provider should display the text as locale changed 26`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="เลือกวันที่"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -140090,6 +140192,7 @@ exports[`Locale Provider should display the text as locale changed 26`] = `
                       "วันสิ้นสุด",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -140313,6 +140416,7 @@ exports[`Locale Provider should display the text as locale changed 26`] = `
                         "วันสิ้นสุด",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -145034,6 +145138,7 @@ exports[`Locale Provider should display the text as locale changed 27`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="انتخاب تاریخ"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -145244,6 +145349,7 @@ exports[`Locale Provider should display the text as locale changed 27`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="انتخاب تاریخ"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -145634,6 +145740,7 @@ exports[`Locale Provider should display the text as locale changed 27`] = `
                       "تاریخ پایان",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -145857,6 +145964,7 @@ exports[`Locale Provider should display the text as locale changed 27`] = `
                         "تاریخ پایان",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -150576,6 +150684,7 @@ exports[`Locale Provider should display the text as locale changed 28`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Επιλέξτε ημερομηνία"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -150786,6 +150895,7 @@ exports[`Locale Provider should display the text as locale changed 28`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Επιλέξτε ημερομηνία"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -151176,6 +151286,7 @@ exports[`Locale Provider should display the text as locale changed 28`] = `
                       "Τελική ημερομηνία",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -151399,6 +151510,7 @@ exports[`Locale Provider should display the text as locale changed 28`] = `
                         "Τελική ημερομηνία",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -156119,6 +156231,7 @@ exports[`Locale Provider should display the text as locale changed 29`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Velg dato"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -156329,6 +156442,7 @@ exports[`Locale Provider should display the text as locale changed 29`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Velg dato"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -156719,6 +156833,7 @@ exports[`Locale Provider should display the text as locale changed 29`] = `
                       "Sluttdato",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -156942,6 +157057,7 @@ exports[`Locale Provider should display the text as locale changed 29`] = `
                         "Sluttdato",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -161662,6 +161778,7 @@ exports[`Locale Provider should display the text as locale changed 30`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Izaberite datum"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -161872,6 +161989,7 @@ exports[`Locale Provider should display the text as locale changed 30`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Izaberite datum"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -162262,6 +162380,7 @@ exports[`Locale Provider should display the text as locale changed 30`] = `
                       "Krajnji datum",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -162485,6 +162604,7 @@ exports[`Locale Provider should display the text as locale changed 30`] = `
                         "Krajnji datum",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
@@ -167206,6 +167326,7 @@ exports[`Locale Provider should display the text as locale changed 31`] = `
                 <Calendar
                   className=""
                   dateInputPlaceholder="Veldu dag"
+                  dateRender={undefined}
                   defaultValue={"2017-09-18T03:30:07.795Z"}
                   disabledDate={undefined}
                   disabledTime={null}
@@ -167416,6 +167537,7 @@ exports[`Locale Provider should display the text as locale changed 31`] = `
                   <Calendar
                     className=""
                     dateInputPlaceholder="Veldu dag"
+                    dateRender={undefined}
                     defaultValue={"2017-09-18T03:30:07.795Z"}
                     disabledDate={undefined}
                     disabledTime={null}
@@ -167806,6 +167928,7 @@ exports[`Locale Provider should display the text as locale changed 31`] = `
                       "Lokadagur",
                     ]
                   }
+                  dateRender={undefined}
                   defaultSelectedValue={Array []}
                   disabledDate={undefined}
                   disabledTime={[Function]}
@@ -168029,6 +168152,7 @@ exports[`Locale Provider should display the text as locale changed 31`] = `
                         "Lokadagur",
                       ]
                     }
+                    dateRender={undefined}
                     defaultSelectedValue={Array []}
                     defaultValue={Array []}
                     disabledDate={undefined}
