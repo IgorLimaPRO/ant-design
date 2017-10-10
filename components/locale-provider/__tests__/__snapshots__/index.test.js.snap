@@ -9290,7 +9290,7 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                       Array [
                         Object {
                           "key": "8",
-                          "label": "Set",
+                          "label": "set",
                           "title": undefined,
                         },
                       ]
@@ -9382,7 +9382,7 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                             Array [
                               Object {
                                 "key": "8",
-                                "label": "Set",
+                                "label": "set",
                                 "title": undefined,
                               },
                             ]
@@ -9408,7 +9408,7 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                         Array [
                           Object {
                             "key": "8",
-                            "label": "Set",
+                            "label": "set",
                             "title": undefined,
                           },
                         ]
@@ -9449,9 +9449,9 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                                   "opacity": 1,
                                 }
                               }
-                              title="Set"
+                              title="set"
                             >
-                              Set
+                              set
                             </div>
                           </div>
                           <span
@@ -15164,7 +15164,7 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                       Array [
                         Object {
                           "key": "8",
-                          "label": "Set",
+                          "label": "set",
                           "title": undefined,
                         },
                       ]
@@ -15256,7 +15256,7 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                             Array [
                               Object {
                                 "key": "8",
-                                "label": "Set",
+                                "label": "set",
                                 "title": undefined,
                               },
                             ]
@@ -15282,7 +15282,7 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                         Array [
                           Object {
                             "key": "8",
-                            "label": "Set",
+                            "label": "set",
                             "title": undefined,
                           },
                         ]
@@ -15323,9 +15323,9 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                                   "opacity": 1,
                                 }
                               }
-                              title="Set"
+                              title="set"
                             >
-                              Set
+                              set
                             </div>
                           </div>
                           <span
@@ -44461,7 +44461,7 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                       Array [
                         Object {
                           "key": "8",
-                          "label": "Sept.",
+                          "label": "Sep.",
                           "title": undefined,
                         },
                       ]
@@ -44553,7 +44553,7 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                             Array [
                               Object {
                                 "key": "8",
-                                "label": "Sept.",
+                                "label": "Sep.",
                                 "title": undefined,
                               },
                             ]
@@ -44579,7 +44579,7 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                         Array [
                           Object {
                             "key": "8",
-                            "label": "Sept.",
+                            "label": "Sep.",
                             "title": undefined,
                           },
                         ]
@@ -44620,9 +44620,9 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                                   "opacity": 1,
                                 }
                               }
-                              title="Sept."
+                              title="Sep."
                             >
-                              Sept.
+                              Sep.
                             </div>
                           </div>
                           <span
@@ -50814,7 +50814,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Ma
+                              ma
                             </span>
                           </th>
                           <th
@@ -50826,7 +50826,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Di
+                              di
                             </span>
                           </th>
                           <th
@@ -50838,7 +50838,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Wo
+                              wo
                             </span>
                           </th>
                           <th
@@ -50850,7 +50850,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Do
+                              do
                             </span>
                           </th>
                           <th
@@ -50862,7 +50862,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Vr
+                              vr
                             </span>
                           </th>
                           <th
@@ -50874,7 +50874,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Za
+                              za
                             </span>
                           </th>
                           <th
@@ -50886,7 +50886,7 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Zo
+                              zo
                             </span>
                           </th>
                         </tr>
@@ -56669,7 +56669,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Dl
+                              dl
                             </span>
                           </th>
                           <th
@@ -56681,7 +56681,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Dt
+                              dt
                             </span>
                           </th>
                           <th
@@ -56693,7 +56693,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Dc
+                              dc
                             </span>
                           </th>
                           <th
@@ -56705,7 +56705,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Dj
+                              dj
                             </span>
                           </th>
                           <th
@@ -56717,7 +56717,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Dv
+                              dv
                             </span>
                           </th>
                           <th
@@ -56729,7 +56729,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Ds
+                              ds
                             </span>
                           </th>
                           <th
@@ -56741,7 +56741,7 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Dg
+                              dg
                             </span>
                           </th>
                         </tr>
@@ -132846,7 +132846,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Ma
+                              ma
                             </span>
                           </th>
                           <th
@@ -132858,7 +132858,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Di
+                              di
                             </span>
                           </th>
                           <th
@@ -132870,7 +132870,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Wo
+                              wo
                             </span>
                           </th>
                           <th
@@ -132882,7 +132882,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Do
+                              do
                             </span>
                           </th>
                           <th
@@ -132894,7 +132894,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Vr
+                              vr
                             </span>
                           </th>
                           <th
@@ -132906,7 +132906,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Za
+                              za
                             </span>
                           </th>
                           <th
@@ -132918,7 +132918,7 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                             <span
                               className="ant-fullcalendar-column-header-inner"
                             >
-                              Zo
+                              zo
                             </span>
                           </th>
                         </tr>
