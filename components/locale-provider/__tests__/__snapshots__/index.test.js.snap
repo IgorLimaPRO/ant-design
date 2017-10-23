@@ -2799,7 +2799,6 @@ exports[`Locale Provider should display the text as locale changed 1`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -2828,7 +2827,6 @@ exports[`Locale Provider should display the text as locale changed 1`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -8675,7 +8673,6 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -8704,7 +8701,6 @@ exports[`Locale Provider should display the text as locale changed 2`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -14561,7 +14557,6 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -14590,7 +14585,6 @@ exports[`Locale Provider should display the text as locale changed 3`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -20442,7 +20436,6 @@ exports[`Locale Provider should display the text as locale changed 4`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -20471,7 +20464,6 @@ exports[`Locale Provider should display the text as locale changed 4`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -26318,7 +26310,6 @@ exports[`Locale Provider should display the text as locale changed 5`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -26347,7 +26338,6 @@ exports[`Locale Provider should display the text as locale changed 5`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -32186,7 +32176,6 @@ exports[`Locale Provider should display the text as locale changed 6`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -32215,7 +32204,6 @@ exports[`Locale Provider should display the text as locale changed 6`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -38054,7 +38042,6 @@ exports[`Locale Provider should display the text as locale changed 7`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -38083,7 +38070,6 @@ exports[`Locale Provider should display the text as locale changed 7`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -43924,7 +43910,6 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -43953,7 +43938,6 @@ exports[`Locale Provider should display the text as locale changed 8`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -49800,7 +49784,6 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -49829,7 +49812,6 @@ exports[`Locale Provider should display the text as locale changed 9`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -55668,7 +55650,6 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -55697,7 +55678,6 @@ exports[`Locale Provider should display the text as locale changed 10`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -61542,7 +61522,6 @@ exports[`Locale Provider should display the text as locale changed 11`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -61571,7 +61550,6 @@ exports[`Locale Provider should display the text as locale changed 11`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -67416,7 +67394,6 @@ exports[`Locale Provider should display the text as locale changed 12`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -67445,7 +67422,6 @@ exports[`Locale Provider should display the text as locale changed 12`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -73292,7 +73268,6 @@ exports[`Locale Provider should display the text as locale changed 13`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -73321,7 +73296,6 @@ exports[`Locale Provider should display the text as locale changed 13`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -79168,7 +79142,6 @@ exports[`Locale Provider should display the text as locale changed 14`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -79197,7 +79170,6 @@ exports[`Locale Provider should display the text as locale changed 14`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -85034,7 +85006,6 @@ exports[`Locale Provider should display the text as locale changed 15`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -85063,7 +85034,6 @@ exports[`Locale Provider should display the text as locale changed 15`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -90905,7 +90875,6 @@ exports[`Locale Provider should display the text as locale changed 16`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -90934,7 +90903,6 @@ exports[`Locale Provider should display the text as locale changed 16`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -96771,7 +96739,6 @@ exports[`Locale Provider should display the text as locale changed 17`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -96800,7 +96767,6 @@ exports[`Locale Provider should display the text as locale changed 17`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -102642,7 +102608,6 @@ exports[`Locale Provider should display the text as locale changed 18`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -102671,7 +102636,6 @@ exports[`Locale Provider should display the text as locale changed 18`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -108518,7 +108482,6 @@ exports[`Locale Provider should display the text as locale changed 19`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -108547,7 +108510,6 @@ exports[`Locale Provider should display the text as locale changed 19`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -114394,7 +114356,6 @@ exports[`Locale Provider should display the text as locale changed 20`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -114423,7 +114384,6 @@ exports[`Locale Provider should display the text as locale changed 20`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -120270,7 +120230,6 @@ exports[`Locale Provider should display the text as locale changed 21`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -120299,7 +120258,6 @@ exports[`Locale Provider should display the text as locale changed 21`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -126138,7 +126096,6 @@ exports[`Locale Provider should display the text as locale changed 22`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -126167,7 +126124,6 @@ exports[`Locale Provider should display the text as locale changed 22`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -132014,7 +131970,6 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -132043,7 +131998,6 @@ exports[`Locale Provider should display the text as locale changed 23`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -137890,7 +137844,6 @@ exports[`Locale Provider should display the text as locale changed 24`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -137919,7 +137872,6 @@ exports[`Locale Provider should display the text as locale changed 24`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -143766,7 +143718,6 @@ exports[`Locale Provider should display the text as locale changed 25`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -143795,7 +143746,6 @@ exports[`Locale Provider should display the text as locale changed 25`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -149642,7 +149592,6 @@ exports[`Locale Provider should display the text as locale changed 26`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -149671,7 +149620,6 @@ exports[`Locale Provider should display the text as locale changed 26`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -155517,7 +155465,6 @@ exports[`Locale Provider should display the text as locale changed 27`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -155546,7 +155493,6 @@ exports[`Locale Provider should display the text as locale changed 27`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -161392,7 +161338,6 @@ exports[`Locale Provider should display the text as locale changed 28`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -161421,7 +161366,6 @@ exports[`Locale Provider should display the text as locale changed 28`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -167267,7 +167211,6 @@ exports[`Locale Provider should display the text as locale changed 29`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -167296,7 +167239,6 @@ exports[`Locale Provider should display the text as locale changed 29`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -173142,7 +173084,6 @@ exports[`Locale Provider should display the text as locale changed 30`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -173171,7 +173112,6 @@ exports[`Locale Provider should display the text as locale changed 30`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -179018,7 +178958,6 @@ exports[`Locale Provider should display the text as locale changed 31`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -179047,7 +178986,6 @@ exports[`Locale Provider should display the text as locale changed 31`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -184894,7 +184832,6 @@ exports[`Locale Provider should display the text as locale changed 32`] = `
                 className="ant-transfer-operation"
               >
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
@@ -184923,7 +184860,6 @@ exports[`Locale Provider should display the text as locale changed 32`] = `
                   </button>
                 </Button>
                 <Button
-                  clicked={false}
                   disabled={true}
                   ghost={false}
                   loading={false}
