@@ -997,7 +997,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -1037,7 +1037,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -5591,7 +5591,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -5631,7 +5631,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -10185,7 +10185,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -10225,7 +10225,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -14779,7 +14779,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -14819,7 +14819,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -19373,7 +19373,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -19413,7 +19413,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -23967,7 +23967,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -24007,7 +24007,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -28561,7 +28561,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -28601,7 +28601,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -33155,7 +33155,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -33195,7 +33195,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -37749,7 +37749,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -37789,7 +37789,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -42343,7 +42343,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -42383,7 +42383,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -46937,7 +46937,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -46977,7 +46977,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -51531,7 +51531,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -51571,7 +51571,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -56125,7 +56125,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -56165,7 +56165,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -60719,7 +60719,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -60759,7 +60759,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -65313,7 +65313,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -65353,7 +65353,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -69907,7 +69907,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -69947,7 +69947,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -74501,7 +74501,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -74541,7 +74541,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -79095,7 +79095,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -79135,7 +79135,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -83689,7 +83689,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -83729,7 +83729,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -88283,7 +88283,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -88323,7 +88323,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -92877,7 +92877,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -92917,7 +92917,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -97471,7 +97471,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -97511,7 +97511,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -102065,7 +102065,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -102105,7 +102105,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -106659,7 +106659,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -106699,7 +106699,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -111253,7 +111253,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -111293,7 +111293,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -115847,7 +115847,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -115887,7 +115887,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -120441,7 +120441,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -120481,7 +120481,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -125035,7 +125035,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -125075,7 +125075,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -129629,7 +129629,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -129669,7 +129669,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -134223,7 +134223,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -134263,7 +134263,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -138817,7 +138817,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -138857,7 +138857,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -143411,7 +143411,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -143451,7 +143451,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
@@ -148005,7 +148005,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                 02
               </li>
               <li
-                class=""
+                class="ant-time-picker-panel-select-option-selected"
               >
                 03
               </li>
@@ -148045,7 +148045,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                 10
               </li>
               <li
-                class="ant-time-picker-panel-select-option-selected"
+                class=""
               >
                 11
               </li>
