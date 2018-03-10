@@ -140519,7 +140519,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
               <a
                 class="ant-calendar-clear-btn"
                 role="button"
-                title="Clear"
+                title="Temizle"
               />
             </div>
             <div
@@ -140534,12 +140534,12 @@ exports[`Locale Provider should display the text as tr 1`] = `
                   <a
                     class="ant-calendar-prev-year-btn"
                     role="button"
-                    title="Last year (Control + left)"
+                    title="Önceki Yıl (Control + Sol)"
                   />
                   <a
                     class="ant-calendar-prev-month-btn"
                     role="button"
-                    title="Previous month (PageUp)"
+                    title="Önceki Ay (PageUp)"
                   />
                   <span
                     class="ant-calendar-my-select"
@@ -140547,25 +140547,25 @@ exports[`Locale Provider should display the text as tr 1`] = `
                     <a
                       class="ant-calendar-month-select"
                       role="button"
-                      title="Choose a month"
+                      title="Ay Seç"
                     >
                       Eyl
                     </a>
                     <a
                       class="ant-calendar-year-select"
                       role="button"
-                      title="Choose a year"
+                      title="Yıl Seç"
                     >
                       2017
                     </a>
                   </span>
                   <a
                     class="ant-calendar-next-month-btn"
-                    title="Next month (PageDown)"
+                    title="Sonraki Ay (PageDown)"
                   />
                   <a
                     class="ant-calendar-next-year-btn"
-                    title="Next year (Control + right)"
+                    title="Sonraki Yıl (Control + Sağ)"
                   />
                 </div>
               </div>
@@ -141253,7 +141253,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                     role="button"
                     title="18 Eylül 2017"
                   >
-                    Today
+                    Bugün
                   </a>
                 </span>
               </div>
@@ -142119,12 +142119,12 @@ exports[`Locale Provider should display the text as tr 1`] = `
                       <a
                         class="ant-calendar-prev-year-btn"
                         role="button"
-                        title="Last year (Control + left)"
+                        title="Önceki Yıl (Control + Sol)"
                       />
                       <a
                         class="ant-calendar-prev-month-btn"
                         role="button"
-                        title="Previous month (PageUp)"
+                        title="Önceki Ay (PageUp)"
                       />
                       <span
                         class="ant-calendar-my-select"
@@ -142132,14 +142132,14 @@ exports[`Locale Provider should display the text as tr 1`] = `
                         <a
                           class="ant-calendar-month-select"
                           role="button"
-                          title="Choose a month"
+                          title="Ay Seç"
                         >
                           Eyl
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
-                          title="Choose a year"
+                          title="Yıl Seç"
                         >
                           2017
                         </a>
@@ -142857,25 +142857,25 @@ exports[`Locale Provider should display the text as tr 1`] = `
                         <a
                           class="ant-calendar-month-select"
                           role="button"
-                          title="Choose a month"
+                          title="Ay Seç"
                         >
                           Eki
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
-                          title="Choose a year"
+                          title="Yıl Seç"
                         >
                           2017
                         </a>
                       </span>
                       <a
                         class="ant-calendar-next-month-btn"
-                        title="Next month (PageDown)"
+                        title="Sonraki Ay (PageDown)"
                       />
                       <a
                         class="ant-calendar-next-year-btn"
-                        title="Next year (Control + right)"
+                        title="Sonraki Yıl (Control + Sağ)"
                       />
                     </div>
                   </div>
@@ -143868,7 +143868,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             />
           </span>
           <span>
-            Month
+            Ay
           </span>
         </label>
         <label
@@ -143887,7 +143887,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             />
           </span>
           <span>
-            Year
+            Yıl
           </span>
         </label>
       </div>
