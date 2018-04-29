@@ -2483,7 +2483,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -2529,7 +2529,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -5871,7 +5871,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -5902,7 +5902,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -7080,7 +7080,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -7126,7 +7126,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -10468,7 +10468,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -10499,7 +10499,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -11677,7 +11677,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -11723,7 +11723,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -15065,7 +15065,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -15096,7 +15096,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -16274,7 +16274,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -16320,7 +16320,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -19662,7 +19662,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -19693,7 +19693,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -20871,7 +20871,7 @@ exports[`Locale Provider should display the text as de 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -20917,7 +20917,7 @@ exports[`Locale Provider should display the text as de 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -24259,7 +24259,7 @@ exports[`Locale Provider should display the text as de 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -24290,7 +24290,7 @@ exports[`Locale Provider should display the text as de 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -25468,7 +25468,7 @@ exports[`Locale Provider should display the text as el 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -25514,7 +25514,7 @@ exports[`Locale Provider should display the text as el 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -28856,7 +28856,7 @@ exports[`Locale Provider should display the text as el 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -28887,7 +28887,7 @@ exports[`Locale Provider should display the text as el 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -30065,7 +30065,7 @@ exports[`Locale Provider should display the text as en 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -30111,7 +30111,7 @@ exports[`Locale Provider should display the text as en 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -33453,7 +33453,7 @@ exports[`Locale Provider should display the text as en 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -33484,7 +33484,7 @@ exports[`Locale Provider should display the text as en 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -34662,7 +34662,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -34708,7 +34708,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -38050,7 +38050,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -38081,7 +38081,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -39259,7 +39259,7 @@ exports[`Locale Provider should display the text as es 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -39305,7 +39305,7 @@ exports[`Locale Provider should display the text as es 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -42647,7 +42647,7 @@ exports[`Locale Provider should display the text as es 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -42678,7 +42678,7 @@ exports[`Locale Provider should display the text as es 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -43856,7 +43856,7 @@ exports[`Locale Provider should display the text as et 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -43902,7 +43902,7 @@ exports[`Locale Provider should display the text as et 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -47244,7 +47244,7 @@ exports[`Locale Provider should display the text as et 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -47275,7 +47275,7 @@ exports[`Locale Provider should display the text as et 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -48453,7 +48453,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -48499,7 +48499,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -51841,7 +51841,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -51872,7 +51872,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -53050,7 +53050,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -53096,7 +53096,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -56438,7 +56438,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -56469,7 +56469,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -57647,7 +57647,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -57693,7 +57693,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -61035,7 +61035,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -61066,7 +61066,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -62244,7 +62244,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -62290,7 +62290,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -65632,7 +65632,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -65663,7 +65663,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -66841,7 +66841,7 @@ exports[`Locale Provider should display the text as is 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -66887,7 +66887,7 @@ exports[`Locale Provider should display the text as is 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -70229,7 +70229,7 @@ exports[`Locale Provider should display the text as is 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -70260,7 +70260,7 @@ exports[`Locale Provider should display the text as is 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -71438,7 +71438,7 @@ exports[`Locale Provider should display the text as it 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -71484,7 +71484,7 @@ exports[`Locale Provider should display the text as it 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -74826,7 +74826,7 @@ exports[`Locale Provider should display the text as it 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -74857,7 +74857,7 @@ exports[`Locale Provider should display the text as it 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -76035,7 +76035,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -76081,7 +76081,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -79423,7 +79423,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -79454,7 +79454,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -80632,7 +80632,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -80678,7 +80678,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -84020,7 +84020,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -84051,7 +84051,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -85229,7 +85229,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -85275,7 +85275,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -88617,7 +88617,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -88648,7 +88648,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -89826,7 +89826,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -89872,7 +89872,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -93214,7 +93214,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -93245,7 +93245,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -94423,7 +94423,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -94469,7 +94469,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -97811,7 +97811,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -97842,7 +97842,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -99020,7 +99020,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -99066,7 +99066,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -102408,7 +102408,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -102439,7 +102439,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -103617,7 +103617,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -103663,7 +103663,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -107005,7 +107005,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -107036,7 +107036,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -108214,7 +108214,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -108260,7 +108260,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -111602,7 +111602,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -111633,7 +111633,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -112811,7 +112811,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -112857,7 +112857,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -116199,7 +116199,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -116230,7 +116230,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -117408,7 +117408,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -117454,7 +117454,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -120796,7 +120796,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -120827,7 +120827,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -122005,7 +122005,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -122051,7 +122051,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -125393,7 +125393,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -125424,7 +125424,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -126602,7 +126602,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -126648,7 +126648,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -129990,7 +129990,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -130021,7 +130021,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -131199,7 +131199,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -131245,7 +131245,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -134587,7 +134587,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -134618,7 +134618,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -135796,7 +135796,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -135842,7 +135842,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -139184,7 +139184,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -139215,7 +139215,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -140393,7 +140393,7 @@ exports[`Locale Provider should display the text as th 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -140439,7 +140439,7 @@ exports[`Locale Provider should display the text as th 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -143781,7 +143781,7 @@ exports[`Locale Provider should display the text as th 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -143812,7 +143812,7 @@ exports[`Locale Provider should display the text as th 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -144990,7 +144990,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -145036,7 +145036,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -148378,7 +148378,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -148409,7 +148409,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -149587,7 +149587,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -149633,7 +149633,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -152975,7 +152975,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -153006,7 +153006,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -154184,7 +154184,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -154230,7 +154230,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -157572,7 +157572,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -157603,7 +157603,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -158781,7 +158781,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -158827,7 +158827,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -162169,7 +162169,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -162200,7 +162200,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -163378,7 +163378,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -163424,7 +163424,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       </div>
       <span
         class="ant-select-arrow"
-        unselectable="unselectable"
+        unselectable="on"
       >
         <b />
       </span>
@@ -166766,7 +166766,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
@@ -166797,7 +166797,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           </div>
           <span
             class="ant-select-arrow"
-            unselectable="unselectable"
+            unselectable="on"
           >
             <b />
           </span>
