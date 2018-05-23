@@ -120638,7 +120638,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           class="ant-transfer-list-header-selected"
         >
           <span>
-            0 item
+            0 элем.
           </span>
           <span
             class="ant-transfer-list-header-title"
@@ -120725,7 +120725,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           class="ant-transfer-list-header-selected"
         >
           <span>
-            0 item
+            0 элем.
           </span>
           <span
             class="ant-transfer-list-header-title"
