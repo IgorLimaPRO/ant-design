@@ -236,7 +236,7 @@ exports[`Locale Provider set moment locale when locale changes 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年8月31日"
                       >
@@ -646,7 +646,7 @@ exports[`Locale Provider set moment locale when locale changes 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年9月30日"
                       >
@@ -1031,7 +1031,7 @@ exports[`Locale Provider set moment locale when locale changes 2`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 août 2017"
                       >
@@ -1441,7 +1441,7 @@ exports[`Locale Provider set moment locale when locale changes 2`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 septembre 2017"
                       >
@@ -1839,7 +1839,7 @@ exports[`Locale Provider set moment locale when locale changes 3`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="August 31, 2017"
                       >
@@ -2249,7 +2249,7 @@ exports[`Locale Provider set moment locale when locale changes 3`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="September 30, 2017"
                       >
@@ -2792,7 +2792,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="٣١ أغسطس ٢٠١٧"
                       >
@@ -3207,7 +3207,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                       role="row"
                     >
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="٣٠ سبتمبر ٢٠١٧"
                       >
@@ -4369,7 +4369,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="٣١ أغسطس ٢٠١٧"
                           >
@@ -4784,7 +4784,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                           role="row"
                         >
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="٣٠ سبتمبر ٢٠١٧"
                           >
@@ -5037,7 +5037,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                           role="row"
                         >
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="٣٠ سبتمبر ٢٠١٧"
                           >
@@ -5460,7 +5460,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="٣١ أكتوبر ٢٠١٧"
                           >
@@ -6144,7 +6144,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="٣١ أغسطس ٢٠١٧"
               >
@@ -6709,7 +6709,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
               role="row"
             >
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="٣٠ سبتمبر ٢٠١٧"
               >
@@ -7363,7 +7363,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 август 2017"
                       >
@@ -7773,7 +7773,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 септември 2017"
                       >
@@ -8940,7 +8940,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 август 2017"
                           >
@@ -9350,7 +9350,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 септември 2017"
                           >
@@ -9699,7 +9699,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 септември 2017"
                           >
@@ -10127,7 +10127,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 октомври 2017"
                           >
@@ -10705,7 +10705,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 август 2017"
               >
@@ -11265,7 +11265,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 септември 2017"
               >
@@ -11960,7 +11960,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 d'agost de 2017"
                       >
@@ -12370,7 +12370,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 de setembre de 2017"
                       >
@@ -13537,7 +13537,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 d'agost de 2017"
                           >
@@ -13947,7 +13947,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 de setembre de 2017"
                           >
@@ -14296,7 +14296,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 de setembre de 2017"
                           >
@@ -14724,7 +14724,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 d'octubre de 2017"
                           >
@@ -15302,7 +15302,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 d'agost de 2017"
               >
@@ -15862,7 +15862,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 de setembre de 2017"
               >
@@ -16557,7 +16557,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31. srpen 2017"
                       >
@@ -16967,7 +16967,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30. září 2017"
                       >
@@ -18134,7 +18134,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. srpen 2017"
                           >
@@ -18544,7 +18544,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. září 2017"
                           >
@@ -18893,7 +18893,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. září 2017"
                           >
@@ -19321,7 +19321,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. říjen 2017"
                           >
@@ -19899,7 +19899,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31. srpen 2017"
               >
@@ -20459,7 +20459,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30. září 2017"
               >
@@ -21154,7 +21154,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31. August 2017"
                       >
@@ -21564,7 +21564,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30. September 2017"
                       >
@@ -22731,7 +22731,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. August 2017"
                           >
@@ -23141,7 +23141,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. September 2017"
                           >
@@ -23490,7 +23490,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. September 2017"
                           >
@@ -23918,7 +23918,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. Oktober 2017"
                           >
@@ -24496,7 +24496,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31. August 2017"
               >
@@ -25056,7 +25056,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30. September 2017"
               >
@@ -25751,7 +25751,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 Αυγούστου 2017"
                       >
@@ -26161,7 +26161,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 Σεπτεμβρίου 2017"
                       >
@@ -27328,7 +27328,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 Αυγούστου 2017"
                           >
@@ -27738,7 +27738,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 Σεπτεμβρίου 2017"
                           >
@@ -28087,7 +28087,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 Σεπτεμβρίου 2017"
                           >
@@ -28515,7 +28515,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 Οκτωβρίου 2017"
                           >
@@ -29093,7 +29093,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 Αυγούστου 2017"
               >
@@ -29653,7 +29653,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 Σεπτεμβρίου 2017"
               >
@@ -30361,7 +30361,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="August 31, 2017"
                       >
@@ -30771,7 +30771,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="September 30, 2017"
                       >
@@ -31938,7 +31938,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="August 31, 2017"
                           >
@@ -32348,7 +32348,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="September 30, 2017"
                           >
@@ -33029,7 +33029,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="October 31, 2017"
                           >
@@ -33708,7 +33708,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="August 31, 2017"
               >
@@ -34268,7 +34268,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="September 30, 2017"
               >
@@ -34945,7 +34945,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 August 2017"
                       >
@@ -35355,7 +35355,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 September 2017"
                       >
@@ -36522,7 +36522,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 August 2017"
                           >
@@ -36932,7 +36932,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 September 2017"
                           >
@@ -37281,7 +37281,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 September 2017"
                           >
@@ -37709,7 +37709,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 October 2017"
                           >
@@ -38287,7 +38287,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 August 2017"
               >
@@ -38847,7 +38847,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 September 2017"
               >
@@ -39542,7 +39542,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 de agosto de 2017"
                       >
@@ -39952,7 +39952,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 de septiembre de 2017"
                       >
@@ -41119,7 +41119,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 de agosto de 2017"
                           >
@@ -41529,7 +41529,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 de septiembre de 2017"
                           >
@@ -41878,7 +41878,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 de septiembre de 2017"
                           >
@@ -42306,7 +42306,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 de octubre de 2017"
                           >
@@ -42884,7 +42884,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 de agosto de 2017"
               >
@@ -43444,7 +43444,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 de septiembre de 2017"
               >
@@ -44139,7 +44139,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31. august 2017"
                       >
@@ -44549,7 +44549,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30. september 2017"
                       >
@@ -45716,7 +45716,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. august 2017"
                           >
@@ -46126,7 +46126,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -46475,7 +46475,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -46903,7 +46903,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. oktoober 2017"
                           >
@@ -47481,7 +47481,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31. august 2017"
               >
@@ -48041,7 +48041,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30. september 2017"
               >
@@ -48762,7 +48762,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="۳۱ اوت ۲۰۱۷"
                       >
@@ -49177,7 +49177,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                       role="row"
                     >
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="۳۰ سپتامبر ۲۰۱۷"
                       >
@@ -50339,7 +50339,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="۳۱ اوت ۲۰۱۷"
                           >
@@ -50754,7 +50754,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                           role="row"
                         >
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="۳۰ سپتامبر ۲۰۱۷"
                           >
@@ -51007,7 +51007,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                           role="row"
                         >
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="۳۰ سپتامبر ۲۰۱۷"
                           >
@@ -51430,7 +51430,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="۳۱ اکتبر ۲۰۱۷"
                           >
@@ -52114,7 +52114,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="۳۱ اوت ۲۰۱۷"
               >
@@ -52679,7 +52679,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
               role="row"
             >
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="۳۰ سپتامبر ۲۰۱۷"
               >
@@ -53333,7 +53333,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31. elokuuta 2017"
                       >
@@ -53743,7 +53743,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30. syyskuuta 2017"
                       >
@@ -54910,7 +54910,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. elokuuta 2017"
                           >
@@ -55320,7 +55320,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. syyskuuta 2017"
                           >
@@ -55669,7 +55669,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. syyskuuta 2017"
                           >
@@ -56097,7 +56097,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. lokakuuta 2017"
                           >
@@ -56675,7 +56675,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31. elokuuta 2017"
               >
@@ -57235,7 +57235,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30. syyskuuta 2017"
               >
@@ -57930,7 +57930,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 août 2017"
                       >
@@ -58340,7 +58340,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 septembre 2017"
                       >
@@ -59507,7 +59507,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 août 2017"
                           >
@@ -59917,7 +59917,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 septembre 2017"
                           >
@@ -60266,7 +60266,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 septembre 2017"
                           >
@@ -60694,7 +60694,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 octobre 2017"
                           >
@@ -61272,7 +61272,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 août 2017"
               >
@@ -61832,7 +61832,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 septembre 2017"
               >
@@ -62527,7 +62527,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 août 2017"
                       >
@@ -62937,7 +62937,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 septembre 2017"
                       >
@@ -64104,7 +64104,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 août 2017"
                           >
@@ -64514,7 +64514,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 septembre 2017"
                           >
@@ -64863,7 +64863,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 septembre 2017"
                           >
@@ -65291,7 +65291,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 octobre 2017"
                           >
@@ -65869,7 +65869,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 août 2017"
               >
@@ -66429,7 +66429,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 septembre 2017"
               >
@@ -67124,7 +67124,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31. ágúst 2017"
                       >
@@ -67534,7 +67534,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30. september 2017"
                       >
@@ -68701,7 +68701,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. ágúst 2017"
                           >
@@ -69111,7 +69111,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -69460,7 +69460,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -69888,7 +69888,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. október 2017"
                           >
@@ -70466,7 +70466,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31. ágúst 2017"
               >
@@ -71026,7 +71026,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30. september 2017"
               >
@@ -71721,7 +71721,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 agosto 2017"
                       >
@@ -72131,7 +72131,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 settembre 2017"
                       >
@@ -73298,7 +73298,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 agosto 2017"
                           >
@@ -73708,7 +73708,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 settembre 2017"
                           >
@@ -74057,7 +74057,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 settembre 2017"
                           >
@@ -74485,7 +74485,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 ottobre 2017"
                           >
@@ -75063,7 +75063,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 agosto 2017"
               >
@@ -75623,7 +75623,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 settembre 2017"
               >
@@ -76331,7 +76331,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年8月31日"
                       >
@@ -76741,7 +76741,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年9月30日"
                       >
@@ -77908,7 +77908,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年8月31日"
                           >
@@ -78318,7 +78318,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年9月30日"
                           >
@@ -78999,7 +78999,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年10月31日"
                           >
@@ -79678,7 +79678,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017年8月31日"
               >
@@ -80238,7 +80238,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017年9月30日"
               >
@@ -80928,7 +80928,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017년 8월 31일"
                       >
@@ -81338,7 +81338,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017년 9월 30일"
                       >
@@ -82505,7 +82505,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017년 8월 31일"
                           >
@@ -82915,7 +82915,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017년 9월 30일"
                           >
@@ -83596,7 +83596,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017년 10월 31일"
                           >
@@ -84275,7 +84275,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017년 8월 31일"
               >
@@ -84835,7 +84835,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017년 9월 30일"
               >
@@ -85512,7 +85512,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年8月31日"
                       >
@@ -85922,7 +85922,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年9月30日"
                       >
@@ -87089,7 +87089,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年8月31日"
                           >
@@ -87499,7 +87499,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年9月30日"
                           >
@@ -87848,7 +87848,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年9月30日"
                           >
@@ -88276,7 +88276,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年10月31日"
                           >
@@ -88854,7 +88854,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017年8月31日"
               >
@@ -89414,7 +89414,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017年9月30日"
               >
@@ -90109,7 +90109,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31. august 2017"
                       >
@@ -90519,7 +90519,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30. september 2017"
                       >
@@ -91686,7 +91686,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. august 2017"
                           >
@@ -92096,7 +92096,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -92445,7 +92445,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -92873,7 +92873,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. oktober 2017"
                           >
@@ -93451,7 +93451,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31. august 2017"
               >
@@ -94011,7 +94011,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30. september 2017"
               >
@@ -94706,7 +94706,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 augustus 2017"
                       >
@@ -95116,7 +95116,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 september 2017"
                       >
@@ -96283,7 +96283,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 augustus 2017"
                           >
@@ -96693,7 +96693,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 september 2017"
                           >
@@ -97042,7 +97042,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 september 2017"
                           >
@@ -97470,7 +97470,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 oktober 2017"
                           >
@@ -98048,7 +98048,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 augustus 2017"
               >
@@ -98608,7 +98608,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 september 2017"
               >
@@ -99303,7 +99303,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 augustus 2017"
                       >
@@ -99713,7 +99713,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 september 2017"
                       >
@@ -100880,7 +100880,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 augustus 2017"
                           >
@@ -101290,7 +101290,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 september 2017"
                           >
@@ -101639,7 +101639,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 september 2017"
                           >
@@ -102067,7 +102067,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 oktober 2017"
                           >
@@ -102645,7 +102645,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 augustus 2017"
               >
@@ -103205,7 +103205,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 september 2017"
               >
@@ -103900,7 +103900,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 sierpnia 2017"
                       >
@@ -104310,7 +104310,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 września 2017"
                       >
@@ -105477,7 +105477,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 sierpnia 2017"
                           >
@@ -105887,7 +105887,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 września 2017"
                           >
@@ -106236,7 +106236,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 września 2017"
                           >
@@ -106664,7 +106664,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 października 2017"
                           >
@@ -107242,7 +107242,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 sierpnia 2017"
               >
@@ -107802,7 +107802,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 września 2017"
               >
@@ -108346,7 +108346,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                       role="button"
                       title="Selecionar mês"
                     >
-                      set
+                      setembro
                     </a>
                   </span>
                   <a
@@ -108497,7 +108497,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 de agosto de 2017"
                       >
@@ -108907,7 +108907,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 de setembro de 2017"
                       >
@@ -109931,7 +109931,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                           role="button"
                           title="Selecionar mês"
                         >
-                          set
+                          setembro
                         </a>
                       </span>
                     </div>
@@ -110074,7 +110074,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 de agosto de 2017"
                           >
@@ -110484,7 +110484,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 de setembro de 2017"
                           >
@@ -110656,7 +110656,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                           role="button"
                           title="Selecionar mês"
                         >
-                          out
+                          outubro
                         </a>
                       </span>
                       <a
@@ -110833,7 +110833,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 de setembro de 2017"
                           >
@@ -111261,7 +111261,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 de outubro de 2017"
                           >
@@ -111839,7 +111839,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 de agosto de 2017"
               >
@@ -112399,7 +112399,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 de setembro de 2017"
               >
@@ -113107,7 +113107,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 de agosto de 2017"
                       >
@@ -113517,7 +113517,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 de setembro de 2017"
                       >
@@ -114684,7 +114684,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 de agosto de 2017"
                           >
@@ -115094,7 +115094,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 de setembro de 2017"
                           >
@@ -115775,7 +115775,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 de outubro de 2017"
                           >
@@ -116454,7 +116454,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 de agosto de 2017"
               >
@@ -117014,7 +117014,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 de setembro de 2017"
               >
@@ -117691,7 +117691,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 августа 2017 г."
                       >
@@ -118101,7 +118101,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 сентября 2017 г."
                       >
@@ -119268,7 +119268,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 августа 2017 г."
                           >
@@ -119678,7 +119678,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 сентября 2017 г."
                           >
@@ -120027,7 +120027,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 сентября 2017 г."
                           >
@@ -120455,7 +120455,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 октября 2017 г."
                           >
@@ -121033,7 +121033,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 августа 2017 г."
               >
@@ -121593,7 +121593,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 сентября 2017 г."
               >
@@ -122288,7 +122288,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31. august 2017"
                       >
@@ -122698,7 +122698,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30. september 2017"
                       >
@@ -123865,7 +123865,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. august 2017"
                           >
@@ -124275,7 +124275,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -124624,7 +124624,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -125052,7 +125052,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. október 2017"
                           >
@@ -125630,7 +125630,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31. august 2017"
               >
@@ -126190,7 +126190,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30. september 2017"
               >
@@ -126727,7 +126727,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                       role="button"
                       title="Izberite mesec"
                     >
-                      sep.
+                      september
                     </a>
                     <a
                       class="ant-calendar-year-select"
@@ -126885,7 +126885,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31. avgust 2017"
                       >
@@ -127295,7 +127295,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30. september 2017"
                       >
@@ -128312,7 +128312,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                           role="button"
                           title="Izberite mesec"
                         >
-                          sep.
+                          september
                         </a>
                         <a
                           class="ant-calendar-year-select"
@@ -128462,7 +128462,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. avgust 2017"
                           >
@@ -128872,7 +128872,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -129037,7 +129037,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                           role="button"
                           title="Izberite mesec"
                         >
-                          okt.
+                          oktober
                         </a>
                         <a
                           class="ant-calendar-year-select"
@@ -129221,7 +129221,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. september 2017"
                           >
@@ -129649,7 +129649,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. oktober 2017"
                           >
@@ -130227,7 +130227,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31. avgust 2017"
               >
@@ -130787,7 +130787,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30. september 2017"
               >
@@ -131482,7 +131482,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31. avgust 2017"
                       >
@@ -131892,7 +131892,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30. septembar 2017"
                       >
@@ -133059,7 +133059,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. avgust 2017"
                           >
@@ -133469,7 +133469,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. septembar 2017"
                           >
@@ -133818,7 +133818,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30. septembar 2017"
                           >
@@ -134246,7 +134246,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31. oktobar 2017"
                           >
@@ -134824,7 +134824,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31. avgust 2017"
               >
@@ -135384,7 +135384,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30. septembar 2017"
               >
@@ -136079,7 +136079,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 augusti 2017"
                       >
@@ -136489,7 +136489,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 september 2017"
                       >
@@ -137656,7 +137656,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 augusti 2017"
                           >
@@ -138066,7 +138066,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 september 2017"
                           >
@@ -138415,7 +138415,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 september 2017"
                           >
@@ -138843,7 +138843,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 oktober 2017"
                           >
@@ -139421,7 +139421,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 augusti 2017"
               >
@@ -139981,7 +139981,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 september 2017"
               >
@@ -140689,7 +140689,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 สิงหาคม 2017"
                       >
@@ -141099,7 +141099,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 กันยายน 2017"
                       >
@@ -142266,7 +142266,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 สิงหาคม 2017"
                           >
@@ -142676,7 +142676,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 กันยายน 2017"
                           >
@@ -143357,7 +143357,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 ตุลาคม 2017"
                           >
@@ -144036,7 +144036,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 สิงหาคม 2017"
               >
@@ -144596,7 +144596,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 กันยายน 2017"
               >
@@ -145273,7 +145273,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 Ağustos 2017"
                       >
@@ -145683,7 +145683,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 Eylül 2017"
                       >
@@ -146850,7 +146850,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 Ağustos 2017"
                           >
@@ -147260,7 +147260,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 Eylül 2017"
                           >
@@ -147609,7 +147609,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 Eylül 2017"
                           >
@@ -148037,7 +148037,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 Ekim 2017"
                           >
@@ -148615,7 +148615,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 Ağustos 2017"
               >
@@ -149175,7 +149175,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 Eylül 2017"
               >
@@ -149870,7 +149870,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 серпня 2017 р."
                       >
@@ -150280,7 +150280,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 вересня 2017 р."
                       >
@@ -151447,7 +151447,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 серпня 2017 р."
                           >
@@ -151857,7 +151857,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 вересня 2017 р."
                           >
@@ -152206,7 +152206,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 вересня 2017 р."
                           >
@@ -152634,7 +152634,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 жовтня 2017 р."
                           >
@@ -153212,7 +153212,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 серпня 2017 р."
               >
@@ -153772,7 +153772,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 вересня 2017 р."
               >
@@ -154467,7 +154467,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="31 tháng 8 năm 2017"
                       >
@@ -154877,7 +154877,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="30 tháng 9 năm 2017"
                       >
@@ -156044,7 +156044,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 tháng 8 năm 2017"
                           >
@@ -156454,7 +156454,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 tháng 9 năm 2017"
                           >
@@ -156803,7 +156803,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="30 tháng 9 năm 2017"
                           >
@@ -157231,7 +157231,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="31 tháng 10 năm 2017"
                           >
@@ -157809,7 +157809,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="31 tháng 8 năm 2017"
               >
@@ -158369,7 +158369,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="30 tháng 9 năm 2017"
               >
@@ -159064,7 +159064,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年8月31日"
                       >
@@ -159474,7 +159474,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年9月30日"
                       >
@@ -160641,7 +160641,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年8月31日"
                           >
@@ -161051,7 +161051,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年9月30日"
                           >
@@ -161400,7 +161400,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年9月30日"
                           >
@@ -161828,7 +161828,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年10月31日"
                           >
@@ -162406,7 +162406,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017年8月31日"
               >
@@ -162966,7 +162966,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017年9月30日"
               >
@@ -163674,7 +163674,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年8月31日"
                       >
@@ -164084,7 +164084,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                         </div>
                       </td>
                       <td
-                        class="ant-calendar-cell"
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
                         title="2017年9月30日"
                       >
@@ -165251,7 +165251,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年8月31日"
                           >
@@ -165661,7 +165661,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年9月30日"
                           >
@@ -166342,7 +166342,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                             </div>
                           </td>
                           <td
-                            class="ant-calendar-cell"
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
                             title="2017年10月31日"
                           >
@@ -167021,7 +167021,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017年8月31日"
               >
@@ -167581,7 +167581,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                 </div>
               </td>
               <td
-                class="ant-fullcalendar-cell"
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
                 title="2017年9月30日"
               >
