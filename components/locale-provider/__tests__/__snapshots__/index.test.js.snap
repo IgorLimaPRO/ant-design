@@ -15,10 +15,10 @@ exports[`Locale Provider set moment locale when locale changes 1`] = `
         value="2017-09-18"
       />
       <i
-        class="anticon ant-calendar-picker-clear"
+        class="anticon anticon-cross-circle ant-calendar-picker-clear"
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -827,10 +827,10 @@ exports[`Locale Provider set moment locale when locale changes 2`] = `
         value="2017-09-18"
       />
       <i
-        class="anticon ant-calendar-picker-clear"
+        class="anticon anticon-cross-circle ant-calendar-picker-clear"
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -1639,10 +1639,10 @@ exports[`Locale Provider set moment locale when locale changes 3`] = `
         value="2017-09-18"
       />
       <i
-        class="anticon ant-calendar-picker-clear"
+        class="anticon anticon-cross-circle ant-calendar-picker-clear"
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -2537,7 +2537,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -2598,7 +2598,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -2629,7 +2629,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -4230,7 +4230,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -5765,7 +5765,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -5852,7 +5852,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -5893,7 +5893,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -5915,7 +5915,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -5982,7 +5982,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -6049,7 +6049,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -6095,7 +6095,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -7080,7 +7080,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -7151,7 +7151,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -7321,7 +7321,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -7382,7 +7382,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -7413,7 +7413,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -9014,7 +9014,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -10549,7 +10549,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -10636,7 +10636,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -10677,7 +10677,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -10699,7 +10699,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -10766,7 +10766,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -10833,7 +10833,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -10879,7 +10879,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -11864,7 +11864,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -11935,7 +11935,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -12105,7 +12105,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -12166,7 +12166,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -12197,7 +12197,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -13798,7 +13798,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -15333,7 +15333,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -15420,7 +15420,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -15461,7 +15461,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -15483,7 +15483,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -15550,7 +15550,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -15617,7 +15617,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -15663,7 +15663,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -16648,7 +16648,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -16719,7 +16719,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -16889,7 +16889,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -16950,7 +16950,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -16981,7 +16981,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -18582,7 +18582,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -20117,7 +20117,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -20204,7 +20204,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -20245,7 +20245,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -20267,7 +20267,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -20334,7 +20334,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -20401,7 +20401,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -20447,7 +20447,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -21432,7 +21432,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -21503,7 +21503,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -21673,7 +21673,7 @@ exports[`Locale Provider should display the text as de 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -21734,7 +21734,7 @@ exports[`Locale Provider should display the text as de 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -21765,7 +21765,7 @@ exports[`Locale Provider should display the text as de 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -23366,7 +23366,7 @@ exports[`Locale Provider should display the text as de 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -24901,7 +24901,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -24988,7 +24988,7 @@ exports[`Locale Provider should display the text as de 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -25029,7 +25029,7 @@ exports[`Locale Provider should display the text as de 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -25051,7 +25051,7 @@ exports[`Locale Provider should display the text as de 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -25118,7 +25118,7 @@ exports[`Locale Provider should display the text as de 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -25185,7 +25185,7 @@ exports[`Locale Provider should display the text as de 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -25231,7 +25231,7 @@ exports[`Locale Provider should display the text as de 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -26216,7 +26216,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -26287,7 +26287,7 @@ exports[`Locale Provider should display the text as de 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -26457,7 +26457,7 @@ exports[`Locale Provider should display the text as el 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -26518,7 +26518,7 @@ exports[`Locale Provider should display the text as el 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -26549,7 +26549,7 @@ exports[`Locale Provider should display the text as el 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -28150,7 +28150,7 @@ exports[`Locale Provider should display the text as el 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -29685,7 +29685,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -29772,7 +29772,7 @@ exports[`Locale Provider should display the text as el 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -29813,7 +29813,7 @@ exports[`Locale Provider should display the text as el 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -29835,7 +29835,7 @@ exports[`Locale Provider should display the text as el 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -29902,7 +29902,7 @@ exports[`Locale Provider should display the text as el 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -29969,7 +29969,7 @@ exports[`Locale Provider should display the text as el 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -30015,7 +30015,7 @@ exports[`Locale Provider should display the text as el 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -31000,7 +31000,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -31071,7 +31071,7 @@ exports[`Locale Provider should display the text as el 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -31241,7 +31241,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -31302,7 +31302,7 @@ exports[`Locale Provider should display the text as en 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -31333,7 +31333,7 @@ exports[`Locale Provider should display the text as en 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -32934,7 +32934,7 @@ exports[`Locale Provider should display the text as en 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -34469,7 +34469,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -34556,7 +34556,7 @@ exports[`Locale Provider should display the text as en 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -34597,7 +34597,7 @@ exports[`Locale Provider should display the text as en 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -34619,7 +34619,7 @@ exports[`Locale Provider should display the text as en 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -34686,7 +34686,7 @@ exports[`Locale Provider should display the text as en 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -34753,7 +34753,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -34799,7 +34799,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -35784,7 +35784,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -35855,7 +35855,7 @@ exports[`Locale Provider should display the text as en 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -36025,7 +36025,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -36086,7 +36086,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -36117,7 +36117,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -37718,7 +37718,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -39253,7 +39253,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -39340,7 +39340,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -39381,7 +39381,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -39403,7 +39403,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -39470,7 +39470,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -39537,7 +39537,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -39583,7 +39583,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -40568,7 +40568,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -40639,7 +40639,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -40809,7 +40809,7 @@ exports[`Locale Provider should display the text as es 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -40870,7 +40870,7 @@ exports[`Locale Provider should display the text as es 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -40901,7 +40901,7 @@ exports[`Locale Provider should display the text as es 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -42502,7 +42502,7 @@ exports[`Locale Provider should display the text as es 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -44037,7 +44037,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -44124,7 +44124,7 @@ exports[`Locale Provider should display the text as es 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -44165,7 +44165,7 @@ exports[`Locale Provider should display the text as es 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -44187,7 +44187,7 @@ exports[`Locale Provider should display the text as es 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -44254,7 +44254,7 @@ exports[`Locale Provider should display the text as es 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -44321,7 +44321,7 @@ exports[`Locale Provider should display the text as es 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -44367,7 +44367,7 @@ exports[`Locale Provider should display the text as es 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -45352,7 +45352,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -45423,7 +45423,7 @@ exports[`Locale Provider should display the text as es 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -45593,7 +45593,7 @@ exports[`Locale Provider should display the text as et 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -45654,7 +45654,7 @@ exports[`Locale Provider should display the text as et 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -45685,7 +45685,7 @@ exports[`Locale Provider should display the text as et 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -47286,7 +47286,7 @@ exports[`Locale Provider should display the text as et 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -48821,7 +48821,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -48908,7 +48908,7 @@ exports[`Locale Provider should display the text as et 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -48949,7 +48949,7 @@ exports[`Locale Provider should display the text as et 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -48971,7 +48971,7 @@ exports[`Locale Provider should display the text as et 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -49038,7 +49038,7 @@ exports[`Locale Provider should display the text as et 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -49105,7 +49105,7 @@ exports[`Locale Provider should display the text as et 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -49151,7 +49151,7 @@ exports[`Locale Provider should display the text as et 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -50136,7 +50136,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -50207,7 +50207,7 @@ exports[`Locale Provider should display the text as et 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -50377,7 +50377,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -50438,7 +50438,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -50469,7 +50469,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -52070,7 +52070,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -53605,7 +53605,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -53692,7 +53692,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -53733,7 +53733,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -53755,7 +53755,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -53822,7 +53822,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -53889,7 +53889,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -53935,7 +53935,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -54920,7 +54920,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -54991,7 +54991,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -55161,7 +55161,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -55222,7 +55222,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -55253,7 +55253,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -56854,7 +56854,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -58389,7 +58389,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -58476,7 +58476,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -58517,7 +58517,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -58539,7 +58539,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -58606,7 +58606,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -58673,7 +58673,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -58719,7 +58719,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -59704,7 +59704,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -59775,7 +59775,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -59945,7 +59945,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -60006,7 +60006,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -60037,7 +60037,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -61638,7 +61638,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -63173,7 +63173,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -63260,7 +63260,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -63301,7 +63301,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -63323,7 +63323,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -63390,7 +63390,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -63457,7 +63457,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -63503,7 +63503,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -64488,7 +64488,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -64559,7 +64559,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -64729,7 +64729,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -64790,7 +64790,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -64821,7 +64821,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -66422,7 +66422,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -67957,7 +67957,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -68044,7 +68044,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -68085,7 +68085,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -68107,7 +68107,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -68174,7 +68174,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -68241,7 +68241,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -68287,7 +68287,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -69272,7 +69272,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -69343,7 +69343,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -69513,7 +69513,7 @@ exports[`Locale Provider should display the text as is 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -69574,7 +69574,7 @@ exports[`Locale Provider should display the text as is 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -69605,7 +69605,7 @@ exports[`Locale Provider should display the text as is 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -71206,7 +71206,7 @@ exports[`Locale Provider should display the text as is 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -72741,7 +72741,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -72828,7 +72828,7 @@ exports[`Locale Provider should display the text as is 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -72869,7 +72869,7 @@ exports[`Locale Provider should display the text as is 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -72891,7 +72891,7 @@ exports[`Locale Provider should display the text as is 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -72958,7 +72958,7 @@ exports[`Locale Provider should display the text as is 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -73025,7 +73025,7 @@ exports[`Locale Provider should display the text as is 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -73071,7 +73071,7 @@ exports[`Locale Provider should display the text as is 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -74056,7 +74056,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -74127,7 +74127,7 @@ exports[`Locale Provider should display the text as is 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -74297,7 +74297,7 @@ exports[`Locale Provider should display the text as it 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -74358,7 +74358,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -74389,7 +74389,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -75990,7 +75990,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -77525,7 +77525,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -77612,7 +77612,7 @@ exports[`Locale Provider should display the text as it 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -77653,7 +77653,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -77675,7 +77675,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -77742,7 +77742,7 @@ exports[`Locale Provider should display the text as it 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -77809,7 +77809,7 @@ exports[`Locale Provider should display the text as it 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -77855,7 +77855,7 @@ exports[`Locale Provider should display the text as it 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -78840,7 +78840,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -78911,7 +78911,7 @@ exports[`Locale Provider should display the text as it 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -79081,7 +79081,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -79142,7 +79142,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -79173,7 +79173,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -80774,7 +80774,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -82309,7 +82309,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -82396,7 +82396,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -82437,7 +82437,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -82459,7 +82459,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -82526,7 +82526,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -82593,7 +82593,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -82639,7 +82639,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -83624,7 +83624,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -83695,7 +83695,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -83865,7 +83865,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -83926,7 +83926,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -83957,7 +83957,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -85558,7 +85558,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -87093,7 +87093,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -87180,7 +87180,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -87221,7 +87221,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -87243,7 +87243,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -87310,7 +87310,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -87377,7 +87377,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -87423,7 +87423,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -88408,7 +88408,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -88479,7 +88479,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -88649,7 +88649,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -88710,7 +88710,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -88741,7 +88741,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -90342,7 +90342,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -91877,7 +91877,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -91964,7 +91964,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -92005,7 +92005,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -92027,7 +92027,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -92094,7 +92094,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -92161,7 +92161,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -92207,7 +92207,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -93192,7 +93192,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -93263,7 +93263,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -93433,7 +93433,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -93494,7 +93494,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -93525,7 +93525,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -95126,7 +95126,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -96661,7 +96661,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -96748,7 +96748,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -96789,7 +96789,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -96811,7 +96811,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -96878,7 +96878,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -96945,7 +96945,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -96991,7 +96991,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -97976,7 +97976,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -98047,7 +98047,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -98217,7 +98217,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -98278,7 +98278,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -98309,7 +98309,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -99910,7 +99910,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -101445,7 +101445,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -101532,7 +101532,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -101573,7 +101573,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -101595,7 +101595,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -101662,7 +101662,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -101729,7 +101729,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -101775,7 +101775,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -102760,7 +102760,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -102831,7 +102831,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -103001,7 +103001,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -103062,7 +103062,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -103093,7 +103093,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -104694,7 +104694,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -106229,7 +106229,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -106316,7 +106316,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -106357,7 +106357,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -106379,7 +106379,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -106446,7 +106446,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -106513,7 +106513,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -106559,7 +106559,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -107544,7 +107544,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -107615,7 +107615,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -107785,7 +107785,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -107846,7 +107846,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -107877,7 +107877,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -109478,7 +109478,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -111013,7 +111013,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -111100,7 +111100,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -111141,7 +111141,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -111163,7 +111163,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -111230,7 +111230,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -111297,7 +111297,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -111343,7 +111343,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -112328,7 +112328,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -112399,7 +112399,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -112569,7 +112569,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -112630,7 +112630,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -112661,7 +112661,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -114262,7 +114262,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -115797,7 +115797,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -115884,7 +115884,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -115925,7 +115925,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -115947,7 +115947,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -116014,7 +116014,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -116081,7 +116081,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -116127,7 +116127,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -117112,7 +117112,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -117183,7 +117183,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -117353,7 +117353,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -117414,7 +117414,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -117445,7 +117445,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -119046,7 +119046,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -120581,7 +120581,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -120668,7 +120668,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -120709,7 +120709,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -120731,7 +120731,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -120798,7 +120798,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -120865,7 +120865,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -120911,7 +120911,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -121896,7 +121896,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -121967,7 +121967,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -122137,7 +122137,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -122198,7 +122198,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -122229,7 +122229,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -123830,7 +123830,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -125365,7 +125365,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -125452,7 +125452,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -125493,7 +125493,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -125515,7 +125515,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -125582,7 +125582,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -125649,7 +125649,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -125695,7 +125695,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -126680,7 +126680,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -126751,7 +126751,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -126921,7 +126921,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -126982,7 +126982,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -127013,7 +127013,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -128614,7 +128614,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -130149,7 +130149,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -130236,7 +130236,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -130277,7 +130277,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -130299,7 +130299,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -130366,7 +130366,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -130433,7 +130433,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -130479,7 +130479,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -131464,7 +131464,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -131535,7 +131535,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -131705,7 +131705,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -131766,7 +131766,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -131797,7 +131797,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -133398,7 +133398,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -134933,7 +134933,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -135020,7 +135020,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -135061,7 +135061,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -135083,7 +135083,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -135150,7 +135150,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -135217,7 +135217,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -135263,7 +135263,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -136248,7 +136248,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -136319,7 +136319,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -136489,7 +136489,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -136550,7 +136550,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -136581,7 +136581,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -138182,7 +138182,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -139717,7 +139717,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -139804,7 +139804,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -139845,7 +139845,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -139867,7 +139867,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -139934,7 +139934,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -140001,7 +140001,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -140047,7 +140047,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -141032,7 +141032,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -141103,7 +141103,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -141273,7 +141273,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -141334,7 +141334,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -141365,7 +141365,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -142966,7 +142966,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -144501,7 +144501,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -144588,7 +144588,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -144629,7 +144629,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -144651,7 +144651,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -144718,7 +144718,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -144785,7 +144785,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -144831,7 +144831,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -145816,7 +145816,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -145887,7 +145887,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -146057,7 +146057,7 @@ exports[`Locale Provider should display the text as th 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -146118,7 +146118,7 @@ exports[`Locale Provider should display the text as th 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -146149,7 +146149,7 @@ exports[`Locale Provider should display the text as th 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -147750,7 +147750,7 @@ exports[`Locale Provider should display the text as th 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -149285,7 +149285,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -149372,7 +149372,7 @@ exports[`Locale Provider should display the text as th 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -149413,7 +149413,7 @@ exports[`Locale Provider should display the text as th 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -149435,7 +149435,7 @@ exports[`Locale Provider should display the text as th 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -149502,7 +149502,7 @@ exports[`Locale Provider should display the text as th 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -149569,7 +149569,7 @@ exports[`Locale Provider should display the text as th 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -149615,7 +149615,7 @@ exports[`Locale Provider should display the text as th 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -150600,7 +150600,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -150671,7 +150671,7 @@ exports[`Locale Provider should display the text as th 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -150841,7 +150841,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -150902,7 +150902,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -150933,7 +150933,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -152534,7 +152534,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -154069,7 +154069,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -154156,7 +154156,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -154197,7 +154197,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -154219,7 +154219,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -154286,7 +154286,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -154353,7 +154353,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -154399,7 +154399,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -155384,7 +155384,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -155455,7 +155455,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -155625,7 +155625,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -155686,7 +155686,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -155717,7 +155717,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -157318,7 +157318,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -158853,7 +158853,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -158940,7 +158940,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -158981,7 +158981,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -159003,7 +159003,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -159070,7 +159070,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -159137,7 +159137,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -159183,7 +159183,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -160168,7 +160168,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -160239,7 +160239,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -160409,7 +160409,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -160470,7 +160470,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -160501,7 +160501,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -162102,7 +162102,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -163637,7 +163637,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -163724,7 +163724,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -163765,7 +163765,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -163787,7 +163787,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -163854,7 +163854,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -163921,7 +163921,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -163967,7 +163967,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -164952,7 +164952,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -165023,7 +165023,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -165193,7 +165193,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -165254,7 +165254,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -165285,7 +165285,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -166886,7 +166886,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -168421,7 +168421,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -168508,7 +168508,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -168549,7 +168549,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -168571,7 +168571,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -168638,7 +168638,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -168705,7 +168705,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -168751,7 +168751,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -169736,7 +169736,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -169807,7 +169807,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
@@ -169977,7 +169977,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -170038,7 +170038,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         unselectable="on"
       >
         <i
-          class="anticon ant-select-arrow-icon"
+          class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
             aria-hidden="true"
@@ -170069,7 +170069,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -171670,7 +171670,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         value=""
       />
       <i
-        class="anticon ant-calendar-picker-icon"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
           aria-hidden="true"
@@ -173205,7 +173205,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  class="anticon"
+                  class="anticon anticon-exclamation-circle"
                 />
                 <div
                   class="ant-popover-message-title"
@@ -173292,7 +173292,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -173333,7 +173333,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-right"
         >
           <svg
             aria-hidden="true"
@@ -173355,7 +173355,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         type="button"
       >
         <i
-          class="anticon"
+          class="anticon anticon-left"
         >
           <svg
             aria-hidden="true"
@@ -173422,7 +173422,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                class="anticon"
+                class="anticon anticon-search"
               >
                 <svg
                   aria-hidden="true"
@@ -173489,7 +173489,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -173535,7 +173535,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             unselectable="on"
           >
             <i
-              class="anticon ant-select-arrow-icon"
+              class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
                 aria-hidden="true"
@@ -174520,7 +174520,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                       <span>
                         Name
                         <i
-                          class="anticon ant-dropdown-trigger"
+                          class="anticon anticon-filter ant-dropdown-trigger"
                         >
                           <svg
                             aria-hidden="true"
@@ -174591,7 +174591,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                class="anticon ant-modal-close-icon"
+                class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
                   aria-hidden="true"
