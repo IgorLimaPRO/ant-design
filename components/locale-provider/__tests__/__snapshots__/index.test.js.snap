@@ -2536,7 +2536,22 @@ exports[`Locale Provider should display the text as ar 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -2582,7 +2597,22 @@ exports[`Locale Provider should display the text as ar 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -6018,7 +6048,22 @@ exports[`Locale Provider should display the text as ar 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -6049,7 +6094,22 @@ exports[`Locale Provider should display the text as ar 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -7027,7 +7087,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="الفلاتر"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -7090,7 +7149,24 @@ exports[`Locale Provider should display the text as ar 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -7244,7 +7320,22 @@ exports[`Locale Provider should display the text as bg 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -7290,7 +7381,22 @@ exports[`Locale Provider should display the text as bg 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -10726,7 +10832,22 @@ exports[`Locale Provider should display the text as bg 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -10757,7 +10878,22 @@ exports[`Locale Provider should display the text as bg 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -11735,7 +11871,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Филтриране"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -11798,7 +11933,24 @@ exports[`Locale Provider should display the text as bg 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -11952,7 +12104,22 @@ exports[`Locale Provider should display the text as ca 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -11998,7 +12165,22 @@ exports[`Locale Provider should display the text as ca 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -15434,7 +15616,22 @@ exports[`Locale Provider should display the text as ca 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -15465,7 +15662,22 @@ exports[`Locale Provider should display the text as ca 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -16443,7 +16655,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtrar Menu"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -16506,7 +16717,24 @@ exports[`Locale Provider should display the text as ca 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -16660,7 +16888,22 @@ exports[`Locale Provider should display the text as cs 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -16706,7 +16949,22 @@ exports[`Locale Provider should display the text as cs 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -20142,7 +20400,22 @@ exports[`Locale Provider should display the text as cs 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -20173,7 +20446,22 @@ exports[`Locale Provider should display the text as cs 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -21151,7 +21439,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtr"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -21214,7 +21501,24 @@ exports[`Locale Provider should display the text as cs 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -21368,7 +21672,22 @@ exports[`Locale Provider should display the text as de 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -21414,7 +21733,22 @@ exports[`Locale Provider should display the text as de 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -24850,7 +25184,22 @@ exports[`Locale Provider should display the text as de 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -24881,7 +25230,22 @@ exports[`Locale Provider should display the text as de 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -25859,7 +26223,6 @@ exports[`Locale Provider should display the text as de 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filter-Menü"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -25922,7 +26285,24 @@ exports[`Locale Provider should display the text as de 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -26076,7 +26456,22 @@ exports[`Locale Provider should display the text as el 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -26122,7 +26517,22 @@ exports[`Locale Provider should display the text as el 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -29558,7 +29968,22 @@ exports[`Locale Provider should display the text as el 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -29589,7 +30014,22 @@ exports[`Locale Provider should display the text as el 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -30567,7 +31007,6 @@ exports[`Locale Provider should display the text as el 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Μενού φίλτρων"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -30630,7 +31069,24 @@ exports[`Locale Provider should display the text as el 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -30784,7 +31240,22 @@ exports[`Locale Provider should display the text as en 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -30830,7 +31301,22 @@ exports[`Locale Provider should display the text as en 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -34266,7 +34752,22 @@ exports[`Locale Provider should display the text as en 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -34297,7 +34798,22 @@ exports[`Locale Provider should display the text as en 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -35275,7 +35791,6 @@ exports[`Locale Provider should display the text as en 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filter menu"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -35338,7 +35853,24 @@ exports[`Locale Provider should display the text as en 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -35492,7 +36024,22 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -35538,7 +36085,22 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -38974,7 +39536,22 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -39005,7 +39582,22 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -39983,7 +40575,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filter menu"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -40046,7 +40637,24 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -40200,7 +40808,22 @@ exports[`Locale Provider should display the text as es 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -40246,7 +40869,22 @@ exports[`Locale Provider should display the text as es 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -43682,7 +44320,22 @@ exports[`Locale Provider should display the text as es 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -43713,7 +44366,22 @@ exports[`Locale Provider should display the text as es 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -44691,7 +45359,6 @@ exports[`Locale Provider should display the text as es 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtrar menú"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -44754,7 +45421,24 @@ exports[`Locale Provider should display the text as es 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -44908,7 +45592,22 @@ exports[`Locale Provider should display the text as et 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -44954,7 +45653,22 @@ exports[`Locale Provider should display the text as et 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -48390,7 +49104,22 @@ exports[`Locale Provider should display the text as et 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -48421,7 +49150,22 @@ exports[`Locale Provider should display the text as et 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -49399,7 +50143,6 @@ exports[`Locale Provider should display the text as et 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtri menüü"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -49462,7 +50205,24 @@ exports[`Locale Provider should display the text as et 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -49616,7 +50376,22 @@ exports[`Locale Provider should display the text as fa 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -49662,7 +50437,22 @@ exports[`Locale Provider should display the text as fa 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -53098,7 +53888,22 @@ exports[`Locale Provider should display the text as fa 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -53129,7 +53934,22 @@ exports[`Locale Provider should display the text as fa 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -54107,7 +54927,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="منوی فیلتر"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -54170,7 +54989,24 @@ exports[`Locale Provider should display the text as fa 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -54324,7 +55160,22 @@ exports[`Locale Provider should display the text as fi 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -54370,7 +55221,22 @@ exports[`Locale Provider should display the text as fi 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -57806,7 +58672,22 @@ exports[`Locale Provider should display the text as fi 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -57837,7 +58718,22 @@ exports[`Locale Provider should display the text as fi 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -58815,7 +59711,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Suodatus valikko"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -58878,7 +59773,24 @@ exports[`Locale Provider should display the text as fi 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -59032,7 +59944,22 @@ exports[`Locale Provider should display the text as fr 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -59078,7 +60005,22 @@ exports[`Locale Provider should display the text as fr 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -62514,7 +63456,22 @@ exports[`Locale Provider should display the text as fr 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -62545,7 +63502,22 @@ exports[`Locale Provider should display the text as fr 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -63523,7 +64495,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtrer"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -63586,7 +64557,24 @@ exports[`Locale Provider should display the text as fr 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -63740,7 +64728,22 @@ exports[`Locale Provider should display the text as fr 2`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -63786,7 +64789,22 @@ exports[`Locale Provider should display the text as fr 2`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -67222,7 +68240,22 @@ exports[`Locale Provider should display the text as fr 2`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -67253,7 +68286,22 @@ exports[`Locale Provider should display the text as fr 2`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -68231,7 +69279,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtrer"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -68294,7 +69341,24 @@ exports[`Locale Provider should display the text as fr 2`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -68448,7 +69512,22 @@ exports[`Locale Provider should display the text as is 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -68494,7 +69573,22 @@ exports[`Locale Provider should display the text as is 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -71930,7 +73024,22 @@ exports[`Locale Provider should display the text as is 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -71961,7 +73070,22 @@ exports[`Locale Provider should display the text as is 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -72939,7 +74063,6 @@ exports[`Locale Provider should display the text as is 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Afmarkanir"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -73002,7 +74125,24 @@ exports[`Locale Provider should display the text as is 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -73156,7 +74296,22 @@ exports[`Locale Provider should display the text as it 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -73202,7 +74357,22 @@ exports[`Locale Provider should display the text as it 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -76638,7 +77808,22 @@ exports[`Locale Provider should display the text as it 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -76669,7 +77854,22 @@ exports[`Locale Provider should display the text as it 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -77647,7 +78847,6 @@ exports[`Locale Provider should display the text as it 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Menu Filtro"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -77710,7 +78909,24 @@ exports[`Locale Provider should display the text as it 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -77864,7 +79080,22 @@ exports[`Locale Provider should display the text as ja 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -77910,7 +79141,22 @@ exports[`Locale Provider should display the text as ja 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -81346,7 +82592,22 @@ exports[`Locale Provider should display the text as ja 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -81377,7 +82638,22 @@ exports[`Locale Provider should display the text as ja 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -82355,7 +83631,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="メニューをフィルター"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -82418,7 +83693,24 @@ exports[`Locale Provider should display the text as ja 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -82572,7 +83864,22 @@ exports[`Locale Provider should display the text as ko 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -82618,7 +83925,22 @@ exports[`Locale Provider should display the text as ko 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -86054,7 +87376,22 @@ exports[`Locale Provider should display the text as ko 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -86085,7 +87422,22 @@ exports[`Locale Provider should display the text as ko 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -87063,7 +88415,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="필터 메뉴"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -87126,7 +88477,24 @@ exports[`Locale Provider should display the text as ko 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -87280,7 +88648,22 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -87326,7 +88709,22 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -90762,7 +92160,22 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -90793,7 +92206,22 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -91771,7 +93199,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Menuê peldanka"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -91834,7 +93261,24 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -91988,7 +93432,22 @@ exports[`Locale Provider should display the text as nb 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -92034,7 +93493,22 @@ exports[`Locale Provider should display the text as nb 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -95470,7 +96944,22 @@ exports[`Locale Provider should display the text as nb 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -95501,7 +96990,22 @@ exports[`Locale Provider should display the text as nb 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -96479,7 +97983,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtermeny"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -96542,7 +98045,24 @@ exports[`Locale Provider should display the text as nb 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -96696,7 +98216,22 @@ exports[`Locale Provider should display the text as nl 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -96742,7 +98277,22 @@ exports[`Locale Provider should display the text as nl 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -100178,7 +101728,22 @@ exports[`Locale Provider should display the text as nl 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -100209,7 +101774,22 @@ exports[`Locale Provider should display the text as nl 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -101187,7 +102767,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filteren"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -101250,7 +102829,24 @@ exports[`Locale Provider should display the text as nl 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -101404,7 +103000,22 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -101450,7 +103061,22 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -104886,7 +106512,22 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -104917,7 +106558,22 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -105895,7 +107551,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="FilterMenu"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -105958,7 +107613,24 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -106112,7 +107784,22 @@ exports[`Locale Provider should display the text as pl 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -106158,7 +107845,22 @@ exports[`Locale Provider should display the text as pl 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -109594,7 +111296,22 @@ exports[`Locale Provider should display the text as pl 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -109625,7 +111342,22 @@ exports[`Locale Provider should display the text as pl 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -110603,7 +112335,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Menu filtra"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -110666,7 +112397,24 @@ exports[`Locale Provider should display the text as pl 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -110820,7 +112568,22 @@ exports[`Locale Provider should display the text as pt 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -110866,7 +112629,22 @@ exports[`Locale Provider should display the text as pt 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -114302,7 +116080,22 @@ exports[`Locale Provider should display the text as pt 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -114333,7 +116126,22 @@ exports[`Locale Provider should display the text as pt 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -115311,7 +117119,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtro"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -115374,7 +117181,24 @@ exports[`Locale Provider should display the text as pt 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -115528,7 +117352,22 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -115574,7 +117413,22 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -119010,7 +120864,22 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -119041,7 +120910,22 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -120019,7 +121903,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtro"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -120082,7 +121965,24 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -120236,7 +122136,22 @@ exports[`Locale Provider should display the text as ru 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -120282,7 +122197,22 @@ exports[`Locale Provider should display the text as ru 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -123718,7 +125648,22 @@ exports[`Locale Provider should display the text as ru 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -123749,7 +125694,22 @@ exports[`Locale Provider should display the text as ru 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -124727,7 +126687,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Фильтр"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -124790,7 +126749,24 @@ exports[`Locale Provider should display the text as ru 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -124944,7 +126920,22 @@ exports[`Locale Provider should display the text as sk 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -124990,7 +126981,22 @@ exports[`Locale Provider should display the text as sk 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -128426,7 +130432,22 @@ exports[`Locale Provider should display the text as sk 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -128457,7 +130478,22 @@ exports[`Locale Provider should display the text as sk 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -129435,7 +131471,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filter"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -129498,7 +131533,24 @@ exports[`Locale Provider should display the text as sk 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -129652,7 +131704,22 @@ exports[`Locale Provider should display the text as sl 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -129698,7 +131765,22 @@ exports[`Locale Provider should display the text as sl 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -133134,7 +135216,22 @@ exports[`Locale Provider should display the text as sl 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -133165,7 +135262,22 @@ exports[`Locale Provider should display the text as sl 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -134143,7 +136255,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filter"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -134206,7 +136317,24 @@ exports[`Locale Provider should display the text as sl 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -134360,7 +136488,22 @@ exports[`Locale Provider should display the text as sr 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -134406,7 +136549,22 @@ exports[`Locale Provider should display the text as sr 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -137842,7 +140000,22 @@ exports[`Locale Provider should display the text as sr 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -137873,7 +140046,22 @@ exports[`Locale Provider should display the text as sr 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -138851,7 +141039,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filter"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -138914,7 +141101,24 @@ exports[`Locale Provider should display the text as sr 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -139068,7 +141272,22 @@ exports[`Locale Provider should display the text as sv 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -139114,7 +141333,22 @@ exports[`Locale Provider should display the text as sv 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -142550,7 +144784,22 @@ exports[`Locale Provider should display the text as sv 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -142581,7 +144830,22 @@ exports[`Locale Provider should display the text as sv 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -143559,7 +145823,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Filtermeny"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -143622,7 +145885,24 @@ exports[`Locale Provider should display the text as sv 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -143776,7 +146056,22 @@ exports[`Locale Provider should display the text as th 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -143822,7 +146117,22 @@ exports[`Locale Provider should display the text as th 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -147258,7 +149568,22 @@ exports[`Locale Provider should display the text as th 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -147289,7 +149614,22 @@ exports[`Locale Provider should display the text as th 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -148267,7 +150607,6 @@ exports[`Locale Provider should display the text as th 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="ตัวกรอง"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -148330,7 +150669,24 @@ exports[`Locale Provider should display the text as th 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -148484,7 +150840,22 @@ exports[`Locale Provider should display the text as tr 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -148530,7 +150901,22 @@ exports[`Locale Provider should display the text as tr 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -151966,7 +154352,22 @@ exports[`Locale Provider should display the text as tr 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -151997,7 +154398,22 @@ exports[`Locale Provider should display the text as tr 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -152975,7 +155391,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Menü Filtrele"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -153038,7 +155453,24 @@ exports[`Locale Provider should display the text as tr 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -153192,7 +155624,22 @@ exports[`Locale Provider should display the text as uk 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -153238,7 +155685,22 @@ exports[`Locale Provider should display the text as uk 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -156674,7 +159136,22 @@ exports[`Locale Provider should display the text as uk 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -156705,7 +159182,22 @@ exports[`Locale Provider should display the text as uk 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -157683,7 +160175,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Фільтрувати"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -157746,7 +160237,24 @@ exports[`Locale Provider should display the text as uk 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -157900,7 +160408,22 @@ exports[`Locale Provider should display the text as vi 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -157946,7 +160469,22 @@ exports[`Locale Provider should display the text as vi 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -161382,7 +163920,22 @@ exports[`Locale Provider should display the text as vi 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -161413,7 +163966,22 @@ exports[`Locale Provider should display the text as vi 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -162391,7 +164959,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="Bộ "
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -162454,7 +165021,24 @@ exports[`Locale Provider should display the text as vi 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -162608,7 +165192,22 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -162654,7 +165253,22 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -166090,7 +168704,22 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -166121,7 +168750,22 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -167099,7 +169743,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="筛选"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -167162,7 +169805,24 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
@@ -167316,7 +169976,22 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -167362,7 +170037,22 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         class="ant-select-arrow"
         unselectable="on"
       >
-        <b />
+        <i
+          class="anticon ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="down"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
       </span>
     </div>
   </div>
@@ -170798,7 +173488,22 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -170829,7 +173534,22 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             class="ant-select-arrow"
             unselectable="on"
           >
-            <b />
+            <i
+              class="anticon ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="down"
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 1024 1024"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
           </span>
         </div>
       </div>
@@ -171807,7 +174527,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
-                            title="篩選器"
                             viewBox="0 0 1024 1024"
                             width="1em"
                           >
@@ -171870,7 +174589,24 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           >
             <span
               class="ant-modal-close-x"
-            />
+            >
+              <i
+                class="anticon ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="close"
+                  fill="currentColor"
+                  height="1em"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9c-4.4 5.2-.7 13.1 6.1 13.1h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
           </button>
           <div
             class="ant-modal-header"
