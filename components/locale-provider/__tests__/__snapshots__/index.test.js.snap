@@ -22,6 +22,7 @@ exports[`Locale Provider set moment locale when locale changes 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -834,6 +835,7 @@ exports[`Locale Provider set moment locale when locale changes 2`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -1646,6 +1648,7 @@ exports[`Locale Provider set moment locale when locale changes 3`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -2541,6 +2544,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -2602,6 +2606,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -2633,6 +2638,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -3439,6 +3445,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -3485,6 +3492,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -4280,6 +4288,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -5902,6 +5911,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -5943,6 +5953,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -5965,6 +5976,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -6032,6 +6044,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -6099,6 +6112,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -6145,6 +6159,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -7130,6 +7145,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -7201,6 +7217,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -7371,6 +7388,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -7432,6 +7450,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -7463,6 +7482,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -8269,6 +8289,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -8315,6 +8336,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -9110,6 +9132,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -10732,6 +10755,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -10773,6 +10797,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -10795,6 +10820,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -10862,6 +10888,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -10929,6 +10956,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -10975,6 +11003,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -11960,6 +11989,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -12031,6 +12061,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -12201,6 +12232,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -12262,6 +12294,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -12293,6 +12326,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -13099,6 +13133,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -13145,6 +13180,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -13940,6 +13976,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -15562,6 +15599,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -15603,6 +15641,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -15625,6 +15664,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -15692,6 +15732,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -15759,6 +15800,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -15805,6 +15847,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -16790,6 +16833,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -16861,6 +16905,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -17031,6 +17076,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -17092,6 +17138,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -17123,6 +17170,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -17929,6 +17977,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -17975,6 +18024,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -18770,6 +18820,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -20392,6 +20443,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -20433,6 +20485,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -20455,6 +20508,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -20522,6 +20576,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -20589,6 +20644,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -20635,6 +20691,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -21620,6 +21677,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -21691,6 +21749,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -21861,6 +21920,7 @@ exports[`Locale Provider should display the text as de 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -21922,6 +21982,7 @@ exports[`Locale Provider should display the text as de 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -21953,6 +22014,7 @@ exports[`Locale Provider should display the text as de 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -22759,6 +22821,7 @@ exports[`Locale Provider should display the text as de 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -22805,6 +22868,7 @@ exports[`Locale Provider should display the text as de 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -23600,6 +23664,7 @@ exports[`Locale Provider should display the text as de 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -25222,6 +25287,7 @@ exports[`Locale Provider should display the text as de 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -25263,6 +25329,7 @@ exports[`Locale Provider should display the text as de 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -25285,6 +25352,7 @@ exports[`Locale Provider should display the text as de 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -25352,6 +25420,7 @@ exports[`Locale Provider should display the text as de 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -25419,6 +25488,7 @@ exports[`Locale Provider should display the text as de 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -25465,6 +25535,7 @@ exports[`Locale Provider should display the text as de 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -26450,6 +26521,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -26521,6 +26593,7 @@ exports[`Locale Provider should display the text as de 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -26691,6 +26764,7 @@ exports[`Locale Provider should display the text as el 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -26752,6 +26826,7 @@ exports[`Locale Provider should display the text as el 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -26783,6 +26858,7 @@ exports[`Locale Provider should display the text as el 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -27589,6 +27665,7 @@ exports[`Locale Provider should display the text as el 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -27635,6 +27712,7 @@ exports[`Locale Provider should display the text as el 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -28430,6 +28508,7 @@ exports[`Locale Provider should display the text as el 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -30052,6 +30131,7 @@ exports[`Locale Provider should display the text as el 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -30093,6 +30173,7 @@ exports[`Locale Provider should display the text as el 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -30115,6 +30196,7 @@ exports[`Locale Provider should display the text as el 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -30182,6 +30264,7 @@ exports[`Locale Provider should display the text as el 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -30249,6 +30332,7 @@ exports[`Locale Provider should display the text as el 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -30295,6 +30379,7 @@ exports[`Locale Provider should display the text as el 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -31280,6 +31365,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -31351,6 +31437,7 @@ exports[`Locale Provider should display the text as el 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -31521,6 +31608,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -31582,6 +31670,7 @@ exports[`Locale Provider should display the text as en 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -31613,6 +31702,7 @@ exports[`Locale Provider should display the text as en 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -32419,6 +32509,7 @@ exports[`Locale Provider should display the text as en 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -32465,6 +32556,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -33260,6 +33352,7 @@ exports[`Locale Provider should display the text as en 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -34882,6 +34975,7 @@ exports[`Locale Provider should display the text as en 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -34923,6 +35017,7 @@ exports[`Locale Provider should display the text as en 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -34945,6 +35040,7 @@ exports[`Locale Provider should display the text as en 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -35012,6 +35108,7 @@ exports[`Locale Provider should display the text as en 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -35079,6 +35176,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -35125,6 +35223,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -36110,6 +36209,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -36181,6 +36281,7 @@ exports[`Locale Provider should display the text as en 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -36351,6 +36452,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -36412,6 +36514,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -36443,6 +36546,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -37249,6 +37353,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -37295,6 +37400,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -38090,6 +38196,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -39712,6 +39819,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -39753,6 +39861,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -39775,6 +39884,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -39842,6 +39952,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -39909,6 +40020,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -39955,6 +40067,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -40940,6 +41053,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -41011,6 +41125,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -41181,6 +41296,7 @@ exports[`Locale Provider should display the text as es 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -41242,6 +41358,7 @@ exports[`Locale Provider should display the text as es 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -41273,6 +41390,7 @@ exports[`Locale Provider should display the text as es 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -42079,6 +42197,7 @@ exports[`Locale Provider should display the text as es 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -42125,6 +42244,7 @@ exports[`Locale Provider should display the text as es 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -42920,6 +43040,7 @@ exports[`Locale Provider should display the text as es 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -44542,6 +44663,7 @@ exports[`Locale Provider should display the text as es 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -44583,6 +44705,7 @@ exports[`Locale Provider should display the text as es 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -44605,6 +44728,7 @@ exports[`Locale Provider should display the text as es 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -44672,6 +44796,7 @@ exports[`Locale Provider should display the text as es 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -44739,6 +44864,7 @@ exports[`Locale Provider should display the text as es 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -44785,6 +44911,7 @@ exports[`Locale Provider should display the text as es 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -45770,6 +45897,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -45841,6 +45969,7 @@ exports[`Locale Provider should display the text as es 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -46011,6 +46140,7 @@ exports[`Locale Provider should display the text as et 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -46072,6 +46202,7 @@ exports[`Locale Provider should display the text as et 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -46103,6 +46234,7 @@ exports[`Locale Provider should display the text as et 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -46909,6 +47041,7 @@ exports[`Locale Provider should display the text as et 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -46955,6 +47088,7 @@ exports[`Locale Provider should display the text as et 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -47750,6 +47884,7 @@ exports[`Locale Provider should display the text as et 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -49372,6 +49507,7 @@ exports[`Locale Provider should display the text as et 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -49413,6 +49549,7 @@ exports[`Locale Provider should display the text as et 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -49435,6 +49572,7 @@ exports[`Locale Provider should display the text as et 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -49502,6 +49640,7 @@ exports[`Locale Provider should display the text as et 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -49569,6 +49708,7 @@ exports[`Locale Provider should display the text as et 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -49615,6 +49755,7 @@ exports[`Locale Provider should display the text as et 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -50600,6 +50741,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -50671,6 +50813,7 @@ exports[`Locale Provider should display the text as et 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -50841,6 +50984,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -50902,6 +51046,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -50933,6 +51078,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -51739,6 +51885,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -51785,6 +51932,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -52580,6 +52728,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -54202,6 +54351,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -54243,6 +54393,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -54265,6 +54416,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -54332,6 +54484,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -54399,6 +54552,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -54445,6 +54599,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -55430,6 +55585,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -55501,6 +55657,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -55671,6 +55828,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -55732,6 +55890,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -55763,6 +55922,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -56569,6 +56729,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -56615,6 +56776,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -57410,6 +57572,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -59032,6 +59195,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -59073,6 +59237,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -59095,6 +59260,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -59162,6 +59328,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -59229,6 +59396,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -59275,6 +59443,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -60260,6 +60429,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -60331,6 +60501,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -60501,6 +60672,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -60562,6 +60734,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -60593,6 +60766,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -61399,6 +61573,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -61445,6 +61620,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -62240,6 +62416,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -63862,6 +64039,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -63903,6 +64081,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -63925,6 +64104,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -63992,6 +64172,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -64059,6 +64240,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -64105,6 +64287,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -65090,6 +65273,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -65161,6 +65345,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -65331,6 +65516,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -65392,6 +65578,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -65423,6 +65610,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -66229,6 +66417,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -66275,6 +66464,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -67070,6 +67260,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -68692,6 +68883,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -68733,6 +68925,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -68755,6 +68948,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -68822,6 +69016,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -68889,6 +69084,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -68935,6 +69131,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -69920,6 +70117,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -69991,6 +70189,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -70161,6 +70360,7 @@ exports[`Locale Provider should display the text as is 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -70222,6 +70422,7 @@ exports[`Locale Provider should display the text as is 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -70253,6 +70454,7 @@ exports[`Locale Provider should display the text as is 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -71059,6 +71261,7 @@ exports[`Locale Provider should display the text as is 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -71105,6 +71308,7 @@ exports[`Locale Provider should display the text as is 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -71900,6 +72104,7 @@ exports[`Locale Provider should display the text as is 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -73522,6 +73727,7 @@ exports[`Locale Provider should display the text as is 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -73563,6 +73769,7 @@ exports[`Locale Provider should display the text as is 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -73585,6 +73792,7 @@ exports[`Locale Provider should display the text as is 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -73652,6 +73860,7 @@ exports[`Locale Provider should display the text as is 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -73719,6 +73928,7 @@ exports[`Locale Provider should display the text as is 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -73765,6 +73975,7 @@ exports[`Locale Provider should display the text as is 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -74750,6 +74961,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -74821,6 +75033,7 @@ exports[`Locale Provider should display the text as is 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -74991,6 +75204,7 @@ exports[`Locale Provider should display the text as it 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -75052,6 +75266,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -75083,6 +75298,7 @@ exports[`Locale Provider should display the text as it 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -75889,6 +76105,7 @@ exports[`Locale Provider should display the text as it 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -75935,6 +76152,7 @@ exports[`Locale Provider should display the text as it 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -76730,6 +76948,7 @@ exports[`Locale Provider should display the text as it 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -78352,6 +78571,7 @@ exports[`Locale Provider should display the text as it 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -78393,6 +78613,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -78415,6 +78636,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -78482,6 +78704,7 @@ exports[`Locale Provider should display the text as it 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -78549,6 +78772,7 @@ exports[`Locale Provider should display the text as it 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -78595,6 +78819,7 @@ exports[`Locale Provider should display the text as it 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -79580,6 +79805,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -79651,6 +79877,7 @@ exports[`Locale Provider should display the text as it 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -79821,6 +80048,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -79882,6 +80110,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -79913,6 +80142,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -80719,6 +80949,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -80765,6 +80996,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -81560,6 +81792,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -83182,6 +83415,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -83223,6 +83457,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -83245,6 +83480,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -83312,6 +83548,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -83379,6 +83616,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -83425,6 +83663,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -84410,6 +84649,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -84481,6 +84721,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -84651,6 +84892,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -84712,6 +84954,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -84743,6 +84986,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -85549,6 +85793,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -85595,6 +85840,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -86390,6 +86636,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -88012,6 +88259,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -88053,6 +88301,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -88075,6 +88324,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -88142,6 +88392,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -88209,6 +88460,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -88255,6 +88507,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -89240,6 +89493,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -89311,6 +89565,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -89481,6 +89736,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -89542,6 +89798,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -89573,6 +89830,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -90379,6 +90637,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -90425,6 +90684,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -91220,6 +91480,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -92842,6 +93103,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -92883,6 +93145,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -92905,6 +93168,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -92972,6 +93236,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -93039,6 +93304,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -93085,6 +93351,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -94070,6 +94337,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -94141,6 +94409,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -94311,6 +94580,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -94372,6 +94642,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -94403,6 +94674,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -95209,6 +95481,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -95255,6 +95528,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -96050,6 +96324,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -97672,6 +97947,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -97713,6 +97989,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -97735,6 +98012,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -97802,6 +98080,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -97869,6 +98148,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -97915,6 +98195,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -98900,6 +99181,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -98971,6 +99253,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -99141,6 +99424,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -99202,6 +99486,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -99233,6 +99518,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -100039,6 +100325,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -100085,6 +100372,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -100880,6 +101168,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -102502,6 +102791,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -102543,6 +102833,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -102565,6 +102856,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -102632,6 +102924,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -102699,6 +102992,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -102745,6 +103039,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -103730,6 +104025,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -103801,6 +104097,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -103971,6 +104268,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -104032,6 +104330,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -104063,6 +104362,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -104869,6 +105169,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -104915,6 +105216,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -105710,6 +106012,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -107332,6 +107635,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -107373,6 +107677,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -107395,6 +107700,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -107462,6 +107768,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -107529,6 +107836,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -107575,6 +107883,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -108560,6 +108869,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -108631,6 +108941,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -108801,6 +109112,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -108862,6 +109174,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -108893,6 +109206,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -109699,6 +110013,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -109745,6 +110060,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -110540,6 +110856,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -112162,6 +112479,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -112203,6 +112521,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -112225,6 +112544,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -112292,6 +112612,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -112359,6 +112680,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -112405,6 +112727,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -113390,6 +113713,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -113461,6 +113785,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -113631,6 +113956,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -113692,6 +114018,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -113723,6 +114050,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -114529,6 +114857,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -114575,6 +114904,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -115370,6 +115700,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -116992,6 +117323,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -117033,6 +117365,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -117055,6 +117388,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -117122,6 +117456,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -117189,6 +117524,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -117235,6 +117571,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -118220,6 +118557,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -118291,6 +118629,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -118461,6 +118800,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -118522,6 +118862,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -118553,6 +118894,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -119359,6 +119701,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -119405,6 +119748,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -120200,6 +120544,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -121822,6 +122167,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -121863,6 +122209,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -121885,6 +122232,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -121952,6 +122300,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -122019,6 +122368,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -122065,6 +122415,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -123050,6 +123401,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -123121,6 +123473,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -123291,6 +123644,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -123352,6 +123706,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -123383,6 +123738,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -124189,6 +124545,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -124235,6 +124592,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -125030,6 +125388,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -126652,6 +127011,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -126693,6 +127053,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -126715,6 +127076,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -126782,6 +127144,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -126849,6 +127212,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -126895,6 +127259,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -127880,6 +128245,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -127951,6 +128317,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -128121,6 +128488,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -128182,6 +128550,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -128213,6 +128582,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -129019,6 +129389,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -129065,6 +129436,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -129860,6 +130232,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -131482,6 +131855,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -131523,6 +131897,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -131545,6 +131920,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -131612,6 +131988,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -131679,6 +132056,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -131725,6 +132103,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -132710,6 +133089,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -132781,6 +133161,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -132951,6 +133332,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -133012,6 +133394,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -133043,6 +133426,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -133849,6 +134233,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -133895,6 +134280,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -134690,6 +135076,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -136312,6 +136699,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -136353,6 +136741,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -136375,6 +136764,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -136442,6 +136832,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -136509,6 +136900,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -136555,6 +136947,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -137540,6 +137933,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -137611,6 +138005,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -137781,6 +138176,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -137842,6 +138238,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -137873,6 +138270,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -138679,6 +139077,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -138725,6 +139124,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -139520,6 +139920,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -141142,6 +141543,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -141183,6 +141585,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -141205,6 +141608,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -141272,6 +141676,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -141339,6 +141744,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -141385,6 +141791,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -142370,6 +142777,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -142441,6 +142849,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -142611,6 +143020,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -142672,6 +143082,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -142703,6 +143114,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -143509,6 +143921,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -143555,6 +143968,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -144350,6 +144764,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -145972,6 +146387,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -146013,6 +146429,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -146035,6 +146452,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -146102,6 +146520,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -146169,6 +146588,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -146215,6 +146635,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -147200,6 +147621,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -147271,6 +147693,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -147441,6 +147864,7 @@ exports[`Locale Provider should display the text as th 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -147502,6 +147926,7 @@ exports[`Locale Provider should display the text as th 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -147533,6 +147958,7 @@ exports[`Locale Provider should display the text as th 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -148339,6 +148765,7 @@ exports[`Locale Provider should display the text as th 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -148385,6 +148812,7 @@ exports[`Locale Provider should display the text as th 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -149180,6 +149608,7 @@ exports[`Locale Provider should display the text as th 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -150802,6 +151231,7 @@ exports[`Locale Provider should display the text as th 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -150843,6 +151273,7 @@ exports[`Locale Provider should display the text as th 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -150865,6 +151296,7 @@ exports[`Locale Provider should display the text as th 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -150932,6 +151364,7 @@ exports[`Locale Provider should display the text as th 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -150999,6 +151432,7 @@ exports[`Locale Provider should display the text as th 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -151045,6 +151479,7 @@ exports[`Locale Provider should display the text as th 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -152030,6 +152465,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -152101,6 +152537,7 @@ exports[`Locale Provider should display the text as th 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -152271,6 +152708,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -152332,6 +152770,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -152363,6 +152802,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -153169,6 +153609,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -153215,6 +153656,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -154010,6 +154452,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -155632,6 +156075,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -155673,6 +156117,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -155695,6 +156140,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -155762,6 +156208,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -155829,6 +156276,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -155875,6 +156323,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -156860,6 +157309,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -156931,6 +157381,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -157101,6 +157552,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -157162,6 +157614,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -157193,6 +157646,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -157999,6 +158453,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -158045,6 +158500,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -158840,6 +159296,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -160462,6 +160919,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -160503,6 +160961,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -160525,6 +160984,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -160592,6 +161052,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -160659,6 +161120,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -160705,6 +161167,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -161690,6 +162153,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -161761,6 +162225,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -161931,6 +162396,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -161992,6 +162458,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -162023,6 +162490,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -162829,6 +163297,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -162875,6 +163344,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -163670,6 +164140,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -165292,6 +165763,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -165333,6 +165805,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -165355,6 +165828,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -165422,6 +165896,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -165489,6 +165964,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -165535,6 +166011,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -166520,6 +166997,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -166591,6 +167069,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -166761,6 +167240,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -166822,6 +167302,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -166853,6 +167334,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -167659,6 +168141,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -167705,6 +168188,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -168500,6 +168984,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -170122,6 +170607,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -170163,6 +170649,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -170185,6 +170672,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -170252,6 +170740,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -170319,6 +170808,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -170365,6 +170855,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -171350,6 +171841,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -171421,6 +171913,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
@@ -171591,6 +172084,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -171652,6 +172146,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="down"
             fill="currentColor"
             height="1em"
@@ -171683,6 +172178,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -172489,6 +172985,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="time-circle"
           fill="currentColor"
           height="1em"
@@ -172535,6 +173032,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="close-circle-fill"
                 fill="currentColor"
                 height="1em"
@@ -173330,6 +173828,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       >
         <svg
           aria-hidden="true"
+          class=""
           data-icon="calendar"
           fill="currentColor"
           height="1em"
@@ -174952,6 +175451,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -174993,6 +175493,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="right"
             fill="currentColor"
             height="1em"
@@ -175015,6 +175516,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         >
           <svg
             aria-hidden="true"
+            class=""
             data-icon="left"
             fill="currentColor"
             height="1em"
@@ -175082,6 +175584,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="search"
                   fill="currentColor"
                   height="1em"
@@ -175149,6 +175652,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -175195,6 +175699,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             >
               <svg
                 aria-hidden="true"
+                class=""
                 data-icon="down"
                 fill="currentColor"
                 height="1em"
@@ -176180,6 +176685,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                         >
                           <svg
                             aria-hidden="true"
+                            class=""
                             data-icon="filter"
                             fill="currentColor"
                             height="1em"
@@ -176251,6 +176757,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class=""
                   data-icon="close"
                   fill="currentColor"
                   height="1em"
