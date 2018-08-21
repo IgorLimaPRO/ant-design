@@ -2452,7 +2452,25 @@ exports[`Locale Provider should display the text as ar 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -2507,7 +2525,25 @@ exports[`Locale Provider should display the text as ar 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -7297,7 +7333,25 @@ exports[`Locale Provider should display the text as bg 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -7352,7 +7406,25 @@ exports[`Locale Provider should display the text as bg 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -12142,7 +12214,25 @@ exports[`Locale Provider should display the text as ca 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -12197,7 +12287,25 @@ exports[`Locale Provider should display the text as ca 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -16987,7 +17095,25 @@ exports[`Locale Provider should display the text as cs 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -17042,7 +17168,25 @@ exports[`Locale Provider should display the text as cs 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -21832,7 +21976,25 @@ exports[`Locale Provider should display the text as de 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -21887,7 +22049,25 @@ exports[`Locale Provider should display the text as de 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -26677,7 +26857,25 @@ exports[`Locale Provider should display the text as el 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -26732,7 +26930,25 @@ exports[`Locale Provider should display the text as el 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -31522,7 +31738,25 @@ exports[`Locale Provider should display the text as en 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -31577,7 +31811,25 @@ exports[`Locale Provider should display the text as en 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -36367,7 +36619,25 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -36422,7 +36692,25 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -41212,7 +41500,25 @@ exports[`Locale Provider should display the text as es 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -41267,7 +41573,25 @@ exports[`Locale Provider should display the text as es 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -46057,7 +46381,25 @@ exports[`Locale Provider should display the text as et 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -46112,7 +46454,25 @@ exports[`Locale Provider should display the text as et 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -50902,7 +51262,25 @@ exports[`Locale Provider should display the text as fa 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -50957,7 +51335,25 @@ exports[`Locale Provider should display the text as fa 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -55747,7 +56143,25 @@ exports[`Locale Provider should display the text as fi 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -55802,7 +56216,25 @@ exports[`Locale Provider should display the text as fi 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -60592,7 +61024,25 @@ exports[`Locale Provider should display the text as fr 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -60647,7 +61097,25 @@ exports[`Locale Provider should display the text as fr 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -65437,7 +65905,25 @@ exports[`Locale Provider should display the text as fr 2`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -65492,7 +65978,25 @@ exports[`Locale Provider should display the text as fr 2`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -70282,7 +70786,25 @@ exports[`Locale Provider should display the text as is 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -70337,7 +70859,25 @@ exports[`Locale Provider should display the text as is 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -75127,7 +75667,25 @@ exports[`Locale Provider should display the text as it 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -75182,7 +75740,25 @@ exports[`Locale Provider should display the text as it 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -79972,7 +80548,25 @@ exports[`Locale Provider should display the text as ja 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -80027,7 +80621,25 @@ exports[`Locale Provider should display the text as ja 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -84817,7 +85429,25 @@ exports[`Locale Provider should display the text as ko 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -84872,7 +85502,25 @@ exports[`Locale Provider should display the text as ko 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -89662,7 +90310,25 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -89717,7 +90383,25 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -94507,7 +95191,25 @@ exports[`Locale Provider should display the text as nb 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -94562,7 +95264,25 @@ exports[`Locale Provider should display the text as nb 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -99352,7 +100072,25 @@ exports[`Locale Provider should display the text as nl 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -99407,7 +100145,25 @@ exports[`Locale Provider should display the text as nl 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -104197,7 +104953,25 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -104252,7 +105026,25 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -109042,7 +109834,25 @@ exports[`Locale Provider should display the text as pl 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -109097,7 +109907,25 @@ exports[`Locale Provider should display the text as pl 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -113887,7 +114715,25 @@ exports[`Locale Provider should display the text as pt 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -113942,7 +114788,25 @@ exports[`Locale Provider should display the text as pt 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -118732,7 +119596,25 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -118787,7 +119669,25 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -123577,7 +124477,25 @@ exports[`Locale Provider should display the text as ru 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -123632,7 +124550,25 @@ exports[`Locale Provider should display the text as ru 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -123655,9 +124591,9 @@ exports[`Locale Provider should display the text as ru 1`] = `
             <div
               class="ant-select-selection-selected-value"
               style="display: block; opacity: 1;"
-              title="10 /странице"
+              title="10 / стр."
             >
-              10 /странице
+              10 / стр.
             </div>
           </div>
           <span
@@ -128422,7 +129358,25 @@ exports[`Locale Provider should display the text as sk 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -128477,7 +129431,25 @@ exports[`Locale Provider should display the text as sk 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -133267,7 +134239,25 @@ exports[`Locale Provider should display the text as sl 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -133322,7 +134312,25 @@ exports[`Locale Provider should display the text as sl 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -138112,7 +139120,25 @@ exports[`Locale Provider should display the text as sr 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -138167,7 +139193,25 @@ exports[`Locale Provider should display the text as sr 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -142957,7 +144001,25 @@ exports[`Locale Provider should display the text as sv 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -143012,7 +144074,25 @@ exports[`Locale Provider should display the text as sv 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -147802,7 +148882,25 @@ exports[`Locale Provider should display the text as th 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -147857,7 +148955,25 @@ exports[`Locale Provider should display the text as th 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -152647,7 +153763,25 @@ exports[`Locale Provider should display the text as tr 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -152702,7 +153836,25 @@ exports[`Locale Provider should display the text as tr 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -157492,7 +158644,25 @@ exports[`Locale Provider should display the text as uk 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -157547,7 +158717,25 @@ exports[`Locale Provider should display the text as uk 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -162337,7 +163525,25 @@ exports[`Locale Provider should display the text as vi 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -162392,7 +163598,25 @@ exports[`Locale Provider should display the text as vi 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -167182,7 +168406,25 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -167237,7 +168479,25 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
@@ -172027,7 +173287,25 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8c-16.4 12.8-16.4 37.5 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -172082,7 +173360,25 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
     >
       <a
         class="ant-pagination-item-link"
-      />
+      >
+        <i
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7c-5.3-4.1-12.9-.4-12.9 6.3v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1c16.4-12.8 16.4-37.6 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
     </li>
     <li
       class="ant-pagination-options"
