@@ -132804,7 +132804,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           <div>
             <input
               class="ant-input ant-transfer-list-search"
-              placeholder="Введите название для поиска"
+              placeholder="Поиск"
               type="text"
               value=""
             />
@@ -132933,7 +132933,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           <div>
             <input
               class="ant-input ant-transfer-list-search"
-              placeholder="Введите название для поиска"
+              placeholder="Поиск"
               type="text"
               value=""
             />
