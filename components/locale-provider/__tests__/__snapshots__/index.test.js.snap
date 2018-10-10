@@ -75982,7 +75982,7 @@ exports[`Locale Provider should display the text as it 1`] = `
               </div>
               <a
                 role="button"
-                title="Chiaro"
+                title="Cancella"
               >
                 <span
                   class="ant-calendar-clear-btn"
@@ -76014,14 +76014,14 @@ exports[`Locale Provider should display the text as it 1`] = `
                     <a
                       class="ant-calendar-month-select"
                       role="button"
-                      title="Seleziona la data"
+                      title="Seleziona il mese"
                     >
                       set
                     </a>
                     <a
                       class="ant-calendar-year-select"
                       role="button"
-                      title="Scegli un anno"
+                      title="Seleziona l'anno"
                     >
                       2017
                     </a>
@@ -77653,14 +77653,14 @@ exports[`Locale Provider should display the text as it 1`] = `
                         <a
                           class="ant-calendar-month-select"
                           role="button"
-                          title="Seleziona la data"
+                          title="Seleziona il mese"
                         >
                           set
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
-                          title="Scegli un anno"
+                          title="Seleziona l'anno"
                         >
                           2017
                         </a>
@@ -78378,14 +78378,14 @@ exports[`Locale Provider should display the text as it 1`] = `
                         <a
                           class="ant-calendar-month-select"
                           role="button"
-                          title="Seleziona la data"
+                          title="Seleziona il mese"
                         >
                           ott
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
-                          title="Scegli un anno"
+                          title="Seleziona l'anno"
                         >
                           2017
                         </a>
