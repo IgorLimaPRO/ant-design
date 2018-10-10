@@ -76677,7 +76677,7 @@ exports[`Locale Provider should display the text as it 1`] = `
     <input
       class="ant-time-picker-input"
       id=""
-      placeholder="Selezionare il tempo"
+      placeholder="Selezionare l'orario"
       type="text"
       value=""
     />
@@ -76719,7 +76719,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         >
           <input
             class="ant-time-picker-panel-input  "
-            placeholder="Selezionare il tempo"
+            placeholder="Selezionare l'orario"
             value=""
           />
           <a
@@ -80378,12 +80378,14 @@ exports[`Locale Provider should display the text as it 1`] = `
                     <th
                       class="ant-table-column-has-actions ant-table-column-has-filters"
                     >
-                      <div>
+                      <div
+                        title="Ordina"
+                      >
                         Name
                       </div>
                       <i
                         class="anticon anticon-filter ant-dropdown-trigger"
-                        title="Menu Filtro"
+                        title="Menù Filtro"
                       >
                         <svg
                           aria-hidden="true"
@@ -80403,7 +80405,9 @@ exports[`Locale Provider should display the text as it 1`] = `
                     <th
                       class=""
                     >
-                      <div>
+                      <div
+                        title="Ordina"
+                      >
                         Age
                       </div>
                     </th>
