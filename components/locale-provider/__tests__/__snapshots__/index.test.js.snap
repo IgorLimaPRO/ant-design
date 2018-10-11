@@ -80378,9 +80378,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                     <th
                       class="ant-table-column-has-actions ant-table-column-has-filters"
                     >
-                      <div
-                        title="Ordina"
-                      >
+                      <div>
                         Name
                       </div>
                       <i
@@ -80405,9 +80403,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                     <th
                       class=""
                     >
-                      <div
-                        title="Ordina"
-                      >
+                      <div>
                         Age
                       </div>
                     </th>
