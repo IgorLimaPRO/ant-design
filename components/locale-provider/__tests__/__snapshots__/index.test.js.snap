@@ -178360,7 +178360,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               </div>
               <a
                 role="button"
-                title="Clear"
+                title="Xóa"
               >
                 <span
                   class="ant-calendar-clear-btn"
@@ -178379,12 +178379,12 @@ exports[`Locale Provider should display the text as vi 1`] = `
                   <a
                     class="ant-calendar-prev-year-btn"
                     role="button"
-                    title="Last year (Control + left)"
+                    title="Năm trước (Control + left)"
                   />
                   <a
                     class="ant-calendar-prev-month-btn"
                     role="button"
-                    title="Previous month (PageUp)"
+                    title="Tháng trước (PageUp)"
                   />
                   <span
                     class="ant-calendar-my-select"
@@ -178392,25 +178392,25 @@ exports[`Locale Provider should display the text as vi 1`] = `
                     <a
                       class="ant-calendar-month-select"
                       role="button"
-                      title="Choose a month"
+                      title="Chọn tháng"
                     >
                       Th09
                     </a>
                     <a
                       class="ant-calendar-year-select"
                       role="button"
-                      title="Choose a year"
+                      title="Chọn năm"
                     >
                       2017
                     </a>
                   </span>
                   <a
                     class="ant-calendar-next-month-btn"
-                    title="Next month (PageDown)"
+                    title="Tháng sau (PageDown)"
                   />
                   <a
                     class="ant-calendar-next-year-btn"
-                    title="Next year (Control + right)"
+                    title="Năm sau (Control + right)"
                   />
                 </div>
               </div>
@@ -179098,7 +179098,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                     role="button"
                     title="18 tháng 9 năm 2017"
                   >
-                    Today
+                    Hôm nay
                   </a>
                 </span>
               </div>
@@ -180018,12 +180018,12 @@ exports[`Locale Provider should display the text as vi 1`] = `
                       <a
                         class="ant-calendar-prev-year-btn"
                         role="button"
-                        title="Last year (Control + left)"
+                        title="Năm trước (Control + left)"
                       />
                       <a
                         class="ant-calendar-prev-month-btn"
                         role="button"
-                        title="Previous month (PageUp)"
+                        title="Tháng trước (PageUp)"
                       />
                       <span
                         class="ant-calendar-my-select"
@@ -180031,14 +180031,14 @@ exports[`Locale Provider should display the text as vi 1`] = `
                         <a
                           class="ant-calendar-month-select"
                           role="button"
-                          title="Choose a month"
+                          title="Chọn tháng"
                         >
                           Th09
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
-                          title="Choose a year"
+                          title="Chọn năm"
                         >
                           2017
                         </a>
@@ -180756,25 +180756,25 @@ exports[`Locale Provider should display the text as vi 1`] = `
                         <a
                           class="ant-calendar-month-select"
                           role="button"
-                          title="Choose a month"
+                          title="Chọn tháng"
                         >
                           Th10
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
-                          title="Choose a year"
+                          title="Chọn năm"
                         >
                           2017
                         </a>
                       </span>
                       <a
                         class="ant-calendar-next-month-btn"
-                        title="Next month (PageDown)"
+                        title="Tháng sau (PageDown)"
                       />
                       <a
                         class="ant-calendar-next-year-btn"
-                        title="Next year (Control + right)"
+                        title="Năm sau (Control + right)"
                       />
                     </div>
                   </div>
@@ -181871,7 +181871,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             />
           </span>
           <span>
-            Month
+            Tháng
           </span>
         </label>
         <label
@@ -181890,7 +181890,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             />
           </span>
           <span>
-            Year
+            Năm
           </span>
         </label>
       </div>
