@@ -110192,14 +110192,14 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       role="button"
                       title="Meh hilbijêre"
                     >
-                      9월
+                      ئەیلوول
                     </a>
                     <a
                       class="ant-calendar-year-select"
                       role="button"
                       title="Sal hilbijêre"
                     >
-                      2017
+                      ٢٠١٧
                     </a>
                   </span>
                   <a
@@ -110227,78 +110227,78 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <th
                         class="ant-calendar-column-header"
                         role="columnheader"
-                        title="일"
+                        title="شه‌ممه‌"
                       >
                         <span
                           class="ant-calendar-column-header-inner"
                         >
-                          일
+                          ش
                         </span>
                       </th>
                       <th
                         class="ant-calendar-column-header"
                         role="columnheader"
-                        title="월"
+                        title="یه‌كشه‌م"
                       >
                         <span
                           class="ant-calendar-column-header-inner"
                         >
-                          월
+                          ی
                         </span>
                       </th>
                       <th
                         class="ant-calendar-column-header"
                         role="columnheader"
-                        title="화"
+                        title="دووشه‌م"
                       >
                         <span
                           class="ant-calendar-column-header-inner"
                         >
-                          화
+                          د
                         </span>
                       </th>
                       <th
                         class="ant-calendar-column-header"
                         role="columnheader"
-                        title="수"
+                        title="سێشه‌م"
                       >
                         <span
                           class="ant-calendar-column-header-inner"
                         >
-                          수
+                          س
                         </span>
                       </th>
                       <th
                         class="ant-calendar-column-header"
                         role="columnheader"
-                        title="목"
+                        title="چوارشه‌م"
                       >
                         <span
                           class="ant-calendar-column-header-inner"
                         >
-                          목
+                          چ
                         </span>
                       </th>
                       <th
                         class="ant-calendar-column-header"
                         role="columnheader"
-                        title="금"
+                        title="پێنجشه‌م"
                       >
                         <span
                           class="ant-calendar-column-header-inner"
                         >
-                          금
+                          پ
                         </span>
                       </th>
                       <th
                         class="ant-calendar-column-header"
                         role="columnheader"
-                        title="토"
+                        title="هه‌ینی"
                       >
                         <span
                           class="ant-calendar-column-header-inner"
                         >
-                          토
+                          ه
                         </span>
                       </th>
                     </tr>
@@ -110313,7 +110313,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-last-month-cell"
                         role="gridcell"
-                        title="2017년 8월 27일"
+                        title="٢٦ ئاب ٢٠١٧"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          26
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        role="gridcell"
+                        title="٢٧ ئاب ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110326,7 +110339,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-last-month-cell"
                         role="gridcell"
-                        title="2017년 8월 28일"
+                        title="٢٨ ئاب ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110339,7 +110352,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-last-month-cell"
                         role="gridcell"
-                        title="2017년 8월 29일"
+                        title="٢٩ ئاب ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110352,7 +110365,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-last-month-cell"
                         role="gridcell"
-                        title="2017년 8월 30일"
+                        title="٣٠ ئاب ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110365,7 +110378,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                         role="gridcell"
-                        title="2017년 8월 31일"
+                        title="٣١ ئاب ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110378,7 +110391,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 1일"
+                        title="١ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110386,19 +110399,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           class="ant-calendar-date"
                         >
                           1
-                        </div>
-                      </td>
-                      <td
-                        class="ant-calendar-cell"
-                        role="gridcell"
-                        title="2017년 9월 2일"
-                      >
-                        <div
-                          aria-disabled="false"
-                          aria-selected="false"
-                          class="ant-calendar-date"
-                        >
-                          2
                         </div>
                       </td>
                     </tr>
@@ -110409,7 +110409,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 3일"
+                        title="٢ ئەیلوول ٢٠١٧"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          2
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="٣ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110422,7 +110435,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 4일"
+                        title="٤ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110435,7 +110448,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 5일"
+                        title="٥ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110448,7 +110461,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 6일"
+                        title="٦ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110461,7 +110474,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 7일"
+                        title="٧ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110474,7 +110487,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 8일"
+                        title="٨ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110482,19 +110495,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           class="ant-calendar-date"
                         >
                           8
-                        </div>
-                      </td>
-                      <td
-                        class="ant-calendar-cell"
-                        role="gridcell"
-                        title="2017년 9월 9일"
-                      >
-                        <div
-                          aria-disabled="false"
-                          aria-selected="false"
-                          class="ant-calendar-date"
-                        >
-                          9
                         </div>
                       </td>
                     </tr>
@@ -110505,7 +110505,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 10일"
+                        title="٩ ئەیلوول ٢٠١٧"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          9
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="١٠ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110518,7 +110531,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 11일"
+                        title="١١ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110531,7 +110544,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 12일"
+                        title="١٢ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110544,7 +110557,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 13일"
+                        title="١٣ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110557,7 +110570,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 14일"
+                        title="١٤ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110570,7 +110583,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 15일"
+                        title="١٥ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110578,19 +110591,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           class="ant-calendar-date"
                         >
                           15
-                        </div>
-                      </td>
-                      <td
-                        class="ant-calendar-cell"
-                        role="gridcell"
-                        title="2017년 9월 16일"
-                      >
-                        <div
-                          aria-disabled="false"
-                          aria-selected="false"
-                          class="ant-calendar-date"
-                        >
-                          16
                         </div>
                       </td>
                     </tr>
@@ -110601,7 +110601,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 17일"
+                        title="١٦ ئەیلوول ٢٠١٧"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          16
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="١٧ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110614,7 +110627,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-today ant-calendar-selected-day"
                         role="gridcell"
-                        title="2017년 9월 18일"
+                        title="١٨ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110627,7 +110640,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 19일"
+                        title="١٩ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110640,7 +110653,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 20일"
+                        title="٢٠ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110653,7 +110666,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 21일"
+                        title="٢١ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110666,7 +110679,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 22일"
+                        title="٢٢ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110674,19 +110687,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           class="ant-calendar-date"
                         >
                           22
-                        </div>
-                      </td>
-                      <td
-                        class="ant-calendar-cell"
-                        role="gridcell"
-                        title="2017년 9월 23일"
-                      >
-                        <div
-                          aria-disabled="false"
-                          aria-selected="false"
-                          class="ant-calendar-date"
-                        >
-                          23
                         </div>
                       </td>
                     </tr>
@@ -110697,7 +110697,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 24일"
+                        title="٢٣ ئەیلوول ٢٠١٧"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          23
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="٢٤ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110710,7 +110723,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 25일"
+                        title="٢٥ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110723,7 +110736,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 26일"
+                        title="٢٦ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110736,7 +110749,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 27일"
+                        title="٢٧ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110749,7 +110762,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 28일"
+                        title="٢٨ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110762,7 +110775,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell"
                         role="gridcell"
-                        title="2017년 9월 29일"
+                        title="٢٩ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110772,10 +110785,15 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           29
                         </div>
                       </td>
+                    </tr>
+                    <tr
+                      class=""
+                      role="row"
+                    >
                       <td
                         class="ant-calendar-cell ant-calendar-last-day-of-month"
                         role="gridcell"
-                        title="2017년 9월 30일"
+                        title="٣٠ ئەیلوول ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110785,15 +110803,10 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           30
                         </div>
                       </td>
-                    </tr>
-                    <tr
-                      class=""
-                      role="row"
-                    >
                       <td
                         class="ant-calendar-cell ant-calendar-next-month-btn-day"
                         role="gridcell"
-                        title="2017년 10월 1일"
+                        title="١ تشرینی یەكەم ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110806,7 +110819,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-next-month-btn-day"
                         role="gridcell"
-                        title="2017년 10월 2일"
+                        title="٢ تشرینی یەكەم ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110819,7 +110832,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-next-month-btn-day"
                         role="gridcell"
-                        title="2017년 10월 3일"
+                        title="٣ تشرینی یەكەم ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110832,7 +110845,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-next-month-btn-day"
                         role="gridcell"
-                        title="2017년 10월 4일"
+                        title="٤ تشرینی یەكەم ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110845,7 +110858,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-next-month-btn-day"
                         role="gridcell"
-                        title="2017년 10월 5일"
+                        title="٥ تشرینی یەكەم ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110858,7 +110871,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                       <td
                         class="ant-calendar-cell ant-calendar-next-month-btn-day"
                         role="gridcell"
-                        title="2017년 10월 6일"
+                        title="٦ تشرینی یەكەم ٢٠١٧"
                       >
                         <div
                           aria-disabled="false"
@@ -110866,19 +110879,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           class="ant-calendar-date"
                         >
                           6
-                        </div>
-                      </td>
-                      <td
-                        class="ant-calendar-cell ant-calendar-next-month-btn-day"
-                        role="gridcell"
-                        title="2017년 10월 7일"
-                      >
-                        <div
-                          aria-disabled="false"
-                          aria-selected="false"
-                          class="ant-calendar-date"
-                        >
-                          7
                         </div>
                       </td>
                     </tr>
@@ -110894,7 +110894,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   <a
                     class="ant-calendar-today-btn "
                     role="button"
-                    title="2017년 9월 18일"
+                    title="١٨ ئەیلوول ٢٠١٧"
                   >
                     Îro
                   </a>
@@ -111831,14 +111831,14 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           role="button"
                           title="Meh hilbijêre"
                         >
-                          9월
+                          ئەیلوول
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
                           title="Sal hilbijêre"
                         >
-                          2017
+                          ٢٠١٧
                         </a>
                       </span>
                     </div>
@@ -111858,78 +111858,78 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="일"
+                            title="شه‌ممه‌"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              일
+                              ش
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="월"
+                            title="یه‌كشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              월
+                              ی
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="화"
+                            title="دووشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              화
+                              د
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="수"
+                            title="سێشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              수
+                              س
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="목"
+                            title="چوارشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              목
+                              چ
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="금"
+                            title="پێنجشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              금
+                              پ
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="토"
+                            title="هه‌ینی"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              토
+                              ه
                             </span>
                           </th>
                         </tr>
@@ -111944,7 +111944,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-last-month-cell"
                             role="gridcell"
-                            title="2017년 8월 27일"
+                            title="٢٦ ئاب ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              26
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            role="gridcell"
+                            title="٢٧ ئاب ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -111957,7 +111970,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-last-month-cell"
                             role="gridcell"
-                            title="2017년 8월 28일"
+                            title="٢٨ ئاب ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -111970,7 +111983,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-last-month-cell"
                             role="gridcell"
-                            title="2017년 8월 29일"
+                            title="٢٩ ئاب ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -111983,7 +111996,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-last-month-cell"
                             role="gridcell"
-                            title="2017년 8월 30일"
+                            title="٣٠ ئاب ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -111996,7 +112009,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
                             role="gridcell"
-                            title="2017년 8월 31일"
+                            title="٣١ ئاب ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112009,7 +112022,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 1일"
+                            title="١ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112017,19 +112030,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               1
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell"
-                            role="gridcell"
-                            title="2017년 9월 2일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              2
                             </div>
                           </td>
                         </tr>
@@ -112040,7 +112040,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 3일"
+                            title="٢ ئەیلوول ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              2
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="٣ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112053,7 +112066,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 4일"
+                            title="٤ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112066,7 +112079,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 5일"
+                            title="٥ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112079,7 +112092,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 6일"
+                            title="٦ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112092,7 +112105,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 7일"
+                            title="٧ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112105,7 +112118,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 8일"
+                            title="٨ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112113,19 +112126,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               8
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell"
-                            role="gridcell"
-                            title="2017년 9월 9일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              9
                             </div>
                           </td>
                         </tr>
@@ -112136,7 +112136,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 10일"
+                            title="٩ ئەیلوول ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              9
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="١٠ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112149,7 +112162,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 11일"
+                            title="١١ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112162,7 +112175,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 12일"
+                            title="١٢ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112175,7 +112188,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 13일"
+                            title="١٣ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112188,7 +112201,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 14일"
+                            title="١٤ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112201,7 +112214,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 15일"
+                            title="١٥ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112209,19 +112222,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               15
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell"
-                            role="gridcell"
-                            title="2017년 9월 16일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              16
                             </div>
                           </td>
                         </tr>
@@ -112232,7 +112232,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 17일"
+                            title="١٦ ئەیلوول ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              16
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="١٧ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112245,7 +112258,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-today ant-calendar-selected-date"
                             role="gridcell"
-                            title="2017년 9월 18일"
+                            title="١٨ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112258,7 +112271,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 19일"
+                            title="١٩ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112271,7 +112284,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 20일"
+                            title="٢٠ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112284,7 +112297,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 21일"
+                            title="٢١ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112297,7 +112310,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 22일"
+                            title="٢٢ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112305,19 +112318,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               22
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell"
-                            role="gridcell"
-                            title="2017년 9월 23일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              23
                             </div>
                           </td>
                         </tr>
@@ -112328,7 +112328,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 24일"
+                            title="٢٣ ئەیلوول ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              23
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="٢٤ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112341,7 +112354,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 25일"
+                            title="٢٥ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112354,7 +112367,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 26일"
+                            title="٢٦ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112367,7 +112380,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 27일"
+                            title="٢٧ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112380,7 +112393,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 28일"
+                            title="٢٨ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112393,7 +112406,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 9월 29일"
+                            title="٢٩ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112403,10 +112416,15 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               29
                             </div>
                           </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
                           <td
                             class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
-                            title="2017년 9월 30일"
+                            title="٣٠ ئەیلوول ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112416,15 +112434,10 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               30
                             </div>
                           </td>
-                        </tr>
-                        <tr
-                          class=""
-                          role="row"
-                        >
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 10월 1일"
+                            title="١ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112437,7 +112450,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 10월 2일"
+                            title="٢ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112450,7 +112463,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 10월 3일"
+                            title="٣ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112463,7 +112476,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 10월 4일"
+                            title="٤ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112476,7 +112489,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 10월 5일"
+                            title="٥ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112489,7 +112502,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 10월 6일"
+                            title="٦ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112497,19 +112510,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               6
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
-                            role="gridcell"
-                            title="2017년 10월 7일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              7
                             </div>
                           </td>
                         </tr>
@@ -112556,14 +112556,14 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           role="button"
                           title="Meh hilbijêre"
                         >
-                          10월
+                          تشرینی یەكەم
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
                           title="Sal hilbijêre"
                         >
-                          2017
+                          ٢٠١٧
                         </a>
                       </span>
                       <a
@@ -112591,78 +112591,78 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="일"
+                            title="شه‌ممه‌"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              일
+                              ش
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="월"
+                            title="یه‌كشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              월
+                              ی
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="화"
+                            title="دووشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              화
+                              د
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="수"
+                            title="سێشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              수
+                              س
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="목"
+                            title="چوارشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              목
+                              چ
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="금"
+                            title="پێنجشه‌م"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              금
+                              پ
                             </span>
                           </th>
                           <th
                             class="ant-calendar-column-header"
                             role="columnheader"
-                            title="토"
+                            title="هه‌ینی"
                           >
                             <span
                               class="ant-calendar-column-header-inner"
                             >
-                              토
+                              ه
                             </span>
                           </th>
                         </tr>
@@ -112675,9 +112675,22 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           role="row"
                         >
                           <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
+                            role="gridcell"
+                            title="٣٠ ئەیلوول ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              30
+                            </div>
+                          </td>
+                          <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 1일"
+                            title="١ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112690,7 +112703,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 2일"
+                            title="٢ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112703,7 +112716,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 3일"
+                            title="٣ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112716,7 +112729,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 4일"
+                            title="٤ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112729,7 +112742,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 5일"
+                            title="٥ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112742,7 +112755,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 6일"
+                            title="٦ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112750,19 +112763,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               6
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell"
-                            role="gridcell"
-                            title="2017년 10월 7일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              7
                             </div>
                           </td>
                         </tr>
@@ -112773,7 +112773,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 8일"
+                            title="٧ تشرینی یەكەم ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              7
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="٨ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112786,7 +112799,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 9일"
+                            title="٩ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112799,7 +112812,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 10일"
+                            title="١٠ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112812,7 +112825,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 11일"
+                            title="١١ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112825,7 +112838,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 12일"
+                            title="١٢ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112838,7 +112851,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 13일"
+                            title="١٣ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112846,19 +112859,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               13
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell"
-                            role="gridcell"
-                            title="2017년 10월 14일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              14
                             </div>
                           </td>
                         </tr>
@@ -112869,7 +112869,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 15일"
+                            title="١٤ تشرینی یەكەم ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              14
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="١٥ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112882,7 +112895,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 16일"
+                            title="١٦ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112895,7 +112908,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 17일"
+                            title="١٧ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112908,7 +112921,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 18일"
+                            title="١٨ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112921,7 +112934,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 19일"
+                            title="١٩ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112934,7 +112947,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 20일"
+                            title="٢٠ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112942,19 +112955,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               20
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell"
-                            role="gridcell"
-                            title="2017년 10월 21일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              21
                             </div>
                           </td>
                         </tr>
@@ -112965,7 +112965,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 22일"
+                            title="٢١ تشرینی یەكەم ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              21
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="٢٢ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112978,7 +112991,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 23일"
+                            title="٢٣ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -112991,7 +113004,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 24일"
+                            title="٢٤ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113004,7 +113017,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 25일"
+                            title="٢٥ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113017,7 +113030,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 26일"
+                            title="٢٦ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113030,7 +113043,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 27일"
+                            title="٢٧ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113038,19 +113051,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               27
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell"
-                            role="gridcell"
-                            title="2017년 10월 28일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              28
                             </div>
                           </td>
                         </tr>
@@ -113061,7 +113061,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 29일"
+                            title="٢٨ تشرینی یەكەم ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              28
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="٢٩ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113074,7 +113087,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell"
                             role="gridcell"
-                            title="2017년 10월 30일"
+                            title="٣٠ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113087,7 +113100,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-last-day-of-month"
                             role="gridcell"
-                            title="2017년 10월 31일"
+                            title="٣١ تشرینی یەكەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113100,7 +113113,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 11월 1일"
+                            title="١ تشرینی دووەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113113,7 +113126,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 11월 2일"
+                            title="٢ تشرینی دووەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113126,7 +113139,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 11월 3일"
+                            title="٣ تشرینی دووەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113134,19 +113147,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               3
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
-                            role="gridcell"
-                            title="2017년 11월 4일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              4
                             </div>
                           </td>
                         </tr>
@@ -113157,7 +113157,20 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 11월 5일"
+                            title="٤ تشرینی دووەم ٢٠١٧"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              4
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="٥ تشرینی دووەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113170,7 +113183,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 11월 6일"
+                            title="٦ تشرینی دووەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113183,7 +113196,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 11월 7일"
+                            title="٧ تشرینی دووەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113196,7 +113209,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 11월 8일"
+                            title="٨ تشرینی دووەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113209,7 +113222,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 11월 9일"
+                            title="٩ تشرینی دووەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113222,7 +113235,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                           <td
                             class="ant-calendar-cell ant-calendar-next-month-btn-day"
                             role="gridcell"
-                            title="2017년 11월 10일"
+                            title="١٠ تشرینی دووەم ٢٠١٧"
                           >
                             <div
                               aria-disabled="false"
@@ -113230,19 +113243,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                               class="ant-calendar-date"
                             >
                               10
-                            </div>
-                          </td>
-                          <td
-                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
-                            role="gridcell"
-                            title="2017년 11월 11일"
-                          >
-                            <div
-                              aria-disabled="false"
-                              aria-selected="false"
-                              class="ant-calendar-date"
-                            >
-                              11
                             </div>
                           </td>
                         </tr>
@@ -113622,9 +113622,9 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             <div
               class="ant-select-selection-selected-value"
               style="display: block; opacity: 1;"
-              title="9월"
+              title="ئەیلوول"
             >
-              9월
+              ئەیلوول
             </div>
           </div>
           <span
@@ -113714,78 +113714,78 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <th
                 class="ant-fullcalendar-column-header"
                 role="columnheader"
-                title="일"
+                title="شه‌ممه‌"
               >
                 <span
                   class="ant-fullcalendar-column-header-inner"
                 >
-                  일
+                  ش
                 </span>
               </th>
               <th
                 class="ant-fullcalendar-column-header"
                 role="columnheader"
-                title="월"
+                title="یه‌كشه‌م"
               >
                 <span
                   class="ant-fullcalendar-column-header-inner"
                 >
-                  월
+                  ی
                 </span>
               </th>
               <th
                 class="ant-fullcalendar-column-header"
                 role="columnheader"
-                title="화"
+                title="دووشه‌م"
               >
                 <span
                   class="ant-fullcalendar-column-header-inner"
                 >
-                  화
+                  د
                 </span>
               </th>
               <th
                 class="ant-fullcalendar-column-header"
                 role="columnheader"
-                title="수"
+                title="سێشه‌م"
               >
                 <span
                   class="ant-fullcalendar-column-header-inner"
                 >
-                  수
+                  س
                 </span>
               </th>
               <th
                 class="ant-fullcalendar-column-header"
                 role="columnheader"
-                title="목"
+                title="چوارشه‌م"
               >
                 <span
                   class="ant-fullcalendar-column-header-inner"
                 >
-                  목
+                  چ
                 </span>
               </th>
               <th
                 class="ant-fullcalendar-column-header"
                 role="columnheader"
-                title="금"
+                title="پێنجشه‌م"
               >
                 <span
                   class="ant-fullcalendar-column-header-inner"
                 >
-                  금
+                  پ
                 </span>
               </th>
               <th
                 class="ant-fullcalendar-column-header"
                 role="columnheader"
-                title="토"
+                title="هه‌ینی"
               >
                 <span
                   class="ant-fullcalendar-column-header-inner"
                 >
-                  토
+                  ه
                 </span>
               </th>
             </tr>
@@ -113800,7 +113800,25 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
                 role="gridcell"
-                title="2017년 8월 27일"
+                title="٢٦ ئاب ٢٠١٧"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    26
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                role="gridcell"
+                title="٢٧ ئاب ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113818,7 +113836,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
                 role="gridcell"
-                title="2017년 8월 28일"
+                title="٢٨ ئاب ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113836,7 +113854,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
                 role="gridcell"
-                title="2017년 8월 29일"
+                title="٢٩ ئاب ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113854,7 +113872,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
                 role="gridcell"
-                title="2017년 8월 30일"
+                title="٣٠ ئاب ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113872,7 +113890,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
-                title="2017년 8월 31일"
+                title="٣١ ئاب ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113890,7 +113908,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 1일"
+                title="١ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113905,10 +113923,15 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
+            </tr>
+            <tr
+              class=""
+              role="row"
+            >
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 2일"
+                title="٢ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113923,15 +113946,10 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
-            </tr>
-            <tr
-              class=""
-              role="row"
-            >
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 3일"
+                title="٣ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113949,7 +113967,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 4일"
+                title="٤ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113967,7 +113985,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 5일"
+                title="٥ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -113985,7 +114003,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 6일"
+                title="٦ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114003,7 +114021,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 7일"
+                title="٧ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114021,7 +114039,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 8일"
+                title="٨ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114036,10 +114054,15 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
+            </tr>
+            <tr
+              class=""
+              role="row"
+            >
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 9일"
+                title="٩ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114054,15 +114077,10 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
-            </tr>
-            <tr
-              class=""
-              role="row"
-            >
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 10일"
+                title="١٠ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114080,7 +114098,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 11일"
+                title="١١ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114098,7 +114116,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 12일"
+                title="١٢ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114116,7 +114134,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 13일"
+                title="١٣ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114134,7 +114152,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 14일"
+                title="١٤ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114152,7 +114170,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 15일"
+                title="١٥ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114167,10 +114185,15 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
+            </tr>
+            <tr
+              class="ant-fullcalendar-current-week ant-fullcalendar-active-week"
+              role="row"
+            >
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 16일"
+                title="١٦ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114185,15 +114208,10 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
-            </tr>
-            <tr
-              class="ant-fullcalendar-current-week ant-fullcalendar-active-week"
-              role="row"
-            >
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 17일"
+                title="١٧ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114211,7 +114229,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-today ant-fullcalendar-selected-day"
                 role="gridcell"
-                title="2017년 9월 18일"
+                title="١٨ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114229,7 +114247,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 19일"
+                title="١٩ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114247,7 +114265,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 20일"
+                title="٢٠ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114265,7 +114283,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 21일"
+                title="٢١ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114283,7 +114301,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 22일"
+                title="٢٢ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114298,10 +114316,15 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
+            </tr>
+            <tr
+              class=""
+              role="row"
+            >
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 23일"
+                title="٢٣ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114316,15 +114339,10 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
-            </tr>
-            <tr
-              class=""
-              role="row"
-            >
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 24일"
+                title="٢٤ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114342,7 +114360,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 25일"
+                title="٢٥ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114360,7 +114378,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 26일"
+                title="٢٦ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114378,7 +114396,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 27일"
+                title="٢٧ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114396,7 +114414,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 28일"
+                title="٢٨ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114414,7 +114432,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell"
                 role="gridcell"
-                title="2017년 9월 29일"
+                title="٢٩ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114429,10 +114447,15 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
+            </tr>
+            <tr
+              class=""
+              role="row"
+            >
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
                 role="gridcell"
-                title="2017년 9월 30일"
+                title="٣٠ ئەیلوول ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114447,15 +114470,10 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   />
                 </div>
               </td>
-            </tr>
-            <tr
-              class=""
-              role="row"
-            >
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
                 role="gridcell"
-                title="2017년 10월 1일"
+                title="١ تشرینی یەكەم ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114473,7 +114491,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
                 role="gridcell"
-                title="2017년 10월 2일"
+                title="٢ تشرینی یەكەم ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114491,7 +114509,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
                 role="gridcell"
-                title="2017년 10월 3일"
+                title="٣ تشرینی یەكەم ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114509,7 +114527,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
                 role="gridcell"
-                title="2017년 10월 4일"
+                title="٤ تشرینی یەكەم ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114527,7 +114545,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
                 role="gridcell"
-                title="2017년 10월 5일"
+                title="٥ تشرینی یەكەم ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114545,7 +114563,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               <td
                 class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
                 role="gridcell"
-                title="2017년 10월 6일"
+                title="٦ تشرینی یەكەم ٢٠١٧"
               >
                 <div
                   class="ant-fullcalendar-date"
@@ -114554,24 +114572,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                     class="ant-fullcalendar-value"
                   >
                     06
-                  </div>
-                  <div
-                    class="ant-fullcalendar-content"
-                  />
-                </div>
-              </td>
-              <td
-                class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
-                role="gridcell"
-                title="2017년 10월 7일"
-              >
-                <div
-                  class="ant-fullcalendar-date"
-                >
-                  <div
-                    class="ant-fullcalendar-value"
-                  >
-                    07
                   </div>
                   <div
                     class="ant-fullcalendar-content"
