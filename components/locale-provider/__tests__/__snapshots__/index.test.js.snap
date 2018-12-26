@@ -109062,7 +109062,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
     <li
       aria-disabled="true"
       class="ant-pagination-disabled ant-pagination-prev"
-      title="Previous Page"
+      title="ಹಿಂದಿನ ಪುಟ"
     >
       <a
         class="ant-pagination-item-link"
@@ -109135,7 +109135,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
       aria-disabled="false"
       class=" ant-pagination-next"
       tabindex="0"
-      title="Next Page"
+      title="ಮುಂದಿನ ಪುಟ"
     >
       <a
         class="ant-pagination-item-link"
@@ -109181,9 +109181,9 @@ exports[`Locale Provider should display the text as kn 1`] = `
             <div
               class="ant-select-selection-selected-value"
               style="display: block; opacity: 1;"
-              title="10 / page"
+              title="10 / ಪುಟ"
             >
-              10 / page
+              10 / ಪುಟ
             </div>
           </div>
           <span
@@ -109281,7 +109281,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
     >
       <input
         class="ant-calendar-picker-input ant-input"
-        placeholder="Select date"
+        placeholder="ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ"
         readonly=""
         value=""
       />
@@ -109323,13 +109323,13 @@ exports[`Locale Provider should display the text as kn 1`] = `
               >
                 <input
                   class="ant-calendar-input "
-                  placeholder="Select date"
+                  placeholder="ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ"
                   value=""
                 />
               </div>
               <a
                 role="button"
-                title="Clear"
+                title="ಸ್ಪಷ್ಟ"
               >
                 <span
                   class="ant-calendar-clear-btn"
@@ -109348,12 +109348,12 @@ exports[`Locale Provider should display the text as kn 1`] = `
                   <a
                     class="ant-calendar-prev-year-btn"
                     role="button"
-                    title="Last year (Control + left)"
+                    title="ಕಳೆದ ವರ್ಷ (Ctrl + ಎಡ)"
                   />
                   <a
                     class="ant-calendar-prev-month-btn"
                     role="button"
-                    title="Previous month (PageUp)"
+                    title="ಹಿಂದಿನ ತಿಂಗಳು (ಪೇಜ್ಅಪ್)"
                   />
                   <span
                     class="ant-calendar-my-select"
@@ -109361,25 +109361,25 @@ exports[`Locale Provider should display the text as kn 1`] = `
                     <a
                       class="ant-calendar-month-select"
                       role="button"
-                      title="Choose a month"
+                      title="ಒಂದು ತಿಂಗಳು ಆಯ್ಕೆಮಾಡಿ"
                     >
                       ಸೆಪ್ಟೆಂ
                     </a>
                     <a
                       class="ant-calendar-year-select"
                       role="button"
-                      title="Choose a year"
+                      title="ಒಂದು ವರ್ಷ ಆರಿಸಿ"
                     >
                       ೨೦೧೭
                     </a>
                   </span>
                   <a
                     class="ant-calendar-next-month-btn"
-                    title="Next month (PageDown)"
+                    title="ಮುಂದಿನ ತಿಂಗಳು (ಪೇಜ್ಡೌನ್)"
                   />
                   <a
                     class="ant-calendar-next-year-btn"
-                    title="Next year (Control + right)"
+                    title="ಮುಂದಿನ ವರ್ಷ (Ctrl + ಬಲ)"
                   />
                 </div>
               </div>
@@ -110067,7 +110067,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
                     role="button"
                     title="೧೮ ಸೆಪ್ಟೆಂಬರ್ ೨೦೧೭"
                   >
-                    Today
+                    ಇಂದು
                   </a>
                 </span>
               </div>
@@ -110084,7 +110084,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
     <input
       class="ant-time-picker-input"
       id=""
-      placeholder="Select time"
+      placeholder="ಸಮಯ ಆಯ್ಕೆಮಾಡಿ"
       type="text"
       value=""
     />
@@ -110126,7 +110126,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
         >
           <input
             class="ant-time-picker-panel-input  "
-            placeholder="Select time"
+            placeholder="ಸಮಯ ಆಯ್ಕೆಮಾಡಿ"
             value=""
           />
           <a
@@ -111054,7 +111054,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
     >
       <input
         class="ant-calendar-range-picker-input"
-        placeholder="Start date"
+        placeholder="ಪ್ರಾರಂಭ ದಿನಾಂಕ"
         readonly=""
         tabindex="-1"
         value=""
@@ -111066,7 +111066,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
       </span>
       <input
         class="ant-calendar-range-picker-input"
-        placeholder="End date"
+        placeholder="ಅಂತಿಮ ದಿನಾಂಕ"
         readonly=""
         tabindex="-1"
         value=""
@@ -111115,7 +111115,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
                   >
                     <input
                       class="ant-calendar-input "
-                      placeholder="Start date"
+                      placeholder="ಪ್ರಾರಂಭ ದಿನಾಂಕ"
                       value=""
                     />
                   </div>
@@ -111132,12 +111132,12 @@ exports[`Locale Provider should display the text as kn 1`] = `
                       <a
                         class="ant-calendar-prev-year-btn"
                         role="button"
-                        title="Last year (Control + left)"
+                        title="ಕಳೆದ ವರ್ಷ (Ctrl + ಎಡ)"
                       />
                       <a
                         class="ant-calendar-prev-month-btn"
                         role="button"
-                        title="Previous month (PageUp)"
+                        title="ಹಿಂದಿನ ತಿಂಗಳು (ಪೇಜ್ಅಪ್)"
                       />
                       <span
                         class="ant-calendar-my-select"
@@ -111145,14 +111145,14 @@ exports[`Locale Provider should display the text as kn 1`] = `
                         <a
                           class="ant-calendar-month-select"
                           role="button"
-                          title="Choose a month"
+                          title="ಒಂದು ತಿಂಗಳು ಆಯ್ಕೆಮಾಡಿ"
                         >
                           ಸೆಪ್ಟೆಂ
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
-                          title="Choose a year"
+                          title="ಒಂದು ವರ್ಷ ಆರಿಸಿ"
                         >
                           ೨೦೧೭
                         </a>
@@ -111850,7 +111850,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
                   >
                     <input
                       class="ant-calendar-input "
-                      placeholder="End date"
+                      placeholder="ಅಂತಿಮ ದಿನಾಂಕ"
                       value=""
                     />
                   </div>
@@ -111870,25 +111870,25 @@ exports[`Locale Provider should display the text as kn 1`] = `
                         <a
                           class="ant-calendar-month-select"
                           role="button"
-                          title="Choose a month"
+                          title="ಒಂದು ತಿಂಗಳು ಆಯ್ಕೆಮಾಡಿ"
                         >
                           ಅಕ್ಟೋ
                         </a>
                         <a
                           class="ant-calendar-year-select"
                           role="button"
-                          title="Choose a year"
+                          title="ಒಂದು ವರ್ಷ ಆರಿಸಿ"
                         >
                           ೨೦೧೭
                         </a>
                       </span>
                       <a
                         class="ant-calendar-next-month-btn"
-                        title="Next month (PageDown)"
+                        title="ಮುಂದಿನ ತಿಂಗಳು (ಪೇಜ್ಡೌನ್)"
                       />
                       <a
                         class="ant-calendar-next-year-btn"
-                        title="Next year (Control + right)"
+                        title="ಮುಂದಿನ ವರ್ಷ (Ctrl + ಬಲ)"
                       />
                     </div>
                   </div>
@@ -113019,7 +113019,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
             />
           </span>
           <span>
-            Month
+            ತಿಂಗಳು
           </span>
         </label>
         <label
@@ -113038,7 +113038,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
             />
           </span>
           <span>
-            Year
+            ವರ್ಷ
           </span>
         </label>
       </div>
