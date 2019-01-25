@@ -3573,31 +3573,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
             placeholder="اختيار الوقت"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -8661,31 +8636,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
             placeholder="Избор на час"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -13749,31 +13699,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
             placeholder="Seleccionar hora"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -18837,31 +18762,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
             placeholder="Vybrat čas"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -23925,31 +23825,6 @@ exports[`Locale Provider should display the text as da 1`] = `
             placeholder="Vælg tid"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -29013,31 +28888,6 @@ exports[`Locale Provider should display the text as de 1`] = `
             placeholder="Zeit auswählen"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -34101,31 +33951,6 @@ exports[`Locale Provider should display the text as el 1`] = `
             placeholder="Επιλέξτε ώρα"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -39189,31 +39014,6 @@ exports[`Locale Provider should display the text as en 1`] = `
             placeholder="Select time"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -44277,31 +44077,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             placeholder="Select time"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -49365,31 +49140,6 @@ exports[`Locale Provider should display the text as es 1`] = `
             placeholder="Seleccionar hora"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -54453,31 +54203,6 @@ exports[`Locale Provider should display the text as et 1`] = `
             placeholder="Vali aeg"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -59541,31 +59266,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
             placeholder="انتخاب زمان"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -64629,31 +64329,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
             placeholder="Valitse aika"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -69717,31 +69392,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
             placeholder="Sélectionner l'heure"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -74805,31 +74455,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
             placeholder="Sélectionner l'heure"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -79893,31 +79518,6 @@ exports[`Locale Provider should display the text as he 1`] = `
             placeholder="בחר שעה"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -84981,31 +84581,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
             placeholder="समय का चयन करें"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -90069,31 +89644,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
             placeholder="Válasszon időt"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -95157,31 +94707,6 @@ exports[`Locale Provider should display the text as id 1`] = `
             placeholder="Pilih waktu"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -100245,31 +99770,6 @@ exports[`Locale Provider should display the text as is 1`] = `
             placeholder="Velja tíma"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -105333,31 +104833,6 @@ exports[`Locale Provider should display the text as it 1`] = `
             placeholder="Selezionare l'orario"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -110421,31 +109896,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
             placeholder="時刻を選択"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -115509,31 +114959,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
             placeholder="ಸಮಯ ಆಯ್ಕೆಮಾಡಿ"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -120597,31 +120022,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
             placeholder="날짜 선택"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -125685,31 +125085,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             placeholder="Demê hilbijêre"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -130773,31 +130148,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
             placeholder="Цаг сонгох"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -135861,31 +135211,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
             placeholder="Velg tid"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -140949,31 +140274,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
             placeholder="Select time"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -146037,31 +145337,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
             placeholder="Selecteer tijd"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -151125,31 +150400,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             placeholder="Selecteer tijd"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -156213,31 +155463,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
             placeholder="Wybierz godzinę"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -161301,31 +160526,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
             placeholder="Hora"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -166389,31 +165589,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             placeholder="Hora"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -171477,31 +170652,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
             placeholder="Выберите время"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -176565,31 +175715,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
             placeholder="Vybrať čas"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -181653,31 +180778,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
             placeholder="Izberite čas"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -186741,31 +185841,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
             placeholder="Izaberite vreme"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -191829,31 +190904,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
             placeholder="Välj tid"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -196917,31 +195967,6 @@ exports[`Locale Provider should display the text as th 1`] = `
             placeholder="เลือกเวลา"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -202005,31 +201030,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
             placeholder="Zaman Seç"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -207093,31 +206093,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
             placeholder="Оберіть час"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -212181,31 +211156,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
             placeholder="Chọn thời gian"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -217269,31 +216219,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             placeholder="请选择时间"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="图标: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
@@ -222357,31 +221282,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             placeholder="請選擇時間"
             value=""
           />
-          <a
-            class="ant-time-picker-panel-clear-btn"
-            role="button"
-            tabindex="0"
-            title="clear"
-          >
-            <i
-              aria-label="icon: close-circle"
-              class="anticon anticon-close-circle ant-time-picker-panel-clear-btn-icon"
-            >
-              <svg
-                aria-hidden="true"
-                class=""
-                data-icon="close-circle"
-                fill="currentColor"
-                height="1em"
-                viewBox="64 64 896 896"
-                width="1em"
-              >
-                <path
-                  d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 0 1-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
-                />
-              </svg>
-            </i>
-          </a>
         </div>
         <div
           class="ant-time-picker-panel-combobox"
