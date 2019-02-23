@@ -97265,7 +97265,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                   type="button"
                 >
                   <span>
-                    Membatalkan
+                    Batal
                   </span>
                 </button>
                 <button
@@ -97273,7 +97273,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                   type="button"
                 >
                   <span>
-                    baik
+                    OK
                   </span>
                 </button>
               </div>
@@ -97312,7 +97312,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           class="ant-transfer-list-header-selected"
         >
           <span>
-            0 barang
+            0 item
           </span>
           <span
             class="ant-transfer-list-header-title"
@@ -97328,7 +97328,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           <div>
             <input
               class="ant-input ant-transfer-list-search"
-              placeholder="Cari di sini"
+              placeholder="Cari"
               type="text"
               value=""
             />
@@ -97457,7 +97457,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           class="ant-transfer-list-header-selected"
         >
           <span>
-            0 barang
+            0 item
           </span>
           <span
             class="ant-transfer-list-header-title"
@@ -97473,7 +97473,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           <div>
             <input
               class="ant-input ant-transfer-list-search"
-              placeholder="Cari di sini"
+              placeholder="Cari"
               type="text"
               value=""
             />
@@ -98603,7 +98603,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                         aria-label="icon: filter"
                         class="anticon anticon-filter ant-dropdown-trigger"
                         tabindex="-1"
-                        title="Menu filter"
+                        title="Saring"
                       >
                         <svg
                           aria-hidden="true"
@@ -98737,7 +98737,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                 type="button"
               >
                 <span>
-                  Membatalkan
+                  Batal
                 </span>
               </button>
               <button
@@ -98745,7 +98745,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                 type="button"
               >
                 <span>
-                  baik
+                  OK
                 </span>
               </button>
             </div>
