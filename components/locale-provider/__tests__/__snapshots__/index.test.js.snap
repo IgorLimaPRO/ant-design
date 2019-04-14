@@ -3534,7 +3534,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -3583,7 +3583,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="اختيار الوقت"
             value=""
           />
@@ -8639,7 +8639,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -8688,7 +8688,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Избор на час"
             value=""
           />
@@ -13744,7 +13744,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -13793,7 +13793,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Seleccionar hora"
             value=""
           />
@@ -18849,7 +18849,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -18898,7 +18898,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Vybrat čas"
             value=""
           />
@@ -23954,7 +23954,7 @@ exports[`Locale Provider should display the text as da 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -24003,7 +24003,7 @@ exports[`Locale Provider should display the text as da 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Vælg tid"
             value=""
           />
@@ -29059,7 +29059,7 @@ exports[`Locale Provider should display the text as de 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -29108,7 +29108,7 @@ exports[`Locale Provider should display the text as de 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Zeit auswählen"
             value=""
           />
@@ -34164,7 +34164,7 @@ exports[`Locale Provider should display the text as el 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -34213,7 +34213,7 @@ exports[`Locale Provider should display the text as el 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Επιλέξτε ώρα"
             value=""
           />
@@ -39269,7 +39269,7 @@ exports[`Locale Provider should display the text as en 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -39318,7 +39318,7 @@ exports[`Locale Provider should display the text as en 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Select time"
             value=""
           />
@@ -44374,7 +44374,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -44423,7 +44423,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Select time"
             value=""
           />
@@ -49479,7 +49479,7 @@ exports[`Locale Provider should display the text as es 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -49528,7 +49528,7 @@ exports[`Locale Provider should display the text as es 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Seleccionar hora"
             value=""
           />
@@ -54584,7 +54584,7 @@ exports[`Locale Provider should display the text as et 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -54633,7 +54633,7 @@ exports[`Locale Provider should display the text as et 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Vali aeg"
             value=""
           />
@@ -59689,7 +59689,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -59738,7 +59738,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="انتخاب زمان"
             value=""
           />
@@ -64794,7 +64794,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -64843,7 +64843,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Valitse aika"
             value=""
           />
@@ -69899,7 +69899,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -69948,7 +69948,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Sélectionner l'heure"
             value=""
           />
@@ -75004,7 +75004,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -75053,7 +75053,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Sélectionner l'heure"
             value=""
           />
@@ -80109,7 +80109,7 @@ exports[`Locale Provider should display the text as he 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -80158,7 +80158,7 @@ exports[`Locale Provider should display the text as he 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="בחר שעה"
             value=""
           />
@@ -85214,7 +85214,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -85263,7 +85263,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="समय का चयन करें"
             value=""
           />
@@ -90319,7 +90319,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -90368,7 +90368,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Válasszon időt"
             value=""
           />
@@ -95424,7 +95424,7 @@ exports[`Locale Provider should display the text as id 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -95473,7 +95473,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Pilih waktu"
             value=""
           />
@@ -100529,7 +100529,7 @@ exports[`Locale Provider should display the text as is 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -100578,7 +100578,7 @@ exports[`Locale Provider should display the text as is 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Velja tíma"
             value=""
           />
@@ -105634,7 +105634,7 @@ exports[`Locale Provider should display the text as it 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -105683,7 +105683,7 @@ exports[`Locale Provider should display the text as it 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Selezionare l'orario"
             value=""
           />
@@ -110739,7 +110739,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -110788,7 +110788,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="時刻を選択"
             value=""
           />
@@ -115844,7 +115844,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -115893,7 +115893,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="ಸಮಯ ಆಯ್ಕೆಮಾಡಿ"
             value=""
           />
@@ -120949,7 +120949,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -120998,7 +120998,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="날짜 선택"
             value=""
           />
@@ -126054,7 +126054,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -126103,7 +126103,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Demê hilbijêre"
             value=""
           />
@@ -131159,7 +131159,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -131208,7 +131208,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Цаг сонгох"
             value=""
           />
@@ -136264,7 +136264,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -136313,7 +136313,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Velg tid"
             value=""
           />
@@ -141369,7 +141369,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -141418,7 +141418,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Select time"
             value=""
           />
@@ -146474,7 +146474,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -146523,7 +146523,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Selecteer tijd"
             value=""
           />
@@ -151579,7 +151579,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -151628,7 +151628,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Selecteer tijd"
             value=""
           />
@@ -156684,7 +156684,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -156733,7 +156733,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Wybierz godzinę"
             value=""
           />
@@ -161789,7 +161789,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -161838,7 +161838,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Hora"
             value=""
           />
@@ -166894,7 +166894,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -166943,7 +166943,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Hora"
             value=""
           />
@@ -171999,7 +171999,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -172048,7 +172048,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Выберите время"
             value=""
           />
@@ -177104,7 +177104,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -177153,7 +177153,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Vybrať čas"
             value=""
           />
@@ -182209,7 +182209,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -182258,7 +182258,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Izberite čas"
             value=""
           />
@@ -187314,7 +187314,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -187363,7 +187363,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Izaberite vreme"
             value=""
           />
@@ -192419,7 +192419,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -192468,7 +192468,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Välj tid"
             value=""
           />
@@ -197524,7 +197524,7 @@ exports[`Locale Provider should display the text as th 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -197573,7 +197573,7 @@ exports[`Locale Provider should display the text as th 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="เลือกเวลา"
             value=""
           />
@@ -202629,7 +202629,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -202678,7 +202678,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Zaman Seç"
             value=""
           />
@@ -207734,7 +207734,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -207783,7 +207783,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Оберіть час"
             value=""
           />
@@ -212839,7 +212839,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -212888,7 +212888,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="Chọn thời gian"
             value=""
           />
@@ -217944,7 +217944,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -217993,7 +217993,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="请选择时间"
             value=""
           />
@@ -223049,7 +223049,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
     </div>
   </span>
   <span
-    class="ant-time-picker "
+    class="ant-time-picker"
     style=""
   >
     <input
@@ -223098,7 +223098,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           class="ant-time-picker-panel-input-wrap"
         >
           <input
-            class="ant-time-picker-panel-input  "
+            class="ant-time-picker-panel-input"
             placeholder="請選擇時間"
             value=""
           />
