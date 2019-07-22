@@ -181060,9 +181060,9 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             <div
               class="ant-select-selection-selected-value"
               style="display: block; opacity: 1;"
-              title="10 / páginas"
+              title="10 / página"
             >
-              10 / páginas
+              10 / página
             </div>
           </div>
           <span
