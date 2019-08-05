@@ -251702,6 +251702,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
+          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -251878,6 +251879,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
+          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -252106,6 +252108,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
+          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -252126,6 +252129,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
+          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
