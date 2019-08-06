@@ -6246,7 +6246,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -6423,7 +6422,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -6652,7 +6650,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -6673,7 +6670,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -11582,7 +11578,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -11759,7 +11754,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -11988,7 +11982,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -12009,7 +12002,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -16918,7 +16910,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -17095,7 +17086,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -17324,7 +17314,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -17345,7 +17334,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -22254,7 +22242,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -22431,7 +22418,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -22660,7 +22646,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -22681,7 +22666,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -27590,7 +27574,6 @@ exports[`Locale Provider should display the text as da 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -27767,7 +27750,6 @@ exports[`Locale Provider should display the text as da 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -27996,7 +27978,6 @@ exports[`Locale Provider should display the text as da 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -28017,7 +27998,6 @@ exports[`Locale Provider should display the text as da 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -32926,7 +32906,6 @@ exports[`Locale Provider should display the text as de 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -33103,7 +33082,6 @@ exports[`Locale Provider should display the text as de 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -33332,7 +33310,6 @@ exports[`Locale Provider should display the text as de 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -33353,7 +33330,6 @@ exports[`Locale Provider should display the text as de 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -38262,7 +38238,6 @@ exports[`Locale Provider should display the text as el 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -38439,7 +38414,6 @@ exports[`Locale Provider should display the text as el 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -38668,7 +38642,6 @@ exports[`Locale Provider should display the text as el 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -38689,7 +38662,6 @@ exports[`Locale Provider should display the text as el 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -43598,7 +43570,6 @@ exports[`Locale Provider should display the text as en 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -43775,7 +43746,6 @@ exports[`Locale Provider should display the text as en 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -44004,7 +43974,6 @@ exports[`Locale Provider should display the text as en 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -44025,7 +43994,6 @@ exports[`Locale Provider should display the text as en 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -48934,7 +48902,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -49111,7 +49078,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -49340,7 +49306,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -49361,7 +49326,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -54270,7 +54234,6 @@ exports[`Locale Provider should display the text as es 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -54447,7 +54410,6 @@ exports[`Locale Provider should display the text as es 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -54676,7 +54638,6 @@ exports[`Locale Provider should display the text as es 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -54697,7 +54658,6 @@ exports[`Locale Provider should display the text as es 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -59606,7 +59566,6 @@ exports[`Locale Provider should display the text as et 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -59783,7 +59742,6 @@ exports[`Locale Provider should display the text as et 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -60012,7 +59970,6 @@ exports[`Locale Provider should display the text as et 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -60033,7 +59990,6 @@ exports[`Locale Provider should display the text as et 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -64942,7 +64898,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -65119,7 +65074,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -65348,7 +65302,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -65369,7 +65322,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -70278,7 +70230,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -70455,7 +70406,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -70684,7 +70634,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -70705,7 +70654,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -75614,7 +75562,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -75791,7 +75738,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -76020,7 +75966,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -76041,7 +75986,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -80950,7 +80894,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -81127,7 +81070,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -81356,7 +81298,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -81377,7 +81318,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -86286,7 +86226,6 @@ exports[`Locale Provider should display the text as he 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -86463,7 +86402,6 @@ exports[`Locale Provider should display the text as he 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -86692,7 +86630,6 @@ exports[`Locale Provider should display the text as he 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -86713,7 +86650,6 @@ exports[`Locale Provider should display the text as he 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -91622,7 +91558,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -91799,7 +91734,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -92028,7 +91962,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -92049,7 +91982,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -96958,7 +96890,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -97135,7 +97066,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -97364,7 +97294,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -97385,7 +97314,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -102294,7 +102222,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -102471,7 +102398,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -102700,7 +102626,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -102721,7 +102646,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -107630,7 +107554,6 @@ exports[`Locale Provider should display the text as id 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -107807,7 +107730,6 @@ exports[`Locale Provider should display the text as id 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -108036,7 +107958,6 @@ exports[`Locale Provider should display the text as id 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -108057,7 +107978,6 @@ exports[`Locale Provider should display the text as id 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -112966,7 +112886,6 @@ exports[`Locale Provider should display the text as is 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -113143,7 +113062,6 @@ exports[`Locale Provider should display the text as is 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -113372,7 +113290,6 @@ exports[`Locale Provider should display the text as is 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -113393,7 +113310,6 @@ exports[`Locale Provider should display the text as is 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -118302,7 +118218,6 @@ exports[`Locale Provider should display the text as it 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -118479,7 +118394,6 @@ exports[`Locale Provider should display the text as it 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -118708,7 +118622,6 @@ exports[`Locale Provider should display the text as it 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -118729,7 +118642,6 @@ exports[`Locale Provider should display the text as it 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -123638,7 +123550,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -123815,7 +123726,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -124044,7 +123954,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -124065,7 +123974,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -128974,7 +128882,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -129151,7 +129058,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -129380,7 +129286,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -129401,7 +129306,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -134310,7 +134214,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -134487,7 +134390,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -134716,7 +134618,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -134737,7 +134638,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -139646,7 +139546,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -139823,7 +139722,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -140052,7 +139950,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -140073,7 +139970,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -144982,7 +144878,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -145159,7 +145054,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -145388,7 +145282,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -145409,7 +145302,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -150318,7 +150210,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -150495,7 +150386,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -150724,7 +150614,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -150745,7 +150634,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -155654,7 +155542,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -155831,7 +155718,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -156060,7 +155946,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -156081,7 +155966,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -160990,7 +160874,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -161167,7 +161050,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -161396,7 +161278,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -161417,7 +161298,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -166326,7 +166206,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -166503,7 +166382,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -166732,7 +166610,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -166753,7 +166630,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -171662,7 +171538,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -171839,7 +171714,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -172068,7 +171942,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -172089,7 +171962,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -176998,7 +176870,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -177175,7 +177046,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -177404,7 +177274,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -177425,7 +177294,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -182334,7 +182202,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -182511,7 +182378,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -182740,7 +182606,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -182761,7 +182626,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -187670,7 +187534,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -187847,7 +187710,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -188076,7 +187938,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -188097,7 +187958,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -193006,7 +192866,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -193183,7 +193042,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -193412,7 +193270,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -193433,7 +193290,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -198342,7 +198198,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -198519,7 +198374,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -198748,7 +198602,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -198769,7 +198622,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -203678,7 +203530,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -203855,7 +203706,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -204084,7 +203934,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -204105,7 +203954,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -209014,7 +208862,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -209191,7 +209038,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -209420,7 +209266,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -209441,7 +209286,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -214350,7 +214194,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -214527,7 +214370,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -214756,7 +214598,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -214777,7 +214618,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -219686,7 +219526,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -219863,7 +219702,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -220092,7 +219930,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -220113,7 +219950,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -225022,7 +224858,6 @@ exports[`Locale Provider should display the text as th 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -225199,7 +225034,6 @@ exports[`Locale Provider should display the text as th 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -225428,7 +225262,6 @@ exports[`Locale Provider should display the text as th 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -225449,7 +225282,6 @@ exports[`Locale Provider should display the text as th 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -230358,7 +230190,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -230535,7 +230366,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -230764,7 +230594,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -230785,7 +230614,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -235694,7 +235522,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -235871,7 +235698,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -236100,7 +235926,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -236121,7 +235946,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -241030,7 +240854,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -241207,7 +241030,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -241436,7 +241258,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -241457,7 +241278,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -246366,7 +246186,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -246543,7 +246362,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -246772,7 +246590,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -246793,7 +246610,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
@@ -251702,7 +251518,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -251879,7 +251694,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       >
         <label
           class="ant-checkbox-wrapper"
-          for="checkbox-label"
         >
           <span
             class="ant-checkbox"
@@ -252108,7 +251922,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       >
         <label
           class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
-          for="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
         >
           <span
             class="ant-radio-button ant-radio-button-checked"
@@ -252129,7 +251942,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         </label>
         <label
           class="ant-radio-button-wrapper"
-          for="ant-radio-button-wrapper"
         >
           <span
             class="ant-radio-button"
