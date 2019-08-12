@@ -7733,7 +7733,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
       aria-labelledby="rcDialogTitle0"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -13066,7 +13065,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
       aria-labelledby="rcDialogTitle1"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -18399,7 +18397,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
       aria-labelledby="rcDialogTitle2"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -23732,7 +23729,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
       aria-labelledby="rcDialogTitle3"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -29065,7 +29061,6 @@ exports[`Locale Provider should display the text as da 1`] = `
       aria-labelledby="rcDialogTitle4"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -34398,7 +34393,6 @@ exports[`Locale Provider should display the text as de 1`] = `
       aria-labelledby="rcDialogTitle5"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -39731,7 +39725,6 @@ exports[`Locale Provider should display the text as el 1`] = `
       aria-labelledby="rcDialogTitle6"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -45064,7 +45057,6 @@ exports[`Locale Provider should display the text as en 1`] = `
       aria-labelledby="rcDialogTitle8"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -50397,7 +50389,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       aria-labelledby="rcDialogTitle7"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -55730,7 +55721,6 @@ exports[`Locale Provider should display the text as es 1`] = `
       aria-labelledby="rcDialogTitle9"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -61063,7 +61053,6 @@ exports[`Locale Provider should display the text as et 1`] = `
       aria-labelledby="rcDialogTitle10"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -66396,7 +66385,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
       aria-labelledby="rcDialogTitle11"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -71729,7 +71717,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
       aria-labelledby="rcDialogTitle12"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -77062,7 +77049,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
       aria-labelledby="rcDialogTitle13"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -82395,7 +82381,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
       aria-labelledby="rcDialogTitle14"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -87728,7 +87713,6 @@ exports[`Locale Provider should display the text as he 1`] = `
       aria-labelledby="rcDialogTitle15"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -93061,7 +93045,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
       aria-labelledby="rcDialogTitle16"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -98394,7 +98377,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
       aria-labelledby="rcDialogTitle17"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -103727,7 +103709,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
       aria-labelledby="rcDialogTitle18"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -109060,7 +109041,6 @@ exports[`Locale Provider should display the text as id 1`] = `
       aria-labelledby="rcDialogTitle44"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -114393,7 +114373,6 @@ exports[`Locale Provider should display the text as is 1`] = `
       aria-labelledby="rcDialogTitle19"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -119726,7 +119705,6 @@ exports[`Locale Provider should display the text as it 1`] = `
       aria-labelledby="rcDialogTitle20"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -125059,7 +125037,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
       aria-labelledby="rcDialogTitle21"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -130392,7 +130369,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
       aria-labelledby="rcDialogTitle22"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -135725,7 +135701,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
       aria-labelledby="rcDialogTitle23"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -141058,7 +141033,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       aria-labelledby="rcDialogTitle24"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -146391,7 +146365,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       aria-labelledby="rcDialogTitle26"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -151724,7 +151697,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       aria-labelledby="rcDialogTitle25"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -157057,7 +157029,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
       aria-labelledby="rcDialogTitle27"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -162390,7 +162361,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       aria-labelledby="rcDialogTitle28"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -167723,7 +167693,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
       aria-labelledby="rcDialogTitle30"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -173056,7 +173025,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       aria-labelledby="rcDialogTitle29"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -178389,7 +178357,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
       aria-labelledby="rcDialogTitle31"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -183722,7 +183689,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
       aria-labelledby="rcDialogTitle33"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -189055,7 +189021,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       aria-labelledby="rcDialogTitle32"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -194388,7 +194353,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
       aria-labelledby="rcDialogTitle34"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -199721,7 +199685,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
       aria-labelledby="rcDialogTitle35"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -205054,7 +205017,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
       aria-labelledby="rcDialogTitle36"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -210387,7 +210349,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
       aria-labelledby="rcDialogTitle37"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -215720,7 +215681,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
       aria-labelledby="rcDialogTitle38"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -221053,7 +221013,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
       aria-labelledby="rcDialogTitle39"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -226386,7 +226345,6 @@ exports[`Locale Provider should display the text as th 1`] = `
       aria-labelledby="rcDialogTitle40"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -231719,7 +231677,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
       aria-labelledby="rcDialogTitle41"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -237052,7 +237009,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
       aria-labelledby="rcDialogTitle42"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -242385,7 +242341,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
       aria-labelledby="rcDialogTitle43"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -247718,7 +247673,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       aria-labelledby="rcDialogTitle45"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
@@ -253051,7 +253005,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       aria-labelledby="rcDialogTitle46"
       class="ant-modal-wrap "
       role="dialog"
-      style="display: none;"
       tabindex="-1"
     >
       <div
