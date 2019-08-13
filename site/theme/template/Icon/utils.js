@@ -1,5 +1,4 @@
-import { ThemeType } from './index';
-import warning from '../_util/warning';
+import warning from '../../../../components/_util/warning';
 
 // These props make sure that the SVG behaviours like general text.
 // Reference: https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4
@@ -7,7 +6,7 @@ export const svgBaseProps = {
   width: '1em',
   height: '1em',
   fill: 'currentColor',
-  ['aria-hidden']: true,
+  'aria-hidden': true,
   focusable: 'false',
 };
 
@@ -15,8 +14,8 @@ const fillTester = /-fill$/;
 const outlineTester = /-o$/;
 const twoToneTester = /-twotone$/;
 
-export function getThemeFromTypeName(type: string): ThemeType | null {
-  let result: ThemeType | null = null;
+export function getThemeFromTypeName(type) {
+  let result = null;
   if (fillTester.test(type)) {
     result = 'filled';
   } else if (outlineTester.test(type)) {
@@ -27,14 +26,14 @@ export function getThemeFromTypeName(type: string): ThemeType | null {
   return result;
 }
 
-export function removeTypeTheme(type: string) {
+export function removeTypeTheme(type) {
   return type
     .replace(fillTester, '')
     .replace(outlineTester, '')
     .replace(twoToneTester, '');
 }
 
-export function withThemeSuffix(type: string, theme: ThemeType) {
+export function withThemeSuffix(type, theme) {
   let result = type;
   if (theme === 'filled') {
     result += '-fill';
@@ -49,7 +48,7 @@ export function withThemeSuffix(type: string, theme: ThemeType) {
 }
 
 // For alias or compatibility
-export function alias(type: string) {
+export function alias(type) {
   let newType = type;
   switch (type) {
     case 'cross':
