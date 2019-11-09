@@ -109471,11 +109471,11 @@ exports[`Locale Provider should display the text as id 1`] = `
                   </span>
                   <a
                     class="ant-calendar-next-month-btn"
-                    title="Bulan depan (PageDown)"
+                    title="Bulan selanjutnya (PageDown)"
                   />
                   <a
                     class="ant-calendar-next-year-btn"
-                    title="Tahun depan (Kontrol + kanan)"
+                    title="Tahun selanjutnya (Kontrol + kanan)"
                   />
                 </div>
               </div>
@@ -112104,11 +112104,11 @@ exports[`Locale Provider should display the text as id 1`] = `
                       </span>
                       <a
                         class="ant-calendar-next-month-btn"
-                        title="Bulan depan (PageDown)"
+                        title="Bulan selanjutnya (PageDown)"
                       />
                       <a
                         class="ant-calendar-next-year-btn"
-                        title="Tahun depan (Kontrol + kanan)"
+                        title="Tahun selanjutnya (Kontrol + kanan)"
                       />
                     </div>
                   </div>
@@ -114370,7 +114370,7 @@ exports[`Locale Provider should display the text as id 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle46"
+      aria-labelledby="rcDialogTitle47"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -114422,7 +114422,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle46"
+              id="rcDialogTitle47"
             >
               Locale Modal
             </div>
@@ -151694,7 +151694,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle47"
+      aria-labelledby="rcDialogTitle48"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -151746,7 +151746,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle47"
+              id="rcDialogTitle48"
             >
               Locale Modal
             </div>
@@ -151776,6 +151776,5338 @@ exports[`Locale Provider should display the text as lv 1`] = `
               >
                 <span>
                   OK
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-hidden="true"
+          style="width: 0px; height: 0px; overflow: hidden;"
+          tabindex="0"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Locale Provider should display the text as mk 1`] = `
+<div>
+  <ul
+    class="ant-pagination"
+    unselectable="unselectable"
+  >
+    <li
+      aria-disabled="true"
+      class="ant-pagination-disabled ant-pagination-prev"
+      title="Претходна страница"
+    >
+      <a
+        class="ant-pagination-item-link"
+      >
+        <i
+          aria-label="Икона: left"
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 0 0 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </a>
+    </li>
+    <li
+      class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
+      tabindex="0"
+      title="1"
+    >
+      <a>
+        1
+      </a>
+    </li>
+    <li
+      class="ant-pagination-item ant-pagination-item-2"
+      tabindex="0"
+      title="2"
+    >
+      <a>
+        2
+      </a>
+    </li>
+    <li
+      class="ant-pagination-item ant-pagination-item-3"
+      tabindex="0"
+      title="3"
+    >
+      <a>
+        3
+      </a>
+    </li>
+    <li
+      class="ant-pagination-item ant-pagination-item-4"
+      tabindex="0"
+      title="4"
+    >
+      <a>
+        4
+      </a>
+    </li>
+    <li
+      class="ant-pagination-item ant-pagination-item-5"
+      tabindex="0"
+      title="5"
+    >
+      <a>
+        5
+      </a>
+    </li>
+    <li
+      aria-disabled="false"
+      class=" ant-pagination-next"
+      tabindex="0"
+      title="Наредна страница"
+    >
+      <a
+        class="ant-pagination-item-link"
+      >
+        <i
+          aria-label="Икона: right"
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7A7.97 7.97 0 0 0 302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 0 0 0-50.4z"
+            />
+          </svg>
+        </i>
+      </a>
+    </li>
+    <li
+      class="ant-pagination-options"
+    >
+      <div
+        class="ant-pagination-options-size-changer ant-select ant-select-enabled"
+      >
+        <div
+          aria-autocomplete="list"
+          aria-controls="test-uuid"
+          aria-expanded="false"
+          aria-haspopup="true"
+          class="ant-select-selection
+            ant-select-selection--single"
+          role="combobox"
+          tabindex="0"
+        >
+          <div
+            class="ant-select-selection__rendered"
+          >
+            <div
+              class="ant-select-selection-selected-value"
+              style="display: block; opacity: 1;"
+              title="10 / стр"
+            >
+              10 / стр
+            </div>
+          </div>
+          <span
+            class="ant-select-arrow"
+            style="user-select: none;"
+            unselectable="on"
+          >
+            <i
+              aria-label="Икона: down"
+              class="anticon anticon-down ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                class=""
+                data-icon="down"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
+          </span>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <div
+    class="ant-select ant-select-enabled"
+    style="width: 200px;"
+  >
+    <div
+      aria-autocomplete="list"
+      aria-controls="test-uuid"
+      aria-expanded="false"
+      aria-haspopup="true"
+      class="ant-select-selection
+            ant-select-selection--single"
+      role="combobox"
+      tabindex="0"
+    >
+      <div
+        class="ant-select-selection__rendered"
+      >
+        <div
+          class="ant-select-search ant-select-search--inline"
+          style="display: none;"
+        >
+          <div
+            class="ant-select-search__field__wrap"
+          >
+            <input
+              autocomplete="off"
+              class="ant-select-search__field"
+              value=""
+            />
+            <span
+              class="ant-select-search__field__mirror"
+            >
+               
+            </span>
+          </div>
+        </div>
+      </div>
+      <span
+        class="ant-select-arrow"
+        style="user-select: none;"
+        unselectable="on"
+      >
+        <i
+          aria-label="Икона: down"
+          class="anticon anticon-down ant-select-arrow-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </i>
+      </span>
+    </div>
+  </div>
+  <span
+    class="ant-calendar-picker"
+  >
+    <div
+      style=""
+    >
+      <input
+        class="ant-calendar-picker-input ant-input"
+        placeholder="Избери датум"
+        readonly=""
+        value=""
+      />
+      <i
+        aria-label="Икона: calendar"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
+      >
+        <svg
+          aria-hidden="true"
+          class=""
+          data-icon="calendar"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="64 64 896 896"
+          width="1em"
+        >
+          <path
+            d="M880 184H712v-64c0-4.4-3.6-8-8-8h-56c-4.4 0-8 3.6-8 8v64H384v-64c0-4.4-3.6-8-8-8h-56c-4.4 0-8 3.6-8 8v64H144c-17.7 0-32 14.3-32 32v664c0 17.7 14.3 32 32 32h736c17.7 0 32-14.3 32-32V216c0-17.7-14.3-32-32-32zm-40 656H184V460h656v380zM184 392V256h128v48c0 4.4 3.6 8 8 8h56c4.4 0 8-3.6 8-8v-48h256v48c0 4.4 3.6 8 8 8h56c4.4 0 8-3.6 8-8v-48h128v136H184z"
+          />
+        </svg>
+      </i>
+    </div>
+    <div>
+      <div
+        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
+        style="left: -999px; top: -1002px;"
+      >
+        <div
+          class="ant-calendar"
+          tabindex="0"
+        >
+          <div
+            class="ant-calendar-panel"
+          >
+            <div
+              class="ant-calendar-input-wrap"
+            >
+              <div
+                class="ant-calendar-date-input-wrap"
+              >
+                <input
+                  class="ant-calendar-input "
+                  placeholder="Избери датум"
+                  value=""
+                />
+              </div>
+              <a
+                role="button"
+                title="Избриши"
+              >
+                <span
+                  class="ant-calendar-clear-btn"
+                />
+              </a>
+            </div>
+            <div
+              class="ant-calendar-date-panel"
+              tabindex="0"
+            >
+              <div
+                class="ant-calendar-header"
+              >
+                <div
+                  style="position: relative;"
+                >
+                  <a
+                    class="ant-calendar-prev-year-btn"
+                    role="button"
+                    title="Претходна година (Control + left)"
+                  />
+                  <a
+                    class="ant-calendar-prev-month-btn"
+                    role="button"
+                    title="Претходен месец (PageUp)"
+                  />
+                  <span
+                    class="ant-calendar-my-select"
+                  >
+                    <a
+                      class="ant-calendar-month-select"
+                      role="button"
+                      title="Избери месец"
+                    >
+                      сеп
+                    </a>
+                    <a
+                      class="ant-calendar-year-select"
+                      role="button"
+                      title="Избери година"
+                    >
+                      2017
+                    </a>
+                  </span>
+                  <a
+                    class="ant-calendar-next-month-btn"
+                    title="Нареден месец (PageDown)"
+                  />
+                  <a
+                    class="ant-calendar-next-year-btn"
+                    title="Наредна година (Control + right)"
+                  />
+                </div>
+              </div>
+              <div
+                class="ant-calendar-body"
+              >
+                <table
+                  cellspacing="0"
+                  class="ant-calendar-table"
+                  role="grid"
+                >
+                  <thead>
+                    <tr
+                      role="row"
+                    >
+                      <th
+                        class="ant-calendar-column-header"
+                        role="columnheader"
+                        title="пон"
+                      >
+                        <span
+                          class="ant-calendar-column-header-inner"
+                        >
+                          пo
+                        </span>
+                      </th>
+                      <th
+                        class="ant-calendar-column-header"
+                        role="columnheader"
+                        title="вто"
+                      >
+                        <span
+                          class="ant-calendar-column-header-inner"
+                        >
+                          вт
+                        </span>
+                      </th>
+                      <th
+                        class="ant-calendar-column-header"
+                        role="columnheader"
+                        title="сре"
+                      >
+                        <span
+                          class="ant-calendar-column-header-inner"
+                        >
+                          ср
+                        </span>
+                      </th>
+                      <th
+                        class="ant-calendar-column-header"
+                        role="columnheader"
+                        title="чет"
+                      >
+                        <span
+                          class="ant-calendar-column-header-inner"
+                        >
+                          че
+                        </span>
+                      </th>
+                      <th
+                        class="ant-calendar-column-header"
+                        role="columnheader"
+                        title="пет"
+                      >
+                        <span
+                          class="ant-calendar-column-header-inner"
+                        >
+                          пе
+                        </span>
+                      </th>
+                      <th
+                        class="ant-calendar-column-header"
+                        role="columnheader"
+                        title="саб"
+                      >
+                        <span
+                          class="ant-calendar-column-header-inner"
+                        >
+                          сa
+                        </span>
+                      </th>
+                      <th
+                        class="ant-calendar-column-header"
+                        role="columnheader"
+                        title="нед"
+                      >
+                        <span
+                          class="ant-calendar-column-header-inner"
+                        >
+                          нe
+                        </span>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody
+                    class="ant-calendar-tbody"
+                  >
+                    <tr
+                      class=""
+                      role="row"
+                    >
+                      <td
+                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        role="gridcell"
+                        title="28 август 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          28
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        role="gridcell"
+                        title="29 август 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          29
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-last-month-cell"
+                        role="gridcell"
+                        title="30 август 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          30
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
+                        role="gridcell"
+                        title="31 август 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          31
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="1 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          1
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="2 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          2
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="3 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          3
+                        </div>
+                      </td>
+                    </tr>
+                    <tr
+                      class=""
+                      role="row"
+                    >
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="4 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          4
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="5 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          5
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="6 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          6
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="7 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          7
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="8 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          8
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="9 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          9
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="10 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          10
+                        </div>
+                      </td>
+                    </tr>
+                    <tr
+                      class=""
+                      role="row"
+                    >
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="11 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          11
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="12 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          12
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="13 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          13
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="14 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          14
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="15 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          15
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="16 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          16
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="17 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          17
+                        </div>
+                      </td>
+                    </tr>
+                    <tr
+                      class="ant-calendar-current-week ant-calendar-active-week"
+                      role="row"
+                    >
+                      <td
+                        class="ant-calendar-cell ant-calendar-today ant-calendar-selected-day"
+                        role="gridcell"
+                        title="18 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="true"
+                          class="ant-calendar-date"
+                        >
+                          18
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="19 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          19
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="20 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          20
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="21 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          21
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="22 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          22
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="23 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          23
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="24 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          24
+                        </div>
+                      </td>
+                    </tr>
+                    <tr
+                      class=""
+                      role="row"
+                    >
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="25 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          25
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="26 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          26
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="27 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          27
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="28 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          28
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell"
+                        role="gridcell"
+                        title="29 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          29
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-last-day-of-month"
+                        role="gridcell"
+                        title="30 септември 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          30
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                        role="gridcell"
+                        title="1 октомври 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          1
+                        </div>
+                      </td>
+                    </tr>
+                    <tr
+                      class=""
+                      role="row"
+                    >
+                      <td
+                        class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                        role="gridcell"
+                        title="2 октомври 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          2
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                        role="gridcell"
+                        title="3 октомври 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          3
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                        role="gridcell"
+                        title="4 октомври 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          4
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                        role="gridcell"
+                        title="5 октомври 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          5
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                        role="gridcell"
+                        title="6 октомври 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          6
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                        role="gridcell"
+                        title="7 октомври 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          7
+                        </div>
+                      </td>
+                      <td
+                        class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                        role="gridcell"
+                        title="8 октомври 2017"
+                      >
+                        <div
+                          aria-disabled="false"
+                          aria-selected="false"
+                          class="ant-calendar-date"
+                        >
+                          8
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div
+                class="ant-calendar-footer"
+              >
+                <span
+                  class="ant-calendar-footer-btn"
+                >
+                  <a
+                    class="ant-calendar-today-btn "
+                    role="button"
+                    title="18 септември 2017"
+                  >
+                    Денес
+                  </a>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </span>
+  <span
+    class="ant-time-picker"
+    style=""
+  >
+    <input
+      class="ant-time-picker-input"
+      id=""
+      placeholder="Избери време"
+      type="text"
+      value=""
+    />
+    <span
+      class="ant-time-picker-icon"
+    >
+      <i
+        aria-label="Икона: clock-circle"
+        class="anticon anticon-clock-circle ant-time-picker-clock-icon"
+      >
+        <svg
+          aria-hidden="true"
+          class=""
+          data-icon="clock-circle"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="64 64 896 896"
+          width="1em"
+        >
+          <path
+            d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"
+          />
+          <path
+            d="M686.7 638.6L544.1 535.5V288c0-4.4-3.6-8-8-8H488c-4.4 0-8 3.6-8 8v275.4c0 2.6 1.2 5 3.3 6.5l165.4 120.6c3.6 2.6 8.6 1.8 11.2-1.7l28.6-39c2.6-3.7 1.8-8.7-1.8-11.2z"
+          />
+        </svg>
+      </i>
+    </span>
+  </span>
+  <div>
+    <div
+      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
+      style="left: -999px; top: -1001px;"
+    >
+      <div
+        class="ant-time-picker-panel-inner"
+      >
+        <div
+          class="ant-time-picker-panel-input-wrap"
+        >
+          <input
+            class="ant-time-picker-panel-input"
+            placeholder="Избери време"
+            value=""
+          />
+        </div>
+        <div
+          class="ant-time-picker-panel-combobox"
+        >
+          <div
+            class="ant-time-picker-panel-select"
+          >
+            <ul>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                00
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                01
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                02
+              </li>
+              <li
+                class="ant-time-picker-panel-select-option-selected"
+                role="button"
+                tabindex="0"
+              >
+                03
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                04
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                05
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                06
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                07
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                08
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                09
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                10
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                11
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                12
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                13
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                14
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                15
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                16
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                17
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                18
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                19
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                20
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                21
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                22
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                23
+              </li>
+            </ul>
+          </div>
+          <div
+            class="ant-time-picker-panel-select"
+          >
+            <ul>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                00
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                01
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                02
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                03
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                04
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                05
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                06
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                07
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                08
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                09
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                10
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                11
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                12
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                13
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                14
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                15
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                16
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                17
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                18
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                19
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                20
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                21
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                22
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                23
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                24
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                25
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                26
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                27
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                28
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                29
+              </li>
+              <li
+                class="ant-time-picker-panel-select-option-selected"
+                role="button"
+                tabindex="0"
+              >
+                30
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                31
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                32
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                33
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                34
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                35
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                36
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                37
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                38
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                39
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                40
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                41
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                42
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                43
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                44
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                45
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                46
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                47
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                48
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                49
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                50
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                51
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                52
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                53
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                54
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                55
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                56
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                57
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                58
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                59
+              </li>
+            </ul>
+          </div>
+          <div
+            class="ant-time-picker-panel-select"
+          >
+            <ul>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                00
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                01
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                02
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                03
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                04
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                05
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                06
+              </li>
+              <li
+                class="ant-time-picker-panel-select-option-selected"
+                role="button"
+                tabindex="0"
+              >
+                07
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                08
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                09
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                10
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                11
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                12
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                13
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                14
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                15
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                16
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                17
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                18
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                19
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                20
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                21
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                22
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                23
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                24
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                25
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                26
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                27
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                28
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                29
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                30
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                31
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                32
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                33
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                34
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                35
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                36
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                37
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                38
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                39
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                40
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                41
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                42
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                43
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                44
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                45
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                46
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                47
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                48
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                49
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                50
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                51
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                52
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                53
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                54
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                55
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                56
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                57
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                58
+              </li>
+              <li
+                class=""
+                role="button"
+                tabindex="0"
+              >
+                59
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span
+    class="ant-calendar-picker"
+    style="width: 200px;"
+    tabindex="0"
+  >
+    <span
+      class="ant-calendar-picker-input ant-input"
+      style=""
+    >
+      <input
+        class="ant-calendar-range-picker-input"
+        placeholder="Од датум"
+        readonly=""
+        tabindex="-1"
+        value=""
+      />
+      <span
+        class="ant-calendar-range-picker-separator"
+      >
+         ~ 
+      </span>
+      <input
+        class="ant-calendar-range-picker-input"
+        placeholder="До датум"
+        readonly=""
+        tabindex="-1"
+        value=""
+      />
+      <i
+        aria-label="Икона: calendar"
+        class="anticon anticon-calendar ant-calendar-picker-icon"
+      >
+        <svg
+          aria-hidden="true"
+          class=""
+          data-icon="calendar"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="64 64 896 896"
+          width="1em"
+        >
+          <path
+            d="M880 184H712v-64c0-4.4-3.6-8-8-8h-56c-4.4 0-8 3.6-8 8v64H384v-64c0-4.4-3.6-8-8-8h-56c-4.4 0-8 3.6-8 8v64H144c-17.7 0-32 14.3-32 32v664c0 17.7 14.3 32 32 32h736c17.7 0 32-14.3 32-32V216c0-17.7-14.3-32-32-32zm-40 656H184V460h656v380zM184 392V256h128v48c0 4.4 3.6 8 8 8h56c4.4 0 8-3.6 8-8v-48h256v48c0 4.4 3.6 8 8 8h56c4.4 0 8-3.6 8-8v-48h128v136H184z"
+          />
+        </svg>
+      </i>
+    </span>
+    <div>
+      <div
+        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
+        style="left: -999px; top: -1002px;"
+      >
+        <div
+          class="ant-calendar ant-calendar-range"
+          tabindex="0"
+        >
+          <div
+            class="ant-calendar-panel"
+          >
+            <div
+              class="ant-calendar-date-panel"
+            >
+              <div
+                class="ant-calendar-range-part ant-calendar-range-left"
+              >
+                <div
+                  class="ant-calendar-input-wrap"
+                >
+                  <div
+                    class="ant-calendar-date-input-wrap"
+                  >
+                    <input
+                      class="ant-calendar-input "
+                      placeholder="Од датум"
+                      value=""
+                    />
+                  </div>
+                </div>
+                <div
+                  style="outline: none;"
+                >
+                  <div
+                    class="ant-calendar-header"
+                  >
+                    <div
+                      style="position: relative;"
+                    >
+                      <a
+                        class="ant-calendar-prev-year-btn"
+                        role="button"
+                        title="Претходна година (Control + left)"
+                      />
+                      <a
+                        class="ant-calendar-prev-month-btn"
+                        role="button"
+                        title="Претходен месец (PageUp)"
+                      />
+                      <span
+                        class="ant-calendar-my-select"
+                      >
+                        <a
+                          class="ant-calendar-month-select"
+                          role="button"
+                          title="Избери месец"
+                        >
+                          сеп
+                        </a>
+                        <a
+                          class="ant-calendar-year-select"
+                          role="button"
+                          title="Избери година"
+                        >
+                          2017
+                        </a>
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="ant-calendar-body"
+                  >
+                    <table
+                      cellspacing="0"
+                      class="ant-calendar-table"
+                      role="grid"
+                    >
+                      <thead>
+                        <tr
+                          role="row"
+                        >
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="пон"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              пo
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="вто"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              вт
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="сре"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              ср
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="чет"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              че
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="пет"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              пе
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="саб"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              сa
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="нед"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              нe
+                            </span>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody
+                        class="ant-calendar-tbody"
+                      >
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            role="gridcell"
+                            title="28 август 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              28
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            role="gridcell"
+                            title="29 август 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              29
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            role="gridcell"
+                            title="30 август 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              30
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
+                            role="gridcell"
+                            title="31 август 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              31
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="1 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              1
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="2 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              2
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="3 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              3
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="4 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              4
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="5 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              5
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="6 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              6
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="7 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              7
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="8 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              8
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="9 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              9
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="10 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              10
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="11 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              11
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="12 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              12
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="13 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              13
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="14 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              14
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="15 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              15
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="16 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              16
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="17 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              17
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class="ant-calendar-current-week"
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell ant-calendar-today ant-calendar-selected-date"
+                            role="gridcell"
+                            title="18 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              18
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="19 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              19
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="20 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              20
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="21 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              21
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="22 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              22
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="23 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              23
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="24 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              24
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="25 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              25
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="26 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              26
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="27 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              27
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="28 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              28
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="29 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              29
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
+                            role="gridcell"
+                            title="30 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              30
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="1 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              1
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="2 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              2
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="3 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              3
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="4 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              4
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="5 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              5
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="6 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              6
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="7 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              7
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="8 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              8
+                            </div>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+              <span
+                class="ant-calendar-range-middle"
+              >
+                ~
+              </span>
+              <div
+                class="ant-calendar-range-part ant-calendar-range-right"
+              >
+                <div
+                  class="ant-calendar-input-wrap"
+                >
+                  <div
+                    class="ant-calendar-date-input-wrap"
+                  >
+                    <input
+                      class="ant-calendar-input "
+                      placeholder="До датум"
+                      value=""
+                    />
+                  </div>
+                </div>
+                <div
+                  style="outline: none;"
+                >
+                  <div
+                    class="ant-calendar-header"
+                  >
+                    <div
+                      style="position: relative;"
+                    >
+                      <span
+                        class="ant-calendar-my-select"
+                      >
+                        <a
+                          class="ant-calendar-month-select"
+                          role="button"
+                          title="Избери месец"
+                        >
+                          окт
+                        </a>
+                        <a
+                          class="ant-calendar-year-select"
+                          role="button"
+                          title="Избери година"
+                        >
+                          2017
+                        </a>
+                      </span>
+                      <a
+                        class="ant-calendar-next-month-btn"
+                        title="Нареден месец (PageDown)"
+                      />
+                      <a
+                        class="ant-calendar-next-year-btn"
+                        title="Наредна година (Control + right)"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="ant-calendar-body"
+                  >
+                    <table
+                      cellspacing="0"
+                      class="ant-calendar-table"
+                      role="grid"
+                    >
+                      <thead>
+                        <tr
+                          role="row"
+                        >
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="пон"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              пo
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="вто"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              вт
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="сре"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              ср
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="чет"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              че
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="пет"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              пе
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="саб"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              сa
+                            </span>
+                          </th>
+                          <th
+                            class="ant-calendar-column-header"
+                            role="columnheader"
+                            title="нед"
+                          >
+                            <span
+                              class="ant-calendar-column-header-inner"
+                            >
+                              нe
+                            </span>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody
+                        class="ant-calendar-tbody"
+                      >
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            role="gridcell"
+                            title="25 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              25
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            role="gridcell"
+                            title="26 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              26
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            role="gridcell"
+                            title="27 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              27
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            role="gridcell"
+                            title="28 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              28
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell"
+                            role="gridcell"
+                            title="29 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              29
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-month-cell ant-calendar-last-day-of-month"
+                            role="gridcell"
+                            title="30 септември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              30
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="1 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              1
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="2 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              2
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="3 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              3
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="4 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              4
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="5 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              5
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="6 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              6
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="7 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              7
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="8 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              8
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="9 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              9
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="10 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              10
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="11 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              11
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="12 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              12
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="13 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              13
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="14 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              14
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="15 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              15
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="16 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              16
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="17 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              17
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="18 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              18
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="19 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              19
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="20 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              20
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="21 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              21
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="22 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              22
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="23 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              23
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="24 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              24
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="25 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              25
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="26 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              26
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="27 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              27
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="28 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              28
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="29 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              29
+                            </div>
+                          </td>
+                        </tr>
+                        <tr
+                          class=""
+                          role="row"
+                        >
+                          <td
+                            class="ant-calendar-cell"
+                            role="gridcell"
+                            title="30 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              30
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-last-day-of-month"
+                            role="gridcell"
+                            title="31 октомври 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              31
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="1 ноември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              1
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="2 ноември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              2
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="3 ноември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              3
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="4 ноември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              4
+                            </div>
+                          </td>
+                          <td
+                            class="ant-calendar-cell ant-calendar-next-month-btn-day"
+                            role="gridcell"
+                            title="5 ноември 2017"
+                          >
+                            <div
+                              aria-disabled="false"
+                              aria-selected="false"
+                              class="ant-calendar-date"
+                            >
+                              5
+                            </div>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-calendar-footer ant-calendar-range-bottom"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </span>
+  <a
+    class="ant-popover-open"
+    style=""
+  >
+    Click to confirm
+  </a>
+  <div>
+    <div
+      class="ant-popover ant-popover-placement-top zoom-big-appear"
+      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+    >
+      <div
+        class="ant-popover-content"
+      >
+        <div
+          class="ant-popover-arrow"
+        />
+        <div
+          class="ant-popover-inner"
+          role="tooltip"
+        >
+          <div>
+            <div
+              class="ant-popover-inner-content"
+            >
+              <div
+                class="ant-popover-message"
+              >
+                <i
+                  aria-label="Икона: exclamation-circle"
+                  class="anticon anticon-exclamation-circle"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class=""
+                    data-icon="exclamation-circle"
+                    fill="currentColor"
+                    focusable="false"
+                    height="1em"
+                    viewBox="64 64 896 896"
+                    width="1em"
+                  >
+                    <path
+                      d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm-32 232c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v272c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V296zm32 440a48.01 48.01 0 0 1 0-96 48.01 48.01 0 0 1 0 96z"
+                    />
+                  </svg>
+                </i>
+                <div
+                  class="ant-popover-message-title"
+                >
+                  Question?
+                </div>
+              </div>
+              <div
+                class="ant-popover-buttons"
+              >
+                <button
+                  class="ant-btn ant-btn-sm"
+                  type="button"
+                >
+                  <span>
+                    Откажи
+                  </span>
+                </button>
+                <button
+                  class="ant-btn ant-btn-primary ant-btn-sm"
+                  type="button"
+                >
+                  <span>
+                    ОК
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="ant-transfer"
+  >
+    <div
+      class="ant-transfer-list"
+    >
+      <div
+        class="ant-transfer-list-header"
+      >
+        <label
+          class="ant-checkbox-wrapper"
+        >
+          <span
+            class="ant-checkbox"
+          >
+            <input
+              class="ant-checkbox-input"
+              type="checkbox"
+              value=""
+            />
+            <span
+              class="ant-checkbox-inner"
+            />
+          </span>
+        </label>
+        <span
+          class="ant-transfer-list-header-selected"
+        >
+          <span>
+            0 предмет
+          </span>
+          <span
+            class="ant-transfer-list-header-title"
+          />
+        </span>
+      </div>
+      <div
+        class="ant-transfer-list-body ant-transfer-list-body-with-search"
+      >
+        <div
+          class="ant-transfer-list-body-search-wrapper"
+        >
+          <div>
+            <input
+              class="ant-input ant-transfer-list-search"
+              placeholder="Пребарај тука"
+              type="text"
+              value=""
+            />
+            <span
+              class="ant-transfer-list-search-action"
+            >
+              <i
+                aria-label="Икона: search"
+                class="anticon anticon-search"
+              >
+                <svg
+                  aria-hidden="true"
+                  class=""
+                  data-icon="search"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  viewBox="64 64 896 896"
+                  width="1em"
+                >
+                  <path
+                    d="M909.6 854.5L649.9 594.8C690.2 542.7 712 479 712 412c0-80.2-31.3-155.4-87.9-212.1-56.6-56.7-132-87.9-212.1-87.9s-155.5 31.3-212.1 87.9C143.2 256.5 112 331.8 112 412c0 80.1 31.3 155.5 87.9 212.1C256.5 680.8 331.8 712 412 712c67 0 130.6-21.8 182.7-62l259.7 259.6a8.2 8.2 0 0 0 11.6 0l43.6-43.5a8.2 8.2 0 0 0 0-11.6zM570.4 570.4C528 612.7 471.8 636 412 636s-116-23.3-158.4-65.6C211.3 528 188 471.8 188 412s23.3-116.1 65.6-158.4C296 211.3 352.2 188 412 188s116.1 23.2 158.4 65.6S636 352.2 636 412s-23.3 116.1-65.6 158.4z"
+                  />
+                </svg>
+              </i>
+            </span>
+          </div>
+        </div>
+        <div
+          class="ant-transfer-list-body-not-found"
+        >
+          <div
+            class="ant-empty ant-empty-normal ant-empty-small"
+          >
+            <div
+              class="ant-empty-image"
+            >
+              <svg
+                height="41"
+                viewBox="0 0 64 41"
+                width="64"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  fill="none"
+                  fill-rule="evenodd"
+                  transform="translate(0 1)"
+                >
+                  <ellipse
+                    cx="32"
+                    cy="33"
+                    fill="#F5F5F5"
+                    rx="32"
+                    ry="7"
+                  />
+                  <g
+                    fill-rule="nonzero"
+                    stroke="#D9D9D9"
+                  >
+                    <path
+                      d="M55 12.76L44.854 1.258C44.367.474 43.656 0 42.907 0H21.093c-.749 0-1.46.474-1.947 1.257L9 12.761V22h46v-9.24z"
+                    />
+                    <path
+                      d="M41.613 15.931c0-1.605.994-2.93 2.227-2.931H55v18.137C55 33.26 53.68 35 52.05 35h-40.1C10.32 35 9 33.259 9 31.137V13h11.16c1.233 0 2.227 1.323 2.227 2.928v.022c0 1.605 1.005 2.901 2.237 2.901h14.752c1.232 0 2.237-1.308 2.237-2.913v-.007z"
+                      fill="#FAFAFA"
+                    />
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <p
+              class="ant-empty-description"
+            >
+              Нема податоци
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-transfer-operation"
+    >
+      <button
+        class="ant-btn ant-btn-primary ant-btn-sm ant-btn-icon-only"
+        disabled=""
+        type="button"
+      >
+        <i
+          aria-label="Икона: right"
+          class="anticon anticon-right"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M765.7 486.8L314.9 134.7A7.97 7.97 0 0 0 302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 0 0 0-50.4z"
+            />
+          </svg>
+        </i>
+      </button>
+      <button
+        class="ant-btn ant-btn-primary ant-btn-sm ant-btn-icon-only"
+        disabled=""
+        type="button"
+      >
+        <i
+          aria-label="Икона: left"
+          class="anticon anticon-left"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="left"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 0 0 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+            />
+          </svg>
+        </i>
+      </button>
+    </div>
+    <div
+      class="ant-transfer-list"
+    >
+      <div
+        class="ant-transfer-list-header"
+      >
+        <label
+          class="ant-checkbox-wrapper"
+        >
+          <span
+            class="ant-checkbox"
+          >
+            <input
+              class="ant-checkbox-input"
+              type="checkbox"
+              value=""
+            />
+            <span
+              class="ant-checkbox-inner"
+            />
+          </span>
+        </label>
+        <span
+          class="ant-transfer-list-header-selected"
+        >
+          <span>
+            0 предмет
+          </span>
+          <span
+            class="ant-transfer-list-header-title"
+          />
+        </span>
+      </div>
+      <div
+        class="ant-transfer-list-body ant-transfer-list-body-with-search"
+      >
+        <div
+          class="ant-transfer-list-body-search-wrapper"
+        >
+          <div>
+            <input
+              class="ant-input ant-transfer-list-search"
+              placeholder="Пребарај тука"
+              type="text"
+              value=""
+            />
+            <span
+              class="ant-transfer-list-search-action"
+            >
+              <i
+                aria-label="Икона: search"
+                class="anticon anticon-search"
+              >
+                <svg
+                  aria-hidden="true"
+                  class=""
+                  data-icon="search"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  viewBox="64 64 896 896"
+                  width="1em"
+                >
+                  <path
+                    d="M909.6 854.5L649.9 594.8C690.2 542.7 712 479 712 412c0-80.2-31.3-155.4-87.9-212.1-56.6-56.7-132-87.9-212.1-87.9s-155.5 31.3-212.1 87.9C143.2 256.5 112 331.8 112 412c0 80.1 31.3 155.5 87.9 212.1C256.5 680.8 331.8 712 412 712c67 0 130.6-21.8 182.7-62l259.7 259.6a8.2 8.2 0 0 0 11.6 0l43.6-43.5a8.2 8.2 0 0 0 0-11.6zM570.4 570.4C528 612.7 471.8 636 412 636s-116-23.3-158.4-65.6C211.3 528 188 471.8 188 412s23.3-116.1 65.6-158.4C296 211.3 352.2 188 412 188s116.1 23.2 158.4 65.6S636 352.2 636 412s-23.3 116.1-65.6 158.4z"
+                  />
+                </svg>
+              </i>
+            </span>
+          </div>
+        </div>
+        <div
+          class="ant-transfer-list-body-not-found"
+        >
+          <div
+            class="ant-empty ant-empty-normal ant-empty-small"
+          >
+            <div
+              class="ant-empty-image"
+            >
+              <svg
+                height="41"
+                viewBox="0 0 64 41"
+                width="64"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  fill="none"
+                  fill-rule="evenodd"
+                  transform="translate(0 1)"
+                >
+                  <ellipse
+                    cx="32"
+                    cy="33"
+                    fill="#F5F5F5"
+                    rx="32"
+                    ry="7"
+                  />
+                  <g
+                    fill-rule="nonzero"
+                    stroke="#D9D9D9"
+                  >
+                    <path
+                      d="M55 12.76L44.854 1.258C44.367.474 43.656 0 42.907 0H21.093c-.749 0-1.46.474-1.947 1.257L9 12.761V22h46v-9.24z"
+                    />
+                    <path
+                      d="M41.613 15.931c0-1.605.994-2.93 2.227-2.931H55v18.137C55 33.26 53.68 35 52.05 35h-40.1C10.32 35 9 33.259 9 31.137V13h11.16c1.233 0 2.227 1.323 2.227 2.928v.022c0 1.605 1.005 2.901 2.237 2.901h14.752c1.232 0 2.237-1.308 2.237-2.913v-.007z"
+                      fill="#FAFAFA"
+                    />
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <p
+              class="ant-empty-description"
+            >
+              Нема податоци
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class=""
+  >
+    <div
+      class="ant-fullcalendar-header"
+    >
+      <div
+        class="ant-select-sm ant-fullcalendar-year-select ant-select ant-select-enabled"
+      >
+        <div
+          aria-autocomplete="list"
+          aria-controls="test-uuid"
+          aria-expanded="false"
+          aria-haspopup="true"
+          class="ant-select-selection
+            ant-select-selection--single"
+          role="combobox"
+          tabindex="0"
+        >
+          <div
+            class="ant-select-selection__rendered"
+          >
+            <div
+              class="ant-select-selection-selected-value"
+              style="display: block; opacity: 1;"
+              title="2017"
+            >
+              2017
+            </div>
+          </div>
+          <span
+            class="ant-select-arrow"
+            style="user-select: none;"
+            unselectable="on"
+          >
+            <i
+              aria-label="Икона: down"
+              class="anticon anticon-down ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                class=""
+                data-icon="down"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
+          </span>
+        </div>
+      </div>
+      <div
+        class="ant-select-sm ant-fullcalendar-month-select ant-select ant-select-enabled"
+      >
+        <div
+          aria-autocomplete="list"
+          aria-controls="test-uuid"
+          aria-expanded="false"
+          aria-haspopup="true"
+          class="ant-select-selection
+            ant-select-selection--single"
+          role="combobox"
+          tabindex="0"
+        >
+          <div
+            class="ant-select-selection__rendered"
+          >
+            <div
+              class="ant-select-selection-selected-value"
+              style="display: block; opacity: 1;"
+              title="сеп"
+            >
+              сеп
+            </div>
+          </div>
+          <span
+            class="ant-select-arrow"
+            style="user-select: none;"
+            unselectable="on"
+          >
+            <i
+              aria-label="Икона: down"
+              class="anticon anticon-down ant-select-arrow-icon"
+            >
+              <svg
+                aria-hidden="true"
+                class=""
+                data-icon="down"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                />
+              </svg>
+            </i>
+          </span>
+        </div>
+      </div>
+      <div
+        class="ant-radio-group ant-radio-group-outline ant-radio-group-small"
+      >
+        <label
+          class="ant-radio-button-wrapper ant-radio-button-wrapper-checked"
+        >
+          <span
+            class="ant-radio-button ant-radio-button-checked"
+          >
+            <input
+              checked=""
+              class="ant-radio-button-input"
+              type="radio"
+              value="month"
+            />
+            <span
+              class="ant-radio-button-inner"
+            />
+          </span>
+          <span>
+            Месец
+          </span>
+        </label>
+        <label
+          class="ant-radio-button-wrapper"
+        >
+          <span
+            class="ant-radio-button"
+          >
+            <input
+              class="ant-radio-button-input"
+              type="radio"
+              value="year"
+            />
+            <span
+              class="ant-radio-button-inner"
+            />
+          </span>
+          <span>
+            Година
+          </span>
+        </label>
+      </div>
+    </div>
+    <div
+      class="ant-fullcalendar ant-fullcalendar-full"
+      tabindex="0"
+    >
+      <div
+        class="ant-fullcalendar-calendar-body"
+      >
+        <table
+          cellspacing="0"
+          class="ant-fullcalendar-table"
+          role="grid"
+        >
+          <thead>
+            <tr
+              role="row"
+            >
+              <th
+                class="ant-fullcalendar-column-header"
+                role="columnheader"
+                title="пон"
+              >
+                <span
+                  class="ant-fullcalendar-column-header-inner"
+                >
+                  пo
+                </span>
+              </th>
+              <th
+                class="ant-fullcalendar-column-header"
+                role="columnheader"
+                title="вто"
+              >
+                <span
+                  class="ant-fullcalendar-column-header-inner"
+                >
+                  вт
+                </span>
+              </th>
+              <th
+                class="ant-fullcalendar-column-header"
+                role="columnheader"
+                title="сре"
+              >
+                <span
+                  class="ant-fullcalendar-column-header-inner"
+                >
+                  ср
+                </span>
+              </th>
+              <th
+                class="ant-fullcalendar-column-header"
+                role="columnheader"
+                title="чет"
+              >
+                <span
+                  class="ant-fullcalendar-column-header-inner"
+                >
+                  че
+                </span>
+              </th>
+              <th
+                class="ant-fullcalendar-column-header"
+                role="columnheader"
+                title="пет"
+              >
+                <span
+                  class="ant-fullcalendar-column-header-inner"
+                >
+                  пе
+                </span>
+              </th>
+              <th
+                class="ant-fullcalendar-column-header"
+                role="columnheader"
+                title="саб"
+              >
+                <span
+                  class="ant-fullcalendar-column-header-inner"
+                >
+                  сa
+                </span>
+              </th>
+              <th
+                class="ant-fullcalendar-column-header"
+                role="columnheader"
+                title="нед"
+              >
+                <span
+                  class="ant-fullcalendar-column-header-inner"
+                >
+                  нe
+                </span>
+              </th>
+            </tr>
+          </thead>
+          <tbody
+            class="ant-fullcalendar-tbody"
+          >
+            <tr
+              class=""
+              role="row"
+            >
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                role="gridcell"
+                title="28 август 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    28
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                role="gridcell"
+                title="29 август 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    29
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell"
+                role="gridcell"
+                title="30 август 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    30
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-last-month-cell ant-fullcalendar-last-day-of-month"
+                role="gridcell"
+                title="31 август 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    31
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="1 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    01
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="2 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    02
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="3 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    03
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+              role="row"
+            >
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="4 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    04
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="5 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    05
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="6 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    06
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="7 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    07
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="8 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    08
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="9 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    09
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="10 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    10
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+              role="row"
+            >
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="11 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    11
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="12 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    12
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="13 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    13
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="14 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    14
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="15 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    15
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="16 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    16
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="17 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    17
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="ant-fullcalendar-current-week ant-fullcalendar-active-week"
+              role="row"
+            >
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-today ant-fullcalendar-selected-day"
+                role="gridcell"
+                title="18 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    18
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="19 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    19
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="20 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    20
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="21 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    21
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="22 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    22
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="23 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    23
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="24 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    24
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+              role="row"
+            >
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="25 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    25
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="26 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    26
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="27 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    27
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="28 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    28
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell"
+                role="gridcell"
+                title="29 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    29
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-last-day-of-month"
+                role="gridcell"
+                title="30 септември 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    30
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
+                role="gridcell"
+                title="1 октомври 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    01
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class=""
+              role="row"
+            >
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
+                role="gridcell"
+                title="2 октомври 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    02
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
+                role="gridcell"
+                title="3 октомври 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    03
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
+                role="gridcell"
+                title="4 октомври 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    04
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
+                role="gridcell"
+                title="5 октомври 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    05
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
+                role="gridcell"
+                title="6 октомври 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    06
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
+                role="gridcell"
+                title="7 октомври 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    07
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+              <td
+                class="ant-fullcalendar-cell ant-fullcalendar-next-month-btn-day"
+                role="gridcell"
+                title="8 октомври 2017"
+              >
+                <div
+                  class="ant-fullcalendar-date"
+                >
+                  <div
+                    class="ant-fullcalendar-value"
+                  >
+                    08
+                  </div>
+                  <div
+                    class="ant-fullcalendar-content"
+                  />
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div
+    class="ant-table-wrapper"
+  >
+    <div
+      class="ant-spin-nested-loading"
+    >
+      <div
+        class="ant-spin-container"
+      >
+        <div
+          class="ant-table ant-table-default ant-table-empty ant-table-scroll-position-left"
+        >
+          <div
+            class="ant-table-content"
+          >
+            <div
+              class="ant-table-body"
+            >
+              <table
+                class=""
+              >
+                <colgroup>
+                  <col />
+                  <col />
+                </colgroup>
+                <thead
+                  class="ant-table-thead"
+                >
+                  <tr>
+                    <th
+                      class="ant-table-column-has-actions ant-table-column-has-filters"
+                    >
+                      <span
+                        class="ant-table-header-column"
+                      >
+                        <div>
+                          <span
+                            class="ant-table-column-title"
+                          >
+                            Name
+                          </span>
+                          <span
+                            class="ant-table-column-sorter"
+                          />
+                        </div>
+                      </span>
+                      <i
+                        aria-label="Икона: filter"
+                        class="anticon anticon-filter ant-dropdown-trigger"
+                        tabindex="-1"
+                        title="Мени за филтрирање"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class=""
+                          data-icon="filter"
+                          fill="currentColor"
+                          focusable="false"
+                          height="1em"
+                          viewBox="64 64 896 896"
+                          width="1em"
+                        >
+                          <path
+                            d="M349 838c0 17.7 14.2 32 31.8 32h262.4c17.6 0 31.8-14.3 31.8-32V642H349v196zm531.1-684H143.9c-24.5 0-39.8 26.7-27.5 48l221.3 376h348.8l221.3-376c12.1-21.3-3.2-48-27.7-48z"
+                          />
+                        </svg>
+                      </i>
+                    </th>
+                    <th
+                      class=""
+                    >
+                      <span
+                        class="ant-table-header-column"
+                      >
+                        <div>
+                          <span
+                            class="ant-table-column-title"
+                          >
+                            Age
+                          </span>
+                          <span
+                            class="ant-table-column-sorter"
+                          />
+                        </div>
+                      </span>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody
+                  class="ant-table-tbody"
+                />
+              </table>
+            </div>
+            <div
+              class="ant-table-placeholder"
+            >
+              <div
+                class="ant-empty ant-empty-normal"
+              >
+                <div
+                  class="ant-empty-image"
+                >
+                  <svg
+                    height="41"
+                    viewBox="0 0 64 41"
+                    width="64"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g
+                      fill="none"
+                      fill-rule="evenodd"
+                      transform="translate(0 1)"
+                    >
+                      <ellipse
+                        cx="32"
+                        cy="33"
+                        fill="#F5F5F5"
+                        rx="32"
+                        ry="7"
+                      />
+                      <g
+                        fill-rule="nonzero"
+                        stroke="#D9D9D9"
+                      >
+                        <path
+                          d="M55 12.76L44.854 1.258C44.367.474 43.656 0 42.907 0H21.093c-.749 0-1.46.474-1.947 1.257L9 12.761V22h46v-9.24z"
+                        />
+                        <path
+                          d="M41.613 15.931c0-1.605.994-2.93 2.227-2.931H55v18.137C55 33.26 53.68 35 52.05 35h-40.1C10.32 35 9 33.259 9 31.137V13h11.16c1.233 0 2.227 1.323 2.227 2.928v.022c0 1.605 1.005 2.901 2.237 2.901h14.752c1.232 0 2.237-1.308 2.237-2.913v-.007z"
+                          fill="#FAFAFA"
+                        />
+                      </g>
+                    </g>
+                  </svg>
+                </div>
+                <p
+                  class="ant-empty-description"
+                >
+                  Нема податоци
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      class="ant-modal-mask fade-appear"
+    />
+    <div
+      aria-labelledby="rcDialogTitle26"
+      class="ant-modal-wrap "
+      role="dialog"
+      tabindex="-1"
+    >
+      <div
+        class="ant-modal zoom-appear"
+        role="document"
+        style="width: 520px;"
+      >
+        <div
+          aria-hidden="true"
+          style="width: 0px; height: 0px; overflow: hidden;"
+          tabindex="0"
+        />
+        <div
+          class="ant-modal-content"
+        >
+          <button
+            aria-label="Close"
+            class="ant-modal-close"
+            type="button"
+          >
+            <span
+              class="ant-modal-close-x"
+            >
+              <i
+                aria-label="Икона: close"
+                class="anticon anticon-close ant-modal-close-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  class=""
+                  data-icon="close"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  viewBox="64 64 896 896"
+                  width="1em"
+                >
+                  <path
+                    d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9A7.95 7.95 0 0 0 203 838h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"
+                  />
+                </svg>
+              </i>
+            </span>
+          </button>
+          <div
+            class="ant-modal-header"
+          >
+            <div
+              class="ant-modal-title"
+              id="rcDialogTitle26"
+            >
+              Locale Modal
+            </div>
+          </div>
+          <div
+            class="ant-modal-body"
+          >
+            <p>
+              Locale Modal
+            </p>
+          </div>
+          <div
+            class="ant-modal-footer"
+          >
+            <div>
+              <button
+                class="ant-btn"
+                type="button"
+              >
+                <span>
+                  Откажи
+                </span>
+              </button>
+              <button
+                class="ant-btn ant-btn-primary"
+                type="button"
+              >
+                <span>
+                  ОК
                 </span>
               </button>
             </div>
@@ -157026,7 +162358,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle27"
+      aria-labelledby="rcDialogTitle28"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -157078,7 +162410,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle27"
+              id="rcDialogTitle28"
             >
               Locale Modal
             </div>
@@ -162358,7 +167690,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle26"
+      aria-labelledby="rcDialogTitle27"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -162410,7 +167742,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle26"
+              id="rcDialogTitle27"
             >
               Locale Modal
             </div>
@@ -167690,7 +173022,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle28"
+      aria-labelledby="rcDialogTitle29"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -167742,7 +173074,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle28"
+              id="rcDialogTitle29"
             >
               Locale Modal
             </div>
@@ -173022,7 +178354,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle29"
+      aria-labelledby="rcDialogTitle30"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -173074,7 +178406,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle29"
+              id="rcDialogTitle30"
             >
               Locale Modal
             </div>
@@ -178354,7 +183686,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle31"
+      aria-labelledby="rcDialogTitle32"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -178406,7 +183738,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle31"
+              id="rcDialogTitle32"
             >
               Locale Modal
             </div>
@@ -183686,7 +189018,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle30"
+      aria-labelledby="rcDialogTitle31"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -183738,7 +189070,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle30"
+              id="rcDialogTitle31"
             >
               Locale Modal
             </div>
@@ -189018,7 +194350,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle32"
+      aria-labelledby="rcDialogTitle33"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -189070,7 +194402,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle32"
+              id="rcDialogTitle33"
             >
               Locale Modal
             </div>
@@ -194350,7 +199682,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle34"
+      aria-labelledby="rcDialogTitle35"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -194402,7 +199734,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle34"
+              id="rcDialogTitle35"
             >
               Locale Modal
             </div>
@@ -199682,7 +205014,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle33"
+      aria-labelledby="rcDialogTitle34"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -199734,7 +205066,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle33"
+              id="rcDialogTitle34"
             >
               Locale Modal
             </div>
@@ -205014,7 +210346,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle35"
+      aria-labelledby="rcDialogTitle36"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -205066,7 +210398,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle35"
+              id="rcDialogTitle36"
             >
               Locale Modal
             </div>
@@ -210346,7 +215678,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle36"
+      aria-labelledby="rcDialogTitle37"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -210398,7 +215730,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle36"
+              id="rcDialogTitle37"
             >
               Locale Modal
             </div>
@@ -215678,7 +221010,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle37"
+      aria-labelledby="rcDialogTitle38"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -215730,7 +221062,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle37"
+              id="rcDialogTitle38"
             >
               Locale Modal
             </div>
@@ -221010,7 +226342,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle38"
+      aria-labelledby="rcDialogTitle39"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -221062,7 +226394,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle38"
+              id="rcDialogTitle39"
             >
               Locale Modal
             </div>
@@ -226342,7 +231674,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle39"
+      aria-labelledby="rcDialogTitle40"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -226394,7 +231726,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle39"
+              id="rcDialogTitle40"
             >
               Locale Modal
             </div>
@@ -231674,7 +237006,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle40"
+      aria-labelledby="rcDialogTitle41"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -231726,7 +237058,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle40"
+              id="rcDialogTitle41"
             >
               Locale Modal
             </div>
@@ -237006,7 +242338,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle41"
+      aria-labelledby="rcDialogTitle42"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -237058,7 +242390,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle41"
+              id="rcDialogTitle42"
             >
               Locale Modal
             </div>
@@ -242338,7 +247670,7 @@ exports[`Locale Provider should display the text as th 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle42"
+      aria-labelledby="rcDialogTitle43"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -242390,7 +247722,7 @@ exports[`Locale Provider should display the text as th 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle42"
+              id="rcDialogTitle43"
             >
               Locale Modal
             </div>
@@ -247670,7 +253002,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle43"
+      aria-labelledby="rcDialogTitle44"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -247722,7 +253054,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle43"
+              id="rcDialogTitle44"
             >
               Locale Modal
             </div>
@@ -253002,7 +258334,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle44"
+      aria-labelledby="rcDialogTitle45"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -253054,7 +258386,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle44"
+              id="rcDialogTitle45"
             >
               Locale Modal
             </div>
@@ -258334,7 +263666,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle45"
+      aria-labelledby="rcDialogTitle46"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -258386,7 +263718,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle45"
+              id="rcDialogTitle46"
             >
               Locale Modal
             </div>
@@ -263666,7 +268998,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle48"
+      aria-labelledby="rcDialogTitle49"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -263718,7 +269050,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle48"
+              id="rcDialogTitle49"
             >
               Locale Modal
             </div>
@@ -268998,7 +274330,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       class="ant-modal-mask fade-appear"
     />
     <div
-      aria-labelledby="rcDialogTitle49"
+      aria-labelledby="rcDialogTitle50"
       class="ant-modal-wrap "
       role="dialog"
       tabindex="-1"
@@ -269050,7 +274382,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           >
             <div
               class="ant-modal-title"
-              id="rcDialogTitle49"
+              id="rcDialogTitle50"
             >
               Locale Modal
             </div>
