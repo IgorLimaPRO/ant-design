@@ -109918,11 +109918,11 @@ exports[`Locale Provider should display the text as id 1`] = `
                   </span>
                   <a
                     class="ant-calendar-next-month-btn"
-                    title="Bulan depan (PageDown)"
+                    title="Bulan selanjutnya (PageDown)"
                   />
                   <a
                     class="ant-calendar-next-year-btn"
-                    title="Tahun depan (Kontrol + kanan)"
+                    title="Tahun selanjutnya (Kontrol + kanan)"
                   />
                 </div>
               </div>
@@ -112553,11 +112553,11 @@ exports[`Locale Provider should display the text as id 1`] = `
                       </span>
                       <a
                         class="ant-calendar-next-month-btn"
-                        title="Bulan depan (PageDown)"
+                        title="Bulan selanjutnya (PageDown)"
                       />
                       <a
                         class="ant-calendar-next-year-btn"
-                        title="Tahun depan (Kontrol + kanan)"
+                        title="Tahun selanjutnya (Kontrol + kanan)"
                       />
                     </div>
                   </div>
