@@ -210459,7 +210459,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         class="ant-pagination-item-link"
       >
         <i
-          aria-label="icon: left"
+          aria-label="ikona: left"
           class="anticon anticon-left"
         >
           <svg
@@ -210534,7 +210534,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         class="ant-pagination-item-link"
       >
         <i
-          aria-label="icon: right"
+          aria-label="ikona: right"
           class="anticon anticon-right"
         >
           <svg
@@ -210587,7 +210587,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             unselectable="on"
           >
             <i
-              aria-label="icon: down"
+              aria-label="ikona: down"
               class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
@@ -210653,7 +210653,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         unselectable="on"
       >
         <i
-          aria-label="icon: down"
+          aria-label="ikona: down"
           class="anticon anticon-down ant-select-arrow-icon"
         >
           <svg
@@ -210687,7 +210687,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         value=""
       />
       <i
-        aria-label="icon: calendar"
+        aria-label="ikona: calendar"
         class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
@@ -211496,7 +211496,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
       class="ant-time-picker-icon"
     >
       <i
-        aria-label="icon: clock-circle"
+        aria-label="ikona: clock-circle"
         class="anticon anticon-clock-circle ant-time-picker-clock-icon"
       >
         <svg
@@ -212598,7 +212598,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         value=""
       />
       <i
-        aria-label="icon: calendar"
+        aria-label="ikona: calendar"
         class="anticon anticon-calendar ant-calendar-picker-icon"
       >
         <svg
@@ -214133,7 +214133,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                 class="ant-popover-message"
               >
                 <i
-                  aria-label="icon: exclamation-circle"
+                  aria-label="ikona: exclamation-circle"
                   class="anticon anticon-exclamation-circle"
                 >
                   <svg
@@ -214236,7 +214236,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                aria-label="icon: search"
+                aria-label="ikona: search"
                 class="anticon anticon-search"
               >
                 <svg
@@ -214317,7 +214317,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         type="button"
       >
         <i
-          aria-label="icon: right"
+          aria-label="ikona: right"
           class="anticon anticon-right"
         >
           <svg
@@ -214342,7 +214342,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         type="button"
       >
         <i
-          aria-label="icon: left"
+          aria-label="ikona: left"
           class="anticon anticon-left"
         >
           <svg
@@ -214412,7 +214412,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               class="ant-transfer-list-search-action"
             >
               <i
-                aria-label="icon: search"
+                aria-label="ikona: search"
                 class="anticon anticon-search"
               >
                 <svg
@@ -214521,7 +214521,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             unselectable="on"
           >
             <i
-              aria-label="icon: down"
+              aria-label="ikona: down"
               class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
@@ -214572,7 +214572,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             unselectable="on"
           >
             <i
-              aria-label="icon: down"
+              aria-label="ikona: down"
               class="anticon anticon-down ant-select-arrow-icon"
             >
               <svg
@@ -215573,7 +215573,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                         </div>
                       </span>
                       <i
-                        aria-label="icon: filter"
+                        aria-label="ikona: filter"
                         class="anticon anticon-filter ant-dropdown-trigger"
                         tabindex="-1"
                         title="Filter"
@@ -215705,7 +215705,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               class="ant-modal-close-x"
             >
               <i
-                aria-label="icon: close"
+                aria-label="ikona: close"
                 class="anticon anticon-close ant-modal-close-icon"
               >
                 <svg
