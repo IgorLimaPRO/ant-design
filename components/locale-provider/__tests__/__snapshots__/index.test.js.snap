@@ -5,9 +5,7 @@ exports[`Locale Provider set moment locale when locale changes 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="请选择日期"
@@ -58,8 +56,8 @@ exports[`Locale Provider set moment locale when locale changes 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -839,9 +837,7 @@ exports[`Locale Provider set moment locale when locale changes 2`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Sélectionner une date"
@@ -892,8 +888,8 @@ exports[`Locale Provider set moment locale when locale changes 2`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -1673,9 +1669,7 @@ exports[`Locale Provider set moment locale when locale changes 3`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Select date"
@@ -1726,8 +1720,8 @@ exports[`Locale Provider set moment locale when locale changes 3`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -2735,9 +2729,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="اختيار التاريخ"
@@ -2767,8 +2759,8 @@ exports[`Locale Provider should display the text as ar 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -3542,7 +3534,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -3581,8 +3572,8 @@ exports[`Locale Provider should display the text as ar 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -4636,7 +4627,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -4680,8 +4670,8 @@ exports[`Locale Provider should display the text as ar 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -6167,14 +6157,13 @@ exports[`Locale Provider should display the text as ar 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -8160,9 +8149,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Избор на дата"
@@ -8192,8 +8179,8 @@ exports[`Locale Provider should display the text as bg 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -8967,7 +8954,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -9006,8 +8992,8 @@ exports[`Locale Provider should display the text as bg 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -10061,7 +10047,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -10105,8 +10090,8 @@ exports[`Locale Provider should display the text as bg 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -11592,14 +11577,13 @@ exports[`Locale Provider should display the text as bg 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -13585,9 +13569,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Seleccionar data"
@@ -13617,8 +13599,8 @@ exports[`Locale Provider should display the text as ca 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -14392,7 +14374,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -14431,8 +14412,8 @@ exports[`Locale Provider should display the text as ca 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -15486,7 +15467,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -15530,8 +15510,8 @@ exports[`Locale Provider should display the text as ca 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -17017,14 +16997,13 @@ exports[`Locale Provider should display the text as ca 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -19010,9 +18989,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Vybrat datum"
@@ -19042,8 +19019,8 @@ exports[`Locale Provider should display the text as cs 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -19817,7 +19794,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -19856,8 +19832,8 @@ exports[`Locale Provider should display the text as cs 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -20911,7 +20887,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -20955,8 +20930,8 @@ exports[`Locale Provider should display the text as cs 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -22442,14 +22417,13 @@ exports[`Locale Provider should display the text as cs 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -24435,9 +24409,7 @@ exports[`Locale Provider should display the text as da 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Vælg dato"
@@ -24467,8 +24439,8 @@ exports[`Locale Provider should display the text as da 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -25242,7 +25214,6 @@ exports[`Locale Provider should display the text as da 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -25281,8 +25252,8 @@ exports[`Locale Provider should display the text as da 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -26336,7 +26307,6 @@ exports[`Locale Provider should display the text as da 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -26380,8 +26350,8 @@ exports[`Locale Provider should display the text as da 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -27867,14 +27837,13 @@ exports[`Locale Provider should display the text as da 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -29860,9 +29829,7 @@ exports[`Locale Provider should display the text as de 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Datum auswählen"
@@ -29892,8 +29859,8 @@ exports[`Locale Provider should display the text as de 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -30667,7 +30634,6 @@ exports[`Locale Provider should display the text as de 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -30706,8 +30672,8 @@ exports[`Locale Provider should display the text as de 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -31761,7 +31727,6 @@ exports[`Locale Provider should display the text as de 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -31805,8 +31770,8 @@ exports[`Locale Provider should display the text as de 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -33292,14 +33257,13 @@ exports[`Locale Provider should display the text as de 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -35285,9 +35249,7 @@ exports[`Locale Provider should display the text as el 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Επιλέξτε ημερομηνία"
@@ -35317,8 +35279,8 @@ exports[`Locale Provider should display the text as el 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -36092,7 +36054,6 @@ exports[`Locale Provider should display the text as el 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -36131,8 +36092,8 @@ exports[`Locale Provider should display the text as el 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -37186,7 +37147,6 @@ exports[`Locale Provider should display the text as el 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -37230,8 +37190,8 @@ exports[`Locale Provider should display the text as el 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -38717,14 +38677,13 @@ exports[`Locale Provider should display the text as el 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -40710,9 +40669,7 @@ exports[`Locale Provider should display the text as en 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Select date"
@@ -40742,8 +40699,8 @@ exports[`Locale Provider should display the text as en 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -41517,7 +41474,6 @@ exports[`Locale Provider should display the text as en 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -41556,8 +41512,8 @@ exports[`Locale Provider should display the text as en 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -42611,7 +42567,6 @@ exports[`Locale Provider should display the text as en 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -42655,8 +42610,8 @@ exports[`Locale Provider should display the text as en 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -44142,14 +44097,13 @@ exports[`Locale Provider should display the text as en 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -46135,9 +46089,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Select date"
@@ -46167,8 +46119,8 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -46942,7 +46894,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -46981,8 +46932,8 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -48036,7 +47987,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -48080,8 +48030,8 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -49567,14 +49517,13 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -51560,9 +51509,7 @@ exports[`Locale Provider should display the text as es 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Seleccionar fecha"
@@ -51592,8 +51539,8 @@ exports[`Locale Provider should display the text as es 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -52367,7 +52314,6 @@ exports[`Locale Provider should display the text as es 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -52406,8 +52352,8 @@ exports[`Locale Provider should display the text as es 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -53461,7 +53407,6 @@ exports[`Locale Provider should display the text as es 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -53505,8 +53450,8 @@ exports[`Locale Provider should display the text as es 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -54992,14 +54937,13 @@ exports[`Locale Provider should display the text as es 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -56985,9 +56929,7 @@ exports[`Locale Provider should display the text as et 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Vali kuupäev"
@@ -57017,8 +56959,8 @@ exports[`Locale Provider should display the text as et 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -57792,7 +57734,6 @@ exports[`Locale Provider should display the text as et 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -57831,8 +57772,8 @@ exports[`Locale Provider should display the text as et 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -58886,7 +58827,6 @@ exports[`Locale Provider should display the text as et 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -58930,8 +58870,8 @@ exports[`Locale Provider should display the text as et 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -60417,14 +60357,13 @@ exports[`Locale Provider should display the text as et 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -62410,9 +62349,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="انتخاب تاریخ"
@@ -62442,8 +62379,8 @@ exports[`Locale Provider should display the text as fa 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -63217,7 +63154,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -63256,8 +63192,8 @@ exports[`Locale Provider should display the text as fa 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -64311,7 +64247,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -64355,8 +64290,8 @@ exports[`Locale Provider should display the text as fa 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -65842,14 +65777,13 @@ exports[`Locale Provider should display the text as fa 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -67835,9 +67769,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Valitse päivä"
@@ -67867,8 +67799,8 @@ exports[`Locale Provider should display the text as fi 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -68642,7 +68574,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -68681,8 +68612,8 @@ exports[`Locale Provider should display the text as fi 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -69736,7 +69667,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -69780,8 +69710,8 @@ exports[`Locale Provider should display the text as fi 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -71267,14 +71197,13 @@ exports[`Locale Provider should display the text as fi 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -73260,9 +73189,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Sélectionner une date"
@@ -73292,8 +73219,8 @@ exports[`Locale Provider should display the text as fr 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -74067,7 +73994,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -74106,8 +74032,8 @@ exports[`Locale Provider should display the text as fr 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -75161,7 +75087,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -75205,8 +75130,8 @@ exports[`Locale Provider should display the text as fr 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -76692,14 +76617,13 @@ exports[`Locale Provider should display the text as fr 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -78685,9 +78609,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Sélectionner une date"
@@ -78717,8 +78639,8 @@ exports[`Locale Provider should display the text as fr 2`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -79492,7 +79414,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -79531,8 +79452,8 @@ exports[`Locale Provider should display the text as fr 2`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -80586,7 +80507,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -80630,8 +80550,8 @@ exports[`Locale Provider should display the text as fr 2`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -82117,14 +82037,13 @@ exports[`Locale Provider should display the text as fr 2`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -84110,9 +84029,7 @@ exports[`Locale Provider should display the text as he 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="בחר תאריך"
@@ -84142,8 +84059,8 @@ exports[`Locale Provider should display the text as he 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -84917,7 +84834,6 @@ exports[`Locale Provider should display the text as he 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -84956,8 +84872,8 @@ exports[`Locale Provider should display the text as he 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -86011,7 +85927,6 @@ exports[`Locale Provider should display the text as he 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -86055,8 +85970,8 @@ exports[`Locale Provider should display the text as he 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -87542,14 +87457,13 @@ exports[`Locale Provider should display the text as he 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -89535,9 +89449,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="तारीख़ चुनें"
@@ -89567,8 +89479,8 @@ exports[`Locale Provider should display the text as hi 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -90342,7 +90254,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -90381,8 +90292,8 @@ exports[`Locale Provider should display the text as hi 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -91436,7 +91347,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -91480,8 +91390,8 @@ exports[`Locale Provider should display the text as hi 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -92967,14 +92877,13 @@ exports[`Locale Provider should display the text as hi 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -94960,9 +94869,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Odaberite datum"
@@ -94992,8 +94899,8 @@ exports[`Locale Provider should display the text as hr 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -95767,7 +95674,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -95806,8 +95712,8 @@ exports[`Locale Provider should display the text as hr 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -96861,7 +96767,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -96905,8 +96810,8 @@ exports[`Locale Provider should display the text as hr 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -98392,14 +98297,13 @@ exports[`Locale Provider should display the text as hr 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -100385,9 +100289,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Válasszon dátumot"
@@ -100417,8 +100319,8 @@ exports[`Locale Provider should display the text as hu 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -101192,7 +101094,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -101231,8 +101132,8 @@ exports[`Locale Provider should display the text as hu 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -102286,7 +102187,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -102330,8 +102230,8 @@ exports[`Locale Provider should display the text as hu 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -103817,14 +103717,13 @@ exports[`Locale Provider should display the text as hu 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -105810,9 +105709,7 @@ exports[`Locale Provider should display the text as hy 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Ընտրեք ամսաթիվը"
@@ -105842,8 +105739,8 @@ exports[`Locale Provider should display the text as hy 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -106617,7 +106514,6 @@ exports[`Locale Provider should display the text as hy 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -106656,8 +106552,8 @@ exports[`Locale Provider should display the text as hy 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -107711,7 +107607,6 @@ exports[`Locale Provider should display the text as hy 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -107755,8 +107650,8 @@ exports[`Locale Provider should display the text as hy 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -109242,14 +109137,13 @@ exports[`Locale Provider should display the text as hy 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -111235,9 +111129,7 @@ exports[`Locale Provider should display the text as id 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Pilih tanggal"
@@ -111267,8 +111159,8 @@ exports[`Locale Provider should display the text as id 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -112042,7 +111934,6 @@ exports[`Locale Provider should display the text as id 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -112081,8 +111972,8 @@ exports[`Locale Provider should display the text as id 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -113136,7 +113027,6 @@ exports[`Locale Provider should display the text as id 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -113180,8 +113070,8 @@ exports[`Locale Provider should display the text as id 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -114667,14 +114557,13 @@ exports[`Locale Provider should display the text as id 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -116660,9 +116549,7 @@ exports[`Locale Provider should display the text as is 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Veldu dag"
@@ -116692,8 +116579,8 @@ exports[`Locale Provider should display the text as is 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -117467,7 +117354,6 @@ exports[`Locale Provider should display the text as is 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -117506,8 +117392,8 @@ exports[`Locale Provider should display the text as is 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -118561,7 +118447,6 @@ exports[`Locale Provider should display the text as is 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -118605,8 +118490,8 @@ exports[`Locale Provider should display the text as is 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -120092,14 +119977,13 @@ exports[`Locale Provider should display the text as is 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -122085,9 +121969,7 @@ exports[`Locale Provider should display the text as it 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Selezionare la data"
@@ -122117,8 +121999,8 @@ exports[`Locale Provider should display the text as it 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -122892,7 +122774,6 @@ exports[`Locale Provider should display the text as it 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -122931,8 +122812,8 @@ exports[`Locale Provider should display the text as it 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -123986,7 +123867,6 @@ exports[`Locale Provider should display the text as it 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -124030,8 +123910,8 @@ exports[`Locale Provider should display the text as it 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -125517,14 +125397,13 @@ exports[`Locale Provider should display the text as it 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -127510,9 +127389,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="日付を選択"
@@ -127542,8 +127419,8 @@ exports[`Locale Provider should display the text as ja 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -128317,7 +128194,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -128356,8 +128232,8 @@ exports[`Locale Provider should display the text as ja 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -129411,7 +129287,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -129455,8 +129330,8 @@ exports[`Locale Provider should display the text as ja 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -130942,14 +130817,13 @@ exports[`Locale Provider should display the text as ja 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -132935,9 +132809,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ"
@@ -132967,8 +132839,8 @@ exports[`Locale Provider should display the text as kn 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -133742,7 +133614,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -133781,8 +133652,8 @@ exports[`Locale Provider should display the text as kn 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -134836,7 +134707,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -134880,8 +134750,8 @@ exports[`Locale Provider should display the text as kn 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -136367,14 +136237,13 @@ exports[`Locale Provider should display the text as kn 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -138360,9 +138229,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="날짜 선택"
@@ -138392,8 +138259,8 @@ exports[`Locale Provider should display the text as ko 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -139167,7 +139034,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -139206,8 +139072,8 @@ exports[`Locale Provider should display the text as ko 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -140261,7 +140127,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -140305,8 +140170,8 @@ exports[`Locale Provider should display the text as ko 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -141792,14 +141657,13 @@ exports[`Locale Provider should display the text as ko 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -143785,9 +143649,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Dîrok hilbijêre"
@@ -143817,8 +143679,8 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -144592,7 +144454,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -144631,8 +144492,8 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -145686,7 +145547,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -145730,8 +145590,8 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -147217,14 +147077,13 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -149210,9 +149069,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Izvēlieties datumu"
@@ -149242,8 +149099,8 @@ exports[`Locale Provider should display the text as lv 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -150017,7 +149874,6 @@ exports[`Locale Provider should display the text as lv 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -150056,8 +149912,8 @@ exports[`Locale Provider should display the text as lv 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -151111,7 +150967,6 @@ exports[`Locale Provider should display the text as lv 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -151155,8 +151010,8 @@ exports[`Locale Provider should display the text as lv 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -152642,14 +152497,13 @@ exports[`Locale Provider should display the text as lv 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -154635,9 +154489,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Избери датум"
@@ -154667,8 +154519,8 @@ exports[`Locale Provider should display the text as mk 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -155442,7 +155294,6 @@ exports[`Locale Provider should display the text as mk 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -155481,8 +155332,8 @@ exports[`Locale Provider should display the text as mk 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -156536,7 +156387,6 @@ exports[`Locale Provider should display the text as mk 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -156580,8 +156430,8 @@ exports[`Locale Provider should display the text as mk 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -158067,14 +157917,13 @@ exports[`Locale Provider should display the text as mk 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -160060,9 +159909,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Огноо сонгох"
@@ -160092,8 +159939,8 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -160867,7 +160714,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -160906,8 +160752,8 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -161961,7 +161807,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -162005,8 +161850,8 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -163492,14 +163337,13 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -165485,9 +165329,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Pilih tarikh"
@@ -165517,8 +165359,8 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -166292,7 +166134,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -166331,8 +166172,8 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -167386,7 +167227,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -167430,8 +167270,8 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -168917,14 +168757,13 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -170910,9 +170749,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Velg dato"
@@ -170942,8 +170779,8 @@ exports[`Locale Provider should display the text as nb 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -171717,7 +171554,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -171756,8 +171592,8 @@ exports[`Locale Provider should display the text as nb 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -172811,7 +172647,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -172855,8 +172690,8 @@ exports[`Locale Provider should display the text as nb 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -174342,14 +174177,13 @@ exports[`Locale Provider should display the text as nb 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -176335,9 +176169,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Select date"
@@ -176367,8 +176199,8 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -177142,7 +176974,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -177181,8 +177012,8 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -178236,7 +178067,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -178280,8 +178110,8 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -179767,14 +179597,13 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -181760,9 +181589,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Selecteer datum"
@@ -181792,8 +181619,8 @@ exports[`Locale Provider should display the text as nl 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -182567,7 +182394,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -182606,8 +182432,8 @@ exports[`Locale Provider should display the text as nl 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -183661,7 +183487,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -183705,8 +183530,8 @@ exports[`Locale Provider should display the text as nl 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -185192,14 +185017,13 @@ exports[`Locale Provider should display the text as nl 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -187185,9 +187009,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Selecteer datum"
@@ -187217,8 +187039,8 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -187992,7 +187814,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -188031,8 +187852,8 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -189086,7 +188907,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -189130,8 +188950,8 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -190617,14 +190437,13 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -192610,9 +192429,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Wybierz datę"
@@ -192642,8 +192459,8 @@ exports[`Locale Provider should display the text as pl 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -193417,7 +193234,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -193456,8 +193272,8 @@ exports[`Locale Provider should display the text as pl 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -194511,7 +194327,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -194555,8 +194370,8 @@ exports[`Locale Provider should display the text as pl 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -196042,14 +195857,13 @@ exports[`Locale Provider should display the text as pl 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -198035,9 +197849,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Data"
@@ -198067,8 +197879,8 @@ exports[`Locale Provider should display the text as pt 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -198842,7 +198654,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -198881,8 +198692,8 @@ exports[`Locale Provider should display the text as pt 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -199936,7 +199747,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -199980,8 +199790,8 @@ exports[`Locale Provider should display the text as pt 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -201467,14 +201277,13 @@ exports[`Locale Provider should display the text as pt 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -203460,9 +203269,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Selecionar data"
@@ -203492,8 +203299,8 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -204267,7 +204074,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -204306,8 +204112,8 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -205361,7 +205167,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -205405,8 +205210,8 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -206892,14 +206697,13 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -208885,9 +208689,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Selectează data"
@@ -208917,8 +208719,8 @@ exports[`Locale Provider should display the text as ro 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -209692,7 +209494,6 @@ exports[`Locale Provider should display the text as ro 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -209731,8 +209532,8 @@ exports[`Locale Provider should display the text as ro 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -210786,7 +210587,6 @@ exports[`Locale Provider should display the text as ro 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -210830,8 +210630,8 @@ exports[`Locale Provider should display the text as ro 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -212317,14 +212117,13 @@ exports[`Locale Provider should display the text as ro 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -214310,9 +214109,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Выберите дату"
@@ -214342,8 +214139,8 @@ exports[`Locale Provider should display the text as ru 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -215117,7 +214914,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -215156,8 +214952,8 @@ exports[`Locale Provider should display the text as ru 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -216211,7 +216007,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -216255,8 +216050,8 @@ exports[`Locale Provider should display the text as ru 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -217742,14 +217537,13 @@ exports[`Locale Provider should display the text as ru 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -219735,9 +219529,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Vybrať dátum"
@@ -219767,8 +219559,8 @@ exports[`Locale Provider should display the text as sk 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -220542,7 +220334,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -220581,8 +220372,8 @@ exports[`Locale Provider should display the text as sk 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -221636,7 +221427,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -221680,8 +221470,8 @@ exports[`Locale Provider should display the text as sk 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -223167,14 +222957,13 @@ exports[`Locale Provider should display the text as sk 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -225160,9 +224949,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Izberite datum"
@@ -225192,8 +224979,8 @@ exports[`Locale Provider should display the text as sl 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -225967,7 +225754,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -226006,8 +225792,8 @@ exports[`Locale Provider should display the text as sl 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -227061,7 +226847,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -227105,8 +226890,8 @@ exports[`Locale Provider should display the text as sl 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -228592,14 +228377,13 @@ exports[`Locale Provider should display the text as sl 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -230585,9 +230369,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Izaberite datum"
@@ -230617,8 +230399,8 @@ exports[`Locale Provider should display the text as sr 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -231392,7 +231174,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -231431,8 +231212,8 @@ exports[`Locale Provider should display the text as sr 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -232486,7 +232267,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -232530,8 +232310,8 @@ exports[`Locale Provider should display the text as sr 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -234017,14 +233797,13 @@ exports[`Locale Provider should display the text as sr 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -236010,9 +235789,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Välj datum"
@@ -236042,8 +235819,8 @@ exports[`Locale Provider should display the text as sv 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -236817,7 +236594,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -236856,8 +236632,8 @@ exports[`Locale Provider should display the text as sv 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -237911,7 +237687,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -237955,8 +237730,8 @@ exports[`Locale Provider should display the text as sv 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -239442,14 +239217,13 @@ exports[`Locale Provider should display the text as sv 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -241435,9 +241209,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="தேதியைத் தேர்ந்தெடுக்கவும்"
@@ -241467,8 +241239,8 @@ exports[`Locale Provider should display the text as ta 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -242242,7 +242014,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -242281,8 +242052,8 @@ exports[`Locale Provider should display the text as ta 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -243336,7 +243107,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -243380,8 +243150,8 @@ exports[`Locale Provider should display the text as ta 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -244867,14 +244637,13 @@ exports[`Locale Provider should display the text as ta 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -246860,9 +246629,7 @@ exports[`Locale Provider should display the text as th 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="เลือกวันที่"
@@ -246892,8 +246659,8 @@ exports[`Locale Provider should display the text as th 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -247667,7 +247434,6 @@ exports[`Locale Provider should display the text as th 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -247706,8 +247472,8 @@ exports[`Locale Provider should display the text as th 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -248761,7 +248527,6 @@ exports[`Locale Provider should display the text as th 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -248805,8 +248570,8 @@ exports[`Locale Provider should display the text as th 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -250292,14 +250057,13 @@ exports[`Locale Provider should display the text as th 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -252285,9 +252049,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Tarih Seç"
@@ -252317,8 +252079,8 @@ exports[`Locale Provider should display the text as tr 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -253092,7 +252854,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -253131,8 +252892,8 @@ exports[`Locale Provider should display the text as tr 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -254186,7 +253947,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -254230,8 +253990,8 @@ exports[`Locale Provider should display the text as tr 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -255717,14 +255477,13 @@ exports[`Locale Provider should display the text as tr 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -257710,9 +257469,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Оберіть дату"
@@ -257742,8 +257499,8 @@ exports[`Locale Provider should display the text as uk 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -258517,7 +258274,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -258556,8 +258312,8 @@ exports[`Locale Provider should display the text as uk 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -259611,7 +259367,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -259655,8 +259410,8 @@ exports[`Locale Provider should display the text as uk 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -261142,14 +260897,13 @@ exports[`Locale Provider should display the text as uk 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -263135,9 +262889,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="Chọn thời điểm"
@@ -263167,8 +262919,8 @@ exports[`Locale Provider should display the text as vi 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -263942,7 +263694,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -263981,8 +263732,8 @@ exports[`Locale Provider should display the text as vi 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -265036,7 +264787,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -265080,8 +264830,8 @@ exports[`Locale Provider should display the text as vi 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -266567,14 +266317,13 @@ exports[`Locale Provider should display the text as vi 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -268560,9 +268309,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="请选择日期"
@@ -268592,8 +268339,8 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -269367,7 +269114,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -269406,8 +269152,8 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -270461,7 +270207,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -270505,8 +270250,8 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -271992,14 +271737,13 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
@@ -273985,9 +273729,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   <span
     class="ant-calendar-picker"
   >
-    <div
-      style=""
-    >
+    <div>
       <input
         class="ant-calendar-picker-input ant-input"
         placeholder="請選擇日期"
@@ -274017,8 +273759,8 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
     </div>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar"
@@ -274792,7 +274534,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   </span>
   <span
     class="ant-time-picker"
-    style=""
   >
     <input
       class="ant-time-picker-input"
@@ -274831,8 +274572,8 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   </span>
   <div>
     <div
-      class="ant-time-picker-panel ant-time-picker-panel-column-3 ant-time-picker-panel-placement-bottomLeft slide-up-appear"
-      style="left: -999px; top: -1001px;"
+      class="ant-time-picker-panel ant-time-picker-panel-column-3"
+      style="opacity: 0;"
     >
       <div
         class="ant-time-picker-panel-inner"
@@ -275886,7 +275627,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   >
     <span
       class="ant-calendar-picker-input ant-input"
-      style=""
     >
       <input
         class="ant-calendar-range-picker-input"
@@ -275930,8 +275670,8 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
     </span>
     <div>
       <div
-        class="ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft slide-up-appear"
-        style="left: -999px; top: -1002px;"
+        class="ant-calendar-picker-container"
+        style="opacity: 0;"
       >
         <div
           class="ant-calendar ant-calendar-range"
@@ -277417,14 +277157,13 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   </span>
   <a
     class="ant-popover-open"
-    style=""
   >
     Click to confirm
   </a>
   <div>
     <div
-      class="ant-popover ant-popover-placement-top zoom-big-appear"
-      style="left: -999px; top: -1003px; transform-origin: 50% 4px;"
+      class="ant-popover"
+      style="opacity: 0;"
     >
       <div
         class="ant-popover-content"
