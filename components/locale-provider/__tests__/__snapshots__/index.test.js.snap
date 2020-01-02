@@ -98552,7 +98552,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
 </div>
 `;
 
-exports[`Locale Provider should display the text as hy 1`] = `
+exports[`Locale Provider should display the text as hy-am 1`] = `
 <div>
   <ul
     class="ant-pagination"
@@ -98866,7 +98866,7 @@ exports[`Locale Provider should display the text as hy 1`] = `
                   tabindex="-1"
                   type="button"
                 >
-                  szept
+                  սպտ
                 </button>
                 <button
                   class="ant-picker-year-btn"
@@ -98904,25 +98904,25 @@ exports[`Locale Provider should display the text as hy 1`] = `
                 <thead>
                   <tr>
                     <th>
-                      h
+                      երկ
                     </th>
                     <th>
-                      k
+                      երք
                     </th>
                     <th>
-                      sze
+                      չրք
                     </th>
                     <th>
-                      cs
+                      հնգ
                     </th>
                     <th>
-                      p
+                      ուրբ
                     </th>
                     <th>
-                      szo
+                      շբթ
                     </th>
                     <th>
-                      v
+                      կրկ
                     </th>
                   </tr>
                 </thead>
@@ -100912,7 +100912,7 @@ exports[`Locale Provider should display the text as hy 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      szept
+                      սպտ
                     </button>
                     <button
                       class="ant-picker-year-btn"
@@ -100952,25 +100952,25 @@ exports[`Locale Provider should display the text as hy 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          h
+                          երկ
                         </th>
                         <th>
-                          k
+                          երք
                         </th>
                         <th>
-                          sze
+                          չրք
                         </th>
                         <th>
-                          cs
+                          հնգ
                         </th>
                         <th>
-                          p
+                          ուրբ
                         </th>
                         <th>
-                          szo
+                          շբթ
                         </th>
                         <th>
-                          v
+                          կրկ
                         </th>
                       </tr>
                     </thead>
@@ -101462,7 +101462,7 @@ exports[`Locale Provider should display the text as hy 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      okt
+                      հկտ
                     </button>
                     <button
                       class="ant-picker-year-btn"
@@ -101500,25 +101500,25 @@ exports[`Locale Provider should display the text as hy 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          h
+                          երկ
                         </th>
                         <th>
-                          k
+                          երք
                         </th>
                         <th>
-                          sze
+                          չրք
                         </th>
                         <th>
-                          cs
+                          հնգ
                         </th>
                         <th>
-                          p
+                          ուրբ
                         </th>
                         <th>
-                          szo
+                          շբթ
                         </th>
                         <th>
-                          v
+                          կրկ
                         </th>
                       </tr>
                     </thead>
@@ -102458,7 +102458,7 @@ exports[`Locale Provider should display the text as hy 1`] = `
           <span
             class="ant-select-selection-item"
           >
-            szept
+            սպտ
           </span>
         </div>
         <span
@@ -102549,25 +102549,25 @@ exports[`Locale Provider should display the text as hy 1`] = `
             <thead>
               <tr>
                 <th>
-                  h
+                  երկ
                 </th>
                 <th>
-                  k
+                  երք
                 </th>
                 <th>
-                  sze
+                  չրք
                 </th>
                 <th>
-                  cs
+                  հնգ
                 </th>
                 <th>
-                  p
+                  ուրբ
                 </th>
                 <th>
-                  szo
+                  շբթ
                 </th>
                 <th>
-                  v
+                  կրկ
                 </th>
               </tr>
             </thead>
