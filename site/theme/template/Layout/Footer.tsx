@@ -1,5 +1,5 @@
 import React from 'react';
-import { FormattedMessage, injectIntl } from 'react-intl';
+import { FormattedMessage, injectIntl, WrappedComponentProps } from 'react-intl';
 import { Modal, message } from 'antd';
 import { Link } from 'bisheng/router';
 import RcFooter from 'rc-footer';
@@ -22,7 +22,7 @@ import {
 import { isLocalStorageNameSupported, loadScript, getLocalizedPathname } from '../utils';
 import ColorPicker from '../Color/ColorPicker';
 
-class Footer extends React.Component {
+class Footer extends React.Component<WrappedComponentProps> {
   lessLoaded = false;
 
   state = {
@@ -47,7 +47,7 @@ class Footer extends React.Component {
   }
 
   getColumns() {
-    const { intl = {} } = this.props;
+    const { intl } = this.props;
     const isZhCN = intl.locale === 'zh-CN';
     return [
       {
@@ -330,19 +330,24 @@ class Footer extends React.Component {
     ];
   }
 
-  handleColorChange = color => {
+  handleColorChange = (color: string) => {
+    const {
+      intl: { messages },
+    } = this.props;
+    message.loading({
+      content: messages['app.footer.primary-color-changing'],
+      key: 'change-primary-color',
+    });
     const changeColor = () => {
-      const {
-        intl: { messages },
-      } = this.props;
-      const hide = message.loading(messages['app.footer.primary-color-changing']);
-      window.less
+      (window as any).less
         .modifyVars({
           '@primary-color': color,
         })
         .then(() => {
-          hide();
-          message.success(messages['app.footer.primary-color-changed']);
+          message.success({
+            content: messages['app.footer.primary-color-changed'],
+            key: 'change-primary-color',
+          });
           this.setState({ color });
         });
     };
@@ -352,7 +357,7 @@ class Footer extends React.Component {
     if (this.lessLoaded) {
       changeColor();
     } else {
-      window.less = {
+      (window as any).less = {
         async: true,
         javascriptEnabled: true,
       };
@@ -401,7 +406,6 @@ class Footer extends React.Component {
     const colors = Object.keys(presetPalettes).filter(item => item !== 'grey');
     return (
       <ColorPicker
-        type="sketch"
         small
         color={color}
         position="top"
