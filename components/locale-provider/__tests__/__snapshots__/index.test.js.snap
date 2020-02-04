@@ -192219,7 +192219,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       class="ant-picker-input ant-picker-input-active"
     >
       <input
-        placeholder="Data de início"
+        placeholder="Data inicial"
         readonly=""
         size="12"
         value=""
@@ -192238,7 +192238,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       class="ant-picker-input"
     >
       <input
-        placeholder="Data de fim"
+        placeholder="Data final"
         readonly=""
         size="12"
         value=""
