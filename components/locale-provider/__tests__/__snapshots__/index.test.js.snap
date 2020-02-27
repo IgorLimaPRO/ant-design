@@ -1907,7 +1907,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="الصفحة السابقة"
     >
       <a
@@ -1983,7 +1983,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="الصفحة التالية"
     >
@@ -6806,7 +6806,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="الصفحة السابقة"
           >
             <a
@@ -6846,7 +6846,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="الصفحة التالية"
           >
             <a
@@ -6993,7 +6993,7 @@ exports[`Locale Provider should display the text as az 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Əvvəlki Səhifə"
     >
       <a
@@ -7069,7 +7069,7 @@ exports[`Locale Provider should display the text as az 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Növbəti Səhifə"
     >
@@ -11892,7 +11892,7 @@ exports[`Locale Provider should display the text as az 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Əvvəlki Səhifə"
           >
             <a
@@ -11932,7 +11932,7 @@ exports[`Locale Provider should display the text as az 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Növbəti Səhifə"
           >
             <a
@@ -12079,7 +12079,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Предишна страница"
     >
       <a
@@ -12155,7 +12155,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Следваща страница"
     >
@@ -16978,7 +16978,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Предишна страница"
           >
             <a
@@ -17018,7 +17018,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Следваща страница"
           >
             <a
@@ -17165,7 +17165,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Pàgina prèvia"
     >
       <a
@@ -17241,7 +17241,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Pàgina següent"
     >
@@ -22064,7 +22064,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Pàgina prèvia"
           >
             <a
@@ -22104,7 +22104,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Pàgina següent"
           >
             <a
@@ -22251,7 +22251,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Předchozí strana"
     >
       <a
@@ -22327,7 +22327,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Následující strana"
     >
@@ -27150,7 +27150,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Předchozí strana"
           >
             <a
@@ -27190,7 +27190,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Následující strana"
           >
             <a
@@ -27337,7 +27337,7 @@ exports[`Locale Provider should display the text as da 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Forrige Side"
     >
       <a
@@ -27413,7 +27413,7 @@ exports[`Locale Provider should display the text as da 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Næste Side"
     >
@@ -32236,7 +32236,7 @@ exports[`Locale Provider should display the text as da 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Forrige Side"
           >
             <a
@@ -32276,7 +32276,7 @@ exports[`Locale Provider should display the text as da 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Næste Side"
           >
             <a
@@ -32423,7 +32423,7 @@ exports[`Locale Provider should display the text as de 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Vorherige Seite"
     >
       <a
@@ -32499,7 +32499,7 @@ exports[`Locale Provider should display the text as de 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Nächste Seite"
     >
@@ -37322,7 +37322,7 @@ exports[`Locale Provider should display the text as de 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Vorherige Seite"
           >
             <a
@@ -37362,7 +37362,7 @@ exports[`Locale Provider should display the text as de 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Nächste Seite"
           >
             <a
@@ -37509,7 +37509,7 @@ exports[`Locale Provider should display the text as el 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Προηγούμενη Σελίδα"
     >
       <a
@@ -37585,7 +37585,7 @@ exports[`Locale Provider should display the text as el 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Επόμενη Σελίδα"
     >
@@ -42408,7 +42408,7 @@ exports[`Locale Provider should display the text as el 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Προηγούμενη Σελίδα"
           >
             <a
@@ -42448,7 +42448,7 @@ exports[`Locale Provider should display the text as el 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Επόμενη Σελίδα"
           >
             <a
@@ -42595,7 +42595,7 @@ exports[`Locale Provider should display the text as en 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Previous Page"
     >
       <a
@@ -42671,7 +42671,7 @@ exports[`Locale Provider should display the text as en 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Next Page"
     >
@@ -47494,7 +47494,7 @@ exports[`Locale Provider should display the text as en 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Previous Page"
           >
             <a
@@ -47534,7 +47534,7 @@ exports[`Locale Provider should display the text as en 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Next Page"
           >
             <a
@@ -47681,7 +47681,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Previous Page"
     >
       <a
@@ -47757,7 +47757,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Next Page"
     >
@@ -52580,7 +52580,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Previous Page"
           >
             <a
@@ -52620,7 +52620,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Next Page"
           >
             <a
@@ -52767,7 +52767,7 @@ exports[`Locale Provider should display the text as es 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Página anterior"
     >
       <a
@@ -52843,7 +52843,7 @@ exports[`Locale Provider should display the text as es 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Página siguiente"
     >
@@ -57666,7 +57666,7 @@ exports[`Locale Provider should display the text as es 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Página anterior"
           >
             <a
@@ -57706,7 +57706,7 @@ exports[`Locale Provider should display the text as es 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Página siguiente"
           >
             <a
@@ -57853,7 +57853,7 @@ exports[`Locale Provider should display the text as et 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Eelmine leht"
     >
       <a
@@ -57929,7 +57929,7 @@ exports[`Locale Provider should display the text as et 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Järgmine leht"
     >
@@ -62752,7 +62752,7 @@ exports[`Locale Provider should display the text as et 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Eelmine leht"
           >
             <a
@@ -62792,7 +62792,7 @@ exports[`Locale Provider should display the text as et 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Järgmine leht"
           >
             <a
@@ -62939,7 +62939,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="صفحه قبلی"
     >
       <a
@@ -63015,7 +63015,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="صفحه بعدی"
     >
@@ -67838,7 +67838,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="صفحه قبلی"
           >
             <a
@@ -67878,7 +67878,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="صفحه بعدی"
           >
             <a
@@ -68025,7 +68025,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Edellinen sivu"
     >
       <a
@@ -68101,7 +68101,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Seuraava sivu"
     >
@@ -72924,7 +72924,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Edellinen sivu"
           >
             <a
@@ -72964,7 +72964,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Seuraava sivu"
           >
             <a
@@ -73111,7 +73111,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Page précédente"
     >
       <a
@@ -73187,7 +73187,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Page suivante"
     >
@@ -78010,7 +78010,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Page précédente"
           >
             <a
@@ -78050,7 +78050,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Page suivante"
           >
             <a
@@ -78197,7 +78197,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Page précédente"
     >
       <a
@@ -78273,7 +78273,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Page suivante"
     >
@@ -83096,7 +83096,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Page précédente"
           >
             <a
@@ -83136,7 +83136,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Page suivante"
           >
             <a
@@ -83283,7 +83283,7 @@ exports[`Locale Provider should display the text as he 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="העמוד הקודם"
     >
       <a
@@ -83359,7 +83359,7 @@ exports[`Locale Provider should display the text as he 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="העמוד הבא"
     >
@@ -88182,7 +88182,7 @@ exports[`Locale Provider should display the text as he 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="העמוד הקודם"
           >
             <a
@@ -88222,7 +88222,7 @@ exports[`Locale Provider should display the text as he 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="העמוד הבא"
           >
             <a
@@ -88369,7 +88369,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="पिछला पृष्ठ"
     >
       <a
@@ -88445,7 +88445,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="अगला पृष्ठ"
     >
@@ -93268,7 +93268,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="पिछला पृष्ठ"
           >
             <a
@@ -93308,7 +93308,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="अगला पृष्ठ"
           >
             <a
@@ -93455,7 +93455,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Prijašnja stranica"
     >
       <a
@@ -93531,7 +93531,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Sljedeća stranica"
     >
@@ -98354,7 +98354,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Prijašnja stranica"
           >
             <a
@@ -98394,7 +98394,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Sljedeća stranica"
           >
             <a
@@ -98541,7 +98541,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Előző oldal"
     >
       <a
@@ -98617,7 +98617,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Következő oldal"
     >
@@ -103440,7 +103440,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Előző oldal"
           >
             <a
@@ -103480,7 +103480,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Következő oldal"
           >
             <a
@@ -103627,7 +103627,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Նախորդ Էջ"
     >
       <a
@@ -103703,7 +103703,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Հաջորդ Էջ"
     >
@@ -108526,7 +108526,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Նախորդ Էջ"
           >
             <a
@@ -108566,7 +108566,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Հաջորդ Էջ"
           >
             <a
@@ -108713,7 +108713,7 @@ exports[`Locale Provider should display the text as id 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Halaman Sebelumnya"
     >
       <a
@@ -108789,7 +108789,7 @@ exports[`Locale Provider should display the text as id 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Halaman Berikutnya"
     >
@@ -113612,7 +113612,7 @@ exports[`Locale Provider should display the text as id 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Halaman Sebelumnya"
           >
             <a
@@ -113652,7 +113652,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Halaman Berikutnya"
           >
             <a
@@ -113799,7 +113799,7 @@ exports[`Locale Provider should display the text as is 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Fyrri síða"
     >
       <a
@@ -113875,7 +113875,7 @@ exports[`Locale Provider should display the text as is 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Næsta síða"
     >
@@ -118698,7 +118698,7 @@ exports[`Locale Provider should display the text as is 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Fyrri síða"
           >
             <a
@@ -118738,7 +118738,7 @@ exports[`Locale Provider should display the text as is 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Næsta síða"
           >
             <a
@@ -118885,7 +118885,7 @@ exports[`Locale Provider should display the text as it 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Pagina precedente"
     >
       <a
@@ -118961,7 +118961,7 @@ exports[`Locale Provider should display the text as it 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Pagina successiva"
     >
@@ -123784,7 +123784,7 @@ exports[`Locale Provider should display the text as it 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Pagina precedente"
           >
             <a
@@ -123824,7 +123824,7 @@ exports[`Locale Provider should display the text as it 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Pagina successiva"
           >
             <a
@@ -123971,7 +123971,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="前のページ"
     >
       <a
@@ -124047,7 +124047,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="次のページ"
     >
@@ -128870,7 +128870,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="前のページ"
           >
             <a
@@ -128910,7 +128910,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="次のページ"
           >
             <a
@@ -129057,7 +129057,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="ಹಿಂದಿನ ಪುಟ"
     >
       <a
@@ -129133,7 +129133,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="ಮುಂದಿನ ಪುಟ"
     >
@@ -133956,7 +133956,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="ಹಿಂದಿನ ಪುಟ"
           >
             <a
@@ -133996,7 +133996,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="ಮುಂದಿನ ಪುಟ"
           >
             <a
@@ -134143,7 +134143,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="이전 페이지"
     >
       <a
@@ -134219,7 +134219,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="다음 페이지"
     >
@@ -139042,7 +139042,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="이전 페이지"
           >
             <a
@@ -139082,7 +139082,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="다음 페이지"
           >
             <a
@@ -139229,7 +139229,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Rûpelê Pêş"
     >
       <a
@@ -139305,7 +139305,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Rûpelê Paş"
     >
@@ -144128,7 +144128,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Rûpelê Pêş"
           >
             <a
@@ -144168,7 +144168,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Rûpelê Paş"
           >
             <a
@@ -144315,7 +144315,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Iepriekšējā lapa"
     >
       <a
@@ -144391,7 +144391,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Nākamā lapaspuse"
     >
@@ -149214,7 +149214,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Iepriekšējā lapa"
           >
             <a
@@ -149254,7 +149254,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Nākamā lapaspuse"
           >
             <a
@@ -149401,7 +149401,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Претходна страница"
     >
       <a
@@ -149477,7 +149477,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Наредна страница"
     >
@@ -154300,7 +154300,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Претходна страница"
           >
             <a
@@ -154340,7 +154340,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Наредна страница"
           >
             <a
@@ -154487,7 +154487,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Өмнөх хуудас"
     >
       <a
@@ -154563,7 +154563,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Дараагийн хуудас"
     >
@@ -159386,7 +159386,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Өмнөх хуудас"
           >
             <a
@@ -159426,7 +159426,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Дараагийн хуудас"
           >
             <a
@@ -159573,7 +159573,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Halaman sebelumnya"
     >
       <a
@@ -159649,7 +159649,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Halam seterusnya"
     >
@@ -164472,7 +164472,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Halaman sebelumnya"
           >
             <a
@@ -164512,7 +164512,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Halam seterusnya"
           >
             <a
@@ -164659,7 +164659,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Forrige side"
     >
       <a
@@ -164735,7 +164735,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Neste side"
     >
@@ -169558,7 +169558,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Forrige side"
           >
             <a
@@ -169598,7 +169598,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Neste side"
           >
             <a
@@ -169745,7 +169745,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Previous Page"
     >
       <a
@@ -169821,7 +169821,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Next Page"
     >
@@ -174644,7 +174644,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Previous Page"
           >
             <a
@@ -174684,7 +174684,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Next Page"
           >
             <a
@@ -174831,7 +174831,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Vorige pagina"
     >
       <a
@@ -174907,7 +174907,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Volgende pagina"
     >
@@ -179730,7 +179730,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Vorige pagina"
           >
             <a
@@ -179770,7 +179770,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Volgende pagina"
           >
             <a
@@ -179917,7 +179917,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Vorige pagina"
     >
       <a
@@ -179993,7 +179993,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Volgende pagina"
     >
@@ -184816,7 +184816,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Vorige pagina"
           >
             <a
@@ -184856,7 +184856,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Volgende pagina"
           >
             <a
@@ -185003,7 +185003,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Poprzednia strona"
     >
       <a
@@ -185079,7 +185079,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Następna strona"
     >
@@ -189902,7 +189902,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Poprzednia strona"
           >
             <a
@@ -189942,7 +189942,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Następna strona"
           >
             <a
@@ -190089,7 +190089,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Página Anterior"
     >
       <a
@@ -190165,7 +190165,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Página Seguinte"
     >
@@ -194988,7 +194988,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Página Anterior"
           >
             <a
@@ -195028,7 +195028,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Página Seguinte"
           >
             <a
@@ -195175,7 +195175,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Página anterior"
     >
       <a
@@ -195251,7 +195251,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Próxima página"
     >
@@ -200074,7 +200074,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Página anterior"
           >
             <a
@@ -200114,7 +200114,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Próxima página"
           >
             <a
@@ -200261,7 +200261,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Pagina Anterioară"
     >
       <a
@@ -200337,7 +200337,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Pagina Următoare"
     >
@@ -205160,7 +205160,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Pagina Anterioară"
           >
             <a
@@ -205200,7 +205200,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Pagina Următoare"
           >
             <a
@@ -205347,7 +205347,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Назад"
     >
       <a
@@ -205423,7 +205423,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Вперед"
     >
@@ -210246,7 +210246,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Назад"
           >
             <a
@@ -210286,7 +210286,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Вперед"
           >
             <a
@@ -210433,7 +210433,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Predchádzajúca strana"
     >
       <a
@@ -210509,7 +210509,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Nasledujúca strana"
     >
@@ -215332,7 +215332,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Predchádzajúca strana"
           >
             <a
@@ -215372,7 +215372,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Nasledujúca strana"
           >
             <a
@@ -215519,7 +215519,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Prejšnja stran"
     >
       <a
@@ -215595,7 +215595,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Naslednja stran"
     >
@@ -220418,7 +220418,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Prejšnja stran"
           >
             <a
@@ -220458,7 +220458,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Naslednja stran"
           >
             <a
@@ -220605,7 +220605,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Prethodna strana"
     >
       <a
@@ -220681,7 +220681,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Sledeća strana"
     >
@@ -225504,7 +225504,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Prethodna strana"
           >
             <a
@@ -225544,7 +225544,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Sledeća strana"
           >
             <a
@@ -225691,7 +225691,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Föreg sida"
     >
       <a
@@ -225767,7 +225767,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Nästa sida"
     >
@@ -230590,7 +230590,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Föreg sida"
           >
             <a
@@ -230630,7 +230630,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Nästa sida"
           >
             <a
@@ -230777,7 +230777,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="முந்தைய பக்கம்"
     >
       <a
@@ -230853,7 +230853,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="அடுத்த பக்கம்"
     >
@@ -235676,7 +235676,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="முந்தைய பக்கம்"
           >
             <a
@@ -235716,7 +235716,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="அடுத்த பக்கம்"
           >
             <a
@@ -235863,7 +235863,7 @@ exports[`Locale Provider should display the text as th 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="หน้าก่อนหน้า"
     >
       <a
@@ -235939,7 +235939,7 @@ exports[`Locale Provider should display the text as th 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="หน้าถัดไป"
     >
@@ -240762,7 +240762,7 @@ exports[`Locale Provider should display the text as th 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="หน้าก่อนหน้า"
           >
             <a
@@ -240802,7 +240802,7 @@ exports[`Locale Provider should display the text as th 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="หน้าถัดไป"
           >
             <a
@@ -240949,7 +240949,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Önceki Sayfa"
     >
       <a
@@ -241025,7 +241025,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Sonraki Sayfa"
     >
@@ -245848,7 +245848,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Önceki Sayfa"
           >
             <a
@@ -245888,7 +245888,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Sonraki Sayfa"
           >
             <a
@@ -246035,7 +246035,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Попередня сторінка"
     >
       <a
@@ -246111,7 +246111,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Наступна сторінка"
     >
@@ -250934,7 +250934,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Попередня сторінка"
           >
             <a
@@ -250974,7 +250974,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Наступна сторінка"
           >
             <a
@@ -251121,7 +251121,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="Trang Trước"
     >
       <a
@@ -251197,7 +251197,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="Trang Kế"
     >
@@ -256020,7 +256020,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="Trang Trước"
           >
             <a
@@ -256060,7 +256060,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="Trang Kế"
           >
             <a
@@ -256207,7 +256207,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="上一页"
     >
       <a
@@ -256283,7 +256283,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="下一页"
     >
@@ -261106,7 +261106,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="上一页"
           >
             <a
@@ -261146,7 +261146,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="下一页"
           >
             <a
@@ -261293,7 +261293,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   >
     <li
       aria-disabled="true"
-      class="ant-pagination-disabled ant-pagination-prev"
+      class="ant-pagination-prev ant-pagination-disabled"
       title="上一頁"
     >
       <a
@@ -261369,7 +261369,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
     </li>
     <li
       aria-disabled="false"
-      class=" ant-pagination-next"
+      class="ant-pagination-next"
       tabindex="0"
       title="下一頁"
     >
@@ -266192,7 +266192,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         >
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-prev"
+            class="ant-pagination-prev ant-pagination-disabled"
             title="上一頁"
           >
             <a
@@ -266232,7 +266232,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           </li>
           <li
             aria-disabled="true"
-            class="ant-pagination-disabled ant-pagination-next"
+            class="ant-pagination-next ant-pagination-disabled"
             title="下一頁"
           >
             <a
