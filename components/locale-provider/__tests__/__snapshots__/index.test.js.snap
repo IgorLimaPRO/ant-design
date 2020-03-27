@@ -6604,7 +6604,9 @@ exports[`Locale Provider should display the text as ar 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -6719,82 +6721,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="الصفحة السابقة"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="الصفحة التالية"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -11642,7 +11568,9 @@ exports[`Locale Provider should display the text as az 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -11757,82 +11685,6 @@ exports[`Locale Provider should display the text as az 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Əvvəlki Səhifə"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Növbəti Səhifə"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -16680,7 +16532,9 @@ exports[`Locale Provider should display the text as bg 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -16795,82 +16649,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Предишна страница"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Следваща страница"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -21718,7 +21496,9 @@ exports[`Locale Provider should display the text as ca 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -21833,82 +21613,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Pàgina prèvia"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Pàgina següent"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -26756,7 +26460,9 @@ exports[`Locale Provider should display the text as cs 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -26871,82 +26577,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Předchozí strana"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Následující strana"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -31794,7 +31424,9 @@ exports[`Locale Provider should display the text as da 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -31909,82 +31541,6 @@ exports[`Locale Provider should display the text as da 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Forrige Side"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Næste Side"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -36832,7 +36388,9 @@ exports[`Locale Provider should display the text as de 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -36947,82 +36505,6 @@ exports[`Locale Provider should display the text as de 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Vorherige Seite"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Nächste Seite"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -41870,7 +41352,9 @@ exports[`Locale Provider should display the text as el 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -41985,82 +41469,6 @@ exports[`Locale Provider should display the text as el 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Προηγούμενη Σελίδα"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Επόμενη Σελίδα"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -46908,7 +46316,9 @@ exports[`Locale Provider should display the text as en 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -47023,82 +46433,6 @@ exports[`Locale Provider should display the text as en 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Previous Page"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Next Page"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -51946,7 +51280,9 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -52061,82 +51397,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Previous Page"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Next Page"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -56984,7 +56244,9 @@ exports[`Locale Provider should display the text as es 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -57099,82 +56361,6 @@ exports[`Locale Provider should display the text as es 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Página anterior"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Página siguiente"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -62022,7 +61208,9 @@ exports[`Locale Provider should display the text as et 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -62137,82 +61325,6 @@ exports[`Locale Provider should display the text as et 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Eelmine leht"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Järgmine leht"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -67060,7 +66172,9 @@ exports[`Locale Provider should display the text as fa 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -67175,82 +66289,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="صفحه قبلی"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="صفحه بعدی"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -72098,7 +71136,9 @@ exports[`Locale Provider should display the text as fi 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -72213,82 +71253,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Edellinen sivu"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Seuraava sivu"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -77136,7 +76100,9 @@ exports[`Locale Provider should display the text as fr 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -77251,82 +76217,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Page précédente"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Page suivante"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -82174,7 +81064,9 @@ exports[`Locale Provider should display the text as fr 2`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -82289,82 +81181,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Page précédente"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Page suivante"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -87212,7 +86028,9 @@ exports[`Locale Provider should display the text as he 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -87327,82 +86145,6 @@ exports[`Locale Provider should display the text as he 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="העמוד הקודם"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="העמוד הבא"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -92250,7 +90992,9 @@ exports[`Locale Provider should display the text as hi 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -92365,82 +91109,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="पिछला पृष्ठ"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="अगला पृष्ठ"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -97288,7 +95956,9 @@ exports[`Locale Provider should display the text as hr 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -97403,82 +96073,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Prijašnja stranica"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Sljedeća stranica"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -102326,7 +100920,9 @@ exports[`Locale Provider should display the text as hu 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -102441,82 +101037,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Előző oldal"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Következő oldal"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -107364,7 +105884,9 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -107479,82 +106001,6 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Նախորդ Էջ"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Հաջորդ Էջ"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -112402,7 +110848,9 @@ exports[`Locale Provider should display the text as id 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -112517,82 +110965,6 @@ exports[`Locale Provider should display the text as id 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Halaman Sebelumnya"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Halaman Berikutnya"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -117440,7 +115812,9 @@ exports[`Locale Provider should display the text as is 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -117555,82 +115929,6 @@ exports[`Locale Provider should display the text as is 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Fyrri síða"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Næsta síða"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -122478,7 +120776,9 @@ exports[`Locale Provider should display the text as it 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -122593,82 +120893,6 @@ exports[`Locale Provider should display the text as it 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Pagina precedente"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Pagina successiva"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -127516,7 +125740,9 @@ exports[`Locale Provider should display the text as ja 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -127631,82 +125857,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="前のページ"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="次のページ"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -132554,7 +130704,9 @@ exports[`Locale Provider should display the text as kn 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -132669,82 +130821,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="ಹಿಂದಿನ ಪುಟ"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="ಮುಂದಿನ ಪುಟ"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -137592,7 +135668,9 @@ exports[`Locale Provider should display the text as ko 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -137707,82 +135785,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="이전 페이지"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="다음 페이지"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -142630,7 +140632,9 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -142745,82 +140749,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Rûpelê Pêş"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Rûpelê Paş"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -147668,7 +145596,9 @@ exports[`Locale Provider should display the text as lv 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -147783,82 +145713,6 @@ exports[`Locale Provider should display the text as lv 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Iepriekšējā lapa"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Nākamā lapaspuse"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -152706,7 +150560,9 @@ exports[`Locale Provider should display the text as mk 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -152821,82 +150677,6 @@ exports[`Locale Provider should display the text as mk 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Претходна страница"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Наредна страница"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -157744,7 +155524,9 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -157859,82 +155641,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Өмнөх хуудас"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Дараагийн хуудас"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -162782,7 +160488,9 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -162897,82 +160605,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Halaman sebelumnya"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Halam seterusnya"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -167820,7 +165452,9 @@ exports[`Locale Provider should display the text as nb 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -167935,82 +165569,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Forrige side"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Neste side"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -172858,7 +170416,9 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -172973,82 +170533,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Previous Page"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Next Page"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -177896,7 +175380,9 @@ exports[`Locale Provider should display the text as nl 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -178011,82 +175497,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Vorige pagina"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Volgende pagina"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -182934,7 +180344,9 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -183049,82 +180461,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Vorige pagina"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Volgende pagina"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -187972,7 +185308,9 @@ exports[`Locale Provider should display the text as pl 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -188087,82 +185425,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Poprzednia strona"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Następna strona"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -193010,7 +190272,9 @@ exports[`Locale Provider should display the text as pt 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -193125,82 +190389,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Página Anterior"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Página Seguinte"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -198048,7 +195236,9 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -198163,82 +195353,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Página anterior"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Próxima página"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -203086,7 +200200,9 @@ exports[`Locale Provider should display the text as ro 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -203201,82 +200317,6 @@ exports[`Locale Provider should display the text as ro 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Pagina Anterioară"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Pagina Următoare"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -208124,7 +205164,9 @@ exports[`Locale Provider should display the text as ru 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -208239,82 +205281,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Назад"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Вперед"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -213162,7 +210128,9 @@ exports[`Locale Provider should display the text as sk 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -213277,82 +210245,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Predchádzajúca strana"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Nasledujúca strana"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -218200,7 +215092,9 @@ exports[`Locale Provider should display the text as sl 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -218315,82 +215209,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Prejšnja stran"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Naslednja stran"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -223238,7 +220056,9 @@ exports[`Locale Provider should display the text as sr 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -223353,82 +220173,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Prethodna strana"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Sledeća strana"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -228276,7 +225020,9 @@ exports[`Locale Provider should display the text as sv 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -228391,82 +225137,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Föreg sida"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Nästa sida"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -233314,7 +229984,9 @@ exports[`Locale Provider should display the text as ta 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -233429,82 +230101,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="முந்தைய பக்கம்"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="அடுத்த பக்கம்"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -238352,7 +234948,9 @@ exports[`Locale Provider should display the text as th 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -238467,82 +235065,6 @@ exports[`Locale Provider should display the text as th 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="หน้าก่อนหน้า"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="หน้าถัดไป"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -243390,7 +239912,9 @@ exports[`Locale Provider should display the text as tr 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -243505,82 +240029,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Önceki Sayfa"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Sonraki Sayfa"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -248428,7 +244876,9 @@ exports[`Locale Provider should display the text as uk 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -248543,82 +244993,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Попередня сторінка"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Наступна сторінка"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -253466,7 +249840,9 @@ exports[`Locale Provider should display the text as vi 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -253581,82 +249957,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="Trang Trước"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="Trang Kế"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -258504,7 +254804,9 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -258619,82 +254921,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="上一页"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="下一页"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
@@ -263542,7 +259768,9 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                   <col />
                   <col />
                 </colgroup>
-                <thead>
+                <thead
+                  class="ant-table-thead"
+                >
                   <tr>
                     <th
                       class="ant-table-cell"
@@ -263657,82 +259885,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             </div>
           </div>
         </div>
-        <ul
-          class="ant-pagination ant-table-pagination"
-          unselectable="unselectable"
-        >
-          <li
-            aria-disabled="true"
-            class="ant-pagination-prev ant-pagination-disabled"
-            title="上一頁"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="left"
-                class="anticon anticon-left"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="left"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-          <li
-            class="ant-pagination-item ant-pagination-item-0 ant-pagination-disabled ant-pagination-item-disabled"
-            tabindex="0"
-            title="0"
-          >
-            <a>
-              0
-            </a>
-          </li>
-          <li
-            aria-disabled="true"
-            class="ant-pagination-next ant-pagination-disabled"
-            title="下一頁"
-          >
-            <a
-              class="ant-pagination-item-link"
-              disabled=""
-            >
-              <span
-                aria-label="right"
-                class="anticon anticon-right"
-                role="img"
-              >
-                <svg
-                  aria-hidden="true"
-                  class=""
-                  data-icon="right"
-                  fill="currentColor"
-                  focusable="false"
-                  height="1em"
-                  viewBox="64 64 896 896"
-                  width="1em"
-                >
-                  <path
-                    d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
-                  />
-                </svg>
-              </span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
