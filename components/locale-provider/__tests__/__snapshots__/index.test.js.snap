@@ -4118,7 +4118,28 @@ exports[`Locale Provider should display the text as ar 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -9078,7 +9099,28 @@ exports[`Locale Provider should display the text as az 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -14038,7 +14080,28 @@ exports[`Locale Provider should display the text as bg 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -18998,7 +19061,28 @@ exports[`Locale Provider should display the text as ca 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -23958,7 +24042,28 @@ exports[`Locale Provider should display the text as cs 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -28918,7 +29023,28 @@ exports[`Locale Provider should display the text as da 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -33878,7 +34004,28 @@ exports[`Locale Provider should display the text as de 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -38838,7 +38985,28 @@ exports[`Locale Provider should display the text as el 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -43798,7 +43966,28 @@ exports[`Locale Provider should display the text as en 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -48758,7 +48947,28 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -53718,7 +53928,28 @@ exports[`Locale Provider should display the text as es 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -58678,7 +58909,28 @@ exports[`Locale Provider should display the text as et 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -63638,7 +63890,28 @@ exports[`Locale Provider should display the text as fa 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -68598,7 +68871,28 @@ exports[`Locale Provider should display the text as fi 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -73558,7 +73852,28 @@ exports[`Locale Provider should display the text as fr 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -78518,7 +78833,28 @@ exports[`Locale Provider should display the text as fr 2`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -83478,7 +83814,28 @@ exports[`Locale Provider should display the text as he 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -88438,7 +88795,28 @@ exports[`Locale Provider should display the text as hi 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -93398,7 +93776,28 @@ exports[`Locale Provider should display the text as hr 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -98358,7 +98757,28 @@ exports[`Locale Provider should display the text as hu 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -103318,7 +103738,28 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -108278,7 +108719,28 @@ exports[`Locale Provider should display the text as id 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -113238,7 +113700,28 @@ exports[`Locale Provider should display the text as is 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -118198,7 +118681,28 @@ exports[`Locale Provider should display the text as it 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -123158,7 +123662,28 @@ exports[`Locale Provider should display the text as ja 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -128118,7 +128643,28 @@ exports[`Locale Provider should display the text as kn 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -133078,7 +133624,28 @@ exports[`Locale Provider should display the text as ko 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -138038,7 +138605,28 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -142998,7 +143586,28 @@ exports[`Locale Provider should display the text as lv 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -147958,7 +148567,28 @@ exports[`Locale Provider should display the text as mk 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -152918,7 +153548,28 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -157878,7 +158529,28 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -162838,7 +163510,28 @@ exports[`Locale Provider should display the text as nb 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -167798,7 +168491,28 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -172758,7 +173472,28 @@ exports[`Locale Provider should display the text as nl 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -177718,7 +178453,28 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -182678,7 +183434,28 @@ exports[`Locale Provider should display the text as pl 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -187638,7 +188415,28 @@ exports[`Locale Provider should display the text as pt 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -192598,7 +193396,28 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -197558,7 +198377,28 @@ exports[`Locale Provider should display the text as ro 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -202518,7 +203358,28 @@ exports[`Locale Provider should display the text as ru 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -207478,7 +208339,28 @@ exports[`Locale Provider should display the text as sk 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -212438,7 +213320,28 @@ exports[`Locale Provider should display the text as sl 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -217398,7 +218301,28 @@ exports[`Locale Provider should display the text as sr 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -222358,7 +223282,28 @@ exports[`Locale Provider should display the text as sv 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -227318,7 +228263,28 @@ exports[`Locale Provider should display the text as ta 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -232278,7 +233244,28 @@ exports[`Locale Provider should display the text as th 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -237238,7 +238225,28 @@ exports[`Locale Provider should display the text as tr 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -242198,7 +243206,28 @@ exports[`Locale Provider should display the text as uk 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -247158,7 +248187,28 @@ exports[`Locale Provider should display the text as vi 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -252118,7 +253168,28 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
@@ -257078,7 +258149,28 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       <span
         aria-label="to"
         class="ant-picker-separator"
-      />
+      >
+        <span
+          aria-label="swap-right"
+          class="anticon anticon-swap-right"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="swap-right"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="0 0 1024 1024"
+            width="1em"
+          >
+            <path
+              d="M873.1 596.2l-164-208A32 32 0 00684 376h-64.8c-6.7 0-10.4 7.7-6.3 13l144.3 183H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h695.9c26.8 0 41.7-30.8 25.2-51.8z"
+            />
+          </svg>
+        </span>
+      </span>
     </div>
     <div
       class="ant-picker-input"
