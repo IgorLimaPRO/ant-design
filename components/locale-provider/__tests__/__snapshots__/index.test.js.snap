@@ -186486,7 +186486,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                   tabindex="-1"
                   type="button"
                 >
-                  Setembro
+                  setembro
                 </button>
               </div>
               <button
@@ -188540,7 +188540,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      Setembro
+                      setembro
                     </button>
                   </div>
                   <button
@@ -189078,7 +189078,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      Outubro
+                      outubro
                     </button>
                   </div>
                   <button
@@ -190050,7 +190050,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           <span
             class="ant-select-selection-item"
           >
-            Set
+            set
           </span>
         </div>
         <span
@@ -191467,7 +191467,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                   tabindex="-1"
                   type="button"
                 >
-                  Set
+                  set
                 </button>
               </div>
               <button
@@ -191498,7 +191498,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                 <thead>
                   <tr>
                     <th>
-                      Do
+                      do
                     </th>
                     <th>
                       2ª
@@ -191516,7 +191516,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                       6ª
                     </th>
                     <th>
-                      Sá
+                      sá
                     </th>
                   </tr>
                 </thead>
@@ -193521,7 +193521,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      Set
+                      set
                     </button>
                   </div>
                   <button
@@ -193554,7 +193554,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          Do
+                          do
                         </th>
                         <th>
                           2ª
@@ -193572,7 +193572,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                           6ª
                         </th>
                         <th>
-                          Sá
+                          sá
                         </th>
                       </tr>
                     </thead>
@@ -194059,7 +194059,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      Out
+                      out
                     </button>
                   </div>
                   <button
@@ -194090,7 +194090,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          Do
+                          do
                         </th>
                         <th>
                           2ª
@@ -194108,7 +194108,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                           6ª
                         </th>
                         <th>
-                          Sá
+                          sá
                         </th>
                       </tr>
                     </thead>
@@ -195031,7 +195031,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           <span
             class="ant-select-selection-item"
           >
-            Set
+            set
           </span>
         </div>
         <span
@@ -195122,7 +195122,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             <thead>
               <tr>
                 <th>
-                  Do
+                  do
                 </th>
                 <th>
                   2ª
@@ -195140,7 +195140,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                   6ª
                 </th>
                 <th>
-                  Sá
+                  sá
                 </th>
               </tr>
             </thead>
