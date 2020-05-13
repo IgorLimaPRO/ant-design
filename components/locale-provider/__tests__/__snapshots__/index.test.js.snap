@@ -5389,15 +5389,33 @@ exports[`Locale Provider should display the text as ar 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 عنصر
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 عنصر
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -5569,15 +5587,33 @@ exports[`Locale Provider should display the text as ar 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 عنصر
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 عنصر
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -10376,15 +10412,33 @@ exports[`Locale Provider should display the text as az 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -10556,15 +10610,33 @@ exports[`Locale Provider should display the text as az 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -15363,15 +15435,33 @@ exports[`Locale Provider should display the text as bg 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 избор
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 избор
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -15543,15 +15633,33 @@ exports[`Locale Provider should display the text as bg 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 избор
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 избор
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -20350,15 +20458,33 @@ exports[`Locale Provider should display the text as ca 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -20530,15 +20656,33 @@ exports[`Locale Provider should display the text as ca 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -25337,15 +25481,33 @@ exports[`Locale Provider should display the text as cs 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 položka
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 položka
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -25517,15 +25679,33 @@ exports[`Locale Provider should display the text as cs 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 položka
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 položka
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -30324,15 +30504,33 @@ exports[`Locale Provider should display the text as da 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 element
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 element
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -30504,15 +30702,33 @@ exports[`Locale Provider should display the text as da 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 element
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 element
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -35311,15 +35527,33 @@ exports[`Locale Provider should display the text as de 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 Eintrag
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 Eintrag
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -35491,15 +35725,33 @@ exports[`Locale Provider should display the text as de 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 Eintrag
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 Eintrag
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -40298,15 +40550,33 @@ exports[`Locale Provider should display the text as el 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 αντικείμενο
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 αντικείμενο
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -40478,15 +40748,33 @@ exports[`Locale Provider should display the text as el 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 αντικείμενο
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 αντικείμενο
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -45285,15 +45573,33 @@ exports[`Locale Provider should display the text as en 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -45465,15 +45771,33 @@ exports[`Locale Provider should display the text as en 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -50272,15 +50596,33 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -50452,15 +50794,33 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -55259,15 +55619,33 @@ exports[`Locale Provider should display the text as es 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 elemento
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 elemento
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -55439,15 +55817,33 @@ exports[`Locale Provider should display the text as es 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 elemento
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 elemento
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -60246,15 +60642,33 @@ exports[`Locale Provider should display the text as et 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 kogus
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 kogus
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -60426,15 +60840,33 @@ exports[`Locale Provider should display the text as et 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 kogus
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 kogus
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -65233,15 +65665,33 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -65413,15 +65863,33 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -70220,15 +70688,33 @@ exports[`Locale Provider should display the text as fi 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 kohde
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 kohde
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -70400,15 +70886,33 @@ exports[`Locale Provider should display the text as fi 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 kohde
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 kohde
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -75207,15 +75711,33 @@ exports[`Locale Provider should display the text as fr 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 élément
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 élément
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -75387,15 +75909,33 @@ exports[`Locale Provider should display the text as fr 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 élément
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 élément
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -80194,15 +80734,33 @@ exports[`Locale Provider should display the text as fr 2`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 élément
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 élément
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -80374,15 +80932,33 @@ exports[`Locale Provider should display the text as fr 2`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 élément
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 élément
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -85181,15 +85757,33 @@ exports[`Locale Provider should display the text as he 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 פריט
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 פריט
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -85361,15 +85955,33 @@ exports[`Locale Provider should display the text as he 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 פריט
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 פריט
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -90168,15 +90780,33 @@ exports[`Locale Provider should display the text as hi 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 तत्त्व
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 तत्त्व
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -90348,15 +90978,33 @@ exports[`Locale Provider should display the text as hi 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 तत्त्व
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 तत्त्व
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -95155,15 +95803,33 @@ exports[`Locale Provider should display the text as hr 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 stavka
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 stavka
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -95335,15 +96001,33 @@ exports[`Locale Provider should display the text as hr 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 stavka
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 stavka
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -100142,15 +100826,33 @@ exports[`Locale Provider should display the text as hu 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 elem
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 elem
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -100322,15 +101024,33 @@ exports[`Locale Provider should display the text as hu 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 elem
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 elem
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -105129,15 +105849,33 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 պարագան
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 պարագան
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -105309,15 +106047,33 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 պարագան
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 պարագան
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -110116,15 +110872,33 @@ exports[`Locale Provider should display the text as id 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -110296,15 +111070,33 @@ exports[`Locale Provider should display the text as id 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -115103,15 +115895,33 @@ exports[`Locale Provider should display the text as is 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 færsla
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 færsla
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -115283,15 +116093,33 @@ exports[`Locale Provider should display the text as is 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 færsla
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 færsla
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -120090,15 +120918,33 @@ exports[`Locale Provider should display the text as it 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 elemento
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 elemento
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -120270,15 +121116,33 @@ exports[`Locale Provider should display the text as it 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 elemento
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 elemento
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -125077,15 +125941,33 @@ exports[`Locale Provider should display the text as ja 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 アイテム
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 アイテム
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -125257,15 +126139,33 @@ exports[`Locale Provider should display the text as ja 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 アイテム
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 アイテム
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -130064,15 +130964,33 @@ exports[`Locale Provider should display the text as kn 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 ವಿಷಯ
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 ವಿಷಯ
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -130244,15 +131162,33 @@ exports[`Locale Provider should display the text as kn 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 ವಿಷಯ
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 ವಿಷಯ
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -135051,15 +135987,33 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 개
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 개
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -135231,15 +136185,33 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 개
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 개
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -140038,15 +141010,33 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 tişt
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 tişt
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -140218,15 +141208,33 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 tişt
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 tişt
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -145025,15 +146033,33 @@ exports[`Locale Provider should display the text as lv 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 vienumu
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 vienumu
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -145205,15 +146231,33 @@ exports[`Locale Provider should display the text as lv 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 vienumu
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 vienumu
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -150012,15 +151056,33 @@ exports[`Locale Provider should display the text as mk 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 предмет
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 предмет
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -150192,15 +151254,33 @@ exports[`Locale Provider should display the text as mk 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 предмет
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 предмет
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -154999,15 +156079,33 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 Зүйл
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 Зүйл
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -155179,15 +156277,33 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 Зүйл
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 Зүйл
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -159986,15 +161102,33 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -160166,15 +161300,33 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -164973,15 +166125,33 @@ exports[`Locale Provider should display the text as nb 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 element
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 element
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -165153,15 +166323,33 @@ exports[`Locale Provider should display the text as nb 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 element
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 element
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -169960,15 +171148,33 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 वस्तु
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 वस्तु
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -170140,15 +171346,33 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 वस्तु
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 वस्तु
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -174947,15 +176171,33 @@ exports[`Locale Provider should display the text as nl 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -175127,15 +176369,33 @@ exports[`Locale Provider should display the text as nl 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -179934,15 +181194,33 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -180114,15 +181392,33 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -184921,15 +186217,33 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 obiekt
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 obiekt
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -185101,15 +186415,33 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 obiekt
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 obiekt
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -189908,15 +191240,33 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -190088,15 +191438,33 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -194895,15 +196263,33 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -195075,15 +196461,33 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -199882,15 +201286,33 @@ exports[`Locale Provider should display the text as ro 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 element
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 element
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -200062,15 +201484,33 @@ exports[`Locale Provider should display the text as ro 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 element
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 element
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -204869,15 +206309,33 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 элем.
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 элем.
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -205049,15 +206507,33 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 элем.
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 элем.
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -209856,15 +211332,33 @@ exports[`Locale Provider should display the text as sk 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 položka
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 položka
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -210036,15 +211530,33 @@ exports[`Locale Provider should display the text as sk 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 položka
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 položka
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -214843,15 +216355,33 @@ exports[`Locale Provider should display the text as sl 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 Objekt
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 Objekt
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -215023,15 +216553,33 @@ exports[`Locale Provider should display the text as sl 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 Objekt
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 Objekt
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -219830,15 +221378,33 @@ exports[`Locale Provider should display the text as sr 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 stavka
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 stavka
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -220010,15 +221576,33 @@ exports[`Locale Provider should display the text as sr 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 stavka
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 stavka
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -224817,15 +226401,33 @@ exports[`Locale Provider should display the text as sv 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 element
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 element
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -224997,15 +226599,33 @@ exports[`Locale Provider should display the text as sv 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 element
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 element
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -229804,15 +231424,33 @@ exports[`Locale Provider should display the text as ta 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 தகவல்
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 தகவல்
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -229984,15 +231622,33 @@ exports[`Locale Provider should display the text as ta 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 தகவல்
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 தகவல்
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -234791,15 +236447,33 @@ exports[`Locale Provider should display the text as th 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 ชิ้น
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 ชิ้น
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -234971,15 +236645,33 @@ exports[`Locale Provider should display the text as th 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 ชิ้น
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 ชิ้น
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -239778,15 +241470,33 @@ exports[`Locale Provider should display the text as tr 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 Öğe
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 Öğe
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -239958,15 +241668,33 @@ exports[`Locale Provider should display the text as tr 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 Öğe
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 Öğe
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -244765,15 +246493,33 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -244945,15 +246691,33 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 item
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 item
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -249752,15 +251516,33 @@ exports[`Locale Provider should display the text as vi 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 mục
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 mục
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -249932,15 +251714,33 @@ exports[`Locale Provider should display the text as vi 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 mục
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 mục
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -254739,15 +256539,33 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 项
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 项
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -254919,15 +256737,33 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 项
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 项
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -259726,15 +261562,33 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 項目
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 項目
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
@@ -259906,15 +261760,33 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           </span>
         </label>
         <span
+          aria-label="down"
+          class="anticon anticon-down ant-dropdown-trigger ant-transfer-list-header-dropdown"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            class=""
+            data-icon="down"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+            />
+          </svg>
+        </span>
+        <span
           class="ant-transfer-list-header-selected"
         >
-          <span>
-            0 項目
-          </span>
-          <span
-            class="ant-transfer-list-header-title"
-          />
+          0 項目
         </span>
+        <span
+          class="ant-transfer-list-header-title"
+        />
       </div>
       <div
         class="ant-transfer-list-body ant-transfer-list-body-with-search"
