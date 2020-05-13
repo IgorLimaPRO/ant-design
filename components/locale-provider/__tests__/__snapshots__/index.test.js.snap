@@ -6820,24 +6820,22 @@ exports[`Locale Provider should display the text as ar 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  إلغاء
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  تأكيد
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                إلغاء
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                تأكيد
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -11805,24 +11803,22 @@ exports[`Locale Provider should display the text as az 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Ləğv et
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Bəli
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Ləğv et
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Bəli
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -16790,24 +16786,22 @@ exports[`Locale Provider should display the text as bg 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Отказ
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Добре
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Отказ
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Добре
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -21775,24 +21769,22 @@ exports[`Locale Provider should display the text as ca 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Cancel·lar
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Cancel·lar
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -26760,24 +26752,22 @@ exports[`Locale Provider should display the text as cs 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Storno
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Ok
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Storno
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Ok
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -31745,24 +31735,22 @@ exports[`Locale Provider should display the text as da 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Afbryd
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Afbryd
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -36730,24 +36718,22 @@ exports[`Locale Provider should display the text as de 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Abbrechen
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Abbrechen
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -41715,24 +41701,22 @@ exports[`Locale Provider should display the text as el 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Άκυρο
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  ΟΚ
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Άκυρο
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                ΟΚ
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -46700,24 +46684,22 @@ exports[`Locale Provider should display the text as en 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Cancel
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Cancel
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -51685,24 +51667,22 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Cancel
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Cancel
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -56670,24 +56650,22 @@ exports[`Locale Provider should display the text as es 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Cancelar
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Aceptar
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Cancelar
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Aceptar
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -61655,24 +61633,22 @@ exports[`Locale Provider should display the text as et 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Tühista
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Tühista
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -66640,24 +66616,22 @@ exports[`Locale Provider should display the text as fa 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  لغو
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  تایید
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                لغو
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                تایید
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -71625,24 +71599,22 @@ exports[`Locale Provider should display the text as fi 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Peruuta
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Peruuta
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -76610,24 +76582,22 @@ exports[`Locale Provider should display the text as fr 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Annuler
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Annuler
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -81595,24 +81565,22 @@ exports[`Locale Provider should display the text as fr 2`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Annuler
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Annuler
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -86580,24 +86548,22 @@ exports[`Locale Provider should display the text as he 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  ביטול
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  אישור
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                ביטול
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                אישור
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -91565,24 +91531,22 @@ exports[`Locale Provider should display the text as hi 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  रद्द करना
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  अच्छी तरह से
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                रद्द करना
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                अच्छी तरह से
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -96550,24 +96514,22 @@ exports[`Locale Provider should display the text as hr 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Odustani
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Odustani
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -101535,24 +101497,22 @@ exports[`Locale Provider should display the text as hu 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Visszavonás
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Alkalmazás
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Visszavonás
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Alkalmazás
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -106520,24 +106480,22 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Չեղարկել
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Օկ
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Չեղարկել
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Օկ
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -111505,24 +111463,22 @@ exports[`Locale Provider should display the text as id 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Batal
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Batal
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -116490,24 +116446,22 @@ exports[`Locale Provider should display the text as is 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Hætta við
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Áfram
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Hætta við
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Áfram
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -121475,24 +121429,22 @@ exports[`Locale Provider should display the text as it 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Annulla
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Annulla
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -126460,24 +126412,22 @@ exports[`Locale Provider should display the text as ja 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  キャンセル
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                キャンセル
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -131445,24 +131395,22 @@ exports[`Locale Provider should display the text as kn 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  ರದ್ದು
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  ಸರಿ
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                ರದ್ದು
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                ಸರಿ
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -136430,24 +136378,22 @@ exports[`Locale Provider should display the text as ko 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  취소
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  확인
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                취소
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                확인
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -141415,24 +141361,22 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Betal ke
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Temam
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Betal ke
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Temam
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -146400,24 +146344,22 @@ exports[`Locale Provider should display the text as lv 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Atcelt
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Atcelt
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -151385,24 +151327,22 @@ exports[`Locale Provider should display the text as mk 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Откажи
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  ОК
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Откажи
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                ОК
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -156370,24 +156310,22 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Цуцлах
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Цуцлах
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -161355,24 +161293,22 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Batal
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Batal
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -166340,24 +166276,22 @@ exports[`Locale Provider should display the text as nb 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Avbryt
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Avbryt
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -171325,24 +171259,22 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  होईन
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  हो
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                होईन
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                हो
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -176310,24 +176242,22 @@ exports[`Locale Provider should display the text as nl 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Annuleren
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Annuleren
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -181295,24 +181225,22 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Annuleer
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Annuleer
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -186280,24 +186208,22 @@ exports[`Locale Provider should display the text as pl 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Anuluj
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Anuluj
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -191265,24 +191191,22 @@ exports[`Locale Provider should display the text as pt 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Cancelar
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Cancelar
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -196250,24 +196174,22 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Cancelar
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Cancelar
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -201235,24 +201157,22 @@ exports[`Locale Provider should display the text as ro 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Anulare
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Anulare
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -206220,24 +206140,22 @@ exports[`Locale Provider should display the text as ru 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Отмена
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Отмена
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -211205,24 +211123,22 @@ exports[`Locale Provider should display the text as sk 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Zrušiť
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Zrušiť
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -216190,24 +216106,22 @@ exports[`Locale Provider should display the text as sl 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Prekliči
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  V redu
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Prekliči
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                V redu
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -221175,24 +221089,22 @@ exports[`Locale Provider should display the text as sr 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Otkaži
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  U redu
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Otkaži
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                U redu
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -226160,24 +226072,22 @@ exports[`Locale Provider should display the text as sv 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Avbryt
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Avbryt
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -231145,24 +231055,22 @@ exports[`Locale Provider should display the text as ta 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  ரத்து செய்யவும்
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  சரி
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                ரத்து செய்யவும்
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                சரி
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -236130,24 +236038,22 @@ exports[`Locale Provider should display the text as th 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  ยกเลิก
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  ตกลง
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                ยกเลิก
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                ตกลง
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -241115,24 +241021,22 @@ exports[`Locale Provider should display the text as tr 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  İptal
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Tamam
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                İptal
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Tamam
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -246100,24 +246004,22 @@ exports[`Locale Provider should display the text as uk 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Скасувати
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  Гаразд
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Скасувати
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                Гаразд
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -251085,24 +250987,22 @@ exports[`Locale Provider should display the text as vi 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  Huỷ
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  OK
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                Huỷ
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                OK
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -256070,24 +255970,22 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  取 消
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  确 定
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                取 消
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                确 定
+              </span>
+            </button>
           </div>
         </div>
         <div
@@ -261055,24 +260953,22 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           <div
             class="ant-modal-footer"
           >
-            <div>
-              <button
-                class="ant-btn"
-                type="button"
-              >
-                <span>
-                  取 消
-                </span>
-              </button>
-              <button
-                class="ant-btn ant-btn-primary"
-                type="button"
-              >
-                <span>
-                  確 定
-                </span>
-              </button>
-            </div>
+            <button
+              class="ant-btn"
+              type="button"
+            >
+              <span>
+                取 消
+              </span>
+            </button>
+            <button
+              class="ant-btn ant-btn-primary"
+              type="button"
+            >
+              <span>
+                確 定
+              </span>
+            </button>
           </div>
         </div>
         <div
