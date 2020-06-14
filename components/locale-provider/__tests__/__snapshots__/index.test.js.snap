@@ -80835,7 +80835,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           <div>
             <input
               class="ant-input ant-transfer-list-search"
-              placeholder="Recherche"
+              placeholder="Rechercher"
               type="text"
               value=""
             />
@@ -81033,7 +81033,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           <div>
             <input
               class="ant-input ant-transfer-list-search"
-              placeholder="Recherche"
+              placeholder="Rechercher"
               type="text"
               value=""
             />
