@@ -1880,9 +1880,11 @@ exports[`Locale Provider should display the text as ar 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="الصفحة السابقة"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -1904,7 +1906,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -1957,8 +1959,10 @@ exports[`Locale Provider should display the text as ar 1`] = `
       tabindex="0"
       title="الصفحة التالية"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -1980,7 +1984,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -6907,9 +6911,11 @@ exports[`Locale Provider should display the text as az 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Əvvəlki Səhifə"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -6931,7 +6937,7 @@ exports[`Locale Provider should display the text as az 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -6984,8 +6990,10 @@ exports[`Locale Provider should display the text as az 1`] = `
       tabindex="0"
       title="Növbəti Səhifə"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -7007,7 +7015,7 @@ exports[`Locale Provider should display the text as az 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -11934,9 +11942,11 @@ exports[`Locale Provider should display the text as bg 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Предишна страница"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -11958,7 +11968,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -12011,8 +12021,10 @@ exports[`Locale Provider should display the text as bg 1`] = `
       tabindex="0"
       title="Следваща страница"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -12034,7 +12046,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -16961,9 +16973,11 @@ exports[`Locale Provider should display the text as ca 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Pàgina prèvia"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -16985,7 +16999,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -17038,8 +17052,10 @@ exports[`Locale Provider should display the text as ca 1`] = `
       tabindex="0"
       title="Pàgina següent"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -17061,7 +17077,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -21988,9 +22004,11 @@ exports[`Locale Provider should display the text as cs 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Předchozí strana"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -22012,7 +22030,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -22065,8 +22083,10 @@ exports[`Locale Provider should display the text as cs 1`] = `
       tabindex="0"
       title="Následující strana"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -22088,7 +22108,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -27015,9 +27035,11 @@ exports[`Locale Provider should display the text as da 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Forrige Side"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -27039,7 +27061,7 @@ exports[`Locale Provider should display the text as da 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -27092,8 +27114,10 @@ exports[`Locale Provider should display the text as da 1`] = `
       tabindex="0"
       title="Næste Side"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -27115,7 +27139,7 @@ exports[`Locale Provider should display the text as da 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -32042,9 +32066,11 @@ exports[`Locale Provider should display the text as de 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Vorherige Seite"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -32066,7 +32092,7 @@ exports[`Locale Provider should display the text as de 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -32119,8 +32145,10 @@ exports[`Locale Provider should display the text as de 1`] = `
       tabindex="0"
       title="Nächste Seite"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -32142,7 +32170,7 @@ exports[`Locale Provider should display the text as de 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -37069,9 +37097,11 @@ exports[`Locale Provider should display the text as el 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Προηγούμενη Σελίδα"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -37093,7 +37123,7 @@ exports[`Locale Provider should display the text as el 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -37146,8 +37176,10 @@ exports[`Locale Provider should display the text as el 1`] = `
       tabindex="0"
       title="Επόμενη Σελίδα"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -37169,7 +37201,7 @@ exports[`Locale Provider should display the text as el 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -42096,9 +42128,11 @@ exports[`Locale Provider should display the text as en 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Previous Page"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -42120,7 +42154,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -42173,8 +42207,10 @@ exports[`Locale Provider should display the text as en 1`] = `
       tabindex="0"
       title="Next Page"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -42196,7 +42232,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -47123,9 +47159,11 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Previous Page"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -47147,7 +47185,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -47200,8 +47238,10 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       tabindex="0"
       title="Next Page"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -47223,7 +47263,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -52150,9 +52190,11 @@ exports[`Locale Provider should display the text as es 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Página anterior"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -52174,7 +52216,7 @@ exports[`Locale Provider should display the text as es 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -52227,8 +52269,10 @@ exports[`Locale Provider should display the text as es 1`] = `
       tabindex="0"
       title="Página siguiente"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -52250,7 +52294,7 @@ exports[`Locale Provider should display the text as es 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -57177,9 +57221,11 @@ exports[`Locale Provider should display the text as et 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Eelmine leht"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -57201,7 +57247,7 @@ exports[`Locale Provider should display the text as et 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -57254,8 +57300,10 @@ exports[`Locale Provider should display the text as et 1`] = `
       tabindex="0"
       title="Järgmine leht"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -57277,7 +57325,7 @@ exports[`Locale Provider should display the text as et 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -62204,9 +62252,11 @@ exports[`Locale Provider should display the text as fa 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="صفحه قبلی"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -62228,7 +62278,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -62281,8 +62331,10 @@ exports[`Locale Provider should display the text as fa 1`] = `
       tabindex="0"
       title="صفحه بعدی"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -62304,7 +62356,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -67231,9 +67283,11 @@ exports[`Locale Provider should display the text as fi 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Edellinen sivu"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -67255,7 +67309,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -67308,8 +67362,10 @@ exports[`Locale Provider should display the text as fi 1`] = `
       tabindex="0"
       title="Seuraava sivu"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -67331,7 +67387,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -72258,9 +72314,11 @@ exports[`Locale Provider should display the text as fr 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Page précédente"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -72282,7 +72340,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -72335,8 +72393,10 @@ exports[`Locale Provider should display the text as fr 1`] = `
       tabindex="0"
       title="Page suivante"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -72358,7 +72418,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -77285,9 +77345,11 @@ exports[`Locale Provider should display the text as fr 2`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Page précédente"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -77309,7 +77371,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -77362,8 +77424,10 @@ exports[`Locale Provider should display the text as fr 2`] = `
       tabindex="0"
       title="Page suivante"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -77385,7 +77449,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -82312,9 +82376,11 @@ exports[`Locale Provider should display the text as ga 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Leathanach Roimhe Seo"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -82336,7 +82402,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -82389,8 +82455,10 @@ exports[`Locale Provider should display the text as ga 1`] = `
       tabindex="0"
       title="An chéad leathanach eile"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -82412,7 +82480,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -87339,9 +87407,11 @@ exports[`Locale Provider should display the text as he 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="העמוד הקודם"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -87363,7 +87433,7 @@ exports[`Locale Provider should display the text as he 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -87416,8 +87486,10 @@ exports[`Locale Provider should display the text as he 1`] = `
       tabindex="0"
       title="העמוד הבא"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -87439,7 +87511,7 @@ exports[`Locale Provider should display the text as he 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -92366,9 +92438,11 @@ exports[`Locale Provider should display the text as hi 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="पिछला पृष्ठ"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -92390,7 +92464,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -92443,8 +92517,10 @@ exports[`Locale Provider should display the text as hi 1`] = `
       tabindex="0"
       title="अगला पृष्ठ"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -92466,7 +92542,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -97393,9 +97469,11 @@ exports[`Locale Provider should display the text as hr 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Prijašnja stranica"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -97417,7 +97495,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -97470,8 +97548,10 @@ exports[`Locale Provider should display the text as hr 1`] = `
       tabindex="0"
       title="Sljedeća stranica"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -97493,7 +97573,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -102420,9 +102500,11 @@ exports[`Locale Provider should display the text as hu 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Előző oldal"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -102444,7 +102526,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -102497,8 +102579,10 @@ exports[`Locale Provider should display the text as hu 1`] = `
       tabindex="0"
       title="Következő oldal"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -102520,7 +102604,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -107447,9 +107531,11 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Նախորդ Էջ"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -107471,7 +107557,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -107524,8 +107610,10 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
       tabindex="0"
       title="Հաջորդ Էջ"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -107547,7 +107635,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -112474,9 +112562,11 @@ exports[`Locale Provider should display the text as id 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Halaman Sebelumnya"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -112498,7 +112588,7 @@ exports[`Locale Provider should display the text as id 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -112551,8 +112641,10 @@ exports[`Locale Provider should display the text as id 1`] = `
       tabindex="0"
       title="Halaman Berikutnya"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -112574,7 +112666,7 @@ exports[`Locale Provider should display the text as id 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -117501,9 +117593,11 @@ exports[`Locale Provider should display the text as is 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Fyrri síða"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -117525,7 +117619,7 @@ exports[`Locale Provider should display the text as is 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -117578,8 +117672,10 @@ exports[`Locale Provider should display the text as is 1`] = `
       tabindex="0"
       title="Næsta síða"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -117601,7 +117697,7 @@ exports[`Locale Provider should display the text as is 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -122528,9 +122624,11 @@ exports[`Locale Provider should display the text as it 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Pagina precedente"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -122552,7 +122650,7 @@ exports[`Locale Provider should display the text as it 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -122605,8 +122703,10 @@ exports[`Locale Provider should display the text as it 1`] = `
       tabindex="0"
       title="Pagina successiva"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -122628,7 +122728,7 @@ exports[`Locale Provider should display the text as it 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -127555,9 +127655,11 @@ exports[`Locale Provider should display the text as ja 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="前のページ"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -127579,7 +127681,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -127632,8 +127734,10 @@ exports[`Locale Provider should display the text as ja 1`] = `
       tabindex="0"
       title="次のページ"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -127655,7 +127759,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -132582,9 +132686,11 @@ exports[`Locale Provider should display the text as kn 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="ಹಿಂದಿನ ಪುಟ"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -132606,7 +132712,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -132659,8 +132765,10 @@ exports[`Locale Provider should display the text as kn 1`] = `
       tabindex="0"
       title="ಮುಂದಿನ ಪುಟ"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -132682,7 +132790,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -137609,9 +137717,11 @@ exports[`Locale Provider should display the text as ko 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="이전 페이지"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -137633,7 +137743,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -137686,8 +137796,10 @@ exports[`Locale Provider should display the text as ko 1`] = `
       tabindex="0"
       title="다음 페이지"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -137709,7 +137821,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -142636,9 +142748,11 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Rûpelê Pêş"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -142660,7 +142774,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -142713,8 +142827,10 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       tabindex="0"
       title="Rûpelê Paş"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -142736,7 +142852,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -147663,9 +147779,11 @@ exports[`Locale Provider should display the text as lv 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Iepriekšējā lapa"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -147687,7 +147805,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -147740,8 +147858,10 @@ exports[`Locale Provider should display the text as lv 1`] = `
       tabindex="0"
       title="Nākamā lapaspuse"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -147763,7 +147883,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -152690,9 +152810,11 @@ exports[`Locale Provider should display the text as mk 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Претходна страница"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -152714,7 +152836,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -152767,8 +152889,10 @@ exports[`Locale Provider should display the text as mk 1`] = `
       tabindex="0"
       title="Наредна страница"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -152790,7 +152914,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -157717,9 +157841,11 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Өмнөх хуудас"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -157741,7 +157867,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -157794,8 +157920,10 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       tabindex="0"
       title="Дараагийн хуудас"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -157817,7 +157945,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -162744,9 +162872,11 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Halaman sebelumnya"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -162768,7 +162898,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -162821,8 +162951,10 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       tabindex="0"
       title="Halam seterusnya"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -162844,7 +162976,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -167771,9 +167903,11 @@ exports[`Locale Provider should display the text as nb 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Forrige side"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -167795,7 +167929,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -167848,8 +167982,10 @@ exports[`Locale Provider should display the text as nb 1`] = `
       tabindex="0"
       title="Neste side"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -167871,7 +168007,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -172798,9 +172934,11 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Previous Page"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -172822,7 +172960,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -172875,8 +173013,10 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       tabindex="0"
       title="Next Page"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -172898,7 +173038,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -177825,9 +177965,11 @@ exports[`Locale Provider should display the text as nl 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Vorige pagina"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -177849,7 +177991,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -177902,8 +178044,10 @@ exports[`Locale Provider should display the text as nl 1`] = `
       tabindex="0"
       title="Volgende pagina"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -177925,7 +178069,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -182852,9 +182996,11 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Vorige pagina"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -182876,7 +183022,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -182929,8 +183075,10 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       tabindex="0"
       title="Volgende pagina"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -182952,7 +183100,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -187879,9 +188027,11 @@ exports[`Locale Provider should display the text as pl 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Poprzednia strona"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -187903,7 +188053,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -187956,8 +188106,10 @@ exports[`Locale Provider should display the text as pl 1`] = `
       tabindex="0"
       title="Następna strona"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -187979,7 +188131,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -192906,9 +193058,11 @@ exports[`Locale Provider should display the text as pt 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Página Anterior"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -192930,7 +193084,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -192983,8 +193137,10 @@ exports[`Locale Provider should display the text as pt 1`] = `
       tabindex="0"
       title="Página Seguinte"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -193006,7 +193162,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -197933,9 +198089,11 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Página anterior"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -197957,7 +198115,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -198010,8 +198168,10 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       tabindex="0"
       title="Próxima página"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -198033,7 +198193,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -202960,9 +203120,11 @@ exports[`Locale Provider should display the text as ro 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Pagina Anterioară"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -202984,7 +203146,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -203037,8 +203199,10 @@ exports[`Locale Provider should display the text as ro 1`] = `
       tabindex="0"
       title="Pagina Următoare"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -203060,7 +203224,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -207987,9 +208151,11 @@ exports[`Locale Provider should display the text as ru 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Назад"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -208011,7 +208177,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -208064,8 +208230,10 @@ exports[`Locale Provider should display the text as ru 1`] = `
       tabindex="0"
       title="Вперед"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -208087,7 +208255,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -213014,9 +213182,11 @@ exports[`Locale Provider should display the text as sk 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Predchádzajúca strana"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -213038,7 +213208,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -213091,8 +213261,10 @@ exports[`Locale Provider should display the text as sk 1`] = `
       tabindex="0"
       title="Nasledujúca strana"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -213114,7 +213286,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -218041,9 +218213,11 @@ exports[`Locale Provider should display the text as sl 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Prejšnja stran"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -218065,7 +218239,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -218118,8 +218292,10 @@ exports[`Locale Provider should display the text as sl 1`] = `
       tabindex="0"
       title="Naslednja stran"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -218141,7 +218317,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -223068,9 +223244,11 @@ exports[`Locale Provider should display the text as sr 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Prethodna strana"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -223092,7 +223270,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -223145,8 +223323,10 @@ exports[`Locale Provider should display the text as sr 1`] = `
       tabindex="0"
       title="Sledeća strana"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -223168,7 +223348,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -228095,9 +228275,11 @@ exports[`Locale Provider should display the text as sv 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Föreg sida"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -228119,7 +228301,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -228172,8 +228354,10 @@ exports[`Locale Provider should display the text as sv 1`] = `
       tabindex="0"
       title="Nästa sida"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -228195,7 +228379,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -233122,9 +233306,11 @@ exports[`Locale Provider should display the text as ta 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="முந்தைய பக்கம்"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -233146,7 +233332,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -233199,8 +233385,10 @@ exports[`Locale Provider should display the text as ta 1`] = `
       tabindex="0"
       title="அடுத்த பக்கம்"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -233222,7 +233410,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -238149,9 +238337,11 @@ exports[`Locale Provider should display the text as th 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="หน้าก่อนหน้า"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -238173,7 +238363,7 @@ exports[`Locale Provider should display the text as th 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -238226,8 +238416,10 @@ exports[`Locale Provider should display the text as th 1`] = `
       tabindex="0"
       title="หน้าถัดไป"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -238249,7 +238441,7 @@ exports[`Locale Provider should display the text as th 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -243176,9 +243368,11 @@ exports[`Locale Provider should display the text as tr 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Önceki Sayfa"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -243200,7 +243394,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -243253,8 +243447,10 @@ exports[`Locale Provider should display the text as tr 1`] = `
       tabindex="0"
       title="Sonraki Sayfa"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -243276,7 +243472,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -248203,9 +248399,11 @@ exports[`Locale Provider should display the text as uk 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Попередня сторінка"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -248227,7 +248425,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -248280,8 +248478,10 @@ exports[`Locale Provider should display the text as uk 1`] = `
       tabindex="0"
       title="Наступна сторінка"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -248303,7 +248503,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -253230,9 +253430,11 @@ exports[`Locale Provider should display the text as vi 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="Trang Trước"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -253254,7 +253456,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -253307,8 +253509,10 @@ exports[`Locale Provider should display the text as vi 1`] = `
       tabindex="0"
       title="Trang Kế"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -253330,7 +253534,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -258257,9 +258461,11 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="上一页"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -258281,7 +258487,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -258334,8 +258540,10 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       tabindex="0"
       title="下一页"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -258357,7 +258565,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
@@ -263284,9 +263492,11 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       class="ant-pagination-prev ant-pagination-disabled"
       title="上一頁"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
         disabled=""
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="left"
@@ -263308,7 +263518,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
@@ -263361,8 +263571,10 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       tabindex="0"
       title="下一頁"
     >
-      <a
+      <button
         class="ant-pagination-item-link"
+        tabindex="-1"
+        type="button"
       >
         <span
           aria-label="right"
@@ -263384,7 +263596,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
             />
           </svg>
         </span>
-      </a>
+      </button>
     </li>
     <li
       class="ant-pagination-options"
