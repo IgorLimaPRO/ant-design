@@ -253538,7 +253538,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                   tabindex="-1"
                   type="button"
                 >
-                  Th09
+                  Thg 09
                 </button>
                 <button
                   class="ant-picker-year-btn"
@@ -255595,7 +255595,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      Th09
+                      Thg 09
                     </button>
                     <button
                       class="ant-picker-year-btn"
@@ -256133,7 +256133,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      Th10
+                      Thg 10
                     </button>
                     <button
                       class="ant-picker-year-btn"
@@ -257154,7 +257154,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           <span
             class="ant-select-selection-item"
           >
-            Th09
+            Thg 09
           </span>
         </div>
         <span
