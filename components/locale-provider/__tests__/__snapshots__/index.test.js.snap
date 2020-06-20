@@ -243408,7 +243408,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Tarih Seç"
+        placeholder="Tarih seç"
         readonly=""
         size="12"
         title=""
@@ -244002,7 +244002,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Zaman Seç"
+        placeholder="Zaman seç"
         readonly=""
         size="10"
         title=""
@@ -245410,7 +245410,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Başlangıç Tarihi"
+        placeholder="Başlangıç tarihi"
         readonly=""
         size="12"
         value=""
@@ -245450,7 +245450,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Bitiş Tarihi"
+        placeholder="Bitiş tarihi"
         readonly=""
         size="12"
         value=""
