@@ -251938,7 +251938,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0 елем.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -252136,7 +252136,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0 елем.
         </span>
         <span
           class="ant-transfer-list-header-title"
