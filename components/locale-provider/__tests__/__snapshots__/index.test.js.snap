@@ -1997,7 +1997,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / الصفحة"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -2017,6 +2016,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / الصفحة"
           >
             10 / الصفحة
           </span>
@@ -5730,7 +5730,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -5750,6 +5749,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -5790,7 +5790,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="سبتمبر"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -5810,6 +5809,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="سبتمبر"
           >
             سبتمبر
           </span>
@@ -7031,7 +7031,6 @@ exports[`Locale Provider should display the text as az 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / səhifə"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -7051,6 +7050,7 @@ exports[`Locale Provider should display the text as az 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / səhifə"
           >
             10 / səhifə
           </span>
@@ -10764,7 +10764,6 @@ exports[`Locale Provider should display the text as az 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -10784,6 +10783,7 @@ exports[`Locale Provider should display the text as az 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -10824,7 +10824,6 @@ exports[`Locale Provider should display the text as az 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sen"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -10844,6 +10843,7 @@ exports[`Locale Provider should display the text as az 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sen"
           >
             sen
           </span>
@@ -12065,7 +12065,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / страница"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -12085,6 +12084,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / страница"
           >
             10 / страница
           </span>
@@ -15798,7 +15798,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -15818,6 +15817,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -15858,7 +15858,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="сеп"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -15878,6 +15877,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="сеп"
           >
             сеп
           </span>
@@ -17099,7 +17099,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / pàgina"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -17119,6 +17118,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / pàgina"
           >
             10 / pàgina
           </span>
@@ -20832,7 +20832,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -20852,6 +20851,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -20892,7 +20892,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="set."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -20912,6 +20911,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="set."
           >
             set.
           </span>
@@ -22133,7 +22133,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / strana"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -22153,6 +22152,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / strana"
           >
             10 / strana
           </span>
@@ -25866,7 +25866,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -25886,6 +25885,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -25926,7 +25926,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="zář"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -25946,6 +25945,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="zář"
           >
             zář
           </span>
@@ -27167,7 +27167,6 @@ exports[`Locale Provider should display the text as da 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / side"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -27187,6 +27186,7 @@ exports[`Locale Provider should display the text as da 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / side"
           >
             10 / side
           </span>
@@ -30900,7 +30900,6 @@ exports[`Locale Provider should display the text as da 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -30920,6 +30919,7 @@ exports[`Locale Provider should display the text as da 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -30960,7 +30960,6 @@ exports[`Locale Provider should display the text as da 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -30980,6 +30979,7 @@ exports[`Locale Provider should display the text as da 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep"
           >
             sep
           </span>
@@ -32201,7 +32201,6 @@ exports[`Locale Provider should display the text as de 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / Seite"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -32221,6 +32220,7 @@ exports[`Locale Provider should display the text as de 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / Seite"
           >
             10 / Seite
           </span>
@@ -35934,7 +35934,6 @@ exports[`Locale Provider should display the text as de 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -35954,6 +35953,7 @@ exports[`Locale Provider should display the text as de 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -35994,7 +35994,6 @@ exports[`Locale Provider should display the text as de 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="Sep."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -36014,6 +36013,7 @@ exports[`Locale Provider should display the text as de 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="Sep."
           >
             Sep.
           </span>
@@ -37235,7 +37235,6 @@ exports[`Locale Provider should display the text as el 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / σελίδα"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -37255,6 +37254,7 @@ exports[`Locale Provider should display the text as el 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / σελίδα"
           >
             10 / σελίδα
           </span>
@@ -40968,7 +40968,6 @@ exports[`Locale Provider should display the text as el 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -40988,6 +40987,7 @@ exports[`Locale Provider should display the text as el 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -41028,7 +41028,6 @@ exports[`Locale Provider should display the text as el 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="Σεπ"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -41048,6 +41047,7 @@ exports[`Locale Provider should display the text as el 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="Σεπ"
           >
             Σεπ
           </span>
@@ -42269,7 +42269,6 @@ exports[`Locale Provider should display the text as en 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / page"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -42289,6 +42288,7 @@ exports[`Locale Provider should display the text as en 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / page"
           >
             10 / page
           </span>
@@ -46002,7 +46002,6 @@ exports[`Locale Provider should display the text as en 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -46022,6 +46021,7 @@ exports[`Locale Provider should display the text as en 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -46062,7 +46062,6 @@ exports[`Locale Provider should display the text as en 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="Sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -46082,6 +46081,7 @@ exports[`Locale Provider should display the text as en 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="Sep"
           >
             Sep
           </span>
@@ -47303,7 +47303,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / page"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -47323,6 +47322,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / page"
           >
             10 / page
           </span>
@@ -51036,7 +51036,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -51056,6 +51055,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -51096,7 +51096,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="Sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -51116,6 +51115,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="Sep"
           >
             Sep
           </span>
@@ -52337,7 +52337,6 @@ exports[`Locale Provider should display the text as es 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / página"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -52357,6 +52356,7 @@ exports[`Locale Provider should display the text as es 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / página"
           >
             10 / página
           </span>
@@ -56070,7 +56070,6 @@ exports[`Locale Provider should display the text as es 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -56090,6 +56089,7 @@ exports[`Locale Provider should display the text as es 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -56130,7 +56130,6 @@ exports[`Locale Provider should display the text as es 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -56150,6 +56149,7 @@ exports[`Locale Provider should display the text as es 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep."
           >
             sep.
           </span>
@@ -57371,7 +57371,6 @@ exports[`Locale Provider should display the text as et 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / leheküljel"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -57391,6 +57390,7 @@ exports[`Locale Provider should display the text as et 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / leheküljel"
           >
             10 / leheküljel
           </span>
@@ -61104,7 +61104,6 @@ exports[`Locale Provider should display the text as et 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -61124,6 +61123,7 @@ exports[`Locale Provider should display the text as et 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -61164,7 +61164,6 @@ exports[`Locale Provider should display the text as et 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sept"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -61184,6 +61183,7 @@ exports[`Locale Provider should display the text as et 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sept"
           >
             sept
           </span>
@@ -62405,7 +62405,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / صفحه"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -62425,6 +62424,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / صفحه"
           >
             10 / صفحه
           </span>
@@ -66138,7 +66138,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -66158,6 +66157,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -66198,7 +66198,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="سپتامبر"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -66218,6 +66217,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="سپتامبر"
           >
             سپتامبر
           </span>
@@ -67439,7 +67439,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / sivu"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -67459,6 +67458,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / sivu"
           >
             10 / sivu
           </span>
@@ -71172,7 +71172,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -71192,6 +71191,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -71232,7 +71232,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="syys"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -71252,6 +71251,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="syys"
           >
             syys
           </span>
@@ -72473,7 +72473,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / page"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -72493,6 +72492,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / page"
           >
             10 / page
           </span>
@@ -76206,7 +76206,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -76226,6 +76225,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -76266,7 +76266,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sept."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -76286,6 +76285,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sept."
           >
             sept.
           </span>
@@ -77507,7 +77507,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / page"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -77527,6 +77526,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / page"
           >
             10 / page
           </span>
@@ -81240,7 +81240,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -81260,6 +81259,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -81300,7 +81300,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sept."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -81320,6 +81319,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sept."
           >
             sept.
           </span>
@@ -82541,7 +82541,6 @@ exports[`Locale Provider should display the text as ga 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / leathanach"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -82561,6 +82560,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / leathanach"
           >
             10 / leathanach
           </span>
@@ -86274,7 +86274,6 @@ exports[`Locale Provider should display the text as ga 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -86294,6 +86293,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -86334,7 +86334,6 @@ exports[`Locale Provider should display the text as ga 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="M.F."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -86354,6 +86353,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="M.F."
           >
             M.F.
           </span>
@@ -87575,7 +87575,6 @@ exports[`Locale Provider should display the text as he 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / עמוד"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -87595,6 +87594,7 @@ exports[`Locale Provider should display the text as he 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / עמוד"
           >
             10 / עמוד
           </span>
@@ -91308,7 +91308,6 @@ exports[`Locale Provider should display the text as he 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -91328,6 +91327,7 @@ exports[`Locale Provider should display the text as he 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -91368,7 +91368,6 @@ exports[`Locale Provider should display the text as he 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="ספט׳"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -91388,6 +91387,7 @@ exports[`Locale Provider should display the text as he 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="ספט׳"
           >
             ספט׳
           </span>
@@ -92609,7 +92609,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / पृष्ठ"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -92629,6 +92628,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / पृष्ठ"
           >
             10 / पृष्ठ
           </span>
@@ -96342,7 +96342,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -96362,6 +96361,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -96402,7 +96402,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="सित."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -96422,6 +96421,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="सित."
           >
             सित.
           </span>
@@ -97643,7 +97643,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / str"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -97663,6 +97662,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / str"
           >
             10 / str
           </span>
@@ -101376,7 +101376,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -101396,6 +101395,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -101436,7 +101436,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="ruj."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -101456,6 +101455,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="ruj."
           >
             ruj.
           </span>
@@ -102677,7 +102677,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / oldal"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -102697,6 +102696,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / oldal"
           >
             10 / oldal
           </span>
@@ -106410,7 +106410,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -106430,6 +106429,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -106470,7 +106470,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="szept"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -106490,6 +106489,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="szept"
           >
             szept
           </span>
@@ -107711,7 +107711,6 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / էջ"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -107731,6 +107730,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / էջ"
           >
             10 / էջ
           </span>
@@ -111444,7 +111444,6 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -111464,6 +111463,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -111504,7 +111504,6 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="սպտ"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -111524,6 +111523,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="սպտ"
           >
             սպտ
           </span>
@@ -112745,7 +112745,6 @@ exports[`Locale Provider should display the text as id 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / halaman"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -112765,6 +112764,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / halaman"
           >
             10 / halaman
           </span>
@@ -116478,7 +116478,6 @@ exports[`Locale Provider should display the text as id 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -116498,6 +116497,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -116538,7 +116538,6 @@ exports[`Locale Provider should display the text as id 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="Sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -116558,6 +116557,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="Sep"
           >
             Sep
           </span>
@@ -117779,7 +117779,6 @@ exports[`Locale Provider should display the text as is 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / síðu"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -117799,6 +117798,7 @@ exports[`Locale Provider should display the text as is 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / síðu"
           >
             10 / síðu
           </span>
@@ -121512,7 +121512,6 @@ exports[`Locale Provider should display the text as is 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -121532,6 +121531,7 @@ exports[`Locale Provider should display the text as is 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -121572,7 +121572,6 @@ exports[`Locale Provider should display the text as is 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -121592,6 +121591,7 @@ exports[`Locale Provider should display the text as is 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep"
           >
             sep
           </span>
@@ -122813,7 +122813,6 @@ exports[`Locale Provider should display the text as it 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / pagina"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -122833,6 +122832,7 @@ exports[`Locale Provider should display the text as it 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / pagina"
           >
             10 / pagina
           </span>
@@ -126546,7 +126546,6 @@ exports[`Locale Provider should display the text as it 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -126566,6 +126565,7 @@ exports[`Locale Provider should display the text as it 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -126606,7 +126606,6 @@ exports[`Locale Provider should display the text as it 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="set"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -126626,6 +126625,7 @@ exports[`Locale Provider should display the text as it 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="set"
           >
             set
           </span>
@@ -127847,7 +127847,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / ページ"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -127867,6 +127866,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / ページ"
           >
             10 / ページ
           </span>
@@ -131580,7 +131580,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017年"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -131600,6 +131599,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017年"
           >
             2017年
           </span>
@@ -131640,7 +131640,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="9月"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -131660,6 +131659,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="9月"
           >
             9月
           </span>
@@ -132881,7 +132881,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / ಪುಟ"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -132901,6 +132900,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / ಪುಟ"
           >
             10 / ಪುಟ
           </span>
@@ -136614,7 +136614,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -136634,6 +136633,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -136674,7 +136674,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="ಸೆಪ್ಟೆಂ"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -136694,6 +136693,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="ಸೆಪ್ಟೆಂ"
           >
             ಸೆಪ್ಟೆಂ
           </span>
@@ -137915,7 +137915,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / 쪽"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -137935,6 +137934,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / 쪽"
           >
             10 / 쪽
           </span>
@@ -141648,7 +141648,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -141668,6 +141667,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -141708,7 +141708,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="9월"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -141728,6 +141727,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="9월"
           >
             9월
           </span>
@@ -142949,7 +142949,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / rûpel"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -142969,6 +142968,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / rûpel"
           >
             10 / rûpel
           </span>
@@ -146682,7 +146682,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -146702,6 +146701,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -146742,7 +146742,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="ئەیلوول"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -146762,6 +146761,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="ئەیلوول"
           >
             ئەیلوول
           </span>
@@ -147983,7 +147983,6 @@ exports[`Locale Provider should display the text as lv 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / lappuse"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -148003,6 +148002,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / lappuse"
           >
             10 / lappuse
           </span>
@@ -151716,7 +151716,6 @@ exports[`Locale Provider should display the text as lv 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -151736,6 +151735,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -151776,7 +151776,6 @@ exports[`Locale Provider should display the text as lv 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -151796,6 +151795,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep"
           >
             sep
           </span>
@@ -153017,7 +153017,6 @@ exports[`Locale Provider should display the text as mk 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / стр"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -153037,6 +153036,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / стр"
           >
             10 / стр
           </span>
@@ -156750,7 +156750,6 @@ exports[`Locale Provider should display the text as mk 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -156770,6 +156769,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -156810,7 +156810,6 @@ exports[`Locale Provider should display the text as mk 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="сеп"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -156830,6 +156829,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="сеп"
           >
             сеп
           </span>
@@ -158051,7 +158051,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / хуудас"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -158071,6 +158070,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / хуудас"
           >
             10 / хуудас
           </span>
@@ -161784,7 +161784,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -161804,6 +161803,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -161844,7 +161844,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="9 сар"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -161864,6 +161863,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="9 сар"
           >
             9 сар
           </span>
@@ -163085,7 +163085,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / halaman"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -163105,6 +163104,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / halaman"
           >
             10 / halaman
           </span>
@@ -166818,7 +166818,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -166838,6 +166837,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -166878,7 +166878,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="Sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -166898,6 +166897,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="Sep"
           >
             Sep
           </span>
@@ -168119,7 +168119,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / side"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -168139,6 +168138,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / side"
           >
             10 / side
           </span>
@@ -171852,7 +171852,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -171872,6 +171871,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -171912,7 +171912,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -171932,6 +171931,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep."
           >
             sep.
           </span>
@@ -173153,7 +173153,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / page"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -173173,6 +173172,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / page"
           >
             10 / page
           </span>
@@ -176886,7 +176886,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -176906,6 +176905,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -176946,7 +176946,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="Sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -176966,6 +176965,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="Sep"
           >
             Sep
           </span>
@@ -178187,7 +178187,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / pagina"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -178207,6 +178206,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / pagina"
           >
             10 / pagina
           </span>
@@ -181920,7 +181920,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -181940,6 +181939,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -181980,7 +181980,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -182000,6 +181999,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep."
           >
             sep.
           </span>
@@ -183221,7 +183221,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / pagina"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -183241,6 +183240,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / pagina"
           >
             10 / pagina
           </span>
@@ -186954,7 +186954,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -186974,6 +186973,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -187014,7 +187014,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -187034,6 +187033,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep."
           >
             sep.
           </span>
@@ -188255,7 +188255,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / stronę"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -188275,6 +188274,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / stronę"
           >
             10 / stronę
           </span>
@@ -191988,7 +191988,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -192008,6 +192007,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -192048,7 +192048,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="wrz"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -192068,6 +192067,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="wrz"
           >
             wrz
           </span>
@@ -193289,7 +193289,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / página"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -193309,6 +193308,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / página"
           >
             10 / página
           </span>
@@ -197022,7 +197022,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -197042,6 +197041,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -197082,7 +197082,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="set"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -197102,6 +197101,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="set"
           >
             set
           </span>
@@ -198323,7 +198323,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / página"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -198343,6 +198342,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / página"
           >
             10 / página
           </span>
@@ -202056,7 +202056,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -202076,6 +202075,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -202116,7 +202116,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="set"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -202136,6 +202135,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="set"
           >
             set
           </span>
@@ -203357,7 +203357,6 @@ exports[`Locale Provider should display the text as ro 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / pagină"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -203377,6 +203376,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / pagină"
           >
             10 / pagină
           </span>
@@ -207090,7 +207090,6 @@ exports[`Locale Provider should display the text as ro 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -207110,6 +207109,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -207150,7 +207150,6 @@ exports[`Locale Provider should display the text as ro 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sept."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -207170,6 +207169,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sept."
           >
             sept.
           </span>
@@ -208391,7 +208391,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / стр."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -208411,6 +208410,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / стр."
           >
             10 / стр.
           </span>
@@ -212124,7 +212124,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -212144,6 +212143,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -212184,7 +212184,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="сент."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -212204,6 +212203,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="сент."
           >
             сент.
           </span>
@@ -213425,7 +213425,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / strana"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -213445,6 +213444,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / strana"
           >
             10 / strana
           </span>
@@ -217158,7 +217158,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -217178,6 +217177,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -217218,7 +217218,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -217238,6 +217237,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep"
           >
             sep
           </span>
@@ -218459,7 +218459,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / strani"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -218479,6 +218478,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / strani"
           >
             10 / strani
           </span>
@@ -222192,7 +222192,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -222212,6 +222211,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -222252,7 +222252,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -222272,6 +222271,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep."
           >
             sep.
           </span>
@@ -223493,7 +223493,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / strani"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -223513,6 +223512,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / strani"
           >
             10 / strani
           </span>
@@ -227226,7 +227226,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -227246,6 +227245,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -227286,7 +227286,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -227306,6 +227305,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep."
           >
             sep.
           </span>
@@ -228527,7 +228527,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / sida"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -228547,6 +228546,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / sida"
           >
             10 / sida
           </span>
@@ -232260,7 +232260,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -232280,6 +232279,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -232320,7 +232320,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="sep"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -232340,6 +232339,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="sep"
           >
             sep
           </span>
@@ -233561,7 +233561,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / பக்கம்"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -233581,6 +233580,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / பக்கம்"
           >
             10 / பக்கம்
           </span>
@@ -237294,7 +237294,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -237314,6 +237313,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -237354,7 +237354,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="செப்டெம்பர்"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -237374,6 +237373,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="செப்டெம்பர்"
           >
             செப்டெம்பர்
           </span>
@@ -238595,7 +238595,6 @@ exports[`Locale Provider should display the text as th 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / หน้า"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -238615,6 +238614,7 @@ exports[`Locale Provider should display the text as th 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / หน้า"
           >
             10 / หน้า
           </span>
@@ -242328,7 +242328,6 @@ exports[`Locale Provider should display the text as th 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -242348,6 +242347,7 @@ exports[`Locale Provider should display the text as th 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -242388,7 +242388,6 @@ exports[`Locale Provider should display the text as th 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="ก.ย."
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -242408,6 +242407,7 @@ exports[`Locale Provider should display the text as th 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="ก.ย."
           >
             ก.ย.
           </span>
@@ -243629,7 +243629,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / sayfa"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -243649,6 +243648,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / sayfa"
           >
             10 / sayfa
           </span>
@@ -247362,7 +247362,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -247382,6 +247381,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -247422,7 +247422,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="Eyl"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -247442,6 +247441,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="Eyl"
           >
             Eyl
           </span>
@@ -248663,7 +248663,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / сторінці"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -248683,6 +248682,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / сторінці"
           >
             10 / сторінці
           </span>
@@ -252396,7 +252396,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -252416,6 +252415,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -252456,7 +252456,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="вер"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -252476,6 +252475,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="вер"
           >
             вер
           </span>
@@ -253697,7 +253697,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 / trang"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -253717,6 +253716,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 / trang"
           >
             10 / trang
           </span>
@@ -257430,7 +257430,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -257450,6 +257449,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017"
           >
             2017
           </span>
@@ -257490,7 +257490,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="Thg 09"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -257510,6 +257509,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="Thg 09"
           >
             Thg 09
           </span>
@@ -258731,7 +258731,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 条/页"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -258751,6 +258750,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 条/页"
           >
             10 条/页
           </span>
@@ -262464,7 +262464,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017年"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -262484,6 +262483,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017年"
           >
             2017年
           </span>
@@ -262524,7 +262524,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="9月"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -262544,6 +262543,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="9月"
           >
             9月
           </span>
@@ -263765,7 +263765,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="10 條/頁"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -263785,6 +263784,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="10 條/頁"
           >
             10 條/頁
           </span>
@@ -267498,7 +267498,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="2017年"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -267518,6 +267517,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="2017年"
           >
             2017年
           </span>
@@ -267558,7 +267558,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         >
           <span
             class="ant-select-selection-search"
-            title="9月"
           >
             <input
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
@@ -267578,6 +267577,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
+            title="9月"
           >
             9月
           </span>
