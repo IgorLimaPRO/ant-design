@@ -20465,7 +20465,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                 type="button"
               >
                 <span>
-                  OK
+                  D’acord
                 </span>
               </button>
             </div>
@@ -20522,7 +20522,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0 ítem
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -20537,7 +20537,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           <div>
             <input
               class="ant-input ant-transfer-list-search"
-              placeholder="Cercar aquí"
+              placeholder="Cercar"
               type="text"
               value=""
             />
@@ -20720,7 +20720,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0 ítem
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -20735,7 +20735,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
           <div>
             <input
               class="ant-input ant-transfer-list-search"
-              placeholder="Cercar aquí"
+              placeholder="Cercar"
               type="text"
               value=""
             />
@@ -21989,7 +21989,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
               type="button"
             >
               <span>
-                OK
+                D’acord
               </span>
             </button>
           </div>
