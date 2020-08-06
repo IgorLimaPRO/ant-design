@@ -143101,7 +143101,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
 </div>
 `;
 
-exports[`Locale Provider should display the text as ku-iq 1`] = `
+exports[`Locale Provider should display the text as ku 1`] = `
 <div>
   <ul
     class="ant-pagination"
