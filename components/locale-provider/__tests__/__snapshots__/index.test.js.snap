@@ -108063,7 +108063,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
                   tabindex="-1"
                   type="button"
                 >
-                  szept
+                  szept.
                 </button>
                 <button
                   class="ant-picker-year-btn"
@@ -110120,7 +110120,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      szept
+                      szept.
                     </button>
                     <button
                       class="ant-picker-year-btn"
@@ -110658,7 +110658,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      okt
+                      okt.
                     </button>
                     <button
                       class="ant-picker-year-btn"
@@ -111677,9 +111677,9 @@ exports[`Locale Provider should display the text as hu 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="szept"
+            title="szept."
           >
-            szept
+            szept.
           </span>
         </div>
         <span
