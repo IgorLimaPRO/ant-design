@@ -143026,7 +143026,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
     <li
       aria-disabled="true"
       class="ant-pagination-prev ant-pagination-disabled"
-      title="Назад"
+      title="Артқа"
     >
       <button
         class="ant-pagination-item-link"
@@ -143115,7 +143115,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
       aria-disabled="false"
       class="ant-pagination-next"
       tabindex="0"
-      title="Вперед"
+      title="Алға"
     >
       <button
         class="ant-pagination-item-link"
@@ -143175,9 +143175,9 @@ exports[`Locale Provider should display the text as kk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="10 / стр."
+            title="10 / бет"
           >
-            10 / стр.
+            10 / бет
           </span>
         </div>
         <span
@@ -143350,7 +143350,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
                   tabindex="-1"
                   type="button"
                 >
-                  сент.
+                  қыр
                 </button>
                 <button
                   class="ant-picker-year-btn"
@@ -143388,25 +143388,25 @@ exports[`Locale Provider should display the text as kk 1`] = `
                 <thead>
                   <tr>
                     <th>
-                      пн
+                      дй
                     </th>
                     <th>
-                      вт
+                      сй
                     </th>
                     <th>
                       ср
                     </th>
                     <th>
-                      чт
+                      бй
                     </th>
                     <th>
-                      пт
+                      жм
                     </th>
                     <th>
-                      сб
+                      сн
                     </th>
                     <th>
-                      вс
+                      жк
                     </th>
                   </tr>
                 </thead>
@@ -143853,7 +143853,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
             <a
               class="ant-picker-today-btn"
             >
-              Сегодня
+              Бүгін
             </a>
           </div>
         </div>
@@ -145246,7 +145246,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
                 <a
                   class="ant-picker-now-btn"
                 >
-                  Сейчас
+                  Қазір
                 </a>
               </li>
               <li
@@ -145257,7 +145257,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
                   type="button"
                 >
                   <span>
-                    Ok
+                    Таңдау
                   </span>
                 </button>
               </li>
@@ -145407,7 +145407,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      сент.
+                      қыр
                     </button>
                     <button
                       class="ant-picker-year-btn"
@@ -145447,25 +145447,25 @@ exports[`Locale Provider should display the text as kk 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          пн
+                          дй
                         </th>
                         <th>
-                          вт
+                          сй
                         </th>
                         <th>
                           ср
                         </th>
                         <th>
-                          чт
+                          бй
                         </th>
                         <th>
-                          пт
+                          жм
                         </th>
                         <th>
-                          сб
+                          сн
                         </th>
                         <th>
-                          вс
+                          жк
                         </th>
                       </tr>
                     </thead>
@@ -145945,7 +145945,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      окт.
+                      қаз
                     </button>
                     <button
                       class="ant-picker-year-btn"
@@ -145983,25 +145983,25 @@ exports[`Locale Provider should display the text as kk 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          пн
+                          дй
                         </th>
                         <th>
-                          вт
+                          сй
                         </th>
                         <th>
                           ср
                         </th>
                         <th>
-                          чт
+                          бй
                         </th>
                         <th>
-                          пт
+                          жм
                         </th>
                         <th>
-                          сб
+                          сн
                         </th>
                         <th>
-                          вс
+                          жк
                         </th>
                       </tr>
                     </thead>
@@ -146964,9 +146964,9 @@ exports[`Locale Provider should display the text as kk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="сент."
+            title="қыр"
           >
-            сент.
+            қыр
           </span>
         </div>
         <span
@@ -147017,7 +147017,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
             />
           </span>
           <span>
-            Месяц
+            Ай
           </span>
         </label>
         <label
@@ -147036,7 +147036,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
             />
           </span>
           <span>
-            Год
+            Жыл
           </span>
         </label>
       </div>
@@ -147057,25 +147057,25 @@ exports[`Locale Provider should display the text as kk 1`] = `
             <thead>
               <tr>
                 <th>
-                  пн
+                  дй
                 </th>
                 <th>
-                  вт
+                  сй
                 </th>
                 <th>
                   ср
                 </th>
                 <th>
-                  чт
+                  бй
                 </th>
                 <th>
-                  пт
+                  жм
                 </th>
                 <th>
-                  сб
+                  сн
                 </th>
                 <th>
-                  вс
+                  жк
                 </th>
               </tr>
             </thead>
