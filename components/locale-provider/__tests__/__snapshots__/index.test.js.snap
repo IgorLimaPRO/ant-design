@@ -70699,7 +70699,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 
+          0 عدد
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -70891,7 +70891,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 
+          0 عدد
         </span>
         <span
           class="ant-transfer-list-header-title"
