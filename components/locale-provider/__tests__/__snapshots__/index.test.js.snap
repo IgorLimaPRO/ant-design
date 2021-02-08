@@ -66,7 +66,7 @@ exports[`Locale Provider set moment locale when locale changes 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -687,7 +687,7 @@ exports[`Locale Provider set moment locale when locale changes 2`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -1308,7 +1308,7 @@ exports[`Locale Provider set moment locale when locale changes 3`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -2149,7 +2149,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -2745,7 +2745,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -4191,7 +4191,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -5293,7 +5293,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -6786,7 +6786,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle1"
@@ -6795,7 +6795,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -7171,7 +7171,7 @@ exports[`Locale Provider should display the text as az 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -7767,7 +7767,7 @@ exports[`Locale Provider should display the text as az 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -9213,7 +9213,7 @@ exports[`Locale Provider should display the text as az 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -10315,7 +10315,7 @@ exports[`Locale Provider should display the text as az 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -11808,7 +11808,7 @@ exports[`Locale Provider should display the text as az 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle0"
@@ -11817,7 +11817,7 @@ exports[`Locale Provider should display the text as az 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -12193,7 +12193,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -12789,7 +12789,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -14235,7 +14235,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -15337,7 +15337,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -16830,7 +16830,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle2"
@@ -16839,7 +16839,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -17215,7 +17215,7 @@ exports[`Locale Provider should display the text as by 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -17811,7 +17811,7 @@ exports[`Locale Provider should display the text as by 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -19257,7 +19257,7 @@ exports[`Locale Provider should display the text as by 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -20359,7 +20359,7 @@ exports[`Locale Provider should display the text as by 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -21852,7 +21852,7 @@ exports[`Locale Provider should display the text as by 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle3"
@@ -21861,7 +21861,7 @@ exports[`Locale Provider should display the text as by 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -22237,7 +22237,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -22833,7 +22833,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -24279,7 +24279,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -25381,7 +25381,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -26874,7 +26874,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle4"
@@ -26883,7 +26883,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -27259,7 +27259,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -27855,7 +27855,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -29301,7 +29301,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -30403,7 +30403,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -31896,7 +31896,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle5"
@@ -31905,7 +31905,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -32281,7 +32281,7 @@ exports[`Locale Provider should display the text as da 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -32877,7 +32877,7 @@ exports[`Locale Provider should display the text as da 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -34323,7 +34323,7 @@ exports[`Locale Provider should display the text as da 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -35425,7 +35425,7 @@ exports[`Locale Provider should display the text as da 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -36918,7 +36918,7 @@ exports[`Locale Provider should display the text as da 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle6"
@@ -36927,7 +36927,7 @@ exports[`Locale Provider should display the text as da 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -37303,7 +37303,7 @@ exports[`Locale Provider should display the text as de 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -37899,7 +37899,7 @@ exports[`Locale Provider should display the text as de 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -39345,7 +39345,7 @@ exports[`Locale Provider should display the text as de 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -40447,7 +40447,7 @@ exports[`Locale Provider should display the text as de 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -41940,7 +41940,7 @@ exports[`Locale Provider should display the text as de 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle7"
@@ -41949,7 +41949,7 @@ exports[`Locale Provider should display the text as de 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -42325,7 +42325,7 @@ exports[`Locale Provider should display the text as el 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -42921,7 +42921,7 @@ exports[`Locale Provider should display the text as el 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -44367,7 +44367,7 @@ exports[`Locale Provider should display the text as el 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -45469,7 +45469,7 @@ exports[`Locale Provider should display the text as el 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -46962,7 +46962,7 @@ exports[`Locale Provider should display the text as el 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle8"
@@ -46971,7 +46971,7 @@ exports[`Locale Provider should display the text as el 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -47347,7 +47347,7 @@ exports[`Locale Provider should display the text as en 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -47943,7 +47943,7 @@ exports[`Locale Provider should display the text as en 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -49389,7 +49389,7 @@ exports[`Locale Provider should display the text as en 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -50491,7 +50491,7 @@ exports[`Locale Provider should display the text as en 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -51984,7 +51984,7 @@ exports[`Locale Provider should display the text as en 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle10"
@@ -51993,7 +51993,7 @@ exports[`Locale Provider should display the text as en 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -52369,7 +52369,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -52965,7 +52965,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -54411,7 +54411,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -55513,7 +55513,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -57006,7 +57006,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle9"
@@ -57015,7 +57015,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -57391,7 +57391,7 @@ exports[`Locale Provider should display the text as es 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -57987,7 +57987,7 @@ exports[`Locale Provider should display the text as es 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -59433,7 +59433,7 @@ exports[`Locale Provider should display the text as es 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -60535,7 +60535,7 @@ exports[`Locale Provider should display the text as es 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -62028,7 +62028,7 @@ exports[`Locale Provider should display the text as es 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle11"
@@ -62037,7 +62037,7 @@ exports[`Locale Provider should display the text as es 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -62413,7 +62413,7 @@ exports[`Locale Provider should display the text as et 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -63009,7 +63009,7 @@ exports[`Locale Provider should display the text as et 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -64455,7 +64455,7 @@ exports[`Locale Provider should display the text as et 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -65557,7 +65557,7 @@ exports[`Locale Provider should display the text as et 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -67050,7 +67050,7 @@ exports[`Locale Provider should display the text as et 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle12"
@@ -67059,7 +67059,7 @@ exports[`Locale Provider should display the text as et 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -67435,7 +67435,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -68031,7 +68031,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -69477,7 +69477,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -70579,7 +70579,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -72072,7 +72072,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle13"
@@ -72081,7 +72081,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -72457,7 +72457,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -73053,7 +73053,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -74499,7 +74499,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -75601,7 +75601,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -77094,7 +77094,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle14"
@@ -77103,7 +77103,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -77479,7 +77479,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -78075,7 +78075,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -79521,7 +79521,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -80623,7 +80623,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -82116,7 +82116,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle15"
@@ -82125,7 +82125,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -82501,7 +82501,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -83097,7 +83097,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -84543,7 +84543,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -85645,7 +85645,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -87138,7 +87138,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle16"
@@ -87147,7 +87147,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -87523,7 +87523,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -88119,7 +88119,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -89565,7 +89565,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -90667,7 +90667,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -92160,7 +92160,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle17"
@@ -92169,7 +92169,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -92545,7 +92545,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -93141,7 +93141,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -94587,7 +94587,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -95689,7 +95689,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -97182,7 +97182,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle18"
@@ -97191,7 +97191,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -97567,7 +97567,7 @@ exports[`Locale Provider should display the text as he 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -98163,7 +98163,7 @@ exports[`Locale Provider should display the text as he 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -99609,7 +99609,7 @@ exports[`Locale Provider should display the text as he 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -100711,7 +100711,7 @@ exports[`Locale Provider should display the text as he 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -102204,7 +102204,7 @@ exports[`Locale Provider should display the text as he 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle19"
@@ -102213,7 +102213,7 @@ exports[`Locale Provider should display the text as he 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -102589,7 +102589,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -103185,7 +103185,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -104631,7 +104631,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -105733,7 +105733,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -107226,7 +107226,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle20"
@@ -107235,7 +107235,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -107611,7 +107611,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -108207,7 +108207,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -109653,7 +109653,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -110755,7 +110755,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -112248,7 +112248,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle21"
@@ -112257,7 +112257,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -112633,7 +112633,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -113229,7 +113229,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -114675,7 +114675,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -115777,7 +115777,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -117270,7 +117270,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle22"
@@ -117279,7 +117279,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -117655,7 +117655,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -118251,7 +118251,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -119697,7 +119697,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -120799,7 +120799,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -122292,7 +122292,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle23"
@@ -122301,7 +122301,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -122677,7 +122677,7 @@ exports[`Locale Provider should display the text as id 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -123273,7 +123273,7 @@ exports[`Locale Provider should display the text as id 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -124719,7 +124719,7 @@ exports[`Locale Provider should display the text as id 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -125821,7 +125821,7 @@ exports[`Locale Provider should display the text as id 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -127314,7 +127314,7 @@ exports[`Locale Provider should display the text as id 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle54"
@@ -127323,7 +127323,7 @@ exports[`Locale Provider should display the text as id 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -127699,7 +127699,7 @@ exports[`Locale Provider should display the text as is 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -128295,7 +128295,7 @@ exports[`Locale Provider should display the text as is 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -129741,7 +129741,7 @@ exports[`Locale Provider should display the text as is 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -130843,7 +130843,7 @@ exports[`Locale Provider should display the text as is 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -132336,7 +132336,7 @@ exports[`Locale Provider should display the text as is 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle24"
@@ -132345,7 +132345,7 @@ exports[`Locale Provider should display the text as is 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -132721,7 +132721,7 @@ exports[`Locale Provider should display the text as it 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -133317,7 +133317,7 @@ exports[`Locale Provider should display the text as it 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -134763,7 +134763,7 @@ exports[`Locale Provider should display the text as it 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -135865,7 +135865,7 @@ exports[`Locale Provider should display the text as it 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -137358,7 +137358,7 @@ exports[`Locale Provider should display the text as it 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle25"
@@ -137367,7 +137367,7 @@ exports[`Locale Provider should display the text as it 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -137743,7 +137743,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -138339,7 +138339,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -139785,7 +139785,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -140887,7 +140887,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -142380,7 +142380,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle26"
@@ -142389,7 +142389,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -142765,7 +142765,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -143361,7 +143361,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -144807,7 +144807,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -145909,7 +145909,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -147402,7 +147402,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle27"
@@ -147411,7 +147411,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -147787,7 +147787,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -148383,7 +148383,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -149829,7 +149829,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -150931,7 +150931,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -152424,7 +152424,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle28"
@@ -152433,7 +152433,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -152809,7 +152809,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -153405,7 +153405,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -154851,7 +154851,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -155953,7 +155953,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -157446,7 +157446,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle29"
@@ -157455,7 +157455,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -157831,7 +157831,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -158427,7 +158427,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -159873,7 +159873,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -160975,7 +160975,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -162468,7 +162468,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle30"
@@ -162477,7 +162477,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -162853,7 +162853,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -163449,7 +163449,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -164895,7 +164895,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -165997,7 +165997,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -167490,7 +167490,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle31"
@@ -167499,7 +167499,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -167875,7 +167875,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -168471,7 +168471,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -169917,7 +169917,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -171019,7 +171019,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -172512,7 +172512,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle32"
@@ -172521,7 +172521,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -172897,7 +172897,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -173493,7 +173493,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -174939,7 +174939,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -176041,7 +176041,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -177534,7 +177534,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle55"
@@ -177543,7 +177543,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -177919,7 +177919,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -178515,7 +178515,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -179961,7 +179961,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -181063,7 +181063,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -182556,7 +182556,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle33"
@@ -182565,7 +182565,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -182941,7 +182941,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -183537,7 +183537,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -184983,7 +184983,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -186085,7 +186085,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -187578,7 +187578,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle35"
@@ -187587,7 +187587,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -187963,7 +187963,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -188559,7 +188559,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -190005,7 +190005,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -191107,7 +191107,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -192600,7 +192600,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle34"
@@ -192609,7 +192609,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -192985,7 +192985,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -193581,7 +193581,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -195027,7 +195027,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -196129,7 +196129,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -197622,7 +197622,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle36"
@@ -197631,7 +197631,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -198007,7 +198007,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -198603,7 +198603,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -200049,7 +200049,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -201151,7 +201151,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -202644,7 +202644,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle37"
@@ -202653,7 +202653,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -203029,7 +203029,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -203625,7 +203625,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -205071,7 +205071,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -206173,7 +206173,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -207666,7 +207666,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle39"
@@ -207675,7 +207675,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -208051,7 +208051,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -208647,7 +208647,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -210093,7 +210093,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -211195,7 +211195,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -212688,7 +212688,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle38"
@@ -212697,7 +212697,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -213073,7 +213073,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -213669,7 +213669,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -215115,7 +215115,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -216217,7 +216217,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -217710,7 +217710,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle40"
@@ -217719,7 +217719,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -218095,7 +218095,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -218691,7 +218691,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -220137,7 +220137,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -221239,7 +221239,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -222732,7 +222732,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle42"
@@ -222741,7 +222741,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -223117,7 +223117,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -223713,7 +223713,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -225159,7 +225159,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -226261,7 +226261,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -227754,7 +227754,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle41"
@@ -227763,7 +227763,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -228139,7 +228139,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -228735,7 +228735,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -230181,7 +230181,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -231283,7 +231283,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -232776,7 +232776,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle43"
@@ -232785,7 +232785,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -233161,7 +233161,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -233757,7 +233757,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -235109,7 +235109,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                   type="button"
                 >
                   <span>
-                    Ok
+                    ОК
                   </span>
                 </button>
               </li>
@@ -235203,7 +235203,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -236305,7 +236305,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -237798,7 +237798,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle44"
@@ -237807,7 +237807,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -238183,7 +238183,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -238779,7 +238779,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -240225,7 +240225,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -241327,7 +241327,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -242820,7 +242820,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle45"
@@ -242829,7 +242829,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -243205,7 +243205,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -243801,7 +243801,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -245247,7 +245247,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -246349,7 +246349,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -247842,7 +247842,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle46"
@@ -247851,7 +247851,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -248227,7 +248227,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -248823,7 +248823,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -250269,7 +250269,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -251371,7 +251371,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -252864,7 +252864,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle47"
@@ -252873,7 +252873,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -253249,7 +253249,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -253845,7 +253845,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -255291,7 +255291,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -256393,7 +256393,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -257886,7 +257886,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle48"
@@ -257895,7 +257895,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -258271,7 +258271,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -258867,7 +258867,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -260313,7 +260313,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -261415,7 +261415,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -262908,7 +262908,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle49"
@@ -262917,7 +262917,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -263293,7 +263293,7 @@ exports[`Locale Provider should display the text as th 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -263889,7 +263889,7 @@ exports[`Locale Provider should display the text as th 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -265335,7 +265335,7 @@ exports[`Locale Provider should display the text as th 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -266437,7 +266437,7 @@ exports[`Locale Provider should display the text as th 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -267930,7 +267930,7 @@ exports[`Locale Provider should display the text as th 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle50"
@@ -267939,7 +267939,7 @@ exports[`Locale Provider should display the text as th 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -268315,7 +268315,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -268911,7 +268911,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -270357,7 +270357,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -271459,7 +271459,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -272952,7 +272952,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle51"
@@ -272961,7 +272961,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -273337,7 +273337,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -273933,7 +273933,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -275379,7 +275379,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -276481,7 +276481,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -277974,7 +277974,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle52"
@@ -277983,7 +277983,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -278359,7 +278359,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -278955,7 +278955,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -280401,7 +280401,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -281503,7 +281503,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -282996,7 +282996,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle53"
@@ -283005,7 +283005,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -283381,7 +283381,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -283977,7 +283977,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -285423,7 +285423,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -286525,7 +286525,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -288018,7 +288018,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle56"
@@ -288027,7 +288027,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -288403,7 +288403,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -288999,7 +288999,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -290445,7 +290445,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -291547,7 +291547,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -293040,7 +293040,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle57"
@@ -293049,7 +293049,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
@@ -293425,7 +293425,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -294021,7 +294021,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -295467,7 +295467,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   </div>
   <div>
     <div
-      class="ant-picker-dropdown ant-picker-dropdown-range slide-up-appear slide-up-appear-prepare slide-up"
+      class="ant-picker-dropdown ant-picker-dropdown-range ant-slide-up-appear ant-slide-up-appear-prepare ant-slide-up"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -296569,7 +296569,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
   </a>
   <div>
     <div
-      class="ant-popover ant-popconfirm zoom-big-appear zoom-big-appear-prepare zoom-big"
+      class="ant-popover ant-popconfirm ant-zoom-big-appear ant-zoom-big-appear-prepare ant-zoom-big"
       style="opacity: 0; pointer-events: none;"
     >
       <div
@@ -298062,7 +298062,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
     class="ant-modal-root"
   >
     <div
-      class="ant-modal-mask fade-appear fade-appear-start fade"
+      class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
       aria-labelledby="rcDialogTitle58"
@@ -298071,7 +298071,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       tabindex="-1"
     >
       <div
-        class="ant-modal zoom-appear zoom-appear-prepare zoom"
+        class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="document"
         style="width: 520px;"
       >
