@@ -235109,7 +235109,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                   type="button"
                 >
                   <span>
-                    Ok
+                    ОК
                   </span>
                 </button>
               </li>
