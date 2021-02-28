@@ -153369,7 +153369,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="날짜 선택"
+        placeholder="시간 선택"
         readonly=""
         size="10"
         title=""
