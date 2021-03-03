@@ -1,4 +1,4 @@
-name: PR Refuse
+name: PR Open Check
 
 on:
   pull_request_target:
@@ -8,7 +8,7 @@ jobs:
   refuse:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions-cool/pr-welcome@v1.1.1
+      - uses: actions-cool/pr-welcome@v1.1.2
         with:
           refuse-issue-label: '🎱 Collaborate PR only'
           need-creator-authority: 'write'
