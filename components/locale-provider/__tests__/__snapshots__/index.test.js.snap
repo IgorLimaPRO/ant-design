@@ -261535,7 +261535,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 element
+          0 objekt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -261549,7 +261549,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         >
           <input
             class="ant-input ant-transfer-list-search"
-            placeholder="Sök"
+            placeholder="Sök här"
             type="text"
             value=""
           />
@@ -261623,7 +261623,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             <div
               class="ant-empty-description"
             >
-              Ingen information
+              Ingen data
             </div>
           </div>
         </div>
@@ -261727,7 +261727,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 element
+          0 objekt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -261741,7 +261741,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
         >
           <input
             class="ant-input ant-transfer-list-search"
-            placeholder="Sök"
+            placeholder="Sök här"
             type="text"
             value=""
           />
@@ -261815,7 +261815,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
             <div
               class="ant-empty-description"
             >
-              Ingen information
+              Ingen data
             </div>
           </div>
         </div>
@@ -262891,7 +262891,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                         <div
                           class="ant-empty-description"
                         >
-                          Ingen information
+                          Ingen data
                         </div>
                       </div>
                     </td>
