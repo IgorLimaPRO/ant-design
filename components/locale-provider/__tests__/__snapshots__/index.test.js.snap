@@ -211251,7 +211251,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                 type="button"
               >
                 <span>
-                  Annuleren
+                  Annuleer
                 </span>
               </button>
               <button
@@ -211329,7 +211329,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         >
           <input
             class="ant-input ant-transfer-list-search"
-            placeholder="Zoeken"
+            placeholder="Zoek hier"
             type="text"
             value=""
           />
@@ -211521,7 +211521,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
         >
           <input
             class="ant-input ant-transfer-list-search"
-            placeholder="Zoeken"
+            placeholder="Zoek hier"
             type="text"
             value=""
           />
@@ -212763,7 +212763,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
               type="button"
             >
               <span>
-                Annuleren
+                Annuleer
               </span>
             </button>
             <button
