@@ -253216,7 +253216,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Izaberite datum"
+        placeholder="Izaberi datum"
         readonly=""
         size="12"
         title=""
@@ -253809,7 +253809,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Izaberite vreme"
+        placeholder="Izaberi vreme"
         readonly=""
         size="10"
         title=""
@@ -255216,7 +255216,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Početni datum"
+        placeholder="Datum početka"
         readonly=""
         size="12"
         value=""
@@ -255255,7 +255255,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Krajnji datum"
+        placeholder="Datum završetka"
         readonly=""
         size="12"
         value=""
@@ -256527,7 +256527,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         >
           <input
             class="ant-input ant-transfer-list-search"
-            placeholder="Pretražite ovde"
+            placeholder="Pretraži ovde"
             type="text"
             value=""
           />
@@ -256719,7 +256719,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
         >
           <input
             class="ant-input ant-transfer-list-search"
-            placeholder="Pretražite ovde"
+            placeholder="Pretraži ovde"
             type="text"
             value=""
           />
