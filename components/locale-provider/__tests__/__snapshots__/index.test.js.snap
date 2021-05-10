@@ -74424,7 +74424,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Alku päivä"
+        placeholder="Alkamispäivä"
         readonly=""
         size="12"
         value=""
@@ -74463,7 +74463,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Loppu päivä"
+        placeholder="Päättymispäivä"
         readonly=""
         size="12"
         value=""
