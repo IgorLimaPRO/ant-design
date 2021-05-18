@@ -110963,7 +110963,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
             <div
               class="ant-empty-description"
             >
-              No Data
+              कोई आकड़ा उपलब्ध नहीं है
             </div>
           </div>
         </div>
@@ -111155,7 +111155,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
             <div
               class="ant-empty-description"
             >
-              No Data
+              कोई आकड़ा उपलब्ध नहीं है
             </div>
           </div>
         </div>
@@ -112231,7 +112231,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
                         <div
                           class="ant-empty-description"
                         >
-                          No Data
+                          कोई आकड़ा उपलब्ध नहीं है
                         </div>
                       </div>
                     </td>
