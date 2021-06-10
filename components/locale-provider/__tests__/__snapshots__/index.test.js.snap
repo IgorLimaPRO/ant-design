@@ -41,6 +41,7 @@ exports[`Locale Provider set moment locale when locale changes 1`] = `
       </span>
       <span
         class="ant-picker-clear"
+        role="button"
       >
         <span
           aria-label="close-circle"
@@ -662,6 +663,7 @@ exports[`Locale Provider set moment locale when locale changes 2`] = `
       </span>
       <span
         class="ant-picker-clear"
+        role="button"
       >
         <span
           aria-label="close-circle"
@@ -1283,6 +1285,7 @@ exports[`Locale Provider set moment locale when locale changes 3`] = `
       </span>
       <span
         class="ant-picker-clear"
+        role="button"
       >
         <span
           aria-label="close-circle"
@@ -228008,7 +228011,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                   tabindex="-1"
                   type="button"
                 >
-                  set
+                  Set
                 </button>
               </div>
               <button
@@ -228039,25 +228042,25 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                 <thead>
                   <tr>
                     <th>
-                      do
+                      Dom
                     </th>
                     <th>
-                      2ª
+                      Seg
                     </th>
                     <th>
-                      3ª
+                      Ter
                     </th>
                     <th>
-                      4ª
+                      Qua
                     </th>
                     <th>
-                      5ª
+                      Qui
                     </th>
                     <th>
-                      6ª
+                      Sex
                     </th>
                     <th>
-                      sá
+                      Sáb
                     </th>
                   </tr>
                 </thead>
@@ -230062,7 +230065,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      set
+                      Set
                     </button>
                   </div>
                   <button
@@ -230095,25 +230098,25 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          do
+                          Dom
                         </th>
                         <th>
-                          2ª
+                          Seg
                         </th>
                         <th>
-                          3ª
+                          Ter
                         </th>
                         <th>
-                          4ª
+                          Qua
                         </th>
                         <th>
-                          5ª
+                          Qui
                         </th>
                         <th>
-                          6ª
+                          Sex
                         </th>
                         <th>
-                          sá
+                          Sáb
                         </th>
                       </tr>
                     </thead>
@@ -230600,7 +230603,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                       tabindex="-1"
                       type="button"
                     >
-                      out
+                      Out
                     </button>
                   </div>
                   <button
@@ -230631,25 +230634,25 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          do
+                          Dom
                         </th>
                         <th>
-                          2ª
+                          Seg
                         </th>
                         <th>
-                          3ª
+                          Ter
                         </th>
                         <th>
-                          4ª
+                          Qua
                         </th>
                         <th>
-                          5ª
+                          Qui
                         </th>
                         <th>
-                          6ª
+                          Sex
                         </th>
                         <th>
-                          sá
+                          Sáb
                         </th>
                       </tr>
                     </thead>
@@ -231604,9 +231607,9 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="set"
+            title="Set"
           >
-            set
+            Set
           </span>
         </div>
         <span
@@ -231696,25 +231699,25 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
             <thead>
               <tr>
                 <th>
-                  do
+                  Dom
                 </th>
                 <th>
-                  2ª
+                  Seg
                 </th>
                 <th>
-                  3ª
+                  Ter
                 </th>
                 <th>
-                  4ª
+                  Qua
                 </th>
                 <th>
-                  5ª
+                  Qui
                 </th>
                 <th>
-                  6ª
+                  Sex
                 </th>
                 <th>
-                  sá
+                  Sáb
                 </th>
               </tr>
             </thead>
