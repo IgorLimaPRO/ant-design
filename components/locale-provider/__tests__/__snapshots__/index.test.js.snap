@@ -35804,7 +35804,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                 type="button"
               >
                 <span>
-                  Ok
+                  OK
                 </span>
               </button>
             </div>
@@ -37368,7 +37368,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
               type="button"
             >
               <span>
-                Ok
+                OK
               </span>
             </button>
           </div>
@@ -242578,7 +242578,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                   type="button"
                 >
                   <span>
-                    Ok
+                    OK
                   </span>
                 </button>
               </li>
@@ -267948,7 +267948,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                   type="button"
                 >
                   <span>
-                    Ok
+                    OK
                   </span>
                 </button>
               </li>
