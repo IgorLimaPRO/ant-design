@@ -1995,6 +1995,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="مقاس الصفحه"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -2007,7 +2008,9 @@ exports[`Locale Provider should display the text as ar 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="مقاس الصفحه"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -7069,6 +7072,7 @@ exports[`Locale Provider should display the text as az 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -7081,7 +7085,9 @@ exports[`Locale Provider should display the text as az 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -12143,6 +12149,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -12155,7 +12162,9 @@ exports[`Locale Provider should display the text as bg 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -17217,6 +17226,7 @@ exports[`Locale Provider should display the text as bn-bd 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="পাতার আকার"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -17229,7 +17239,9 @@ exports[`Locale Provider should display the text as bn-bd 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="পাতার আকার"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -22291,6 +22303,7 @@ exports[`Locale Provider should display the text as by 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="памер старонкі"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -22303,7 +22316,9 @@ exports[`Locale Provider should display the text as by 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="памер старонкі"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -27365,6 +27380,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="mida de la pàgina"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -27377,7 +27393,9 @@ exports[`Locale Provider should display the text as ca 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="mida de la pàgina"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -32439,6 +32457,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="velikost stránky"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -32451,7 +32470,9 @@ exports[`Locale Provider should display the text as cs 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="velikost stránky"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -37513,6 +37534,7 @@ exports[`Locale Provider should display the text as da 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="sidestørrelse"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -37525,7 +37547,9 @@ exports[`Locale Provider should display the text as da 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="sidestørrelse"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -42587,6 +42611,7 @@ exports[`Locale Provider should display the text as de 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -42599,7 +42624,9 @@ exports[`Locale Provider should display the text as de 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -47661,6 +47688,7 @@ exports[`Locale Provider should display the text as el 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Μέγεθος σελίδας"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -47673,7 +47701,9 @@ exports[`Locale Provider should display the text as el 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Μέγεθος σελίδας"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -52735,6 +52765,7 @@ exports[`Locale Provider should display the text as en 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -52747,7 +52778,9 @@ exports[`Locale Provider should display the text as en 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -57809,6 +57842,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -57821,7 +57855,9 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -62883,6 +62919,7 @@ exports[`Locale Provider should display the text as es 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="tamaño de página"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -62895,7 +62932,9 @@ exports[`Locale Provider should display the text as es 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="tamaño de página"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -67957,6 +67996,7 @@ exports[`Locale Provider should display the text as et 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="lehe suurus"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -67969,7 +68009,9 @@ exports[`Locale Provider should display the text as et 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="lehe suurus"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -73031,6 +73073,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="اندازه صفحه"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -73043,7 +73086,9 @@ exports[`Locale Provider should display the text as fa 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="اندازه صفحه"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -78105,6 +78150,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -78117,7 +78163,9 @@ exports[`Locale Provider should display the text as fi 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -83179,6 +83227,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -83191,7 +83240,9 @@ exports[`Locale Provider should display the text as fr 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -88253,6 +88304,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="taille de la page"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -88265,7 +88317,9 @@ exports[`Locale Provider should display the text as fr 2`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="taille de la page"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -93327,6 +93381,7 @@ exports[`Locale Provider should display the text as fr 3`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="taille de la page"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -93339,7 +93394,9 @@ exports[`Locale Provider should display the text as fr 3`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="taille de la page"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -98401,6 +98458,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -98413,7 +98471,9 @@ exports[`Locale Provider should display the text as ga 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -103475,6 +103535,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -103487,7 +103548,9 @@ exports[`Locale Provider should display the text as gl 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -108549,6 +108612,7 @@ exports[`Locale Provider should display the text as he 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -108561,7 +108625,9 @@ exports[`Locale Provider should display the text as he 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -113623,6 +113689,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -113635,7 +113702,9 @@ exports[`Locale Provider should display the text as hi 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -118697,6 +118766,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -118709,7 +118779,9 @@ exports[`Locale Provider should display the text as hr 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -123771,6 +123843,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -123783,7 +123856,9 @@ exports[`Locale Provider should display the text as hu 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -128845,6 +128920,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -128857,7 +128933,9 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -133919,6 +133997,7 @@ exports[`Locale Provider should display the text as id 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="ukuran halaman"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -133931,7 +134010,9 @@ exports[`Locale Provider should display the text as id 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="ukuran halaman"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -138993,6 +139074,7 @@ exports[`Locale Provider should display the text as is 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -139005,7 +139087,9 @@ exports[`Locale Provider should display the text as is 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -144067,6 +144151,7 @@ exports[`Locale Provider should display the text as it 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="dimensioni della pagina"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -144079,7 +144164,9 @@ exports[`Locale Provider should display the text as it 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="dimensioni della pagina"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -149141,6 +149228,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="ページサイズ"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -149153,7 +149241,9 @@ exports[`Locale Provider should display the text as ja 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="ページサイズ"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -154215,6 +154305,7 @@ exports[`Locale Provider should display the text as ka 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -154227,7 +154318,9 @@ exports[`Locale Provider should display the text as ka 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -159289,6 +159382,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -159301,7 +159395,9 @@ exports[`Locale Provider should display the text as kk 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -164363,6 +164459,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -164375,7 +164472,9 @@ exports[`Locale Provider should display the text as kn 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -169437,6 +169536,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="페이지 크기"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -169449,7 +169549,9 @@ exports[`Locale Provider should display the text as ko 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="페이지 크기"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -174511,6 +174613,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -174523,7 +174626,9 @@ exports[`Locale Provider should display the text as ku 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -179585,6 +179690,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -179597,7 +179703,9 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -184659,6 +184767,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -184671,7 +184780,9 @@ exports[`Locale Provider should display the text as lt 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -189733,6 +189844,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -189745,7 +189857,9 @@ exports[`Locale Provider should display the text as lv 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -194807,6 +194921,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -194819,7 +194934,9 @@ exports[`Locale Provider should display the text as mk 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -199881,6 +199998,7 @@ exports[`Locale Provider should display the text as ml 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -199893,7 +200011,9 @@ exports[`Locale Provider should display the text as ml 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -204955,6 +205075,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -204967,7 +205088,9 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -210029,6 +210152,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -210041,7 +210165,9 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -215103,6 +215229,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="sidestørrelse"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -215115,7 +215242,9 @@ exports[`Locale Provider should display the text as nb 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="sidestørrelse"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -220177,6 +220306,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -220189,7 +220319,9 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -225251,6 +225383,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="pagina grootte"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -225263,7 +225396,9 @@ exports[`Locale Provider should display the text as nl 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="pagina grootte"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -230325,6 +230460,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -230337,7 +230473,9 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -235399,6 +235537,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="rozmiar strony"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -235411,7 +235550,9 @@ exports[`Locale Provider should display the text as pl 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="rozmiar strony"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -240473,6 +240614,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="mărimea paginii"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -240485,7 +240627,9 @@ exports[`Locale Provider should display the text as pt 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="mărimea paginii"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -245547,6 +245691,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="tamanho da página"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -245559,7 +245704,9 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="tamanho da página"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -250621,6 +250768,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -250633,7 +250781,9 @@ exports[`Locale Provider should display the text as ro 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -255695,6 +255845,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="размер страницы"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -255707,7 +255858,9 @@ exports[`Locale Provider should display the text as ru 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="размер страницы"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -260769,6 +260922,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -260781,7 +260935,9 @@ exports[`Locale Provider should display the text as sk 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -265843,6 +265999,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -265855,7 +266012,9 @@ exports[`Locale Provider should display the text as sl 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -270917,6 +271076,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -270929,7 +271089,9 @@ exports[`Locale Provider should display the text as sr 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -275991,6 +276153,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="sidstorlek"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -276003,7 +276166,9 @@ exports[`Locale Provider should display the text as sv 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="sidstorlek"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -281065,6 +281230,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -281077,7 +281243,9 @@ exports[`Locale Provider should display the text as ta 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -286139,6 +286307,7 @@ exports[`Locale Provider should display the text as th 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="ขนาดหน้า"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -286151,7 +286320,9 @@ exports[`Locale Provider should display the text as th 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="ขนาดหน้า"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -291213,6 +291384,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="sayfa boyutu"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -291225,7 +291397,9 @@ exports[`Locale Provider should display the text as tr 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="sayfa boyutu"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -296287,6 +296461,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -296299,7 +296474,9 @@ exports[`Locale Provider should display the text as uk 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -301361,6 +301538,7 @@ exports[`Locale Provider should display the text as ur 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="Page Size"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -301373,7 +301551,9 @@ exports[`Locale Provider should display the text as ur 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="Page Size"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -306435,6 +306615,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="kích thước trang"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -306447,7 +306628,9 @@ exports[`Locale Provider should display the text as vi 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="kích thước trang"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -311509,6 +311692,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="页码"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -311521,7 +311705,9 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="页码"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -316583,6 +316769,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="頁碼"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -316595,7 +316782,9 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="頁碼"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
@@ -321657,6 +321846,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
       class="ant-pagination-options"
     >
       <div
+        aria-label="頁碼"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
       >
         <div
@@ -321669,7 +321859,9 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
               aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
               aria-autocomplete="list"
               aria-controls="rc_select_TEST_OR_SSR_list"
+              aria-expanded="false"
               aria-haspopup="listbox"
+              aria-label="頁碼"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
