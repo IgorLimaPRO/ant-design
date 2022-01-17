@@ -167819,7 +167819,7 @@ exports[`Locale Provider should display the text as km 1`] = `
                 type="button"
               >
                 <span>
-                  យល់ព្រម
+                  បោះបង់
                 </span>
               </button>
               <button
@@ -169383,7 +169383,7 @@ exports[`Locale Provider should display the text as km 1`] = `
               type="button"
             >
               <span>
-                យល់ព្រម
+                បោះបង់
               </span>
             </button>
             <button
