@@ -246411,25 +246411,25 @@ exports[`Locale Provider should display the text as pt 1`] = `
                 <thead>
                   <tr>
                     <th>
-                      2ª
+                      Seg
                     </th>
                     <th>
-                      3ª
+                      Ter
                     </th>
                     <th>
-                      4ª
+                      Qua
                     </th>
                     <th>
-                      5ª
+                      Qui
                     </th>
                     <th>
-                      6ª
+                      Sex
                     </th>
                     <th>
-                      Sá
+                      Sáb
                     </th>
                     <th>
-                      Do
+                      Dom
                     </th>
                   </tr>
                 </thead>
@@ -248467,25 +248467,25 @@ exports[`Locale Provider should display the text as pt 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          2ª
+                          Seg
                         </th>
                         <th>
-                          3ª
+                          Ter
                         </th>
                         <th>
-                          4ª
+                          Qua
                         </th>
                         <th>
-                          5ª
+                          Qui
                         </th>
                         <th>
-                          6ª
+                          Sex
                         </th>
                         <th>
-                          Sá
+                          Sáb
                         </th>
                         <th>
-                          Do
+                          Dom
                         </th>
                       </tr>
                     </thead>
@@ -249003,25 +249003,25 @@ exports[`Locale Provider should display the text as pt 1`] = `
                     <thead>
                       <tr>
                         <th>
-                          2ª
+                          Seg
                         </th>
                         <th>
-                          3ª
+                          Ter
                         </th>
                         <th>
-                          4ª
+                          Qua
                         </th>
                         <th>
-                          5ª
+                          Qui
                         </th>
                         <th>
-                          6ª
+                          Sex
                         </th>
                         <th>
-                          Sá
+                          Sáb
                         </th>
                         <th>
-                          Do
+                          Dom
                         </th>
                       </tr>
                     </thead>
@@ -250042,9 +250042,9 @@ exports[`Locale Provider should display the text as pt 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="set"
+            title="Set"
           >
-            set
+            Set
           </span>
         </div>
         <span
@@ -250134,25 +250134,25 @@ exports[`Locale Provider should display the text as pt 1`] = `
             <thead>
               <tr>
                 <th>
-                  2ª
+                  Seg
                 </th>
                 <th>
-                  3ª
+                  Ter
                 </th>
                 <th>
-                  4ª
+                  Qua
                 </th>
                 <th>
-                  5ª
+                  Qui
                 </th>
                 <th>
-                  6ª
+                  Sex
                 </th>
                 <th>
-                  Sá
+                  Sáb
                 </th>
                 <th>
-                  Do
+                  Dom
                 </th>
               </tr>
             </thead>
