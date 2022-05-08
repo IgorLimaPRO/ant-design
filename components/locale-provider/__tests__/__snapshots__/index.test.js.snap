@@ -61497,7 +61497,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             <div
               class="ant-empty-description"
             >
-              No data
+              No Data
             </div>
           </div>
         </div>
@@ -61722,7 +61722,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
             <div
               class="ant-empty-description"
             >
-              No data
+              No Data
             </div>
           </div>
         </div>
@@ -62794,7 +62794,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                         <div
                           class="ant-empty-description"
                         >
-                          No data
+                          No Data
                         </div>
                       </div>
                     </td>
