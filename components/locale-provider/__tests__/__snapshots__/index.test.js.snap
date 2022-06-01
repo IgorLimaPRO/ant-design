@@ -301903,11 +301903,11 @@ exports[`Locale Provider should display the text as tk 1`] = `
       class="ant-modal-mask ant-fade-appear ant-fade-appear-start ant-fade"
     />
     <div
-      aria-labelledby="test-id"
       class="ant-modal-wrap"
       tabindex="-1"
     >
       <div
+        aria-labelledby="test-id"
         aria-modal="true"
         class="ant-modal ant-zoom-appear ant-zoom-appear-prepare ant-zoom"
         role="dialog"
