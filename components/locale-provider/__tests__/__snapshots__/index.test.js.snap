@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Locale Provider set moment locale when locale changes 1`] = `
+exports[`Locale Provider set dayjs locale when locale changes 1`] = `
 <div>
   <div
     class="ant-picker"
@@ -622,7 +622,7 @@ exports[`Locale Provider set moment locale when locale changes 1`] = `
 </div>
 `;
 
-exports[`Locale Provider set moment locale when locale changes 2`] = `
+exports[`Locale Provider set dayjs locale when locale changes 2`] = `
 <div>
   <div
     class="ant-picker"
@@ -1244,7 +1244,7 @@ exports[`Locale Provider set moment locale when locale changes 2`] = `
 </div>
 `;
 
-exports[`Locale Provider set moment locale when locale changes 3`] = `
+exports[`Locale Provider set dayjs locale when locale changes 3`] = `
 <div>
   <div
     class="ant-picker"
