@@ -24470,7 +24470,7 @@ exports[`Locale Provider should display the text as by 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Пачатковая дата"
+        placeholder="Дата пачатку"
         readonly=""
         size="12"
         value=""
@@ -24509,7 +24509,7 @@ exports[`Locale Provider should display the text as by 1`] = `
     >
       <input
         autocomplete="off"
-        placeholder="Канчатковая дата"
+        placeholder="Дата заканчэння"
         readonly=""
         size="12"
         value=""
@@ -25888,7 +25888,7 @@ exports[`Locale Provider should display the text as by 1`] = `
             <div
               class="ant-empty-description"
             >
-              Няма дадзеных
+              Няма даных
             </div>
           </div>
         </div>
@@ -26113,7 +26113,7 @@ exports[`Locale Provider should display the text as by 1`] = `
             <div
               class="ant-empty-description"
             >
-              Няма дадзеных
+              Няма даных
             </div>
           </div>
         </div>
@@ -27185,7 +27185,7 @@ exports[`Locale Provider should display the text as by 1`] = `
                         <div
                           class="ant-empty-description"
                         >
-                          Няма дадзеных
+                          Няма даных
                         </div>
                       </div>
                     </td>
