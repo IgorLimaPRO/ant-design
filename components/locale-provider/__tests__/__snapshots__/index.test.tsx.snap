@@ -5419,7 +5419,8 @@ exports[`Locale Provider should display the text as ar 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 عنصر
+          0
+          عنصر
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -5644,7 +5645,8 @@ exports[`Locale Provider should display the text as ar 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 عنصر
+          0
+          عنصر
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -10506,7 +10508,8 @@ exports[`Locale Provider should display the text as az 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -10731,7 +10734,8 @@ exports[`Locale Provider should display the text as az 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -15593,7 +15597,8 @@ exports[`Locale Provider should display the text as bg 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 избор
+          0
+          избор
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -15818,7 +15823,8 @@ exports[`Locale Provider should display the text as bg 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 избор
+          0
+          избор
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -20680,7 +20686,8 @@ exports[`Locale Provider should display the text as bn-bd 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 আইটেম
+          0
+          আইটেম
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -20905,7 +20912,8 @@ exports[`Locale Provider should display the text as bn-bd 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 আইটেম
+          0
+          আইটেম
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -25767,7 +25775,8 @@ exports[`Locale Provider should display the text as by 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 элем.
+          0
+          элем.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -25992,7 +26001,8 @@ exports[`Locale Provider should display the text as by 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 элем.
+          0
+          элем.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -30854,7 +30864,8 @@ exports[`Locale Provider should display the text as ca 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ítem
+          0
+          ítem
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -31079,7 +31090,8 @@ exports[`Locale Provider should display the text as ca 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ítem
+          0
+          ítem
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -35941,7 +35953,8 @@ exports[`Locale Provider should display the text as cs 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 položka
+          0
+          položka
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -36166,7 +36179,8 @@ exports[`Locale Provider should display the text as cs 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 položka
+          0
+          položka
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -41028,7 +41042,8 @@ exports[`Locale Provider should display the text as da 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 element
+          0
+          element
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -41253,7 +41268,8 @@ exports[`Locale Provider should display the text as da 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 element
+          0
+          element
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -46115,7 +46131,8 @@ exports[`Locale Provider should display the text as de 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 Eintrag
+          0
+          Eintrag
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -46340,7 +46357,8 @@ exports[`Locale Provider should display the text as de 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 Eintrag
+          0
+          Eintrag
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -51202,7 +51220,8 @@ exports[`Locale Provider should display the text as el 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 αντικείμενο
+          0
+          αντικείμενο
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -51427,7 +51446,8 @@ exports[`Locale Provider should display the text as el 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 αντικείμενο
+          0
+          αντικείμενο
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -56289,7 +56309,8 @@ exports[`Locale Provider should display the text as en 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -56514,7 +56535,8 @@ exports[`Locale Provider should display the text as en 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -61376,7 +61398,8 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -61601,7 +61624,8 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -66463,7 +66487,8 @@ exports[`Locale Provider should display the text as es 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elemento
+          0
+          elemento
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -66688,7 +66713,8 @@ exports[`Locale Provider should display the text as es 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elemento
+          0
+          elemento
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -71550,7 +71576,8 @@ exports[`Locale Provider should display the text as et 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 kogus
+          0
+          kogus
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -71775,7 +71802,8 @@ exports[`Locale Provider should display the text as et 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 kogus
+          0
+          kogus
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -76637,7 +76665,8 @@ exports[`Locale Provider should display the text as fa 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 عدد
+          0
+          عدد
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -76862,7 +76891,8 @@ exports[`Locale Provider should display the text as fa 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 عدد
+          0
+          عدد
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -81724,7 +81754,8 @@ exports[`Locale Provider should display the text as fi 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 kohde
+          0
+          kohde
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -81949,7 +81980,8 @@ exports[`Locale Provider should display the text as fi 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 kohde
+          0
+          kohde
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -86811,7 +86843,8 @@ exports[`Locale Provider should display the text as fr 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 élément
+          0
+          élément
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -87036,7 +87069,8 @@ exports[`Locale Provider should display the text as fr 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 élément
+          0
+          élément
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -91898,7 +91932,8 @@ exports[`Locale Provider should display the text as fr 2`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 élément
+          0
+          élément
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -92123,7 +92158,8 @@ exports[`Locale Provider should display the text as fr 2`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 élément
+          0
+          élément
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -96985,7 +97021,8 @@ exports[`Locale Provider should display the text as fr 3`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 élément
+          0
+          élément
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -97210,7 +97247,8 @@ exports[`Locale Provider should display the text as fr 3`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 élément
+          0
+          élément
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -102072,7 +102110,8 @@ exports[`Locale Provider should display the text as ga 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -102297,7 +102336,8 @@ exports[`Locale Provider should display the text as ga 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -107159,7 +107199,8 @@ exports[`Locale Provider should display the text as gl 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elemento
+          0
+          elemento
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -107384,7 +107425,8 @@ exports[`Locale Provider should display the text as gl 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elemento
+          0
+          elemento
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -112246,7 +112288,8 @@ exports[`Locale Provider should display the text as he 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 פריט
+          0
+          פריט
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -112471,7 +112514,8 @@ exports[`Locale Provider should display the text as he 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 פריט
+          0
+          פריט
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -117333,7 +117377,8 @@ exports[`Locale Provider should display the text as hi 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 तत्त्व
+          0
+          तत्त्व
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -117558,7 +117603,8 @@ exports[`Locale Provider should display the text as hi 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 तत्त्व
+          0
+          तत्त्व
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -122420,7 +122466,8 @@ exports[`Locale Provider should display the text as hr 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 stavka
+          0
+          stavka
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -122645,7 +122692,8 @@ exports[`Locale Provider should display the text as hr 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 stavka
+          0
+          stavka
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -127507,7 +127555,8 @@ exports[`Locale Provider should display the text as hu 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elem
+          0
+          elem
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -127732,7 +127781,8 @@ exports[`Locale Provider should display the text as hu 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elem
+          0
+          elem
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -132594,7 +132644,8 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 պարագան
+          0
+          պարագան
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -132819,7 +132870,8 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 պարագան
+          0
+          պարագան
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -137681,7 +137733,8 @@ exports[`Locale Provider should display the text as id 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -137906,7 +137959,8 @@ exports[`Locale Provider should display the text as id 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -142768,7 +142822,8 @@ exports[`Locale Provider should display the text as is 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 færsla
+          0
+          færsla
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -142993,7 +143048,8 @@ exports[`Locale Provider should display the text as is 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 færsla
+          0
+          færsla
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -147855,7 +147911,8 @@ exports[`Locale Provider should display the text as it 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elemento
+          0
+          elemento
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -148080,7 +148137,8 @@ exports[`Locale Provider should display the text as it 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elemento
+          0
+          elemento
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -152942,7 +153000,8 @@ exports[`Locale Provider should display the text as ja 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 アイテム
+          0
+          アイテム
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -153167,7 +153226,8 @@ exports[`Locale Provider should display the text as ja 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 アイテム
+          0
+          アイテム
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -158029,7 +158089,8 @@ exports[`Locale Provider should display the text as ka 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ერთეული
+          0
+          ერთეული
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -158254,7 +158315,8 @@ exports[`Locale Provider should display the text as ka 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ერთეული
+          0
+          ერთეული
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -163116,7 +163178,8 @@ exports[`Locale Provider should display the text as kk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 элемент.
+          0
+          элемент.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -163341,7 +163404,8 @@ exports[`Locale Provider should display the text as kk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 элемент.
+          0
+          элемент.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -168203,7 +168267,7 @@ exports[`Locale Provider should display the text as km 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 
+          0
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -168428,7 +168492,7 @@ exports[`Locale Provider should display the text as km 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 
+          0
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -173290,7 +173354,8 @@ exports[`Locale Provider should display the text as kn 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ವಿಷಯ
+          0
+          ವಿಷಯ
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -173515,7 +173580,8 @@ exports[`Locale Provider should display the text as kn 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ವಿಷಯ
+          0
+          ವಿಷಯ
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -178377,7 +178443,8 @@ exports[`Locale Provider should display the text as ko 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 개
+          0
+          개
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -178602,7 +178669,8 @@ exports[`Locale Provider should display the text as ko 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 개
+          0
+          개
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -183464,7 +183532,8 @@ exports[`Locale Provider should display the text as ku 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 tişt
+          0
+          tişt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -183689,7 +183758,8 @@ exports[`Locale Provider should display the text as ku 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 tişt
+          0
+          tişt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -188551,7 +188621,8 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 tişt
+          0
+          tişt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -188776,7 +188847,8 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 tişt
+          0
+          tişt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -193638,7 +193710,8 @@ exports[`Locale Provider should display the text as lt 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 vnt.
+          0
+          vnt.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -193863,7 +193936,8 @@ exports[`Locale Provider should display the text as lt 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 vnt.
+          0
+          vnt.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -198725,7 +198799,8 @@ exports[`Locale Provider should display the text as lv 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 vienumu
+          0
+          vienumu
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -198950,7 +199025,8 @@ exports[`Locale Provider should display the text as lv 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 vienumu
+          0
+          vienumu
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -203812,7 +203888,8 @@ exports[`Locale Provider should display the text as mk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 предмет
+          0
+          предмет
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -204037,7 +204114,8 @@ exports[`Locale Provider should display the text as mk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 предмет
+          0
+          предмет
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -208899,7 +208977,8 @@ exports[`Locale Provider should display the text as ml 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ഇനം
+          0
+          ഇനം
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -209124,7 +209203,8 @@ exports[`Locale Provider should display the text as ml 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ഇനം
+          0
+          ഇനം
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -213986,7 +214066,8 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 Зүйл
+          0
+          Зүйл
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -214211,7 +214292,8 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 Зүйл
+          0
+          Зүйл
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -219073,7 +219155,8 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -219298,7 +219381,8 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -224160,7 +224244,8 @@ exports[`Locale Provider should display the text as nb 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 element
+          0
+          element
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -224385,7 +224470,8 @@ exports[`Locale Provider should display the text as nb 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 element
+          0
+          element
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -229247,7 +229333,8 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 वस्तु
+          0
+          वस्तु
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -229472,7 +229559,8 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 वस्तु
+          0
+          वस्तु
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -234334,7 +234422,8 @@ exports[`Locale Provider should display the text as nl 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -234559,7 +234648,8 @@ exports[`Locale Provider should display the text as nl 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -239421,7 +239511,8 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -239646,7 +239737,8 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -244508,7 +244600,8 @@ exports[`Locale Provider should display the text as pl 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 obiekt
+          0
+          obiekt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -244733,7 +244826,8 @@ exports[`Locale Provider should display the text as pl 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 obiekt
+          0
+          obiekt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -249595,7 +249689,8 @@ exports[`Locale Provider should display the text as pt 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -249820,7 +249915,8 @@ exports[`Locale Provider should display the text as pt 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -254682,7 +254778,8 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -254907,7 +255004,8 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 item
+          0
+          item
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -259769,7 +259867,8 @@ exports[`Locale Provider should display the text as ro 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 element
+          0
+          element
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -259994,7 +260093,8 @@ exports[`Locale Provider should display the text as ro 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 element
+          0
+          element
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -264856,7 +264956,8 @@ exports[`Locale Provider should display the text as ru 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 элем.
+          0
+          элем.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -265081,7 +265182,8 @@ exports[`Locale Provider should display the text as ru 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 элем.
+          0
+          элем.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -269943,7 +270045,8 @@ exports[`Locale Provider should display the text as si 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 අථකය
+          0
+          අථකය
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -270168,7 +270271,8 @@ exports[`Locale Provider should display the text as si 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 අථකය
+          0
+          අථකය
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -275030,7 +275134,8 @@ exports[`Locale Provider should display the text as sk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 položka
+          0
+          položka
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -275255,7 +275360,8 @@ exports[`Locale Provider should display the text as sk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 položka
+          0
+          položka
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -280117,7 +280223,8 @@ exports[`Locale Provider should display the text as sl 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 Objekt
+          0
+          Objekt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -280342,7 +280449,8 @@ exports[`Locale Provider should display the text as sl 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 Objekt
+          0
+          Objekt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -285204,7 +285312,8 @@ exports[`Locale Provider should display the text as sr 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 stavka
+          0
+          stavka
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -285429,7 +285538,8 @@ exports[`Locale Provider should display the text as sr 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 stavka
+          0
+          stavka
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -290291,7 +290401,8 @@ exports[`Locale Provider should display the text as sv 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 objekt
+          0
+          objekt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -290516,7 +290627,8 @@ exports[`Locale Provider should display the text as sv 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 objekt
+          0
+          objekt
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -295378,7 +295490,8 @@ exports[`Locale Provider should display the text as ta 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 தகவல்
+          0
+          தகவல்
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -295603,7 +295716,8 @@ exports[`Locale Provider should display the text as ta 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 தகவல்
+          0
+          தகவல்
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -300465,7 +300579,8 @@ exports[`Locale Provider should display the text as th 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ชิ้น
+          0
+          ชิ้น
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -300690,7 +300805,8 @@ exports[`Locale Provider should display the text as th 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 ชิ้น
+          0
+          ชิ้น
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -305552,7 +305668,8 @@ exports[`Locale Provider should display the text as tk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elem.
+          0
+          elem.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -305777,7 +305894,8 @@ exports[`Locale Provider should display the text as tk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 elem.
+          0
+          elem.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -310639,7 +310757,8 @@ exports[`Locale Provider should display the text as tr 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 Öğe
+          0
+          Öğe
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -310864,7 +310983,8 @@ exports[`Locale Provider should display the text as tr 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 Öğe
+          0
+          Öğe
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -315726,7 +315846,8 @@ exports[`Locale Provider should display the text as uk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 елем.
+          0
+          елем.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -315951,7 +316072,8 @@ exports[`Locale Provider should display the text as uk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 елем.
+          0
+          елем.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -320813,7 +320935,8 @@ exports[`Locale Provider should display the text as ur 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 شے
+          0
+          شے
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -321038,7 +321161,8 @@ exports[`Locale Provider should display the text as ur 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 شے
+          0
+          شے
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -325900,7 +326024,8 @@ exports[`Locale Provider should display the text as vi 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 mục
+          0
+          mục
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -326125,7 +326250,8 @@ exports[`Locale Provider should display the text as vi 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 mục
+          0
+          mục
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -330987,7 +331113,8 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 项
+          0
+          项
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -331212,7 +331339,8 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 项
+          0
+          项
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -336074,7 +336202,8 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 項目
+          0
+          項目
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -336299,7 +336428,8 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 項目
+          0
+          項目
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -341161,7 +341291,8 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 項目
+          0
+          項目
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -341386,7 +341517,8 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
         <span
           class="ant-transfer-list-header-selected"
         >
-          0 項目
+          0
+          項目
         </span>
         <span
           class="ant-transfer-list-header-title"
