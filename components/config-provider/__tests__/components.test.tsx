@@ -37,12 +37,14 @@ import Radio from '../../radio';
 import Rate from '../../rate';
 import Select from '../../select';
 import Skeleton from '../../skeleton';
+import type { SliderTooltipProps } from '../../slider';
 import Slider from '../../slider';
 // eslint-disable-next-line import/no-named-as-default
 import Spin from '../../spin';
 import Statistic from '../../statistic';
 import Steps from '../../steps';
 import Switch from '../../switch';
+import type { ColumnsType } from '../../table';
 import Table from '../../table';
 import Tabs from '../../tabs';
 import Tag from '../../tag';
@@ -60,19 +62,19 @@ jest.mock('rc-util/lib/Portal');
 
 describe('ConfigProvider', () => {
   describe('components', () => {
-    function testPair(name, renderComponent) {
+    function testPair(name: string, renderComponent: (props?: any) => React.ReactElement): void {
       const isArray = ['Menu', 'TimePicker', 'Tooltip'].includes(name);
       describe(`${name}`, () => {
         // normal
         it('normal', () => {
           const { container } = render(renderComponent({}));
-          expect(isArray ? Array.from(container.children) : container.firstChild).toMatchSnapshot();
+          expect(isArray ? container.children : container.firstChild).toMatchSnapshot();
         });
 
         // prefixCls
         it('prefixCls', () => {
           const { container } = render(renderComponent({ prefixCls: `prefix-${name}` }));
-          expect(isArray ? Array.from(container.children) : container.firstChild).toMatchSnapshot();
+          expect(isArray ? container.children : container.firstChild).toMatchSnapshot();
         });
 
         // configProvider
@@ -82,7 +84,7 @@ describe('ConfigProvider', () => {
               {renderComponent({})}
             </ConfigProvider>,
           );
-          expect(isArray ? Array.from(container.children) : container.firstChild).toMatchSnapshot();
+          expect(isArray ? container.children : container.firstChild).toMatchSnapshot();
         });
 
         it('configProvider componentSize large', () => {
@@ -91,7 +93,7 @@ describe('ConfigProvider', () => {
               {renderComponent({})}
             </ConfigProvider>,
           );
-          expect(isArray ? Array.from(container.children) : container.firstChild).toMatchSnapshot();
+          expect(isArray ? container.children : container.firstChild).toMatchSnapshot();
         });
 
         it('configProvider componentSize middle', () => {
@@ -100,7 +102,7 @@ describe('ConfigProvider', () => {
               {renderComponent({})}
             </ConfigProvider>,
           );
-          expect(isArray ? Array.from(container.children) : container.firstChild).toMatchSnapshot();
+          expect(isArray ? container.children : container.firstChild).toMatchSnapshot();
         });
 
         it('configProvider componentDisabled', () => {
@@ -109,7 +111,7 @@ describe('ConfigProvider', () => {
               {renderComponent({})}
             </ConfigProvider>,
           );
-          expect(isArray ? Array.from(container.children) : container.firstChild).toMatchSnapshot();
+          expect(isArray ? container.children : container.firstChild).toMatchSnapshot();
         });
 
         it('configProvider virtual and dropdownMatchSelectWidth', () => {
@@ -118,7 +120,7 @@ describe('ConfigProvider', () => {
               {renderComponent({})}
             </ConfigProvider>,
           );
-          expect(isArray ? Array.from(container.children) : container.firstChild).toMatchSnapshot();
+          expect(isArray ? container.children : container.firstChild).toMatchSnapshot();
         });
       });
     }
@@ -297,8 +299,8 @@ describe('ConfigProvider', () => {
 
     // Grid
     testPair('Grid', props => {
-      const rowProps = {};
-      const colProps = {};
+      const rowProps: { prefixCls?: string } = {};
+      const colProps: { prefixCls?: string } = {};
       if (props.prefixCls) {
         rowProps.prefixCls = 'prefix-row';
         colProps.prefixCls = 'prefix-col';
@@ -328,10 +330,10 @@ describe('ConfigProvider', () => {
 
     // Layout
     testPair('Layout', props => {
-      const siderProps = {};
-      const headerProps = {};
-      const contentProps = {};
-      const footerProps = {};
+      const siderProps: { prefixCls?: string } = {};
+      const headerProps: { prefixCls?: string } = {};
+      const contentProps: { prefixCls?: string } = {};
+      const footerProps: { prefixCls?: string } = {};
       if (props.prefixCls) {
         siderProps.prefixCls = 'prefix-sider';
         headerProps.prefixCls = 'prefix-header';
@@ -451,7 +453,7 @@ describe('ConfigProvider', () => {
     // Slider
     testPair('Slider', props => {
       const myProps = { ...props };
-      const tooltip = {
+      const tooltip: SliderTooltipProps = {
         open: true,
       };
 
@@ -485,7 +487,7 @@ describe('ConfigProvider', () => {
 
     // Table
     testPair('Table', props => {
-      const columns = [
+      const columns: ColumnsType<any> = [
         {
           title: 'Name',
           dataIndex: 'name',
