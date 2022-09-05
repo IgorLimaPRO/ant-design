@@ -35871,7 +35871,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                 type="button"
               >
                 <span>
-                  Storno
+                  Zrušit
                 </span>
               </button>
               <button
@@ -37444,7 +37444,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
               type="button"
             >
               <span>
-                Storno
+                Zrušit
               </span>
             </button>
             <button
