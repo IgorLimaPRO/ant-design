@@ -10630,7 +10630,7 @@ exports[`Locale Provider should display the text as az 1`] = `
             <div
               class="ant-empty-description"
             >
-              No Data
+              No data
             </div>
           </div>
         </div>
@@ -10856,7 +10856,7 @@ exports[`Locale Provider should display the text as az 1`] = `
             <div
               class="ant-empty-description"
             >
-              No Data
+              No data
             </div>
           </div>
         </div>
@@ -11928,7 +11928,7 @@ exports[`Locale Provider should display the text as az 1`] = `
                         <div
                           class="ant-empty-description"
                         >
-                          No Data
+                          No data
                         </div>
                       </div>
                     </td>
@@ -56431,7 +56431,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             <div
               class="ant-empty-description"
             >
-              No Data
+              No data
             </div>
           </div>
         </div>
@@ -56657,7 +56657,7 @@ exports[`Locale Provider should display the text as en 1`] = `
             <div
               class="ant-empty-description"
             >
-              No Data
+              No data
             </div>
           </div>
         </div>
@@ -57729,7 +57729,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                         <div
                           class="ant-empty-description"
                         >
-                          No Data
+                          No data
                         </div>
                       </div>
                     </td>
@@ -173476,7 +173476,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
             <div
               class="ant-empty-description"
             >
-              No Data
+              No data
             </div>
           </div>
         </div>
@@ -173702,7 +173702,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
             <div
               class="ant-empty-description"
             >
-              No Data
+              No data
             </div>
           </div>
         </div>
@@ -174774,7 +174774,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
                         <div
                           class="ant-empty-description"
                         >
-                          No Data
+                          No data
                         </div>
                       </div>
                     </td>
