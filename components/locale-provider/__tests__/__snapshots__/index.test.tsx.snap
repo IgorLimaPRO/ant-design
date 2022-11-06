@@ -1870,7 +1870,6 @@ exports[`Locale Provider should display the text as ar 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -6963,7 +6962,6 @@ exports[`Locale Provider should display the text as az 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -12056,7 +12054,6 @@ exports[`Locale Provider should display the text as bg 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -17149,7 +17146,6 @@ exports[`Locale Provider should display the text as bn-bd 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -22242,7 +22238,6 @@ exports[`Locale Provider should display the text as by 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -27335,7 +27330,6 @@ exports[`Locale Provider should display the text as ca 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -32428,7 +32422,6 @@ exports[`Locale Provider should display the text as cs 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -37521,7 +37514,6 @@ exports[`Locale Provider should display the text as da 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -42614,7 +42606,6 @@ exports[`Locale Provider should display the text as de 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -47707,7 +47698,6 @@ exports[`Locale Provider should display the text as el 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -52800,7 +52790,6 @@ exports[`Locale Provider should display the text as en 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -57893,7 +57882,6 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -62986,7 +62974,6 @@ exports[`Locale Provider should display the text as es 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -68079,7 +68066,6 @@ exports[`Locale Provider should display the text as et 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -73172,7 +73158,6 @@ exports[`Locale Provider should display the text as fa 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -78265,7 +78250,6 @@ exports[`Locale Provider should display the text as fi 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -83358,7 +83342,6 @@ exports[`Locale Provider should display the text as fr 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -88451,7 +88434,6 @@ exports[`Locale Provider should display the text as fr 2`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -93544,7 +93526,6 @@ exports[`Locale Provider should display the text as fr 3`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -98637,7 +98618,6 @@ exports[`Locale Provider should display the text as ga 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -103730,7 +103710,6 @@ exports[`Locale Provider should display the text as gl 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -108823,7 +108802,6 @@ exports[`Locale Provider should display the text as he 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -113916,7 +113894,6 @@ exports[`Locale Provider should display the text as hi 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -119009,7 +118986,6 @@ exports[`Locale Provider should display the text as hr 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -124102,7 +124078,6 @@ exports[`Locale Provider should display the text as hu 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -129195,7 +129170,6 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -134288,7 +134262,6 @@ exports[`Locale Provider should display the text as id 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -139381,7 +139354,6 @@ exports[`Locale Provider should display the text as is 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -144474,7 +144446,6 @@ exports[`Locale Provider should display the text as it 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -149567,7 +149538,6 @@ exports[`Locale Provider should display the text as ja 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -154660,7 +154630,6 @@ exports[`Locale Provider should display the text as ka 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -159753,7 +159722,6 @@ exports[`Locale Provider should display the text as kk 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -164846,7 +164814,6 @@ exports[`Locale Provider should display the text as km 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -169937,7 +169904,6 @@ exports[`Locale Provider should display the text as kn 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -175030,7 +174996,6 @@ exports[`Locale Provider should display the text as ko 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -180123,7 +180088,6 @@ exports[`Locale Provider should display the text as ku 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -185216,7 +185180,6 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -190309,7 +190272,6 @@ exports[`Locale Provider should display the text as lt 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -195402,7 +195364,6 @@ exports[`Locale Provider should display the text as lv 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -200495,7 +200456,6 @@ exports[`Locale Provider should display the text as mk 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -205588,7 +205548,6 @@ exports[`Locale Provider should display the text as ml 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -210681,7 +210640,6 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -215774,7 +215732,6 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -220867,7 +220824,6 @@ exports[`Locale Provider should display the text as nb 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -225960,7 +225916,6 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -231053,7 +231008,6 @@ exports[`Locale Provider should display the text as nl 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -236146,7 +236100,6 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -241239,7 +241192,6 @@ exports[`Locale Provider should display the text as pl 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -246332,7 +246284,6 @@ exports[`Locale Provider should display the text as pt 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -251425,7 +251376,6 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -256518,7 +256468,6 @@ exports[`Locale Provider should display the text as ro 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -261611,7 +261560,6 @@ exports[`Locale Provider should display the text as ru 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -266704,7 +266652,6 @@ exports[`Locale Provider should display the text as si 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -271797,7 +271744,6 @@ exports[`Locale Provider should display the text as sk 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -276890,7 +276836,6 @@ exports[`Locale Provider should display the text as sl 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -281983,7 +281928,6 @@ exports[`Locale Provider should display the text as sr 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -287076,7 +287020,6 @@ exports[`Locale Provider should display the text as sv 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -292169,7 +292112,6 @@ exports[`Locale Provider should display the text as ta 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -297262,7 +297204,6 @@ exports[`Locale Provider should display the text as th 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -302355,7 +302296,6 @@ exports[`Locale Provider should display the text as tk 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -307448,7 +307388,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -312541,7 +312480,6 @@ exports[`Locale Provider should display the text as uk 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -317634,7 +317572,6 @@ exports[`Locale Provider should display the text as ur 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -322727,7 +322664,6 @@ exports[`Locale Provider should display the text as vi 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -327820,7 +327756,6 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -332913,7 +332848,6 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
@@ -338006,7 +337940,6 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
 <div>
   <ul
     class="ant-pagination"
-    unselectable="unselectable"
   >
     <li
       aria-disabled="true"
