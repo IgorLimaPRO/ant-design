@@ -326871,7 +326871,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                 type="button"
               >
                 <span>
-                  Huỷ
+                  Hủy
                 </span>
               </button>
               <button
@@ -326879,7 +326879,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                 type="button"
               >
                 <span>
-                  OK
+                  Đồng ý
                 </span>
               </button>
             </div>
@@ -328444,7 +328444,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               type="button"
             >
               <span>
-                Huỷ
+                Hủy
               </span>
             </button>
             <button
@@ -328452,7 +328452,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               type="button"
             >
               <span>
-                OK
+                Đồng ý
               </span>
             </button>
           </div>
