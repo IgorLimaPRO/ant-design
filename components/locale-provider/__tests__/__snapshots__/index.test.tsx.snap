@@ -92312,7 +92312,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             </span>
             <input
               class="ant-input"
-              placeholder="Recherche"
+              placeholder="Rechercher"
               type="text"
               value=""
             />
@@ -92537,7 +92537,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
             </span>
             <input
               class="ant-input"
-              placeholder="Recherche"
+              placeholder="Rechercher"
               type="text"
               value=""
             />
