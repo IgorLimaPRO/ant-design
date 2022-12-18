@@ -6774,6 +6774,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -6812,6 +6813,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -11881,6 +11883,7 @@ exports[`Locale Provider should display the text as az 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -11919,6 +11922,7 @@ exports[`Locale Provider should display the text as az 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -16988,6 +16992,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -17026,6 +17031,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -22095,6 +22101,7 @@ exports[`Locale Provider should display the text as bn-bd 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -22133,6 +22140,7 @@ exports[`Locale Provider should display the text as bn-bd 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -27202,6 +27210,7 @@ exports[`Locale Provider should display the text as by 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -27240,6 +27249,7 @@ exports[`Locale Provider should display the text as by 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -32309,6 +32319,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -32347,6 +32358,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -37416,6 +37428,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -37454,6 +37467,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -42523,6 +42537,7 @@ exports[`Locale Provider should display the text as da 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -42561,6 +42576,7 @@ exports[`Locale Provider should display the text as da 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -47630,6 +47646,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -47668,6 +47685,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -52737,6 +52755,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -52775,6 +52794,7 @@ exports[`Locale Provider should display the text as el 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -57844,6 +57864,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -57882,6 +57903,7 @@ exports[`Locale Provider should display the text as en 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -62951,6 +62973,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -62989,6 +63012,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -68058,6 +68082,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -68096,6 +68121,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -73165,6 +73191,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -73203,6 +73230,7 @@ exports[`Locale Provider should display the text as et 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -83379,6 +83407,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -83417,6 +83446,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -88486,6 +88516,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -88524,6 +88555,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -93593,6 +93625,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -93631,6 +93664,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -98700,6 +98734,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -98738,6 +98773,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -103807,6 +103843,7 @@ exports[`Locale Provider should display the text as fr 3`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -103845,6 +103882,7 @@ exports[`Locale Provider should display the text as fr 3`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -108914,6 +108952,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -108952,6 +108991,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -114021,6 +114061,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -114059,6 +114100,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -119128,6 +119170,7 @@ exports[`Locale Provider should display the text as he 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -119166,6 +119209,7 @@ exports[`Locale Provider should display the text as he 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -124235,6 +124279,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -124273,6 +124318,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -129342,6 +129388,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -129380,6 +129427,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -134449,6 +134497,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -134487,6 +134536,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -139556,6 +139606,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -139594,6 +139645,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -144663,6 +144715,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -144701,6 +144754,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -149770,6 +149824,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -149808,6 +149863,7 @@ exports[`Locale Provider should display the text as is 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -154877,6 +154933,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -154915,6 +154972,7 @@ exports[`Locale Provider should display the text as it 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -159984,6 +160042,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -160022,6 +160081,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -165091,6 +165151,7 @@ exports[`Locale Provider should display the text as ka 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -165129,6 +165190,7 @@ exports[`Locale Provider should display the text as ka 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -170198,6 +170260,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -170236,6 +170299,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -175303,6 +175367,7 @@ exports[`Locale Provider should display the text as km 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -175341,6 +175406,7 @@ exports[`Locale Provider should display the text as km 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -180410,6 +180476,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -180448,6 +180515,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -185517,6 +185585,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -185555,6 +185624,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -190624,6 +190694,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -190662,6 +190733,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -195731,6 +195803,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -195769,6 +195842,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -200838,6 +200912,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -200876,6 +200951,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -205945,6 +206021,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -205983,6 +206060,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -211052,6 +211130,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -211090,6 +211169,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -216159,6 +216239,7 @@ exports[`Locale Provider should display the text as ml 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -216197,6 +216278,7 @@ exports[`Locale Provider should display the text as ml 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -221266,6 +221348,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -221304,6 +221387,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -226373,6 +226457,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -226411,6 +226496,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -231480,6 +231566,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -231518,6 +231605,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -236587,6 +236675,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -236625,6 +236714,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -241694,6 +241784,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -241732,6 +241823,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -246801,6 +246893,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -246839,6 +246932,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -251908,6 +252002,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -251946,6 +252041,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -257015,6 +257111,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -257053,6 +257150,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -262122,6 +262220,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -262160,6 +262259,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -267229,6 +267329,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -267267,6 +267368,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -272336,6 +272438,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -272374,6 +272477,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -277443,6 +277547,7 @@ exports[`Locale Provider should display the text as si 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -277481,6 +277586,7 @@ exports[`Locale Provider should display the text as si 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -282550,6 +282656,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -282588,6 +282695,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -287657,6 +287765,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -287695,6 +287804,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -292764,6 +292874,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -292802,6 +292913,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -297871,6 +297983,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -297909,6 +298022,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -302978,6 +303092,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -303016,6 +303131,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -308085,6 +308201,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -308123,6 +308240,7 @@ exports[`Locale Provider should display the text as th 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -313192,6 +313310,7 @@ exports[`Locale Provider should display the text as tk 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -313230,6 +313349,7 @@ exports[`Locale Provider should display the text as tk 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -318299,6 +318419,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -318337,6 +318458,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -323406,6 +323528,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -323444,6 +323567,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -328513,6 +328637,7 @@ exports[`Locale Provider should display the text as ur 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -328551,6 +328676,7 @@ exports[`Locale Provider should display the text as ur 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -333620,6 +333746,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -333658,6 +333785,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -338727,6 +338855,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -338765,6 +338894,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -343834,6 +343964,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -343872,6 +344003,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
@@ -348941,6 +349073,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -348979,6 +349112,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
