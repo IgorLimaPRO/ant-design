@@ -78300,6 +78300,7 @@ exports[`Locale Provider should display the text as eu 1`] = `
                   <tr>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       <div
                         class="ant-table-filter-column"
@@ -78338,6 +78339,7 @@ exports[`Locale Provider should display the text as eu 1`] = `
                     </th>
                     <th
                       class="ant-table-cell"
+                      scope="col"
                     >
                       Age
                     </th>
