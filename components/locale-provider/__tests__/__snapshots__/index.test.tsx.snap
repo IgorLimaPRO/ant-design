@@ -180744,9 +180744,9 @@ exports[`Locale Provider should display the text as ko 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="10 / 쪽"
+            title="10 / 페이지"
           >
-            10 / 쪽
+            10 / 페이지
           </span>
         </div>
         <span
