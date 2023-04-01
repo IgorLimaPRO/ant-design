@@ -68,8 +68,8 @@ import preParsePostFormat from 'dayjs/plugin/preParsePostFormat';
 import MockDate from 'mockdate';
 import React from 'react';
 import { render } from '../../../tests/utils';
-import type { Locale } from '../../locale';
-import LocaleProvider from '../../locale';
+import type { Locale } from '..';
+import LocaleProvider from '..';
 import {
   Calendar,
   DatePicker,
@@ -150,6 +150,7 @@ import viVN from '../../locale/vi_VN';
 import zhCN from '../../locale/zh_CN';
 import zhHK from '../../locale/zh_HK';
 import zhTW from '../../locale/zh_TW';
+import myMM from '../../locale/my_MM';
 
 dayjs.extend(preParsePostFormat);
 
@@ -222,6 +223,7 @@ const locales = [
   zhHK,
   zhTW,
   urPK,
+  myMM,
 ];
 
 const { Option } = Select;
