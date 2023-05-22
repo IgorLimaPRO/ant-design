@@ -220128,7 +220128,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
                 type="button"
               >
                 <span>
-                  OK
+                  Тийм
                 </span>
               </button>
             </div>
@@ -221713,7 +221713,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
               type="button"
             >
               <span>
-                OK
+                Тийм
               </span>
             </button>
           </div>
