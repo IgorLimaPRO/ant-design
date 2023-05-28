@@ -196178,7 +196178,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
       class="ant-pagination-options"
     >
       <div
-        aria-label="Page Size"
+        aria-label="Puslapio dydis"
         class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow ant-select-show-search"
       >
         <div
@@ -196193,7 +196193,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
               aria-controls="rc_select_TEST_OR_SSR_list"
               aria-expanded="false"
               aria-haspopup="listbox"
-              aria-label="Page Size"
+              aria-label="Puslapio dydis"
               aria-owns="rc_select_TEST_OR_SSR_list"
               autocomplete="off"
               class="ant-select-selection-search-input"
