@@ -78884,7 +78884,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                   tabindex="-1"
                   type="button"
                 >
-                  آذر
+                  سپتامبر
                 </button>
                 <button
                   class="ant-picker-year-btn"
@@ -80943,7 +80943,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        آذر
+                        سپتامبر
                       </button>
                       <button
                         class="ant-picker-year-btn"
@@ -81481,7 +81481,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        دی
+                        اکتبر
                       </button>
                       <button
                         class="ant-picker-year-btn"
@@ -82578,9 +82578,9 @@ exports[`Locale Provider should display the text as fa 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="آذر"
+            title="سپتامبر"
           >
-            آذر
+            سپتامبر
           </span>
         </div>
         <span
