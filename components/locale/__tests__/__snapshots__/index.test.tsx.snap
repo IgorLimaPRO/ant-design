@@ -321054,7 +321054,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
                   type="button"
                 >
                   <span>
-                    tamam
+                    Tamam
                   </span>
                 </button>
               </li>
