@@ -76900,7 +76900,7 @@ exports[`Locale Provider should display the text as eu 1`] = `
                 type="button"
               >
                 <span>
-                  Ezeztatu
+                  Utzi
                 </span>
               </button>
               <button
@@ -76965,7 +76965,7 @@ exports[`Locale Provider should display the text as eu 1`] = `
           class="ant-transfer-list-header-selected"
         >
           0
-          Elementu
+          elementu
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -77199,7 +77199,7 @@ exports[`Locale Provider should display the text as eu 1`] = `
           class="ant-transfer-list-header-selected"
         >
           0
-          Elementu
+          elementu
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -78486,7 +78486,7 @@ exports[`Locale Provider should display the text as eu 1`] = `
               type="button"
             >
               <span>
-                Ezeztatu
+                Utzi
               </span>
             </button>
             <button
