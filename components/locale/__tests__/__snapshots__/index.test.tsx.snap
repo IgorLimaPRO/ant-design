@@ -281867,7 +281867,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                     tabindex="-1"
                     type="button"
                   >
-                    сент.
+                    Сен
                   </button>
                   <button
                     class="ant-picker-year-btn"
@@ -281905,25 +281905,25 @@ exports[`Locale Provider should display the text as ru 1`] = `
                   <thead>
                     <tr>
                       <th>
-                        пн
+                        Пн
                       </th>
                       <th>
-                        вт
+                        Вт
                       </th>
                       <th>
-                        ср
+                        Ср
                       </th>
                       <th>
-                        чт
+                        Чт
                       </th>
                       <th>
-                        пт
+                        Пт
                       </th>
                       <th>
-                        сб
+                        Сбб
                       </th>
                       <th>
-                        вс
+                        Вскр
                       </th>
                     </tr>
                   </thead>
@@ -284086,7 +284086,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        сент.
+                        Сен
                       </button>
                       <button
                         class="ant-picker-year-btn"
@@ -284126,25 +284126,25 @@ exports[`Locale Provider should display the text as ru 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            пн
+                            Пн
                           </th>
                           <th>
-                            вт
+                            Вт
                           </th>
                           <th>
-                            ср
+                            Ср
                           </th>
                           <th>
-                            чт
+                            Чт
                           </th>
                           <th>
-                            пт
+                            Пт
                           </th>
                           <th>
-                            сб
+                            Сбб
                           </th>
                           <th>
-                            вс
+                            Вскр
                           </th>
                         </tr>
                       </thead>
@@ -284624,7 +284624,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        окт.
+                        Окт
                       </button>
                       <button
                         class="ant-picker-year-btn"
@@ -284662,25 +284662,25 @@ exports[`Locale Provider should display the text as ru 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            пн
+                            Пн
                           </th>
                           <th>
-                            вт
+                            Вт
                           </th>
                           <th>
-                            ср
+                            Ср
                           </th>
                           <th>
-                            чт
+                            Чт
                           </th>
                           <th>
-                            пт
+                            Пт
                           </th>
                           <th>
-                            сб
+                            Сбб
                           </th>
                           <th>
-                            вс
+                            Вскр
                           </th>
                         </tr>
                       </thead>
@@ -285719,9 +285719,9 @@ exports[`Locale Provider should display the text as ru 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="сент."
+            title="Сен"
           >
-            сент.
+            Сен
           </span>
         </div>
         <span
@@ -285811,25 +285811,25 @@ exports[`Locale Provider should display the text as ru 1`] = `
             <thead>
               <tr>
                 <th>
-                  пн
+                  Пн
                 </th>
                 <th>
-                  вт
+                  Вт
                 </th>
                 <th>
-                  ср
+                  Ср
                 </th>
                 <th>
-                  чт
+                  Чт
                 </th>
                 <th>
-                  пт
+                  Пт
                 </th>
                 <th>
-                  сб
+                  Сбб
                 </th>
                 <th>
-                  вс
+                  Вскр
                 </th>
               </tr>
             </thead>
