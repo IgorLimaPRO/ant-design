@@ -281920,10 +281920,10 @@ exports[`Locale Provider should display the text as ru 1`] = `
                         Пт
                       </th>
                       <th>
-                        Сбб
+                        Сб
                       </th>
                       <th>
-                        Вскр
+                        Вс
                       </th>
                     </tr>
                   </thead>
@@ -284141,10 +284141,10 @@ exports[`Locale Provider should display the text as ru 1`] = `
                             Пт
                           </th>
                           <th>
-                            Сбб
+                            Сб
                           </th>
                           <th>
-                            Вскр
+                            Вс
                           </th>
                         </tr>
                       </thead>
@@ -284677,10 +284677,10 @@ exports[`Locale Provider should display the text as ru 1`] = `
                             Пт
                           </th>
                           <th>
-                            Сбб
+                            Сб
                           </th>
                           <th>
-                            Вскр
+                            Вс
                           </th>
                         </tr>
                       </thead>
@@ -285826,10 +285826,10 @@ exports[`Locale Provider should display the text as ru 1`] = `
                   Пт
                 </th>
                 <th>
-                  Сбб
+                  Сб
                 </th>
                 <th>
-                  Вскр
+                  Вс
                 </th>
               </tr>
             </thead>
