@@ -162587,7 +162587,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
                   type="button"
                 >
                   <span>
-                    決 定
+                    確 定
                   </span>
                 </button>
               </li>
@@ -186968,7 +186968,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          27일
+                          27
                         </div>
                       </td>
                       <td
@@ -186978,7 +186978,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          28일
+                          28
                         </div>
                       </td>
                       <td
@@ -186988,7 +186988,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          29일
+                          29
                         </div>
                       </td>
                       <td
@@ -186998,7 +186998,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          30일
+                          30
                         </div>
                       </td>
                       <td
@@ -187008,7 +187008,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          31일
+                          31
                         </div>
                       </td>
                       <td
@@ -187018,7 +187018,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          1일
+                          1
                         </div>
                       </td>
                       <td
@@ -187028,7 +187028,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          2일
+                          2
                         </div>
                       </td>
                     </tr>
@@ -187040,7 +187040,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          3일
+                          3
                         </div>
                       </td>
                       <td
@@ -187050,7 +187050,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          4일
+                          4
                         </div>
                       </td>
                       <td
@@ -187060,7 +187060,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          5일
+                          5
                         </div>
                       </td>
                       <td
@@ -187070,7 +187070,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          6일
+                          6
                         </div>
                       </td>
                       <td
@@ -187080,7 +187080,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          7일
+                          7
                         </div>
                       </td>
                       <td
@@ -187090,7 +187090,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          8일
+                          8
                         </div>
                       </td>
                       <td
@@ -187100,7 +187100,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          9일
+                          9
                         </div>
                       </td>
                     </tr>
@@ -187112,7 +187112,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          10일
+                          10
                         </div>
                       </td>
                       <td
@@ -187122,7 +187122,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          11일
+                          11
                         </div>
                       </td>
                       <td
@@ -187132,7 +187132,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          12일
+                          12
                         </div>
                       </td>
                       <td
@@ -187142,7 +187142,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          13일
+                          13
                         </div>
                       </td>
                       <td
@@ -187152,7 +187152,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          14일
+                          14
                         </div>
                       </td>
                       <td
@@ -187162,7 +187162,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          15일
+                          15
                         </div>
                       </td>
                       <td
@@ -187172,7 +187172,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          16일
+                          16
                         </div>
                       </td>
                     </tr>
@@ -187184,7 +187184,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          17일
+                          17
                         </div>
                       </td>
                       <td
@@ -187194,7 +187194,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          18일
+                          18
                         </div>
                       </td>
                       <td
@@ -187204,7 +187204,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          19일
+                          19
                         </div>
                       </td>
                       <td
@@ -187214,7 +187214,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          20일
+                          20
                         </div>
                       </td>
                       <td
@@ -187224,7 +187224,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          21일
+                          21
                         </div>
                       </td>
                       <td
@@ -187234,7 +187234,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          22일
+                          22
                         </div>
                       </td>
                       <td
@@ -187244,7 +187244,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          23일
+                          23
                         </div>
                       </td>
                     </tr>
@@ -187256,7 +187256,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          24일
+                          24
                         </div>
                       </td>
                       <td
@@ -187266,7 +187266,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          25일
+                          25
                         </div>
                       </td>
                       <td
@@ -187276,7 +187276,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          26일
+                          26
                         </div>
                       </td>
                       <td
@@ -187286,7 +187286,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          27일
+                          27
                         </div>
                       </td>
                       <td
@@ -187296,7 +187296,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          28일
+                          28
                         </div>
                       </td>
                       <td
@@ -187306,7 +187306,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          29일
+                          29
                         </div>
                       </td>
                       <td
@@ -187316,7 +187316,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          30일
+                          30
                         </div>
                       </td>
                     </tr>
@@ -187328,7 +187328,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          1일
+                          1
                         </div>
                       </td>
                       <td
@@ -187338,7 +187338,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          2일
+                          2
                         </div>
                       </td>
                       <td
@@ -187348,7 +187348,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          3일
+                          3
                         </div>
                       </td>
                       <td
@@ -187358,7 +187358,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          4일
+                          4
                         </div>
                       </td>
                       <td
@@ -187368,7 +187368,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          5일
+                          5
                         </div>
                       </td>
                       <td
@@ -187378,7 +187378,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          6일
+                          6
                         </div>
                       </td>
                       <td
@@ -187388,7 +187388,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                         <div
                           class="ant-picker-cell-inner"
                         >
-                          7일
+                          7
                         </div>
                       </td>
                     </tr>
@@ -189189,7 +189189,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              27일
+                              27
                             </div>
                           </td>
                           <td
@@ -189199,7 +189199,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              28일
+                              28
                             </div>
                           </td>
                           <td
@@ -189209,7 +189209,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              29일
+                              29
                             </div>
                           </td>
                           <td
@@ -189219,7 +189219,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              30일
+                              30
                             </div>
                           </td>
                           <td
@@ -189229,7 +189229,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              31일
+                              31
                             </div>
                           </td>
                           <td
@@ -189239,7 +189239,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              1일
+                              1
                             </div>
                           </td>
                           <td
@@ -189249,7 +189249,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              2일
+                              2
                             </div>
                           </td>
                         </tr>
@@ -189261,7 +189261,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              3일
+                              3
                             </div>
                           </td>
                           <td
@@ -189271,7 +189271,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              4일
+                              4
                             </div>
                           </td>
                           <td
@@ -189281,7 +189281,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              5일
+                              5
                             </div>
                           </td>
                           <td
@@ -189291,7 +189291,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              6일
+                              6
                             </div>
                           </td>
                           <td
@@ -189301,7 +189301,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              7일
+                              7
                             </div>
                           </td>
                           <td
@@ -189311,7 +189311,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              8일
+                              8
                             </div>
                           </td>
                           <td
@@ -189321,7 +189321,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              9일
+                              9
                             </div>
                           </td>
                         </tr>
@@ -189333,7 +189333,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              10일
+                              10
                             </div>
                           </td>
                           <td
@@ -189343,7 +189343,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              11일
+                              11
                             </div>
                           </td>
                           <td
@@ -189353,7 +189353,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              12일
+                              12
                             </div>
                           </td>
                           <td
@@ -189363,7 +189363,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              13일
+                              13
                             </div>
                           </td>
                           <td
@@ -189373,7 +189373,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              14일
+                              14
                             </div>
                           </td>
                           <td
@@ -189383,7 +189383,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              15일
+                              15
                             </div>
                           </td>
                           <td
@@ -189393,7 +189393,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              16일
+                              16
                             </div>
                           </td>
                         </tr>
@@ -189405,7 +189405,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              17일
+                              17
                             </div>
                           </td>
                           <td
@@ -189415,7 +189415,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              18일
+                              18
                             </div>
                           </td>
                           <td
@@ -189425,7 +189425,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              19일
+                              19
                             </div>
                           </td>
                           <td
@@ -189435,7 +189435,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              20일
+                              20
                             </div>
                           </td>
                           <td
@@ -189445,7 +189445,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              21일
+                              21
                             </div>
                           </td>
                           <td
@@ -189455,7 +189455,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              22일
+                              22
                             </div>
                           </td>
                           <td
@@ -189465,7 +189465,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              23일
+                              23
                             </div>
                           </td>
                         </tr>
@@ -189477,7 +189477,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              24일
+                              24
                             </div>
                           </td>
                           <td
@@ -189487,7 +189487,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              25일
+                              25
                             </div>
                           </td>
                           <td
@@ -189497,7 +189497,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              26일
+                              26
                             </div>
                           </td>
                           <td
@@ -189507,7 +189507,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              27일
+                              27
                             </div>
                           </td>
                           <td
@@ -189517,7 +189517,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              28일
+                              28
                             </div>
                           </td>
                           <td
@@ -189527,7 +189527,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              29일
+                              29
                             </div>
                           </td>
                           <td
@@ -189537,7 +189537,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              30일
+                              30
                             </div>
                           </td>
                         </tr>
@@ -189549,7 +189549,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              1일
+                              1
                             </div>
                           </td>
                           <td
@@ -189559,7 +189559,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              2일
+                              2
                             </div>
                           </td>
                           <td
@@ -189569,7 +189569,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              3일
+                              3
                             </div>
                           </td>
                           <td
@@ -189579,7 +189579,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              4일
+                              4
                             </div>
                           </td>
                           <td
@@ -189589,7 +189589,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              5일
+                              5
                             </div>
                           </td>
                           <td
@@ -189599,7 +189599,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              6일
+                              6
                             </div>
                           </td>
                           <td
@@ -189609,7 +189609,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              7일
+                              7
                             </div>
                           </td>
                         </tr>
@@ -189725,7 +189725,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              1일
+                              1
                             </div>
                           </td>
                           <td
@@ -189735,7 +189735,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              2일
+                              2
                             </div>
                           </td>
                           <td
@@ -189745,7 +189745,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              3일
+                              3
                             </div>
                           </td>
                           <td
@@ -189755,7 +189755,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              4일
+                              4
                             </div>
                           </td>
                           <td
@@ -189765,7 +189765,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              5일
+                              5
                             </div>
                           </td>
                           <td
@@ -189775,7 +189775,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              6일
+                              6
                             </div>
                           </td>
                           <td
@@ -189785,7 +189785,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              7일
+                              7
                             </div>
                           </td>
                         </tr>
@@ -189797,7 +189797,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              8일
+                              8
                             </div>
                           </td>
                           <td
@@ -189807,7 +189807,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              9일
+                              9
                             </div>
                           </td>
                           <td
@@ -189817,7 +189817,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              10일
+                              10
                             </div>
                           </td>
                           <td
@@ -189827,7 +189827,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              11일
+                              11
                             </div>
                           </td>
                           <td
@@ -189837,7 +189837,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              12일
+                              12
                             </div>
                           </td>
                           <td
@@ -189847,7 +189847,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              13일
+                              13
                             </div>
                           </td>
                           <td
@@ -189857,7 +189857,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              14일
+                              14
                             </div>
                           </td>
                         </tr>
@@ -189869,7 +189869,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              15일
+                              15
                             </div>
                           </td>
                           <td
@@ -189879,7 +189879,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              16일
+                              16
                             </div>
                           </td>
                           <td
@@ -189889,7 +189889,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              17일
+                              17
                             </div>
                           </td>
                           <td
@@ -189899,7 +189899,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              18일
+                              18
                             </div>
                           </td>
                           <td
@@ -189909,7 +189909,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              19일
+                              19
                             </div>
                           </td>
                           <td
@@ -189919,7 +189919,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              20일
+                              20
                             </div>
                           </td>
                           <td
@@ -189929,7 +189929,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              21일
+                              21
                             </div>
                           </td>
                         </tr>
@@ -189941,7 +189941,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              22일
+                              22
                             </div>
                           </td>
                           <td
@@ -189951,7 +189951,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              23일
+                              23
                             </div>
                           </td>
                           <td
@@ -189961,7 +189961,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              24일
+                              24
                             </div>
                           </td>
                           <td
@@ -189971,7 +189971,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              25일
+                              25
                             </div>
                           </td>
                           <td
@@ -189981,7 +189981,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              26일
+                              26
                             </div>
                           </td>
                           <td
@@ -189991,7 +189991,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              27일
+                              27
                             </div>
                           </td>
                           <td
@@ -190001,7 +190001,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              28일
+                              28
                             </div>
                           </td>
                         </tr>
@@ -190013,7 +190013,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              29일
+                              29
                             </div>
                           </td>
                           <td
@@ -190023,7 +190023,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              30일
+                              30
                             </div>
                           </td>
                           <td
@@ -190033,7 +190033,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              31일
+                              31
                             </div>
                           </td>
                           <td
@@ -190043,7 +190043,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              1일
+                              1
                             </div>
                           </td>
                           <td
@@ -190053,7 +190053,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              2일
+                              2
                             </div>
                           </td>
                           <td
@@ -190063,7 +190063,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              3일
+                              3
                             </div>
                           </td>
                           <td
@@ -190073,7 +190073,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              4일
+                              4
                             </div>
                           </td>
                         </tr>
@@ -190085,7 +190085,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              5일
+                              5
                             </div>
                           </td>
                           <td
@@ -190095,7 +190095,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              6일
+                              6
                             </div>
                           </td>
                           <td
@@ -190105,7 +190105,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              7일
+                              7
                             </div>
                           </td>
                           <td
@@ -190115,7 +190115,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              8일
+                              8
                             </div>
                           </td>
                           <td
@@ -190125,7 +190125,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              9일
+                              9
                             </div>
                           </td>
                           <td
@@ -190135,7 +190135,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              10일
+                              10
                             </div>
                           </td>
                           <td
@@ -190145,7 +190145,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
                             <div
                               class="ant-picker-cell-inner"
                             >
-                              11일
+                              11
                             </div>
                           </td>
                         </tr>
