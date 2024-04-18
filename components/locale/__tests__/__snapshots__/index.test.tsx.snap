@@ -148032,7 +148032,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                 type="button"
               >
                 <span>
-                  OK
+                  Oke
                 </span>
               </button>
             </div>
@@ -148089,7 +148089,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           class="ant-transfer-list-header-selected"
         >
           0
-          item
+          data
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -148129,7 +148129,7 @@ exports[`Locale Provider should display the text as id 1`] = `
             </span>
             <input
               class="ant-input"
-              placeholder="Cari"
+              placeholder="Cari di sini"
               type="text"
               value=""
             />
@@ -148323,7 +148323,7 @@ exports[`Locale Provider should display the text as id 1`] = `
           class="ant-transfer-list-header-selected"
         >
           0
-          item
+          data
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -148363,7 +148363,7 @@ exports[`Locale Provider should display the text as id 1`] = `
             </span>
             <input
               class="ant-input"
-              placeholder="Cari"
+              placeholder="Cari di sini"
               type="text"
               value=""
             />
@@ -149622,7 +149622,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                 type="button"
               >
                 <span>
-                  OK
+                  Oke
                 </span>
               </button>
             </div>
