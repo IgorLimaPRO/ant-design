@@ -146780,7 +146780,7 @@ exports[`Locale Provider should display the text as id 1`] = `
         aria-invalid="false"
         autocomplete="off"
         date-range="start"
-        placeholder="Mulai tanggal"
+        placeholder="Tanggal awal"
         size="12"
         value=""
       />
