@@ -65553,7 +65553,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                     tabindex="-1"
                     type="button"
                   >
-                    sep
+                    Sep
                   </button>
                   <button
                     class="ant-picker-year-btn"
@@ -65591,25 +65591,25 @@ exports[`Locale Provider should display the text as es 1`] = `
                   <thead>
                     <tr>
                       <th>
-                        lu
+                        Lun
                       </th>
                       <th>
-                        ma
+                        Mar
                       </th>
                       <th>
-                        mi
+                        Mié
                       </th>
                       <th>
-                        ju
+                        Jue
                       </th>
                       <th>
-                        vi
+                        Vie
                       </th>
                       <th>
-                        sá
+                        Sáb
                       </th>
                       <th>
-                        do
+                        Dom
                       </th>
                     </tr>
                   </thead>
@@ -67772,7 +67772,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        sep
+                        Sep
                       </button>
                       <button
                         class="ant-picker-year-btn"
@@ -67812,25 +67812,25 @@ exports[`Locale Provider should display the text as es 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            lu
+                            Lun
                           </th>
                           <th>
-                            ma
+                            Mar
                           </th>
                           <th>
-                            mi
+                            Mié
                           </th>
                           <th>
-                            ju
+                            Jue
                           </th>
                           <th>
-                            vi
+                            Vie
                           </th>
                           <th>
-                            sá
+                            Sáb
                           </th>
                           <th>
-                            do
+                            Dom
                           </th>
                         </tr>
                       </thead>
@@ -68310,7 +68310,7 @@ exports[`Locale Provider should display the text as es 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        oct
+                        Oct
                       </button>
                       <button
                         class="ant-picker-year-btn"
@@ -68348,25 +68348,25 @@ exports[`Locale Provider should display the text as es 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            lu
+                            Lun
                           </th>
                           <th>
-                            ma
+                            Mar
                           </th>
                           <th>
-                            mi
+                            Mié
                           </th>
                           <th>
-                            ju
+                            Jue
                           </th>
                           <th>
-                            vi
+                            Vie
                           </th>
                           <th>
-                            sá
+                            Sáb
                           </th>
                           <th>
-                            do
+                            Dom
                           </th>
                         </tr>
                       </thead>
@@ -69405,9 +69405,9 @@ exports[`Locale Provider should display the text as es 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="sep"
+            title="Sep"
           >
-            sep
+            Sep
           </span>
         </div>
         <span
@@ -69497,25 +69497,25 @@ exports[`Locale Provider should display the text as es 1`] = `
             <thead>
               <tr>
                 <th>
-                  lu
+                  Lun
                 </th>
                 <th>
-                  ma
+                  Mar
                 </th>
                 <th>
-                  mi
+                  Mié
                 </th>
                 <th>
-                  ju
+                  Jue
                 </th>
                 <th>
-                  vi
+                  Vie
                 </th>
                 <th>
-                  sá
+                  Sáb
                 </th>
                 <th>
-                  do
+                  Dom
                 </th>
               </tr>
             </thead>
