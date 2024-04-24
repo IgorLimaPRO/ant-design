@@ -44449,7 +44449,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                     tabindex="-1"
                     type="button"
                   >
-                    Sept.
+                    Sep
                   </button>
                   <button
                     class="ant-picker-year-btn"
@@ -46668,7 +46668,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        Sept.
+                        Sep
                       </button>
                       <button
                         class="ant-picker-year-btn"
@@ -47206,7 +47206,7 @@ exports[`Locale Provider should display the text as de 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        Okt.
+                        Okt
                       </button>
                       <button
                         class="ant-picker-year-btn"
@@ -48301,9 +48301,9 @@ exports[`Locale Provider should display the text as de 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="Sept."
+            title="Sep"
           >
-            Sept.
+            Sep
           </span>
         </div>
         <span
