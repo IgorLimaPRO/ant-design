@@ -148032,7 +148032,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                 type="button"
               >
                 <span>
-                  Oke
+                  OK
                 </span>
               </button>
             </div>
@@ -149622,7 +149622,7 @@ exports[`Locale Provider should display the text as id 1`] = `
                 type="button"
               >
                 <span>
-                  Oke
+                  OK
                 </span>
               </button>
             </div>
