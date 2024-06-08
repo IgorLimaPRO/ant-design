@@ -11034,7 +11034,7 @@ exports[`Locale Provider should display the text as az 1`] = `
             <div
               class="ant-empty-description"
             >
-              No data
+              Məlumat yoxdur
             </div>
           </div>
         </div>
@@ -11268,7 +11268,7 @@ exports[`Locale Provider should display the text as az 1`] = `
             <div
               class="ant-empty-description"
             >
-              No data
+              Məlumat yoxdur
             </div>
           </div>
         </div>
@@ -12341,7 +12341,7 @@ exports[`Locale Provider should display the text as az 1`] = `
                         <div
                           class="ant-empty-description"
                         >
-                          No data
+                          Məlumat yoxdur
                         </div>
                       </div>
                     </td>
