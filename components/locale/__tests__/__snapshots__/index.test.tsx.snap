@@ -2303,25 +2303,25 @@ exports[`Locale Provider should display the text as ar 1`] = `
                   <thead>
                     <tr>
                       <th>
-                        س
+                        السبت
                       </th>
                       <th>
-                        ح
+                        الأحد
                       </th>
                       <th>
-                        ن
+                        الإثنين
                       </th>
                       <th>
-                        ث
+                        الثلاثاء
                       </th>
                       <th>
-                        ر
+                        الأربعاء
                       </th>
                       <th>
-                        خ
+                        الخميس
                       </th>
                       <th>
-                        ج
+                        الجمعة
                       </th>
                     </tr>
                   </thead>
@@ -4530,25 +4530,25 @@ exports[`Locale Provider should display the text as ar 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            س
+                            السبت
                           </th>
                           <th>
-                            ح
+                            الأحد
                           </th>
                           <th>
-                            ن
+                            الإثنين
                           </th>
                           <th>
-                            ث
+                            الثلاثاء
                           </th>
                           <th>
-                            ر
+                            الأربعاء
                           </th>
                           <th>
-                            خ
+                            الخميس
                           </th>
                           <th>
-                            ج
+                            الجمعة
                           </th>
                         </tr>
                       </thead>
@@ -5072,25 +5072,25 @@ exports[`Locale Provider should display the text as ar 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            س
+                            السبت
                           </th>
                           <th>
-                            ح
+                            الأحد
                           </th>
                           <th>
-                            ن
+                            الإثنين
                           </th>
                           <th>
-                            ث
+                            الثلاثاء
                           </th>
                           <th>
-                            ر
+                            الأربعاء
                           </th>
                           <th>
-                            خ
+                            الخميس
                           </th>
                           <th>
-                            ج
+                            الجمعة
                           </th>
                         </tr>
                       </thead>
@@ -6227,25 +6227,25 @@ exports[`Locale Provider should display the text as ar 1`] = `
             <thead>
               <tr>
                 <th>
-                  س
+                  السبت
                 </th>
                 <th>
-                  ح
+                  الأحد
                 </th>
                 <th>
-                  ن
+                  الإثنين
                 </th>
                 <th>
-                  ث
+                  الثلاثاء
                 </th>
                 <th>
-                  ر
+                  الأربعاء
                 </th>
                 <th>
-                  خ
+                  الخميس
                 </th>
                 <th>
-                  ج
+                  الجمعة
                 </th>
               </tr>
             </thead>
