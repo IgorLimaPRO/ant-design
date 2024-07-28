@@ -262107,7 +262107,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                     tabindex="-1"
                     type="button"
                   >
-                    wrz
+                    wrzesień
                   </button>
                   <button
                     aria-label="year panel"
@@ -262148,7 +262148,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                   <thead>
                     <tr>
                       <th>
-                        Pn
+                        Pon
                       </th>
                       <th>
                         Wt
@@ -262157,16 +262157,16 @@ exports[`Locale Provider should display the text as pl 1`] = `
                         Śr
                       </th>
                       <th>
-                        Cz
+                        Czw
                       </th>
                       <th>
                         Pt
                       </th>
                       <th>
-                        So
+                        Sob
                       </th>
                       <th>
-                        Nd
+                        Niedz
                       </th>
                     </tr>
                   </thead>
@@ -264332,7 +264332,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        wrz
+                        wrzesień
                       </button>
                       <button
                         aria-label="year panel"
@@ -264375,7 +264375,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            Pn
+                            Pon
                           </th>
                           <th>
                             Wt
@@ -264384,16 +264384,16 @@ exports[`Locale Provider should display the text as pl 1`] = `
                             Śr
                           </th>
                           <th>
-                            Cz
+                            Czw
                           </th>
                           <th>
                             Pt
                           </th>
                           <th>
-                            So
+                            Sob
                           </th>
                           <th>
-                            Nd
+                            Niedz
                           </th>
                         </tr>
                       </thead>
@@ -264876,7 +264876,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        paź
+                        październik
                       </button>
                       <button
                         aria-label="year panel"
@@ -264917,7 +264917,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            Pn
+                            Pon
                           </th>
                           <th>
                             Wt
@@ -264926,16 +264926,16 @@ exports[`Locale Provider should display the text as pl 1`] = `
                             Śr
                           </th>
                           <th>
-                            Cz
+                            Czw
                           </th>
                           <th>
                             Pt
                           </th>
                           <th>
-                            So
+                            Sob
                           </th>
                           <th>
-                            Nd
+                            Niedz
                           </th>
                         </tr>
                       </thead>
@@ -265980,9 +265980,9 @@ exports[`Locale Provider should display the text as pl 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="wrz"
+            title="Wrz"
           >
-            wrz
+            Wrz
           </span>
         </div>
         <span
@@ -266072,7 +266072,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
             <thead>
               <tr>
                 <th>
-                  Pn
+                  Pon
                 </th>
                 <th>
                   Wt
@@ -266081,16 +266081,16 @@ exports[`Locale Provider should display the text as pl 1`] = `
                   Śr
                 </th>
                 <th>
-                  Cz
+                  Czw
                 </th>
                 <th>
                   Pt
                 </th>
                 <th>
-                  So
+                  Sob
                 </th>
                 <th>
-                  Nd
+                  Niedz
                 </th>
               </tr>
             </thead>
