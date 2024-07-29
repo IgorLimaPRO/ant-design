@@ -331087,6 +331087,9 @@ exports[`Locale Provider should display the text as tr 1`] = `
                   <thead>
                     <tr>
                       <th>
+                        Pzt
+                      </th>
+                      <th>
                         Sal
                       </th>
                       <th>
@@ -331103,9 +331106,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
                       </th>
                       <th>
                         Paz
-                      </th>
-                      <th>
-                        Pzt
                       </th>
                     </tr>
                   </thead>
@@ -333314,6 +333314,9 @@ exports[`Locale Provider should display the text as tr 1`] = `
                       <thead>
                         <tr>
                           <th>
+                            Pzt
+                          </th>
+                          <th>
                             Sal
                           </th>
                           <th>
@@ -333330,9 +333333,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
                           </th>
                           <th>
                             Paz
-                          </th>
-                          <th>
-                            Pzt
                           </th>
                         </tr>
                       </thead>
@@ -333856,6 +333856,9 @@ exports[`Locale Provider should display the text as tr 1`] = `
                       <thead>
                         <tr>
                           <th>
+                            Pzt
+                          </th>
+                          <th>
                             Sal
                           </th>
                           <th>
@@ -333872,9 +333875,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
                           </th>
                           <th>
                             Paz
-                          </th>
-                          <th>
-                            Pzt
                           </th>
                         </tr>
                       </thead>
@@ -335011,6 +335011,9 @@ exports[`Locale Provider should display the text as tr 1`] = `
             <thead>
               <tr>
                 <th>
+                  Pzt
+                </th>
+                <th>
                   Sal
                 </th>
                 <th>
@@ -335027,9 +335030,6 @@ exports[`Locale Provider should display the text as tr 1`] = `
                 </th>
                 <th>
                   Paz
-                </th>
-                <th>
-                  Pzt
                 </th>
               </tr>
             </thead>
