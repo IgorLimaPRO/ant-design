@@ -336349,7 +336349,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                     tabindex="-1"
                     type="button"
                   >
-                    вер
+                    Вер
                   </button>
                   <button
                     aria-label="year panel"
@@ -336390,25 +336390,25 @@ exports[`Locale Provider should display the text as uk 1`] = `
                   <thead>
                     <tr>
                       <th>
-                        пн
+                        Пн
                       </th>
                       <th>
-                        вт
+                        Вт
                       </th>
                       <th>
-                        ср
+                        Ср
                       </th>
                       <th>
-                        чт
+                        Чт
                       </th>
                       <th>
-                        пт
+                        Пт
                       </th>
                       <th>
-                        сб
+                        Сб
                       </th>
                       <th>
-                        нд
+                        Нд
                       </th>
                     </tr>
                   </thead>
@@ -338574,7 +338574,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        вер
+                        Вер
                       </button>
                       <button
                         aria-label="year panel"
@@ -338617,25 +338617,25 @@ exports[`Locale Provider should display the text as uk 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            пн
+                            Пн
                           </th>
                           <th>
-                            вт
+                            Вт
                           </th>
                           <th>
-                            ср
+                            Ср
                           </th>
                           <th>
-                            чт
+                            Чт
                           </th>
                           <th>
-                            пт
+                            Пт
                           </th>
                           <th>
-                            сб
+                            Сб
                           </th>
                           <th>
-                            нд
+                            Нд
                           </th>
                         </tr>
                       </thead>
@@ -339118,7 +339118,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        жовт
+                        Жов
                       </button>
                       <button
                         aria-label="year panel"
@@ -339159,25 +339159,25 @@ exports[`Locale Provider should display the text as uk 1`] = `
                       <thead>
                         <tr>
                           <th>
-                            пн
+                            Пн
                           </th>
                           <th>
-                            вт
+                            Вт
                           </th>
                           <th>
-                            ср
+                            Ср
                           </th>
                           <th>
-                            чт
+                            Чт
                           </th>
                           <th>
-                            пт
+                            Пт
                           </th>
                           <th>
-                            сб
+                            Сб
                           </th>
                           <th>
-                            нд
+                            Нд
                           </th>
                         </tr>
                       </thead>
@@ -340222,9 +340222,9 @@ exports[`Locale Provider should display the text as uk 1`] = `
           </span>
           <span
             class="ant-select-selection-item"
-            title="вер"
+            title="Вер"
           >
-            вер
+            Вер
           </span>
         </div>
         <span
@@ -340314,25 +340314,25 @@ exports[`Locale Provider should display the text as uk 1`] = `
             <thead>
               <tr>
                 <th>
-                  пн
+                  Пн
                 </th>
                 <th>
-                  вт
+                  Вт
                 </th>
                 <th>
-                  ср
+                  Ср
                 </th>
                 <th>
-                  чт
+                  Чт
                 </th>
                 <th>
-                  пт
+                  Пт
                 </th>
                 <th>
-                  сб
+                  Сб
                 </th>
                 <th>
-                  нд
+                  Нд
                 </th>
               </tr>
             </thead>
