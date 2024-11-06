@@ -349976,7 +349976,7 @@ exports[`Locale Provider should display the text as uz-latn 1`] = `
           class="ant-transfer-list-header-selected"
         >
           0
-          элем.
+          elem.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -350213,7 +350213,7 @@ exports[`Locale Provider should display the text as uz-latn 1`] = `
           class="ant-transfer-list-header-selected"
         >
           0
-          элем.
+          elem.
         </span>
         <span
           class="ant-transfer-list-header-title"
@@ -351505,7 +351505,7 @@ exports[`Locale Provider should display the text as uz-latn 1`] = `
                 type="button"
               >
                 <span>
-                  O'chirish
+                  Yopish
                 </span>
               </button>
               <button
