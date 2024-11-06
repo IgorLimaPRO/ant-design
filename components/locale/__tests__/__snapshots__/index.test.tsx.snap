@@ -270613,7 +270613,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <title>
-                  Sem resultados
+                  Sem dados
                 </title>
                 <g
                   fill="none"
@@ -270645,7 +270645,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             <div
               class="ant-empty-description"
             >
-              Sem resultados
+              Sem dados
             </div>
           </div>
         </div>
@@ -270850,7 +270850,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <title>
-                  Sem resultados
+                  Sem dados
                 </title>
                 <g
                   fill="none"
@@ -270882,7 +270882,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
             <div
               class="ant-empty-description"
             >
-              Sem resultados
+              Sem dados
             </div>
           </div>
         </div>
@@ -271926,7 +271926,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                             xmlns="http://www.w3.org/2000/svg"
                           >
                             <title>
-                              Sem resultados
+                              Sem dados
                             </title>
                             <g
                               fill="none"
@@ -271958,7 +271958,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
                         <div
                           class="ant-empty-description"
                         >
-                          Sem resultados
+                          Sem dados
                         </div>
                       </div>
                     </td>
