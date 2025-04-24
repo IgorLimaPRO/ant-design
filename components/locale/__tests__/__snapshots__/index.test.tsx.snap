@@ -7177,6 +7177,7 @@ exports[`Locale Provider should display the text as ar 1`] = `
               type="button"
             >
               <span
+                aria-label="إغلاق"
                 class="ant-modal-close-x"
               >
                 <span
@@ -12498,6 +12499,7 @@ exports[`Locale Provider should display the text as az 1`] = `
               type="button"
             >
               <span
+                aria-label="Bağla"
                 class="ant-modal-close-x"
               >
                 <span
@@ -17819,6 +17821,7 @@ exports[`Locale Provider should display the text as bg 1`] = `
               type="button"
             >
               <span
+                aria-label="Затвори"
                 class="ant-modal-close-x"
               >
                 <span
@@ -23140,6 +23143,7 @@ exports[`Locale Provider should display the text as bn-bd 1`] = `
               type="button"
             >
               <span
+                aria-label="বন্ধ"
                 class="ant-modal-close-x"
               >
                 <span
@@ -28461,6 +28465,7 @@ exports[`Locale Provider should display the text as by 1`] = `
               type="button"
             >
               <span
+                aria-label="Закрыць"
                 class="ant-modal-close-x"
               >
                 <span
@@ -33782,6 +33787,7 @@ exports[`Locale Provider should display the text as ca 1`] = `
               type="button"
             >
               <span
+                aria-label="Tancar"
                 class="ant-modal-close-x"
               >
                 <span
@@ -39103,6 +39109,7 @@ exports[`Locale Provider should display the text as cs 1`] = `
               type="button"
             >
               <span
+                aria-label="Zavřít"
                 class="ant-modal-close-x"
               >
                 <span
@@ -44424,6 +44431,7 @@ exports[`Locale Provider should display the text as da 1`] = `
               type="button"
             >
               <span
+                aria-label="Luk"
                 class="ant-modal-close-x"
               >
                 <span
@@ -49745,6 +49753,7 @@ exports[`Locale Provider should display the text as de 1`] = `
               type="button"
             >
               <span
+                aria-label="Schließen"
                 class="ant-modal-close-x"
               >
                 <span
@@ -55066,6 +55075,7 @@ exports[`Locale Provider should display the text as el 1`] = `
               type="button"
             >
               <span
+                aria-label="Κλείσιμο"
                 class="ant-modal-close-x"
               >
                 <span
@@ -60387,6 +60397,7 @@ exports[`Locale Provider should display the text as en 1`] = `
               type="button"
             >
               <span
+                aria-label="Close"
                 class="ant-modal-close-x"
               >
                 <span
@@ -65708,6 +65719,7 @@ exports[`Locale Provider should display the text as en-gb 1`] = `
               type="button"
             >
               <span
+                aria-label="Close"
                 class="ant-modal-close-x"
               >
                 <span
@@ -71029,6 +71041,7 @@ exports[`Locale Provider should display the text as es 1`] = `
               type="button"
             >
               <span
+                aria-label="Cerrar"
                 class="ant-modal-close-x"
               >
                 <span
@@ -76350,6 +76363,7 @@ exports[`Locale Provider should display the text as et 1`] = `
               type="button"
             >
               <span
+                aria-label="Sulge"
                 class="ant-modal-close-x"
               >
                 <span
@@ -81671,6 +81685,7 @@ exports[`Locale Provider should display the text as eu 1`] = `
               type="button"
             >
               <span
+                aria-label="Itxi"
                 class="ant-modal-close-x"
               >
                 <span
@@ -86992,6 +87007,7 @@ exports[`Locale Provider should display the text as fa 1`] = `
               type="button"
             >
               <span
+                aria-label="بستن"
                 class="ant-modal-close-x"
               >
                 <span
@@ -92313,6 +92329,7 @@ exports[`Locale Provider should display the text as fi 1`] = `
               type="button"
             >
               <span
+                aria-label="Sulje"
                 class="ant-modal-close-x"
               >
                 <span
@@ -97634,6 +97651,7 @@ exports[`Locale Provider should display the text as fr 1`] = `
               type="button"
             >
               <span
+                aria-label="Fermer"
                 class="ant-modal-close-x"
               >
                 <span
@@ -102955,6 +102973,7 @@ exports[`Locale Provider should display the text as fr 2`] = `
               type="button"
             >
               <span
+                aria-label="Fermer"
                 class="ant-modal-close-x"
               >
                 <span
@@ -108276,6 +108295,7 @@ exports[`Locale Provider should display the text as fr 3`] = `
               type="button"
             >
               <span
+                aria-label="Fermer"
                 class="ant-modal-close-x"
               >
                 <span
@@ -113597,6 +113617,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
               type="button"
             >
               <span
+                aria-label="Dún"
                 class="ant-modal-close-x"
               >
                 <span
@@ -118918,6 +118939,7 @@ exports[`Locale Provider should display the text as gl 1`] = `
               type="button"
             >
               <span
+                aria-label="Cerrar"
                 class="ant-modal-close-x"
               >
                 <span
@@ -124239,6 +124261,7 @@ exports[`Locale Provider should display the text as he 1`] = `
               type="button"
             >
               <span
+                aria-label="סגור"
                 class="ant-modal-close-x"
               >
                 <span
@@ -129560,6 +129583,7 @@ exports[`Locale Provider should display the text as hi 1`] = `
               type="button"
             >
               <span
+                aria-label="बंद"
                 class="ant-modal-close-x"
               >
                 <span
@@ -134881,6 +134905,7 @@ exports[`Locale Provider should display the text as hr 1`] = `
               type="button"
             >
               <span
+                aria-label="Zatvori"
                 class="ant-modal-close-x"
               >
                 <span
@@ -140202,6 +140227,7 @@ exports[`Locale Provider should display the text as hu 1`] = `
               type="button"
             >
               <span
+                aria-label="Bezárás"
                 class="ant-modal-close-x"
               >
                 <span
@@ -145523,6 +145549,7 @@ exports[`Locale Provider should display the text as hy-am 1`] = `
               type="button"
             >
               <span
+                aria-label="Դադարեցնել"
                 class="ant-modal-close-x"
               >
                 <span
@@ -150844,6 +150871,7 @@ exports[`Locale Provider should display the text as id 1`] = `
               type="button"
             >
               <span
+                aria-label="Tutup"
                 class="ant-modal-close-x"
               >
                 <span
@@ -156165,6 +156193,7 @@ exports[`Locale Provider should display the text as is 1`] = `
               type="button"
             >
               <span
+                aria-label="Loka"
                 class="ant-modal-close-x"
               >
                 <span
@@ -161486,6 +161515,7 @@ exports[`Locale Provider should display the text as it 1`] = `
               type="button"
             >
               <span
+                aria-label="Chiudi"
                 class="ant-modal-close-x"
               >
                 <span
@@ -166807,6 +166837,7 @@ exports[`Locale Provider should display the text as ja 1`] = `
               type="button"
             >
               <span
+                aria-label="閉じる"
                 class="ant-modal-close-x"
               >
                 <span
@@ -172128,6 +172159,7 @@ exports[`Locale Provider should display the text as ka 1`] = `
               type="button"
             >
               <span
+                aria-label="დახურვა"
                 class="ant-modal-close-x"
               >
                 <span
@@ -177449,6 +177481,7 @@ exports[`Locale Provider should display the text as kk 1`] = `
               type="button"
             >
               <span
+                aria-label="Жабу"
                 class="ant-modal-close-x"
               >
                 <span
@@ -182768,6 +182801,7 @@ exports[`Locale Provider should display the text as km 1`] = `
               type="button"
             >
               <span
+                aria-label="បិទ"
                 class="ant-modal-close-x"
               >
                 <span
@@ -188089,6 +188123,7 @@ exports[`Locale Provider should display the text as kn 1`] = `
               type="button"
             >
               <span
+                aria-label="ಮುಚ್ಚಿ"
                 class="ant-modal-close-x"
               >
                 <span
@@ -193410,6 +193445,7 @@ exports[`Locale Provider should display the text as ko 1`] = `
               type="button"
             >
               <span
+                aria-label="닫기"
                 class="ant-modal-close-x"
               >
                 <span
@@ -198731,6 +198767,7 @@ exports[`Locale Provider should display the text as ku 1`] = `
               type="button"
             >
               <span
+                aria-label="Betal ke"
                 class="ant-modal-close-x"
               >
                 <span
@@ -204052,6 +204089,7 @@ exports[`Locale Provider should display the text as ku-iq 1`] = `
               type="button"
             >
               <span
+                aria-label="Betal ke"
                 class="ant-modal-close-x"
               >
                 <span
@@ -209373,6 +209411,7 @@ exports[`Locale Provider should display the text as lt 1`] = `
               type="button"
             >
               <span
+                aria-label="Uždaryti"
                 class="ant-modal-close-x"
               >
                 <span
@@ -214694,6 +214733,7 @@ exports[`Locale Provider should display the text as lv 1`] = `
               type="button"
             >
               <span
+                aria-label="Aizvērt"
                 class="ant-modal-close-x"
               >
                 <span
@@ -220015,6 +220055,7 @@ exports[`Locale Provider should display the text as mk 1`] = `
               type="button"
             >
               <span
+                aria-label="Затвори"
                 class="ant-modal-close-x"
               >
                 <span
@@ -225336,6 +225377,7 @@ exports[`Locale Provider should display the text as ml 1`] = `
               type="button"
             >
               <span
+                aria-label="മുടക്കുക"
                 class="ant-modal-close-x"
               >
                 <span
@@ -230657,6 +230699,7 @@ exports[`Locale Provider should display the text as mn-mn 1`] = `
               type="button"
             >
               <span
+                aria-label="Хаах"
                 class="ant-modal-close-x"
               >
                 <span
@@ -235978,6 +236021,7 @@ exports[`Locale Provider should display the text as ms-my 1`] = `
               type="button"
             >
               <span
+                aria-label="Tutup"
                 class="ant-modal-close-x"
               >
                 <span
@@ -241299,6 +241343,7 @@ exports[`Locale Provider should display the text as my 1`] = `
               type="button"
             >
               <span
+                aria-label="ပိတ်ပါ"
                 class="ant-modal-close-x"
               >
                 <span
@@ -246620,6 +246665,7 @@ exports[`Locale Provider should display the text as nb 1`] = `
               type="button"
             >
               <span
+                aria-label="Lukk"
                 class="ant-modal-close-x"
               >
                 <span
@@ -251941,6 +251987,7 @@ exports[`Locale Provider should display the text as ne-np 1`] = `
               type="button"
             >
               <span
+                aria-label="बन्द"
                 class="ant-modal-close-x"
               >
                 <span
@@ -257262,6 +257309,7 @@ exports[`Locale Provider should display the text as nl 1`] = `
               type="button"
             >
               <span
+                aria-label="Sluiten"
                 class="ant-modal-close-x"
               >
                 <span
@@ -262583,6 +262631,7 @@ exports[`Locale Provider should display the text as nl-be 1`] = `
               type="button"
             >
               <span
+                aria-label="Sluiten"
                 class="ant-modal-close-x"
               >
                 <span
@@ -267904,6 +267953,7 @@ exports[`Locale Provider should display the text as pl 1`] = `
               type="button"
             >
               <span
+                aria-label="Zamknij"
                 class="ant-modal-close-x"
               >
                 <span
@@ -273225,6 +273275,7 @@ exports[`Locale Provider should display the text as pt 1`] = `
               type="button"
             >
               <span
+                aria-label="Fechar"
                 class="ant-modal-close-x"
               >
                 <span
@@ -278546,6 +278597,7 @@ exports[`Locale Provider should display the text as pt-br 1`] = `
               type="button"
             >
               <span
+                aria-label="Fechar"
                 class="ant-modal-close-x"
               >
                 <span
@@ -283867,6 +283919,7 @@ exports[`Locale Provider should display the text as ro 1`] = `
               type="button"
             >
               <span
+                aria-label="Închide"
                 class="ant-modal-close-x"
               >
                 <span
@@ -289188,6 +289241,7 @@ exports[`Locale Provider should display the text as ru 1`] = `
               type="button"
             >
               <span
+                aria-label="Закрыть"
                 class="ant-modal-close-x"
               >
                 <span
@@ -294509,6 +294563,7 @@ exports[`Locale Provider should display the text as si 1`] = `
               type="button"
             >
               <span
+                aria-label="වසන්න"
                 class="ant-modal-close-x"
               >
                 <span
@@ -299830,6 +299885,7 @@ exports[`Locale Provider should display the text as sk 1`] = `
               type="button"
             >
               <span
+                aria-label="Zavrieť"
                 class="ant-modal-close-x"
               >
                 <span
@@ -305151,6 +305207,7 @@ exports[`Locale Provider should display the text as sl 1`] = `
               type="button"
             >
               <span
+                aria-label="Zapri"
                 class="ant-modal-close-x"
               >
                 <span
@@ -310472,6 +310529,7 @@ exports[`Locale Provider should display the text as sr 1`] = `
               type="button"
             >
               <span
+                aria-label="Zatvori"
                 class="ant-modal-close-x"
               >
                 <span
@@ -315793,6 +315851,7 @@ exports[`Locale Provider should display the text as sv 1`] = `
               type="button"
             >
               <span
+                aria-label="Stäng"
                 class="ant-modal-close-x"
               >
                 <span
@@ -321114,6 +321173,7 @@ exports[`Locale Provider should display the text as ta 1`] = `
               type="button"
             >
               <span
+                aria-label="மூடு"
                 class="ant-modal-close-x"
               >
                 <span
@@ -326435,6 +326495,7 @@ exports[`Locale Provider should display the text as th 1`] = `
               type="button"
             >
               <span
+                aria-label="ปิด"
                 class="ant-modal-close-x"
               >
                 <span
@@ -331756,6 +331817,7 @@ exports[`Locale Provider should display the text as tk 1`] = `
               type="button"
             >
               <span
+                aria-label="Ýagty"
                 class="ant-modal-close-x"
               >
                 <span
@@ -337077,6 +337139,7 @@ exports[`Locale Provider should display the text as tr 1`] = `
               type="button"
             >
               <span
+                aria-label="Kapat"
                 class="ant-modal-close-x"
               >
                 <span
@@ -342398,6 +342461,7 @@ exports[`Locale Provider should display the text as uk 1`] = `
               type="button"
             >
               <span
+                aria-label="Закрити"
                 class="ant-modal-close-x"
               >
                 <span
@@ -347719,6 +347783,7 @@ exports[`Locale Provider should display the text as ur 1`] = `
               type="button"
             >
               <span
+                aria-label="بند کریں"
                 class="ant-modal-close-x"
               >
                 <span
@@ -353040,6 +353105,7 @@ exports[`Locale Provider should display the text as uz-latn 1`] = `
               type="button"
             >
               <span
+                aria-label="Yopish"
                 class="ant-modal-close-x"
               >
                 <span
@@ -358361,6 +358427,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
               type="button"
             >
               <span
+                aria-label="Đóng"
                 class="ant-modal-close-x"
               >
                 <span
@@ -363682,6 +363749,7 @@ exports[`Locale Provider should display the text as zh-cn 1`] = `
               type="button"
             >
               <span
+                aria-label="关闭"
                 class="ant-modal-close-x"
               >
                 <span
@@ -369003,6 +369071,7 @@ exports[`Locale Provider should display the text as zh-hk 1`] = `
               type="button"
             >
               <span
+                aria-label="關閉"
                 class="ant-modal-close-x"
               >
                 <span
@@ -374324,6 +374393,7 @@ exports[`Locale Provider should display the text as zh-tw 1`] = `
               type="button"
             >
               <span
+                aria-label="關閉"
                 class="ant-modal-close-x"
               >
                 <span
