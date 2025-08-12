@@ -353520,7 +353520,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                     tabindex="-1"
                     type="button"
                   >
-                    Th09
+                    Th 09
                   </button>
                   <button
                     aria-label="Chọn năm"
@@ -355745,7 +355745,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        Th09
+                        Th 09
                       </button>
                       <button
                         aria-label="Chọn năm"
@@ -356289,7 +356289,7 @@ exports[`Locale Provider should display the text as vi 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        Th10
+                        Th 10
                       </button>
                       <button
                         aria-label="Chọn năm"
@@ -357402,9 +357402,9 @@ exports[`Locale Provider should display the text as vi 1`] = `
             </span>
             <span
               class="ant-select-selection-item"
-              title="Th09"
+              title="Th 09"
             >
-              Th09
+              Th 09
             </span>
           </span>
         </div>
