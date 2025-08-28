@@ -108710,7 +108710,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
                     tabindex="-1"
                     type="button"
                   >
-                    Meán
+                    MFómh
                   </button>
                   <button
                     aria-label="Roghnaigh bliain"
@@ -108757,13 +108757,13 @@ exports[`Locale Provider should display the text as ga 1`] = `
                         Má
                       </th>
                       <th>
-                        Ce
+                        Cé
                       </th>
                       <th>
                         Dé
                       </th>
                       <th>
-                        hA
+                        Ao
                       </th>
                       <th>
                         Sa
@@ -110935,7 +110935,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        Meán
+                        MFómh
                       </button>
                       <button
                         aria-label="Roghnaigh bliain"
@@ -110984,13 +110984,13 @@ exports[`Locale Provider should display the text as ga 1`] = `
                             Má
                           </th>
                           <th>
-                            Ce
+                            Cé
                           </th>
                           <th>
                             Dé
                           </th>
                           <th>
-                            hA
+                            Ao
                           </th>
                           <th>
                             Sa
@@ -111479,7 +111479,7 @@ exports[`Locale Provider should display the text as ga 1`] = `
                         tabindex="-1"
                         type="button"
                       >
-                        Deai
+                        DFómh
                       </button>
                       <button
                         aria-label="Roghnaigh bliain"
@@ -111526,13 +111526,13 @@ exports[`Locale Provider should display the text as ga 1`] = `
                             Má
                           </th>
                           <th>
-                            Ce
+                            Cé
                           </th>
                           <th>
                             Dé
                           </th>
                           <th>
-                            hA
+                            Ao
                           </th>
                           <th>
                             Sa
@@ -112592,9 +112592,9 @@ exports[`Locale Provider should display the text as ga 1`] = `
             </span>
             <span
               class="ant-select-selection-item"
-              title="Meán"
+              title="MFómh"
             >
-              Meán
+              MFómh
             </span>
           </span>
         </div>
@@ -112697,13 +112697,13 @@ exports[`Locale Provider should display the text as ga 1`] = `
                   Má
                 </th>
                 <th>
-                  Ce
+                  Cé
                 </th>
                 <th>
                   Dé
                 </th>
                 <th>
-                  hA
+                  Ao
                 </th>
                 <th>
                   Sa
